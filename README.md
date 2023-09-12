@@ -18,27 +18,32 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 arxiv2023. [[PDF](https://arxiv.org/abs/2302.05872)] [[Project](https://i2sb.github.io/)] [[Github](https://github.com/NVlabs/I2SB)]
 
 **ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation.**<br>
-*Yupei Lin, Sen Zhang, Xiaojun Yang, Xiao Wang, Yukai Shi.*<br>
+*Yupei Lin, Sen Zhang, Xiaojun Yang, Xiao Wang and Yukai Shi.*<br>
 arxiv2023. [[PDF](http://arxiv.org/abs/2305.04651v1)] [[Project](https://yupeilin2388.github.io/publication/ReDiffuser)] 
 
 **DiffI2I: Efficient Diffusion Model for Image-to-Image Translation.**<br>
-*Bin Xia, Yulun Zhang, Shiyin Wang, Yitong Wang, Xinglong Wu, Yapeng Tian, Wenming Yang, Radu Timotfe, Luc Van Gool.*<br>
+*Bin Xia, Yulun Zhang, Shiyin Wang, Yitong Wang, Xinglong Wu, Yapeng Tian, Wenming Yang, Radu Timotfe and Luc Van Gool.*<br>
 arxiv2023. [[PDF](http://arxiv.org/abs/2308.13767v1)]
 
 **Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer.**<br>
+*Serin Yang, Hyunmin Hwang and Jong Chul Ye.*<br>
 arxiv2023. [[PDF](https://arxiv.org/abs/2303.08622)]  [[Github](https://github.com/ouhenio/text-guided-diffusion-style-transfer)] 
 
 **PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud.**<br>
+*Chengyu Wang, Zhongjie Duan, Bingyan Liu, Xinyi Zou, Cen Chen, Kui Jia and Jun Huang.*<br>
 arxiv2023. [[PDF](https://arxiv.org/abs/2309.05534)] 
 
 **ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer.**<br>
-arxiv2023. [[PDF](https://arxiv.org/pdf/2308.15459.pdf)] 
+*Zachary Horvitz, Ajay Patel, Chris Callison-Burch, Zhou Yu and Kathleen McKeown.*<br>
+arxiv2023. [[PDF](https://arxiv.org/abs/2308.15459)] 
 
 **StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models.**<br>
-arxiv2023. [[PDF](https://arxiv.org/pdf/2308.07863.pdf)]
+*Zhizhong Wang, Lei Zhao and Wei Xing.*<br>
+arxiv2023. [[PDF](https://arxiv.org/abs/2308.07863)]
 
 **DIFF-NST: Diffusion Interleaving For deFormable Neural Style Transfer.**<br>
-arxiv2023. [[PDF](https://arxiv.org/pdf/2307.04157.pdf)]
+*Dar-Yen Chen.*<br>
+arxiv2023. [[PDF](https://arxiv.org/abs/2307.04157)]
 
 **ArtFusion: Controllable Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models.**<br>
 arxiv2023. [[PDF](https://arxiv.org/pdf/2306.09330.pdf)]
