@@ -250,6 +250,11 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2211.12572)] <br>
 CVPR 2023. [[PDF](https://arxiv.org/abs/2211.12500)] <br>
 [[Github](https://github.com/ankanbhunia/PIDM)]
 
+**Diffstyler: Controllable dual diffusion for text-driven image stylization** <br>
+*Nisha Huang, Yuxin Zhang, Fan Tang, Chongyang Ma, Haibin Huang, Yong Zhang Weiming Dong, Changsheng Xu.* <br>
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.10682)] <br>
+[[Github](https://github.com/haha-lisa/Diffstyler.git)]
+
 **DiffGAR: Model-Agnostic Restoration from Generative Artifacts Using Image-to-Image Diffusion Models** <br>
 *Yueqin Yin, Lianghua Huang, Yu Liu, Kaiqi Huang.* <br>
 arXiv 2022. [[PDF](https://arxiv.org/abs/2210.08573)]
