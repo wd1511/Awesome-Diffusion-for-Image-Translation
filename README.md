@@ -238,6 +238,11 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2302.05872)] <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2301.13743)] 
 
 
+**InstructPix2Pix: Learning to Follow Image Editing Instructions** <br>
+*Tim Brooks, Aleksander Holynski, Alexei A. Efros.*   <br>
+CVPR 2023. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.pdf)] [[GitHub](https://github.com/timothybrooks/instruct-pix2pix)]
+
+
 ## 2022
 
 **DiffFace: Diffusion-based Face Swapping with Facial Guidance** <br>
