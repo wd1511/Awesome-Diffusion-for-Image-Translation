@@ -20,9 +20,24 @@ python download.py
 
 ## 2023
 
+**Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models** <br>
+*Feihong He, Gang Li, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei Dong, Fanzhang Li.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2309.08251)] <br>
+[[Project](https://cartoondiff.github.io)]
+
+**DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** <br>
+*Namhyuk Ahn, Junsoo Lee, Chunggi Lee, Kunhee Kim, Daesik Kim, Seung-Hun Nam, Kibeom Hong.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2309.06933)] <br>
+[[Project](https://nmhkahn.github.io/dreamstyler/)] [[Github](https://github.com/nmhkahn/dreamstyler)]
+
 **PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**<br>
 *Chengyu Wang, Zhongjie Duan, Bingyan Liu, Xinyi Zou, Cen Chen, Kui Jia, Jun Huang.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2309.05534)] 
+
+**Create Your World: Lifelong Text-to-Image
+Diffusion** <br>
+*Gan Sun, Wenqi Liang, Jiahua Dong, Jun Li, Zhengming Ding, Yang Cong.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2309.04430)]
 
 **Latent Painter** <br>
 *Shih-Chieh Su.* <br>
