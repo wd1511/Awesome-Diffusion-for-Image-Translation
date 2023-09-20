@@ -323,7 +323,7 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2206.07771)] <br>
 
 **Pretraining is All You Need for Image-to-Image Translation** <br>
 *Tengfei Wang, Ting Zhang, Bo Zhang, Hao Ouyang, Dong Chen, Qifeng Chen, Fang Wen.* <br>
-arXiv 2022. [[Paper](https://arxiv.org/abs/2205.12952)] <br>
+arXiv 2022. [[PDF](https://arxiv.org/abs/2205.12952)] <br>
 [[Project](https://tengfei-wang.github.io/PITI/index.html)] [[Github](https://github.com/PITI-Synthesis/PITI)]
 
 **BBDM: Image-to-image Translation with Brownian Bridge Diffusion Models** <br>
