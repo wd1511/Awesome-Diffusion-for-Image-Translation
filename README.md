@@ -20,6 +20,10 @@ python download.py
 
 ## 2023
 
+**Multiple Noises in Diffusion Model for Semi-Supervised Multi-Domain Translation** <br>
+*Tsiry Mayet, Simon Bernard, Clement Chatelain, Romain Herault.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2309.14394)]
+
 **Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models** <br>
 *Feihong He, Gang Li, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei Dong, Fanzhang Li.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2309.08251)] <br>
