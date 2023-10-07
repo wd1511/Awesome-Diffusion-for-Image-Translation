@@ -19,6 +19,17 @@ python download.py
 
 
 ## 2023
+**MedPrompt: Cross-Modal Prompting for Multi-Task Medical Image Translation** <br>
+*Xuhang Chen, Chi-Man Pun, Shuqiang Wang.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2310.02663)]
+
+**Steered Diffusion: A Generalized Framework for Plug-and-Play Conditional Image Synthesis** <br>
+*Nithin Gopalakrishnan Nair, Anoop Cherian, Suhas Lohit, Ye Wang, Toshiaki Koike-Akino, Vishal M. Patel, Tim K. Marks.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2310.00224)]
+
+**Denoising Diffusion Bridge Models** <br>
+*Linqi Zhou, Aaron Lou, Samar Khanna, Stefano Ermon.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2309.16948)]
 
 **Multiple Noises in Diffusion Model for Semi-Supervised Multi-Domain Translation** <br>
 *Tsiry Mayet, Simon Bernard, Clement Chatelain, Romain Herault.* <br>
