@@ -1,5 +1,7 @@
 # Diffusion for Image-to-Image Translation
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wd1511/Awesome-Diffusion-for-Image-Translation) 
+
 ```Latex
 **Here is the Paper Name**<br>
 *[Author 1](homepage), Author 2, and Author 3.*<br>
