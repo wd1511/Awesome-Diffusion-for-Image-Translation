@@ -51,8 +51,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2309.06933)] <br>
 *Chengyu Wang, Zhongjie Duan, Bingyan Liu, Xinyi Zou, Cen Chen, Kui Jia, Jun Huang.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2309.05534)] 
 
-**Create Your World: Lifelong Text-to-Image
-Diffusion** <br>
+**Create Your World: Lifelong Text-to-Image Diffusion** <br>
 *Gan Sun, Wenqi Liang, Jiahua Dong, Jun Li, Zhengming Ding, Yang Cong.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2309.04430)]
 
