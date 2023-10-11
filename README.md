@@ -18,6 +18,7 @@ python download.py
 - [2023](#2023)
 - [2022](#2022)
 - [2021](#2021)
+- [Dataset](#dataset)
 
 
 ## 2023
@@ -220,6 +221,11 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2304.03199)]
 *Kangyeol Kim, Sunghyun Park, Junsoo Lee, Jaegul Choo.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2304.09748)]
 
+**StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** <br>
+*Senmao Li, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.15649)] <br>
+[[Github](https://github.com/sen-mao/StyleDiffusion)]
+
 **Training-free Style Transfer Emerges from h-space in Diffusion models** <br>
 *Jaeseok Jeong, Mingi Kwon, Youngjung Uh.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2303.15403)] <br>
@@ -399,3 +405,7 @@ arXiv 2021. [[PDF](https://arxiv.org/abs/2104.05358)] <br>
 [[Github](https://github.com/konkuad/UNIT-DDPM-Unofficial)]
 
 
+
+## Dataset
+
+https://www.kaggle.com/competitions/painter-by-numbers/
