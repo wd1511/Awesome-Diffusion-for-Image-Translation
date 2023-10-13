@@ -161,6 +161,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2306.04396)]
 *Wenhao Guan, Tao Li, Yishuang Li, Hukai Huang, Qingyang Hong, Lin Li.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2306.04301)]
 
+**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** <br>
+*Omer Bar-Tal, Lior Yariv, Yaron Lipman, Tali Dekel.* <br>
+ICML 2023.[[PDF](https://openreview.net/pdf?id=D4ajVWmgLB)]
+
 **Fine-grained Text Style Transfer with Diffusion-Based Language Models** <br>
 *Yiwei Lyu, Tiange Luo, Jiacheng Shi, Todd C. Hollon, Honglak Lee.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2305.19512)]
@@ -221,6 +225,11 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2304.03199)]
 *Kangyeol Kim, Sunghyun Park, Junsoo Lee, Jaegul Choo.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2304.09748)]
 
+**PAIR-Diffusion: A Comprehensive Multimodal Object-Level Image Editor** <br>
+*Vidit Goel, Elia Peruzzo, Yifan Jiang, Dejia Xu, Xingqian Xu, Nicu Sebe, Trevor Darrell, Zhangyang Wang, Humphrey Shi.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.17546)] <br>
+[[Github](https://github.com/Picsart-AI-Research/PAIR-Diffusion)]
+
 **StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** <br>
 *Senmao Li, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2303.15649)] <br>
@@ -267,6 +276,10 @@ CVPR 2023. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Brooks_I
 
 ## 2022
 
+**EDICT: Exact Diffusion Inversion via Coupled Transformations** <br>
+*Bram Wallace, Akash Gokul, Nikhil Naik.* <br>
+CVPR 2023. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wallace_EDICT_Exact_Diffusion_Inversion_via_Coupled_Transformations_CVPR_2023_paper.pdf)]
+
 **DiffFace: Diffusion-based Face Swapping with Facial Guidance** <br>
 *Kihong Kim, Yunho Kim, Seokju Cho, Junyoung Seo, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee.* <br>
 arXiv 2022. [[PDF](https://arxiv.org/abs/2212.13344)] <br>
@@ -276,6 +289,11 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2212.13344)] <br>
 *Qinghe Wang, Lijie Liu, Miao Hua, Qian He, Pengfei Zhu, Bing Cao, Qinghua Hu.* <br>
 arXiv 2022. [[PDF](https://arxiv.org/abs/2212.06458)] <br>
 [[Github](https://github.com/qinghew/HS-Diffusion)]
+
+**High-Fidelity Guided Image Synthesis with Latent Diffusion Models** <br>
+*Jaskirat Singh, Stephen Gould, Liang Zheng.* <br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.17084)] <br>
+[[Github](https://1jsingh.github.io/gradop)]
 
 **Inversion-Based Creativity Transfer with Diffusion Models** <br>
 *Yuxin Zhang, Nisha Huang, Fan Tang, Haibin Huang, Chongyang Ma, Weiming Dong, Changsheng Xu.* <br>
