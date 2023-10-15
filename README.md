@@ -56,6 +56,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2309.05534)]
 *Gan Sun, Wenqi Liang, Jiahua Dong, Jun Li, Zhengming Ding, Yang Cong.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2309.04430)]
 
+**StyleAdapter: A Single-Pass LoRA-Free Model for Stylized Image Generation** <br>
+*Zhouxia Wang, Xintao Wang, Liangbin Xie, Zhongang Qi, Ying Shan, Wenping Wang, Ping Luo.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2309.01770)]
+
 **Latent Painter** <br>
 *Shih-Chieh Su.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2308.16490)] <br>
@@ -67,6 +71,11 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2308.15459)]
 **Zero-shot Inversion Process for Image Attribute Editing with Diffusion Models** <br>
 *Zhanbo Feng, Zenan Ling, Ci Gong, Feng Zhou, Jie Li, Robert C. Qiu.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2308.15854)] 
+
+**Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization** <br>
+*Tao Yang, Peiran Ren, Xuansong Xie, Lei Zhang.* <br>
+arXiv 2023.[[PDF](https://arxiv.org/abs/2308.14469)] <br>
+[[Github](https://github.com/yangxy/PASD)]
 
 **DiffI2I: Efficient Diffusion Model for Image-to-Image Translation**<br>
 *Bin Xia, Yulun Zhang, Shiyin Wang, Yitong Wang, Xinglong Wu, Yapeng Tian, Wenming Yang, Radu Timotfe, Luc Van Gool.* <br>
@@ -189,6 +198,11 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.18286)] <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2305.16289)] <br>
 [[Github](https://github.com/lisadunlap/ALIA)]
 
+**ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** <br>
+*Yuxin Zhang, Weiming Dong, Fan Tang, Nisha Huang, Haibin Huang, Chongyang Ma, Tong-Yee Lee, Oliver Deussen, Changsheng Xu.* <br>
+arXiv 2023. [[PDF]https://arxiv.org/abs/2305.16225)] <br>
+[[Github](https://github.com/zyxElsa/ProSpect)]
+
 **Unpaired Image-to-Image Translation via Neural Schrödinger Bridge** <br>
 *Beomsu Kim, Gihyun Kwon, Kwanyoung Kim, Jong Chul Ye.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2305.15086)] <br>
@@ -220,6 +234,11 @@ CVPR 2023. [[PDF](https://arxiv.org/abs/2304.06711)] <br>
 **Face Animation with an Attribute-Guided Diffusion Model** <br>
 *Bohan Zeng, Xuhui Liu, Sicheng Gao, Boyu Liu, Hong Li, Jianzhuang Liu, Baochang Zhang.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2304.03199)]
+
+**General Image-to-Image Translation with One-Shot Image Guidance** <br>
+*Bin Cheng, Zuhao Liu, Yunbo Peng, Yue Lin.* <br>
+ICCV 2023. [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cheng_General_Image-to-Image_Translation_with_One-Shot_Image_Guidance_ICCV_2023_paper.pdf)]
+
 
 **Reference-based Image Composition with Sketch via Structure-aware Diffusion Model** <br>
 *Kangyeol Kim, Sunghyun Park, Junsoo Lee, Jaegul Choo.* <br>
@@ -332,6 +351,10 @@ BMVC 2022. [[PDF](https://arxiv.org/abs/2210.01713)]
 *Gihyun Kwon, Jong Chul Ye.* <br>
 ICLR 2023. [[PDF](https://arxiv.org/abs/2209.15264)] <br>
 [[Project](https://pnp-diffusion.github.io)] [[Github](https://github.com/anon294384/DiffuseIT)]
+
+**Draw Your Art Dream: Diverse Digital Art Synthesis with Multimodal Guided Diffusion** <br>
+*Nisha Huang, Fan Tang, Weiming Dong, Changsheng Xu.* <br>
+arXiv 2022. [[PDF](https://arxiv.org/abs/2209.13360)]
 
 **MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation** <br>
 *Junyoung Seo, Gyuseong Lee, Seokju Cho, Jiyoung Lee, Seungryong Kim.* <br>
