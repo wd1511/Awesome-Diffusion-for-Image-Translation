@@ -22,6 +22,10 @@ python download.py
 
 
 ## 2023
+**ycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation** <br>
+*Sihan Xu, Ziqiao Ma, Yidong Huang, Honglak Lee, Joyce Chai.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2310.13165)]
+
 **MedPrompt: Cross-Modal Prompting for Multi-Task Medical Image Translation** <br>
 *Xuhang Chen, Chi-Man Pun, Shuqiang Wang.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2310.02663)]
@@ -80,6 +84,10 @@ arXiv 2023.[[PDF](https://arxiv.org/abs/2308.14469)] <br>
 **DiffI2I: Efficient Diffusion Model for Image-to-Image Translation**<br>
 *Bin Xia, Yulun Zhang, Shiyin Wang, Yitong Wang, Xinglong Wu, Yapeng Tian, Wenming Yang, Radu Timotfe, Luc Van Gool.* <br>
 arXiv 2023. [[PDF](http://arxiv.org/abs/2308.13767v1)]
+
+**Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation**<br>
+*Duo Peng, Ping Hu, Qiuhong Ke, Jun Liu.* <br>
+ICCV 2023. [[PDF](https://arxiv.org/abs/2308.12350)]
 
 **SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-Image Generation** <br>
 *Chengyou Jia, Minnan Luo, Zhuohang Dang, Guang Dai, Xiaojun Chang, Mengmeng Wang, Jingdong Wang.* <br>
