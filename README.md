@@ -22,9 +22,34 @@ python download.py
 
 
 ## 2023
+
+**Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention** <br>
+*Jianjin Xu, Saman Motamed, Praneetha Vaddamanu, Chen Henry Wu, Christian Haene, Jean-Charles Bazin, Fernando de la Torre.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.03556)]
+
+**Open-DDVM: A Reproduction and Extension of Diffusion Model for Optical Flow Estimation** <br>
+*Qiaole Dong, Bo Zhao, Yanwei Fu.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.01746)]
+
+**S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion** <br>
+*Or Greenberg, Eran Kishon, Dani Lischinski.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.00116)]
+
+**Z\*: Zero-shot Style Transfer via Attention Rearrangement** <br>
+*Yingying Deng, Xiangyu He, Fan Tang, Weiming Dong.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2311.16491)]
+
+**ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors** <br>
+*Jingwen Chen, Yingwei Pan, Ting Yao, Tao Mei.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2311.05463)]
+
 **ycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation** <br>
 *Sihan Xu, Ziqiao Ma, Yidong Huang, Honglak Lee, Joyce Chai.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2310.13165)]
+
+**Latent Diffusion Counterfactual Explanations** <br>
+*Karim Farid, Simon Schrodi, Max Argus, Thomas Brox.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2310.06668)] 
 
 **MedPrompt: Cross-Modal Prompting for Multi-Task Medical Image Translation** <br>
 *Xuhang Chen, Chi-Man Pun, Shuqiang Wang.* <br>
@@ -59,6 +84,10 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2309.05534)]
 **Create Your World: Lifelong Text-to-Image Diffusion** <br>
 *Gan Sun, Wenqi Liang, Jiahua Dong, Jun Li, Zhengming Ding, Yang Cong.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2309.04430)]
+
+**Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption** <br>
+*Teng Hu, Jiangning Zhang, Liang Liu, Ran Yi, Siqi Kou, Haokun Zhu, Xu Chen, Yabiao Wang, Chengjie Wang, Lizhuang Ma.* <br>
+ICCV 2023. [[PDF](https://arxiv.org/abs/2309.03729)]
 
 **StyleAdapter: A Single-Pass LoRA-Free Model for Stylized Image Generation** <br>
 *Zhouxia Wang, Xintao Wang, Liangbin Xie, Zhongang Qi, Ying Shan, Wenping Wang, Ping Luo.* <br>
