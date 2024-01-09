@@ -14,14 +14,27 @@ Download all PDF files
 python download.py
 ```
 
-
+- [2024](#2024)
 - [2023](#2023)
 - [2022](#2022)
 - [2021](#2021)
 - [Dataset](#dataset)
 
+## 2024
+
+**MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond** <br>
+*Yupei Lin, Xiaoyu Xian, Yukai Shi, Liang Lin.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2401.03221)]
 
 ## 2023
+
+**Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer** <br>
+*Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.09008)]
+
+**Diffusion Cocktail: Fused Generation from Diffusion Models** <br>
+*Haoming Liu, Yuanhe Guo, Shengjie Wang, Hongyi Wen.* <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08873)]
 
 **Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention** <br>
 *Jianjin Xu, Saman Motamed, Praneetha Vaddamanu, Chen Henry Wu, Christian Haene, Jean-Charles Bazin, Fernando de la Torre.* <br>
