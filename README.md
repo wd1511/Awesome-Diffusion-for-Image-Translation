@@ -22,6 +22,10 @@ python download.py
 
 ## 2024
 
+**HiCAST: Highly Customized Arbitrary Style Transfer with Adapter Enhanced Diffusion Models** <br>
+*Hanzhang Wang, Haoran Wang, Jinze Yang, Zhongrui Yu, Zeke Xie, Lei Tian, Xinyan Xiao, Junjun Jiang, Xianming Liu, Mingming Sun.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
+
 **MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond** <br>
 *Yupei Lin, Xiaoyu Xian, Yukai Shi, Liang Lin.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.03221)]
