@@ -22,13 +22,17 @@ python download.py
 
 ## 2024
 
-**Image Translation as Diffusion Visual Programmers** <br>
-*Cheng Han, James C. Liang, Qifan Wang, Majid Rabbani, Sohail Dianat, Raghuveer Rao, Ying Nian Wu, Dongfang Liu.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2401.09742)]
-
 **HiCAST: Highly Customized Arbitrary Style Transfer with Adapter Enhanced Diffusion Models** <br>
 *Hanzhang Wang, Haoran Wang, Jinze Yang, Zhongrui Yu, Zeke Xie, Lei Tian, Xinyan Xiao, Junjun Jiang, Xianming Liu, Mingming Sun.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
+
+**Artfusion: A Diffusion Model-Based Style Synthesis Framework for Portraits** <br>
+*Hyemin Yang, Heekyung Yang, Kyungha Min.* <br>
+Electronics 2024. [[Paper](https://www.mdpi.com/2079-9292/13/3/509)]
+
+**Image Translation as Diffusion Visual Programmers** <br>
+*Cheng Han, James C. Liang, Qifan Wang, Majid Rabbani, Sohail Dianat, Raghuveer Rao, Ying Nian Wu, Dongfang Liu.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2401.09742)]
 
 **MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond** <br>
 *Yupei Lin, Xiaoyu Xian, Yukai Shi, Liang Lin.* <br>
