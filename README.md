@@ -38,6 +38,14 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2401.09742)]
 *Yupei Lin, Xiaoyu Xian, Yukai Shi, Liang Lin.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.03221)]
 
+**UNLEARNCANVAS: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models** <br>
+*Yihua Zhang, Yimeng Zhang, Yuguang Yao, Jinghan Jia, Jiancheng Liu, Xiaoming Liu, Sijia Liu.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2402.11846)]
+
+**One-Shot Structure-Aware Stylized Image Synthesis**
+*Hansam Cho, Jonghyun Lee, Seunggyu Chang, Yonghyun Jeong.* <br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2402.17275v1)]
+
 ## 2023
 
 **Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer** <br>
