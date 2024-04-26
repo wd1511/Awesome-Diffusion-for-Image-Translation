@@ -13,12 +13,25 @@ Download all PDF files
 ```
 python download.py
 ```
-
+- [Dataset](#dataset)
 - [2024](#2024)
 - [2023](#2023)
 - [2022](#2022)
 - [2021](#2021)
-- [Dataset](#dataset)
+
+## Dataset
+
+### Game Dataset
+
+GTA5 : [[Download](https://download.visinf.tu-darmstadt.de/data/from_games/index.html)], Viper : [[Download](https://playing-for-benchmarks.org)] <br>
+
+### Painter Dataset
+
+Wiki-Art : [[Download](https://www.kaggle.com/competitions/painter-by-numbers/)] <br>
+
+### Real Dataset
+
+Cityscapes : [[Download](https://www.cityscapes-dataset.com/downloads/)], BDD100K : [[Download](https://bdd-data.berkeley.edu)] <br>
 
 ## 2024
 
@@ -522,20 +535,3 @@ ICCV 2021 (Oral). [[PDF](https://arxiv.org/abs/2108.02938)] <br>
 *Hiroshi Sasaki, Chris G. Willcocks, Toby P. Breckon.* <br>
 arXiv 2021. [[PDF](https://arxiv.org/abs/2104.05358)] <br>
 [[Github](https://github.com/konkuad/UNIT-DDPM-Unofficial)]
-
-## Dataset
-
-### Game Dataset
-
-GTA5 : [[Download](https://download.visinf.tu-darmstadt.de/data/from_games/index.html)] <br>
-Viper : [[Download](https://playing-for-benchmarks.org)] <br>
-
-### Painter Dataset
-
-Wiki-Art : [[Download](https://www.kaggle.com/competitions/painter-by-numbers/)] <br>
-
-### Real Dataset
-
-Cityscapes : [[Download](https://www.cityscapes-dataset.com/downloads/)] <br>
-
-BDD100K : [[Download](https://bdd-data.berkeley.edu)] <br>
