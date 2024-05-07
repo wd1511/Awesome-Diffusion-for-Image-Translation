@@ -39,17 +39,21 @@ Cityscapes : [[Download](https://www.cityscapes-dataset.com/downloads/)], BDD100
 *Hanzhang Wang, Haoran Wang, Jinze Yang, Zhongrui Yu, Zeke Xie, Lei Tian, Xinyan Xiao, Junjun Jiang, Xianming Liu, Mingming Sun.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 
-**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt** <br>
-*Zhanjie Zhang, Quanwei Zhang, Huaizhong Lin, Wei Xing, Juncheng Mo, Shuaicheng Huang, Jinheng Xie, Guangyuan Li, Junsheng Luan, Lei Zhao, Dalong Zhang, Lixia Chen.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11474)]
+**F2FLDM: Latent Diffusion Models with Histopathology Pre-Trained Embeddings for Unpaired Frozen Section to FFPE Translation** <br>
+*Man M. Ho, Shikha Dubey, Yosep Chong, Beatrice Knudsen, Tolga Tasdizen.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.12650)]
+
+**UNLEARNCANVAS: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models** <br>
+*Yihua Zhang, Yimeng Zhang, Yuguang Yao, Jinghan Jia, Jiancheng Liu, Xiaoming Liu, Sijia Liu.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2402.11846)]
+
+**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models** <br>
+*Rahul Sajnani, Jeroen Vanbaar, Jie Min, Kapil Katyal, Srinath Sridhar.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.14403)]
 
 **Optical Image-to-Image Translation Using Denoising Diffusion Models: Heterogeneous Change Detection as a Use Case** <br>
 *Joao Gabriel Vinholi, Marco Chini, Anis Amziane, Renato Machado, Danilo Silva, Patrick Matgen.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11243)]
-
-**Artfusion: A Diffusion Model-Based Style Synthesis Framework for Portraits** <br>
-*Hyemin Yang, Heekyung Yang, Kyungha Min.* <br>
-Electronics 2024. [[Paper](https://www.mdpi.com/2079-9292/13/3/509)]
 
 **Image Translation as Diffusion Visual Programmers** <br>
 *Cheng Han, James C. Liang, Qifan Wang, Majid Rabbani, Sohail Dianat, Raghuveer Rao, Ying Nian Wu, Dongfang Liu.* <br>
@@ -59,13 +63,17 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2401.09742)]
 *Yupei Lin, Xiaoyu Xian, Yukai Shi, Liang Lin.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.03221)]
 
-**UNLEARNCANVAS: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models** <br>
-*Yihua Zhang, Yimeng Zhang, Yuguang Yao, Jinghan Jia, Jiancheng Liu, Xiaoming Liu, Sijia Liu.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2402.11846)]
-
 **One-Shot Structure-Aware Stylized Image Synthesis**
 *Hansam Cho, Jonghyun Lee, Seunggyu Chang, Yonghyun Jeong.* <br>
 CVPR 2024. [[PDF](https://arxiv.org/abs/2402.17275v1)]
+
+**Artfusion: A Diffusion Model-Based Style Synthesis Framework for Portraits** <br>
+*Hyemin Yang, Heekyung Yang, Kyungha Min.* <br>
+Electronics 2024. [[Paper](https://www.mdpi.com/2079-9292/13/3/509)]
+
+**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt** <br>
+*Zhanjie Zhang, Quanwei Zhang, Huaizhong Lin, Wei Xing, Juncheng Mo, Shuaicheng Huang, Jinheng Xie, Guangyuan Li, Junsheng Luan, Lei Zhao, Dalong Zhang, Lixia Chen.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11474)]
 
 ## 2023
 
