@@ -75,6 +75,18 @@ Electronics 2024. [[Paper](https://www.mdpi.com/2079-9292/13/3/509)]
 *Zhanjie Zhang, Quanwei Zhang, Huaizhong Lin, Wei Xing, Juncheng Mo, Shuaicheng Huang, Jinheng Xie, Guangyuan Li, Junsheng Luan, Lei Zhao, Dalong Zhang, Lixia Chen.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11474)]
 
+**Diffusion Bridge Implicit Models** <br>
+*Kaiwen Zheng, Guande He, Jianfei Chen, Fan Bao, Jun Zhu.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.15885)]
+
+**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** <br>
+*Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao.* <br>
+arXiv 2024, [[PDF](https://arxiv.org/abs/2405.14802)]
+
+**Self-Consistent Recursive Diffusion Bridge for Medical Image Translation** <br>
+*Self-Consistent Recursive Diffusion Bridge for Medical Image Translation.* <br>
+arXiv 2024, [[PDF](https://arxiv.org/abs/2405.06789)]
+
 ## 2023
 
 **Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer** <br>
