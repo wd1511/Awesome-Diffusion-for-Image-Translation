@@ -35,78 +35,103 @@ Cityscapes : [[Download](https://www.cityscapes-dataset.com/downloads/)], BDD100
 
 ## 2024
 
+**InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation** <br>
+*Haofan Wang, Peng Xing, Renyuan Huang, Hao Ai, Qixun Wang, Xu Bai.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.00788)] <br>
+[[Project](instantstyle-plus.github.io)] <br>
+
 **F2FLDM: Latent Diffusion Models with Histopathology Pre-Trained Embeddings for Unpaired Frozen Section to FFPE Translation** <br>
 *Man M. Ho, Shikha Dubey, Yosep Chong, Beatrice Knudsen, Tolga Tasdizen.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.12650)] <br>
-[[Github](https://github.com/minhmanho/f2f_ldm)]
+[[Github](https://github.com/minhmanho/f2f_ldm)] <br>
 
 **UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models** <br>
 *Yihua Zhang, Yimeng Zhang, Yuguang Yao, Jinghan Jia, Jiancheng Liu, Xiaoming Liu, Sijia Liu.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2402.11846)] <br>
-[[Github](https://github.com/OPTML-Group/UnlearnCanvas)]
+[[Github](https://github.com/OPTML-Group/UnlearnCanvas)] <br>
 
 **HiCAST: Highly Customized Arbitrary Style Transfer with Adapter Enhanced Diffusion Models** <br>
 *Hanzhang Wang, Haoran Wang, Jinze Yang, Zhongrui Yu, Zeke Xie, Lei Tian, Xinyan Xiao, Junjun Jiang, Xianming Liu, Mingming Sun.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)] <br>
-[[Github](https://github.com/wd1511/HiCAST)]
-
-**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models** <br>
-*Rahul Sajnani, Jeroen Vanbaar, Jie Min, Kapil Katyal, Srinath Sridhar.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2404.14403)]
-
-**Optical Image-to-Image Translation Using Denoising Diffusion Models: Heterogeneous Change Detection as a Use Case** <br>
-*Joao Gabriel Vinholi, Marco Chini, Anis Amziane, Renato Machado, Danilo Silva, Patrick Matgen.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11243)]
-
-**Image Translation as Diffusion Visual Programmers** <br>
-*Cheng Han, James C. Liang, Qifan Wang, Majid Rabbani, Sohail Dianat, Raghuveer Rao, Ying Nian Wu, Dongfang Liu.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2401.09742)]
-
-**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt** <br>
-*Zhanjie Zhang, Quanwei Zhang, Huaizhong Lin, Wei Xing, Juncheng Mo, Shuaicheng Huang, Jinheng Xie, Guangyuan Li, Junsheng Luan, Lei Zhao, Dalong Zhang, Lixia Chen.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11474)]
-
-**Diffusion Bridge Implicit Models** <br>
-*Kaiwen Zheng, Guande He, Jianfei Chen, Fan Bao, Jun Zhu.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2405.15885)]
-
-**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** <br>
-*Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao.* <br>
-arXiv 2024, [[PDF](https://arxiv.org/abs/2405.14802)]
-
-**Self-Consistent Recursive Diffusion Bridge for Medical Image Translation** <br>
-*Jose-Luis Poza-Lujan, Pedro Uribe-Chavert, Juan-Luis Posadas-Yagüe.* <br>
-arXiv 2024, [[PDF](https://arxiv.org/abs/2405.06789)]
+[[Github](https://github.com/wd1511/HiCAST)] <br>
 
 **Z\*: Zero-shot Style Transfer via Attention Rearrangement** <br>
 *Yingying Deng, Xiangyu He, Fan Tang, Weiming Dong.* <br>
 CVPR2024. [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_Z_Zero-shot_Style_Transfer_via_Attention_Reweighting_CVPR_2024_paper.pdf)] [[PDF(old)](https://arxiv.org/abs/2311.16491)] <br>
-[[Github](https://github.com/HolmesShuan/Zero-shot-Style-Transfer-via-Attention-Rearrangement)]
-
-**One-Shot Structure-Aware Stylized Image Synthesis**
-*Hansam Cho, Jonghyun Lee, Seunggyu Chang, Yonghyun Jeong.* <br>
-CVPR 2024. [[PDF](https://arxiv.org/abs/2402.17275v1)]
+[[Github](https://github.com/HolmesShuan/Zero-shot-Style-Transfer-via-Attention-Rearrangement)] <br>
 
 **Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer** <br>
 *Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.* <br>
 CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09008)] <br>
-[[Github](https://github.com/jiwoogit/StyleID)]
-
-**Artfusion: A Diffusion Model-Based Style Synthesis Framework for Portraits** <br>
-*Hyemin Yang, Heekyung Yang, Kyungha Min.* <br>
-Electronics 2024. [[Paper](https://www.mdpi.com/2079-9292/13/3/509)]
+[[Github](https://github.com/jiwoogit/StyleID)] <br>
 
 **MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond** <br>
 *Yupei Lin, Xiaoyu Xian, Yukai Shi, Liang Lin.* <br>
- IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.03221)] <br>
-[[Github](https://github.com/MirrorDiffusion/MirrorDiffusion)]
+IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.03221)] <br>
+[[Github](https://github.com/MirrorDiffusion/MirrorDiffusion)] <br>
+
+**MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data** <br>
+*William Berman, Alexander Peysakhovich.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2406.18790)] <br>
+
+**Regularized Distribution Matching Distillation for One-step Unpaired Image-to-Image Translation** <br>
+*Denis Rakitin, Ivan Shchekotov, Dmitry Vetrov.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2406.14762)] <br>
+
+**AnyTrans: Translate AnyText in the Image with Large Scale Models** <br>
+*Zhipeng Qian, Pei Zhang, Baosong Yang, Kai Fan, Yiwei Ma, Derek F. Wong, Xiaoshuai Sun, Rongrong Ji.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2406.11432)] <br>
+
+**Rethinking Score Distillation as a Bridge Between Image Distributions** <br>
+*David McAllister, Songwei Ge, Jia-Bin Huang, David W. Jacobs, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2406.09417)] <br>
+
+**PASTA: Pathology-Aware MRI to PET Cross-Modal Translation with Diffusion Models** <br>
+*Yitong Li, Igor Yakushev, Dennis M. Hedderich, Christian Wachinger.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.16942)] <br>
+
+**Diffusion Bridge Implicit Models** <br>
+*Kaiwen Zheng, Guande He, Jianfei Chen, Fan Bao, Jun Zhu.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.15885)] <br>
+
+*Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** <br>
+*Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao.* <br>
+arXiv 2024, [[PDF](https://arxiv.org/abs/2405.14802)] <br>
+
+**Self-Consistent Recursive Diffusion Bridge for Medical Image Translation** <br>
+*Jose-Luis Poza-Lujan, Pedro Uribe-Chavert, Juan-Luis Posadas-Yagüe.* <br>
+arXiv 2024, [[PDF](https://arxiv.org/abs/2405.06789)] <br>
+
+**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models** <br>
+*Rahul Sajnani, Jeroen Vanbaar, Jie Min, Kapil Katyal, Srinath Sridhar.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.14403)] <br>
+
+**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt** <br>
+*Zhanjie Zhang, Quanwei Zhang, Huaizhong Lin, Wei Xing, Juncheng Mo, Shuaicheng Huang, Jinheng Xie, Guangyuan Li, Junsheng Luan, Lei Zhao, Dalong Zhang, Lixia Chen.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11474)] <br>
+
+**Optical Image-to-Image Translation Using Denoising Diffusion Models: Heterogeneous Change Detection as a Use Case** <br>
+*Joao Gabriel Vinholi, Marco Chini, Anis Amziane, Renato Machado, Danilo Silva, Patrick Matgen.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11243)] <br>
+
+**One-Shot Structure-Aware Stylized Image Synthesis**
+*Hansam Cho, Jonghyun Lee, Seunggyu Chang, Yonghyun Jeong.* <br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2402.17275v1)] <br>
+
+**Image Translation as Diffusion Visual Programmers** <br>
+*Cheng Han, James C. Liang, Qifan Wang, Majid Rabbani, Sohail Dianat, Raghuveer Rao, Ying Nian Wu, Dongfang Liu.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2401.09742)] <br>
+
+**Artfusion: A Diffusion Model-Based Style Synthesis Framework for Portraits** <br>
+*Hyemin Yang, Heekyung Yang, Kyungha Min.* <br>
+Electronics 2024. [[Paper](https://www.mdpi.com/2079-9292/13/3/509)] <br>
 
 ## 2023
 
 **Diffusion Cocktail: Fused Generation from Diffusion Models** <br>
 *Haoming Liu, Yuanhe Guo, Shengjie Wang, Hongyi Wen.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08873)] <br>
-[[Github](https://github.com/MAPS-research/Ditail)]
+[[Github](https://github.com/MAPS-research/Ditail)] <br>
 
 **Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention** <br>
 *Jianjin Xu, Saman Motamed, Praneetha Vaddamanu, Chen Henry Wu, Christian Haene, Jean-Charles Bazin, Fernando de la Torre.* <br>
