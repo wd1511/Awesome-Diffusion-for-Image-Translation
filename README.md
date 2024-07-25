@@ -70,6 +70,34 @@ CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09008)] <br>
 IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.03221)] <br>
 [[Github](https://github.com/MirrorDiffusion/MirrorDiffusion)] <br>
 
+**SAR to Optical Image Translation with Color Supervised Diffusion Model** <br>
+*Xinyu Bai, Feng Xu.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.16921)]
+
+**A Survey of Text Style Transfer: Applications and Ethical Implications** <br>
+*Sourabrata Mukherjee, Mateusz Lango, Zdenek Kasner, Ondrej Dušek.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.16737)]
+
+**PID: Physics-Informed Diffusion Model for Infrared Image Generation** <br>
+*Fangyuan Mao, Jilin Mei, Shun Lu, Fuyang Liu, Liang Chen, Fangzhou Zhao, Yu Hu.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.09299)]
+
+**AirSketch: Generative Motion to Sketch** <br>
+*Hui Xian Grace Lim, Xuanming Cui, Yogesh S Rawat, Ser-Nam Lim.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.08906)]
+
+**VisioBlend: Sketch and Stroke-Guided Denoising Diffusion Probabilistic Model for Realistic Image Generation** <br>
+*Harshkumar Devmurari, Gautham Kuckian, Prajjwal Vishwakarma, Krunali Vartak.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05209)]
+
+**Slice-Consistent 3D Volumetric Brain CT-to-MRI Translation with 2D Brownian Bridge Diffusion Model** <br>
+*Kyobin Choo, Youngjun Jun, Mijin Yun, Seong Jae Hwang.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05059)]
+
+**Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation** <br>
+*Xiang Gao, Zhengbo Xu, Junhan Zhao, Jiaying Liu.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.03006)]
+
 **MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data** <br>
 *William Berman, Alexander Peysakhovich.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2406.18790)] <br>
