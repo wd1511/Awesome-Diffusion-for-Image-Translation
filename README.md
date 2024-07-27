@@ -70,33 +70,38 @@ CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09008)] <br>
 IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.03221)] <br>
 [[Github](https://github.com/MirrorDiffusion/MirrorDiffusion)] <br>
 
+**Cross-Image Attention for Zero-Shot Appearance Transfer** <br>
+*Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.* <br>
+SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)] <br>
+[[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
+
 **SAR to Optical Image Translation with Color Supervised Diffusion Model** <br>
 *Xinyu Bai, Feng Xu.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.16921)]
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.16921)] <br>
 
 **A Survey of Text Style Transfer: Applications and Ethical Implications** <br>
 *Sourabrata Mukherjee, Mateusz Lango, Zdenek Kasner, Ondrej Dušek.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.16737)]
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.16737)] <br>
 
 **PID: Physics-Informed Diffusion Model for Infrared Image Generation** <br>
 *Fangyuan Mao, Jilin Mei, Shun Lu, Fuyang Liu, Liang Chen, Fangzhou Zhao, Yu Hu.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.09299)]
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.09299)] <br>
 
 **AirSketch: Generative Motion to Sketch** <br>
 *Hui Xian Grace Lim, Xuanming Cui, Yogesh S Rawat, Ser-Nam Lim.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.08906)]
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.08906)] <br>
 
 **VisioBlend: Sketch and Stroke-Guided Denoising Diffusion Probabilistic Model for Realistic Image Generation** <br>
 *Harshkumar Devmurari, Gautham Kuckian, Prajjwal Vishwakarma, Krunali Vartak.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05209)]
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05209)] <br>
 
 **Slice-Consistent 3D Volumetric Brain CT-to-MRI Translation with 2D Brownian Bridge Diffusion Model** <br>
 *Kyobin Choo, Youngjun Jun, Mijin Yun, Seong Jae Hwang.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05059)]
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05059)] <br>
 
 **Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation** <br>
 *Xiang Gao, Zhengbo Xu, Junhan Zhao, Jiaying Liu.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.03006)]
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.03006)] <br>
 
 **MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data** <br>
 *William Berman, Alexander Peysakhovich.* <br>
