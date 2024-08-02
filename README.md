@@ -19,6 +19,7 @@ python download.py
 - [2022](#2022)
 - [2021](#2021)
 
+
 ## Dataset
 
 ### Game Dataset
@@ -32,6 +33,7 @@ Wiki-Art : [[Download](https://www.kaggle.com/competitions/painter-by-numbers/)]
 ### Real Dataset
 
 Cityscapes : [[Download](https://www.cityscapes-dataset.com/downloads/)], BDD100K : [[Download](https://bdd-data.berkeley.edu)] <br>
+
 
 ## 2024
 
@@ -155,13 +157,13 @@ CVPR 2024. [[PDF](https://arxiv.org/abs/2402.17275v1)] <br>
 *Cheng Han, James C. Liang, Qifan Wang, Majid Rabbani, Sohail Dianat, Raghuveer Rao, Ying Nian Wu, Dongfang Liu.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.09742)] <br>
 
-**Artfusion: A Diffusion Model-Based Style Synthesis Framework for Portraits** <br>
-*Hyemin Yang, Heekyung Yang, Kyungha Min.* <br>
-Electronics 2024. [[Paper](https://www.mdpi.com/2079-9292/13/3/509)] <br>
-
 **Adaptive latent diffusion model for 3d medical image to image translation: Multi-modal magnetic resonance imaging study** <br>
 *Jonghun Kim, Hyunjin Park.* <br>
 WACV 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Adaptive_Latent_Diffusion_Model_for_3D_Medical_Image_to_Image_WACV_2024_paper.pdf)] <br>
+
+**Artfusion: A Diffusion Model-Based Style Synthesis Framework for Portraits** <br>
+*Hyemin Yang, Heekyung Yang, Kyungha Min.* <br>
+Electronics 2024. [[Paper](https://www.mdpi.com/2079-9292/13/3/509)] <br>
 
 
 ## 2023
@@ -510,6 +512,7 @@ ICLR 2023. [[PDF](https://arxiv.org/abs/2203.08382)] <br>
 *Ozan Özdenizci, Robert Legenstein.* <br>
 TPAMI 2023. [[PDF](https://arxiv.org/abs/2207.14626)] <br>
 [[Github](https://github.com/IGITUGraz/WeatherDiffusion)]
+
 
 ## 2022
 
