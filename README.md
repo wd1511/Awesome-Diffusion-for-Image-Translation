@@ -187,49 +187,49 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08873)] <br>
 
 **Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention** <br>
 *Jianjin Xu, Saman Motamed, Praneetha Vaddamanu, Chen Henry Wu, Christian Haene, Jean-Charles Bazin, Fernando de la Torre.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2312.03556)]
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.03556)] <br>
 
 **Open-DDVM: A Reproduction and Extension of Diffusion Model for Optical Flow Estimation** <br>
 *Qiaole Dong, Bo Zhao, Yanwei Fu.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2312.01746)]
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.01746)] <br>
 
 **S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion** <br>
 *Or Greenberg, Eran Kishon, Dani Lischinski.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2312.00116)]
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.00116)] <br>
 
 **ycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation** <br>
 *Sihan Xu, Ziqiao Ma, Yidong Huang, Honglak Lee, Joyce Chai.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2310.13165)]
+arXiv 2023. [[PDF](https://arxiv.org/abs/2310.13165)] <br>
 
 **Latent Diffusion Counterfactual Explanations** <br>
 *Karim Farid, Simon Schrodi, Max Argus, Thomas Brox.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2310.06668)] 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2310.06668)] <br>
 
 **MedPrompt: Cross-Modal Prompting for Multi-Task Medical Image Translation** <br>
 *Xuhang Chen, Chi-Man Pun, Shuqiang Wang.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2310.02663)]
+arXiv 2023. [[PDF](https://arxiv.org/abs/2310.02663)] <br>
 
 **Steered Diffusion: A Generalized Framework for Plug-and-Play Conditional Image Synthesis** <br>
 *Nithin Gopalakrishnan Nair, Anoop Cherian, Suhas Lohit, Ye Wang, Toshiaki Koike-Akino, Vishal M. Patel, Tim K. Marks.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2310.00224)]
+arXiv 2023. [[PDF](https://arxiv.org/abs/2310.00224)] <br>
 
 **Denoising Diffusion Bridge Models** <br>
 *Linqi Zhou, Aaron Lou, Samar Khanna, Stefano Ermon.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2309.16948)]
+arXiv 2023. [[PDF](https://arxiv.org/abs/2309.16948)] <br>
 
 **Multiple Noises in Diffusion Model for Semi-Supervised Multi-Domain Translation** <br>
 *Tsiry Mayet, Simon Bernard, Clement Chatelain, Romain Herault.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2309.14394)]
+arXiv 2023. [[PDF](https://arxiv.org/abs/2309.14394)] <br>
 
 **Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models** <br>
 *Feihong He, Gang Li, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei Dong, Fanzhang Li.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2309.08251)] <br>
-[[Project](https://cartoondiff.github.io)]
+[[Project](https://cartoondiff.github.io)] <br>
 
 **DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** <br>
 *Namhyuk Ahn, Junsoo Lee, Chunggi Lee, Kunhee Kim, Daesik Kim, Seung-Hun Nam, Kibeom Hong.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2309.06933)] <br>
-[[Project](https://nmhkahn.github.io/dreamstyler/)] [[Github](https://github.com/nmhkahn/dreamstyler)]
+[[Project](https://nmhkahn.github.io/dreamstyler/)] [[Github](https://github.com/nmhkahn/dreamstyler)] <br>
 
 **PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**<br>
 *Chengyu Wang, Zhongjie Duan, Bingyan Liu, Xinyi Zou, Cen Chen, Kui Jia, Jun Huang.* <br>
