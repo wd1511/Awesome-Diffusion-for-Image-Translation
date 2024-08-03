@@ -77,6 +77,14 @@ IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.0322
 SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)] <br>
 [[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
+**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention** <br>
+*Susung Hong.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.00760)] <br>
+
+**TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models** <br>
+*Gilad Deutch, Rinon Gal, Daniel Garibi, Or Patashnik, Daniel Cohen-Or.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.00735)]
+
 **SAR to Optical Image Translation with Color Supervised Diffusion Model** <br>
 *Xinyu Bai, Feng Xu.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.16921)] <br>
@@ -84,6 +92,10 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2407.16921)] <br>
 **A Survey of Text Style Transfer: Applications and Ethical Implications** <br>
 *Sourabrata Mukherjee, Mateusz Lango, Zdenek Kasner, Ondrej Dušek.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.16737)] <br>
+
+**SMooDi: Stylized Motion Diffusion Model** <br>
+*Lei Zhong, Yiming Xie, Varun Jampani, Deqing Sun, Huaizu Jiang.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.12783)] <br>
 
 **PID: Physics-Informed Diffusion Model for Infrared Image Generation** <br>
 *Fangyuan Mao, Jilin Mei, Shun Lu, Fuyang Liu, Liang Chen, Fangzhou Zhao, Yu Hu.* <br>
