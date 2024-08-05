@@ -37,6 +37,11 @@ Cityscapes : [[Download](https://www.cityscapes-dataset.com/downloads/)], BDD100
 
 ## 2024
 
+**A Diffusion Model Translator for Efficient Image-to-Image Translation** <br>
+*Mengfei Xia, Yu Zhou, Ran Yi, Yong-Jin Liu, Wenping Wang.* <br>
+TPAMI 2024. [[PDF](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)] <br>
+[[Github](https://github.com/THU-LYJ-Lab/dmt)]
+
 **InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation** <br>
 *Haofan Wang, Peng Xing, Renyuan Huang, Hao Ai, Qixun Wang, Xu Bai.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.00788)] <br>
@@ -76,11 +81,6 @@ IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.0322
 *Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.* <br>
 SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)] <br>
 [[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
-
-**A Diffusion Model Translator for Efficient Image-to-Image Translation** <br>
-*Mengfei Xia, Yu Zhou, Ran Yi, Yong-Jin Liu, Wenping Wang.* <br>
-TPAMI 2024. [[PDF](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)] <br>
-[[Github](https://github.com/THU-LYJ-Lab/dmt)]
 
 **Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention** <br>
 *Susung Hong.* <br>
