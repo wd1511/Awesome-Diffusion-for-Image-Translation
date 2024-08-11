@@ -82,6 +82,10 @@ IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.0322
 SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)] <br>
 [[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
+**D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** <br>
+*Onkar Susladkar, Gayatri Deshmukh, Sparsh Mittal, Parth Shastri.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03558)] <br>
+
 **Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention** <br>
 *Susung Hong.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.00760)] <br>
