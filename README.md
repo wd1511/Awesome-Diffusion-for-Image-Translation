@@ -82,6 +82,10 @@ IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.0322
 SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)] <br>
 [[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
+**FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning** <br>
+*Zhi Chen, Zecheng Zhao, Yadan Luo, Zi Huang.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03355)] <br>
+
 **D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** <br>
 *Onkar Susladkar, Gayatri Deshmukh, Sparsh Mittal, Parth Shastri.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03558)] <br>
@@ -150,7 +154,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2405.16942)] <br>
 *Kaiwen Zheng, Guande He, Jianfei Chen, Fan Bao, Jun Zhu.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.15885)] <br>
 
-*Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** <br>
+**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** <br>
 *Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao.* <br>
 arXiv 2024, [[PDF](https://arxiv.org/abs/2405.14802)] <br>
 
