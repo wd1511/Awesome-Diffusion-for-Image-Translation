@@ -32,7 +32,7 @@ Cityscapes dataset: [[Download](https://www.cityscapes-dataset.com/downloads/)],
 
 ### Painter Datasets
 
-Wiki-Art dataset: [[Download](https://www.kaggle.com/competitions/painter-by-numbers/)] <br>
+Wiki-Art dataset: [[Download1](https://www.kaggle.com/competitions/painter-by-numbers/)] [[Download2](https://huggingface.co/datasets/huggan/wikiart)] <br>
 
 ### Medical Datasets
 
@@ -40,7 +40,7 @@ Prostate-MRI-US-Biopsy dataset, LDCT-and-Projection-data dataset, BraTS 2018 dat
 
 ### Common Datasets
 
-ImageNet dataset, MS-COCO dataset, LSUN dataset, AFHQ dataset <br>
+ImageNet dataset: [[Download](https://image-net.org/download.php)], MS-COCO dataset [[Download1](https://cocodataset.org/#download)] [[Download2](https://huggingface.co/datasets/detection-datasets/coco)], LSUN dataset, AFHQv2 dataset [[Download1](https://www.dropbox.com/scl/fi/0aha0j1yvhjdnr1r86u0g/?rlkey=ji6v8s9tkma1vg87bwowi9v1e&e=1)] [[Download2](https://huggingface.co/datasets/huggan/AFHQv2)] <br>
 
 
 ## 2024
