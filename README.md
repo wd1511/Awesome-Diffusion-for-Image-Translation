@@ -404,7 +404,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.16289)]
 
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** <br>
 *Yuxin Zhang, Weiming Dong, Fan Tang, Nisha Huang, Haibin Huang, Chongyang Ma, Tong-Yee Lee, Oliver Deussen, Changsheng Xu.* <br>
-arXiv 2023. [[PDF]https://arxiv.org/abs/2305.16225)] 
+arXiv 2023. [[PDF](https://arxiv.org/abs/2305.16225)] 
 [[Github](https://github.com/zyxElsa/ProSpect)] <br>
 
 **Unpaired Image-to-Image Translation via Neural Schrödinger Bridge** <br>
