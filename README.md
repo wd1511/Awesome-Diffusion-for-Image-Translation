@@ -47,12 +47,12 @@ ImageNet dataset, MS-COCO dataset, LSUN dataset, AFHQ dataset <br>
 
 **A Diffusion Model Translator for Efficient Image-to-Image Translation** <br>
 *Mengfei Xia, Yu Zhou, Ran Yi, Yong-Jin Liu, Wenping Wang.* <br>
-TPAMI 2024. [[PDF](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)] <br>
-[[Github](https://github.com/THU-LYJ-Lab/dmt)]
+TPAMI 2024. [[PDF](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
+[[Github](https://github.com/THU-LYJ-Lab/dmt)] <br>
 
 **InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation** <br>
 *Haofan Wang, Peng Xing, Renyuan Huang, Hao Ai, Qixun Wang, Xu Bai.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.00788)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.00788)] 
 [[Project](instantstyle-plus.github.io)] <br>
 
 **F2FLDM: Latent Diffusion Models with Histopathology Pre-Trained Embeddings for Unpaired Frozen Section to FFPE Translation** <br>
