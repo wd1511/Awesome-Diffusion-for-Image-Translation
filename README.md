@@ -57,37 +57,37 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2407.00788)]
 
 **F2FLDM: Latent Diffusion Models with Histopathology Pre-Trained Embeddings for Unpaired Frozen Section to FFPE Translation** <br>
 *Man M. Ho, Shikha Dubey, Yosep Chong, Beatrice Knudsen, Tolga Tasdizen.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2404.12650)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.12650)]
 [[Github](https://github.com/minhmanho/f2f_ldm)] <br>
 
 **UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models** <br>
 *Yihua Zhang, Yimeng Zhang, Yuguang Yao, Jinghan Jia, Jiancheng Liu, Xiaoming Liu, Sijia Liu.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2402.11846)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2402.11846)]
 [[Github](https://github.com/OPTML-Group/UnlearnCanvas)] <br>
 
 **HiCAST: Highly Customized Arbitrary Style Transfer with Adapter Enhanced Diffusion Models** <br>
 *Hanzhang Wang, Haoran Wang, Jinze Yang, Zhongrui Yu, Zeke Xie, Lei Tian, Xinyan Xiao, Junjun Jiang, Xianming Liu, Mingming Sun.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 [[Github](https://github.com/wd1511/HiCAST)] <br>
 
 **Z\*: Zero-shot Style Transfer via Attention Rearrangement** <br>
 *Yingying Deng, Xiangyu He, Fan Tang, Weiming Dong.* <br>
-CVPR2024. [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_Z_Zero-shot_Style_Transfer_via_Attention_Reweighting_CVPR_2024_paper.pdf)] [[PDF(old)](https://arxiv.org/abs/2311.16491)] <br>
+CVPR2024. [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_Z_Zero-shot_Style_Transfer_via_Attention_Reweighting_CVPR_2024_paper.pdf)] [[PDF(old)](https://arxiv.org/abs/2311.16491)]
 [[Github](https://github.com/HolmesShuan/Zero-shot-Style-Transfer-via-Attention-Rearrangement)] <br>
 
 **Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer** <br>
 *Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.* <br>
-CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09008)] <br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09008)]
 [[Github](https://github.com/jiwoogit/StyleID)] <br>
 
 **MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond** <br>
 *Yupei Lin, Xiaoyu Xian, Yukai Shi, Liang Lin.* <br>
-IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.03221)] <br>
+IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.03221)]
 [[Github](https://github.com/MirrorDiffusion/MirrorDiffusion)] <br>
 
 **Cross-Image Attention for Zero-Shot Appearance Transfer** <br>
 *Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.* <br>
-SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)] <br>
+SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
 [[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
 **D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** <br>
@@ -104,7 +104,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2408.00760)] <br>
 
 **TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models** <br>
 *Gilad Deutch, Rinon Gal, Daniel Garibi, Or Patashnik, Daniel Cohen-Or.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.00735)]
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.00735)] <br>
 
 **SAR to Optical Image Translation with Color Supervised Diffusion Model** <br>
 *Xinyu Bai, Feng Xu.* <br>
@@ -156,7 +156,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2406.09417)] <br>
 
 **PASTA: Pathology-Aware MRI to PET Cross-Modal Translation with Diffusion Models** <br>
 *Yitong Li, Igor Yakushev, Dennis M. Hedderich, Christian Wachinger.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2405.16942)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.16942)]
 [[Github](https://github.com/ai-med/pasta)] <br>
 
 **Diffusion Bridge Implicit Models** <br>
@@ -165,7 +165,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2405.15885)] <br>
 
 **Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** <br>
 *Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao.* <br>
-arXiv 2024, [[PDF](https://arxiv.org/abs/2405.14802)] <br>
+arXiv 2024, [[PDF](https://arxiv.org/abs/2405.14802)]
 [[Github](https://github.com/mirthai/fast-ddpm)] <br>
 
 **Self-Consistent Recursive Diffusion Bridge for Medical Image Translation** <br>
@@ -205,7 +205,7 @@ Electronics 2024. [[Paper](https://www.mdpi.com/2079-9292/13/3/509)] <br>
 
 **Diffusion Cocktail: Fused Generation from Diffusion Models** <br>
 *Haoming Liu, Yuanhe Guo, Shengjie Wang, Hongyi Wen.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08873)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08873)]
 [[Github](https://github.com/MAPS-research/Ditail)] <br>
 
 **Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention** <br>
@@ -214,15 +214,17 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.03556)] <br>
 
 **Open-DDVM: A Reproduction and Extension of Diffusion Model for Optical Flow Estimation** <br>
 *Qiaole Dong, Bo Zhao, Yanwei Fu.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2312.01746)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2312.01746)] 
+[[Github](https://github.com/dqiaole/flowdiffusion_pytorch)] <br>
 
 **S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion** <br>
 *Or Greenberg, Eran Kishon, Dani Lischinski.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.00116)] <br>
 
-**ycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation** <br>
+**CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation** <br>
 *Sihan Xu, Ziqiao Ma, Yidong Huang, Honglak Lee, Joyce Chai.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2310.13165)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2310.13165)] 
+[[Github](https://github.com/sled-group/cyclenet)] <br>
 
 **Latent Diffusion Counterfactual Explanations** <br>
 *Karim Farid, Simon Schrodi, Max Argus, Thomas Brox.* <br>
@@ -251,7 +253,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2309.08251)] <br>
 
 **DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** <br>
 *Namhyuk Ahn, Junsoo Lee, Chunggi Lee, Kunhee Kim, Daesik Kim, Seung-Hun Nam, Kibeom Hong.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2309.06933)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2309.06933)] 
 [[Project](https://nmhkahn.github.io/dreamstyler/)] [[Github](https://github.com/nmhkahn/dreamstyler)] <br>
 
 **PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**<br>
@@ -284,7 +286,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2308.15854)] <br>
 
 **Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization** <br>
 *Tao Yang, Peiran Ren, Xuansong Xie, Lei Zhang.* <br>
-arXiv 2023.[[PDF](https://arxiv.org/abs/2308.14469)] <br>
+arXiv 2023.[[PDF](https://arxiv.org/abs/2308.14469)] 
 [[Github](https://github.com/yangxy/PASD)] <br>
 
 **DiffI2I: Efficient Diffusion Model for Image-to-Image Translation**<br>
@@ -301,8 +303,9 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2308.10156)] <br>
 
 **MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance** <br>
 *Ernie Chu, Tzuhsuan Huang, Shuo-Yen Lin, Jun-Cheng Chen.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2308.10079)] <br>
-[[Project](https://medm2023.github.io/)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2308.10079)] 
+[[Project](https://medm2023.github.io/)] 
+[[Github](https://github.com/jwliao1209/diffqrcode)] <br>
 
 **StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**<br>
 *Zhizhong Wang, Lei Zhao, Wei Xing.* <br>
@@ -314,7 +317,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2308.07665)] <br>
 
 **Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow** <br>
 *Junhong Gou, Siyu Sun, Jianfu Zhang, Jianlou Si, Chen Qian, Liqing Zhang.* <br>
-ACMMM 2023. [[PDF](https://arxiv.org/abs/2308.06101)] <br>
+ACMMM 2023. [[PDF](https://arxiv.org/abs/2308.06101)] 
 [[Github](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)] <br>
 
 **Head Rotation in Denoising Diffusion Models** <br>
@@ -331,17 +334,17 @@ ICML 2023. [[PDF](https://arxiv.org/abs/2308.02154)] <br>
 
 **Interpolating between Images with Diffusion Models** <br>
 *Clinton J. Wang, Polina Golland.* <br>
-ICML Workshop 2023. [[PDF](https://arxiv.org/abs/2307.12560)] <br>
+ICML Workshop 2023. [[PDF](https://arxiv.org/abs/2307.12560)] 
 [[Project](https://clintonjwang.github.io/interpolation)] [[Github](https://github.com/clintonjwang/ControlNet)] <br>
 
 **TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition** <br>
 *Shilin Lu, Yanzhu Liu, Adams Wai-Kin Kong.* <br>
-ICCV 2023. [[PDF](https://arxiv.org/abs/2307.12493)] <br>
+ICCV 2023. [[PDF](https://arxiv.org/abs/2307.12493)] 
 [[Github](https://github.com/Shilin-LU/TF-ICON)] <br>
 
 **DiffuseGAE: Controllable and High-fidelity Image Manipulation from Disentangled Representation** <br>
 *Yipeng Leng, Qiangjuan Huang, Zhiyuan Wang, Yangyang Liu, Haoyu Zhang.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2307.05899)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2307.05899)] 
 [[Github](https://github.com/ecai2023/DiffuseGAE)] <br>
 
 **DIFF-NST: Diffusion Interleaving For deFormable Neural Style Transfer** <br>
@@ -354,17 +357,17 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2307.02698)] <br>
 
 **DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models** <br> 
 *Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2307.02421)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2307.02421)] 
 [[Project](https://mc-e.github.io/project/DragonDiffusion/)] [[Github1](https://github.com/MC-E/DragonDiffusion)] [[Github2](https://github.com/stroopwafl/dragon_diffusion)] <br>
 
 **DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing** <br>
 *Yujun Shi, Chuhui Xue, Jiachun Pan, Wenqing Zhang, Vincent Y. F. Tan, Song Bai.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2306.14435)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2306.14435)] 
 [[Github1](https://github.com/Yujun-Shi/DragDiffusion)] [[Github2](https://github.com/JiauZhang/DragDiffusion)] <br>
 
 **ArtFusion: Controllable Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**<br>
 *Dar-Yen Chen.*<br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2306.09330)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2306.09330)] 
 [[Github](https://github.com/ChenDarYen/ArtFusion)] <br>
 
 **Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance** <br>
@@ -381,32 +384,32 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.19512)] <br>
 
 **DiffSketching: Sketch Control Image Synthesis with Diffusion Models** <br>
 *Qiang Wang, Di Kong, Fengyin Lin, Yonggang Qi.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2305.18812)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2305.18812)] 
 [[Github](https://github.com/XDUWQ/DiffSketching)] <br>
 
 **Real-World Image Variation by Aligning Diffusion Inversion Chain** <br>
 *Yuechen Zhang, Jinbo Xing, Eric Lo, Jiaya Jia* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2305.18729)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2305.18729)] 
 [[Project](https://rival-diff.github.io)] [[Github](https://github.com/JulianJuaner/RIVAL)] <br>
 
 **Photoswap: Personalized Subject Swapping in Images** <br>
 *Jing Gu, Yilin Wang, Nanxuan Zhao, Tsu-Jui Fu, Wei Xiong, Qing Liu, Zhifei Zhang, He Zhang, Jianming Zhang, HyunJoon Jung, Xin Eric Wang.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2305.18286)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2305.18286)] 
 [[Project](https://photoswap.github.io/)] [[Github](https://github.com/eric-ai-lab/photoswap)] <br>
 
 **Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation** <br>
 *Lisa Dunlap, Alyssa Umino, Han Zhang, Jiezhi Yang, Joseph E. Gonzalez, Trevor Darrell.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2305.16289)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2305.16289)] 
 [[Github](https://github.com/lisadunlap/ALIA)] <br>
 
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** <br>
 *Yuxin Zhang, Weiming Dong, Fan Tang, Nisha Huang, Haibin Huang, Chongyang Ma, Tong-Yee Lee, Oliver Deussen, Changsheng Xu.* <br>
-arXiv 2023. [[PDF]https://arxiv.org/abs/2305.16225)] <br>
+arXiv 2023. [[PDF]https://arxiv.org/abs/2305.16225)] 
 [[Github](https://github.com/zyxElsa/ProSpect)] <br>
 
 **Unpaired Image-to-Image Translation via Neural Schrödinger Bridge** <br>
 *Beomsu Kim, Gihyun Kwon, Kwanyoung Kim, Jong Chul Ye.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2305.15086)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2305.15086)] 
 [[Github](https://github.com/cyclomon/UNSB)] <br>
 
 **SAR-to-Optical Image Translation via Thermodynamics-inspired Network** <br>
@@ -415,12 +418,12 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.13839)] <br>
 
 **Null-text Guidance in Diffusion Models is Secretly a Cartoon-style Creator** <br>
 *Jing Zhao, Heliang Zheng, Chaoyue Wang, Long Lan, Wanrong Huang, Wenjing Yang.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2305.06710)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2305.06710)] 
 [[Project](https://nulltextforcartoon.github.io/)] [[Github](https://github.com/NullTextforCartoon/NullTextforCartoon)] <br>
 
 **ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation** <br>
 *Yupei Lin, Sen Zhang, Xiaojun Yang, Xiao Wang, Yukai Shi.* <br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2305.04651v1)] <br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2305.04651v1)] 
 [[Project](https://yupeilin2388.github.io/publication/ReDiffuser)] <br> 
 
 **Hierarchical Diffusion Autoencoders and Disentangled Image Manipulation** <br>
@@ -437,17 +440,17 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2304.09748)] <br>
 
 **PAIR-Diffusion: A Comprehensive Multimodal Object-Level Image Editor** <br>
 *Vidit Goel, Elia Peruzzo, Yifan Jiang, Dejia Xu, Xingqian Xu, Nicu Sebe, Trevor Darrell, Zhangyang Wang, Humphrey Shi.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2303.17546)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.17546)] 
 [[Github](https://github.com/Picsart-AI-Research/PAIR-Diffusion)] <br>
 
 **StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** <br>
 *Senmao Li, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2303.15649)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.15649)] 
 [[Github](https://github.com/sen-mao/StyleDiffusion)] <br>
 
 **Training-free Style Transfer Emerges from h-space in Diffusion models** <br>
 *Jaeseok Jeong, Mingi Kwon, Youngjung Uh.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2303.15403)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.15403)] 
 [[Project](https://curryjung.github.io/DiffStyle/)] [[Github](https://github.com/curryjung/DiffStyle_official)] <br>
 
 **Diffusion-based Target Sampler for Unsupervised Domain Adaptation** <br>
@@ -456,22 +459,22 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2303.12724)] <br>
 
 **Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer** <br>
 *Serin Yang, Hyunmin Hwang, Jong Chul Ye.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2303.08622)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.08622)] 
 [[Github](https://github.com/ouhenio/text-guided-diffusion-style-transfer)] <br>
 
 **StyO: Stylize Your Face in Only One-Shot** <br>
 *Bonan Li, Zicheng Zhang, Xuecheng Nie, Congying Han, Yinhan Hu, Tiande Guo.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2303.03231)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2303.03231)] 
 [[Github](https://github.com/JiauZhang/StyO)] <br>
 
 **DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models** <br>
 *Shidong Cao, Wenhao Chai, Shengyu Hao, Yanting Zhang, Hangyue Chen, Gaoang Wang.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2302.06826)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2302.06826)] 
 [[Github](https://github.com/Rem105-210/DiffFashion)] <br>
 
 **I2SB: Image-to-Image Schrödinger Bridge** <br>
 *Guan-Horng Liu, Arash Vahdat, De-An Huang, Evangelos A. Theodorou, Weili Nie, Anima Anandkumar.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2302.05872)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2302.05872)] 
 [[Project](https://i2sb.github.io/)] [[Github](https://github.com/NVlabs/I2SB)] <br>
 
 **Zero-shot-Learning Cross-Modality Data Translation Through Mutual Information Guided Stochastic Diffusion** <br>
@@ -480,7 +483,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2301.13743)] <br>
 
 **ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors** <br>
 *Jingwen Chen, Yingwei Pan, Ting Yao, Tao Mei.* <br>
-ACMMM 2023. [[PDF](https://arxiv.org/abs/2311.05463)] <br>
+ACMMM 2023. [[PDF](https://arxiv.org/abs/2311.05463)] 
 [[Github](https://github.com/winnechan/ControlStyle)] <br>
 
 **General Image-to-Image Translation with One-Shot Image Guidance** <br>
@@ -489,67 +492,67 @@ ICCV 2023. [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cheng_Ge
 
 **MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** <br>
 *Omer Bar-Tal, Lior Yariv, Yaron Lipman, Tali Dekel.* <br>
-ICML 2023.[[PDF](https://openreview.net/pdf?id=D4ajVWmgLB)] <br>
+ICML 2023.[[PDF](https://openreview.net/pdf?id=D4ajVWmgLB)] 
 [[Github](https://github.com/omerbt/MultiDiffusion)] <br>
 
 **InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models** <br>
 *Yingheng Wang, Yair Schiff, Aaron Gokaslan, Weishen Pan, Fei Wang, Christopher De Sa, Volodymyr Kuleshov.* <br>
-ICML 2023. [[PDF](https://arxiv.org/abs/2306.08757)] <br>
+ICML 2023. [[PDF](https://arxiv.org/abs/2306.08757)] 
 [[Github](https://github.com/gregversteeg/InfoDiffusionSimple)] <br>
 
 **TryOnDiffusion: A Tale of Two UNets** <br>
 *Luyang Zhu, Dawei Yang, Tyler Zhu, Fitsum Reda, William Chan, Chitwan Saharia, Mohammad Norouzi, Ira Kemelmacher-Shlizerman.* <br>
-CVPR 2023. [[PDF](https://arxiv.org/abs/2306.08276)] <br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2306.08276)] 
 [[Github](https://github.com/fashn-AI/tryondiffusion)] <br>
 
 **DiffusionRig: Learning Personalized Priors for Facial Appearance Editing** <br>
 *Zheng Ding, Xuaner Zhang, Zhihao Xia, Lars Jebe, Zhuowen Tu, Xiuming Zhang.* <br>
-CVPR 2023. [[PDF](https://arxiv.org/abs/2304.06711)] <br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2304.06711)] 
 [[Project](https://diffusionrig.github.io/)] [[Github](https://github.com/adobe-research/diffusion-rig)] <br>
 
 **InstructPix2Pix: Learning to Follow Image Editing Instructions** <br>
 *Tim Brooks, Aleksander Holynski, Alexei A. Efros.*   <br>
-CVPR 2023. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.pdf)] <br>
+CVPR 2023. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.pdf)] 
 [[GitHub](https://github.com/timothybrooks/instruct-pix2pix)] <br>
 
 **EDICT: Exact Diffusion Inversion via Coupled Transformations** <br>
 *Bram Wallace, Akash Gokul, Nikhil Naik.* <br>
-CVPR 2023. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wallace_EDICT_Exact_Diffusion_Inversion_via_Coupled_Transformations_CVPR_2023_paper.pdf)] <br>
+CVPR 2023. [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wallace_EDICT_Exact_Diffusion_Inversion_via_Coupled_Transformations_CVPR_2023_paper.pdf)] 
 [[Github](https://github.com/salesforce/edict)] <br>
 
 **High-Fidelity Guided Image Synthesis with Latent Diffusion Models** <br>
 *Jaskirat Singh, Stephen Gould, Liang Zheng.* <br>
-CVPR 2023. [[PDF](https://arxiv.org/abs/2211.17084)] <br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.17084)] 
 [[Github](https://1jsingh.github.io/gradop)] <br>
 
 **Inversion-Based Creativity Transfer with Diffusion Models** <br>
 *Yuxin Zhang, Nisha Huang, Fan Tang, Haibin Huang, Chongyang Ma, Weiming Dong, Changsheng Xu.* <br>
-CVPR 2023. [[PDF](https://arxiv.org/abs/2211.13203)] <br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.13203)] 
 [[Github](https://github.com/zyxElsa/InST)] <br>
 
 **Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation** <br>
 *Narek Tumanyan, Michal Geyer, Shai Bagon, Tali Dekel.* <br>
-CVPR 2023. [[PDF](https://arxiv.org/abs/2211.12572)] <br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.12572)] 
 [[Github](https://github.com/MichalGeyer/plug-and-play)] <br>
 
 **Person Image Synthesis via Denoising Diffusion Model** <br>
 *Ankan Kumar Bhunia, Salman Khan, Hisham Cholakkal, Rao Muhammad Anwer, Jorma Laaksonen, Mubarak Shah, Fahad Shahbaz Khan.* <br>
-CVPR 2023. [[PDF](https://arxiv.org/abs/2211.12500)] <br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.12500)] 
 [[Github](https://github.com/ankanbhunia/PIDM)] <br>
 
 **Diffusion-based Image Translation using Disentangled Style and Content Representation** <br>
 *Gihyun Kwon, Jong Chul Ye.* <br>
-ICLR 2023. [[PDF](https://arxiv.org/abs/2209.15264)] <br>
+ICLR 2023. [[PDF](https://arxiv.org/abs/2209.15264)] 
 [[Project](https://pnp-diffusion.github.io)] [[Github](https://github.com/anon294384/DiffuseIT)] <br>
 
 **Dual Diffusion Implicit Bridges for Image-to-Image Translation** <br>
 *Xuan Su, Jiaming Song, Chenlin Meng, Stefano Ermon.* <br>
-ICLR 2023. [[PDF](https://arxiv.org/abs/2203.08382)] <br>
+ICLR 2023. [[PDF](https://arxiv.org/abs/2203.08382)] 
 [[Github](https://github.com/suxuann/ddib)] <br>
 
 **Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models** <br>
 *Ozan Özdenizci, Robert Legenstein.* <br>
-TPAMI 2023. [[PDF](https://arxiv.org/abs/2207.14626)] <br>
+TPAMI 2023. [[PDF](https://arxiv.org/abs/2207.14626)] 
 [[Github](https://github.com/IGITUGraz/WeatherDiffusion)] <br>
 
 
@@ -557,17 +560,17 @@ TPAMI 2023. [[PDF](https://arxiv.org/abs/2207.14626)] <br>
 
 **DiffFace: Diffusion-based Face Swapping with Facial Guidance** <br>
 *Kihong Kim, Yunho Kim, Seokju Cho, Junyoung Seo, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee.* <br>
-arXiv 2022. [[PDF](https://arxiv.org/abs/2212.13344)] <br>
+arXiv 2022. [[PDF](https://arxiv.org/abs/2212.13344)] 
 [[Project](https://hxngiee.github.io/DiffFace/)] [[Github](https://github.com/hxngiee/DiffFace)] <br>
 
 **HS-Diffusion: Learning a Semantic-Guided Diffusion Model for Head Swapping** <br>
 *Qinghe Wang, Lijie Liu, Miao Hua, Qian He, Pengfei Zhu, Bing Cao, Qinghua Hu.* <br>
-arXiv 2022. [[PDF](https://arxiv.org/abs/2212.06458)] <br>
+arXiv 2022. [[PDF](https://arxiv.org/abs/2212.06458)] 
 [[Github](https://github.com/qinghew/HS-Diffusion)] <br>
 
 **Diffstyler: Controllable dual diffusion for text-driven image stylization** <br>
 *Nisha Huang, Yuxin Zhang, Fan Tang, Chongyang Ma, Haibin Huang, Yong Zhang Weiming Dong, Changsheng Xu.* <br>
-arXiv 2022. [[PDF](https://arxiv.org/abs/2211.10682)] <br>
+arXiv 2022. [[PDF](https://arxiv.org/abs/2211.10682)] 
 [[Github](https://github.com/haha-lisa/Diffstyler.git)] <br>
 
 **DiffGAR: Model-Agnostic Restoration from Generative Artifacts Using Image-to-Image Diffusion Models** <br>
@@ -576,7 +579,7 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2210.08573)] <br>
 
 **Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance** <br>
 *Chen Henry Wu, Fernando De la Torre.* <br>
-arXiv 2022. [[PDF](https://arxiv.org/abs/2210.05559)] <br>
+arXiv 2022. [[PDF](https://arxiv.org/abs/2210.05559)] 
 [[Github-1](https://github.com/ChenWu98/cycle-diffusion)] [[Github-2](https://github.com/ChenWu98/unified-generative-zoo)] <br>
 
 **Anatomically constrained CT image translation for heterogeneous blood vessel segmentation** <br>
@@ -585,12 +588,12 @@ BMVC 2022. [[PDF](https://arxiv.org/abs/2210.01713)] <br>
 
 **Draw Your Art Dream: Diverse Digital Art Synthesis with Multimodal Guided Diffusion** <br>
 *Nisha Huang, Fan Tang, Weiming Dong, Changsheng Xu.* <br>
-arXiv 2022. [[PDF](https://arxiv.org/abs/2209.13360)] <br>
+arXiv 2022. [[PDF](https://arxiv.org/abs/2209.13360)]
 [[Github](https://github.com/haha-lisa/mgad-multimodal-guided-artwork-diffusion)] <br>
 
 **MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation** <br>
 *Junyoung Seo, Gyuseong Lee, Seokju Cho, Jiyoung Lee, Seungryong Kim.* <br>
-arXiv 2022. [[PDF](https://arxiv.org/abs/2209.11047)] <br>
+arXiv 2022. [[PDF](https://arxiv.org/abs/2209.11047)]
 [[Project](https://ku-cvlab.github.io/MIDMs/)] [[Github](https://github.com/KU-CVLAB/MIDMs/)] <br>
 
 **Non-Uniform Diffusion Models** <br>
@@ -599,27 +602,27 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2207.09786)] <br>
 
 **Unsupervised Medical Image Translation with Adversarial Diffusion Models** <br>
 *Muzaffer Özbey, Salman UH Dar, Hasan A Bedel, Onat Dalmaz, Şaban Özturk, Alper Güngör, Tolga Çukur.* <br>
-arXiv 2022. [[PDF](https://arxiv.org/abs/2207.08208)] <br>
+arXiv 2022. [[PDF](https://arxiv.org/abs/2207.08208)]
 [[Github](https://github.com/icon-lab/syndiff)] <br>
 
 **EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations** <br>
 *Min Zhao, Fan Bao, Chongxuan Li, Jun Zhu.* <br>
-NIPS 2022. [[PDF](https://arxiv.org/abs/2207.06635)] <br>
-[[Github](https://github.com/ML-GSAI/EGSDE] <br>
+NIPS 2022. [[PDF](https://arxiv.org/abs/2207.06635)] 
+[[Github](https://github.com/ML-GSAI/EGSDE)] <br>
 
 **Discrete Contrastive Diffusion for Cross-Modal and Conditional Generation** <br>
 *Ye Zhu, Yu Wu, Kyle Olszewski, Jian Ren, Sergey Tulyakov, Yan Yan.* <br>
-arXiv 2022. [[PDF](https://arxiv.org/abs/2206.07771)] <br>
+arXiv 2022. [[PDF](https://arxiv.org/abs/2206.07771)] 
 [[Github](https://github.com/L-YeZhu/CDCD)] <br>
 
 **Pretraining is All You Need for Image-to-Image Translation** <br>
 *Tengfei Wang, Ting Zhang, Bo Zhang, Hao Ouyang, Dong Chen, Qifeng Chen, Fang Wen.* <br>
-arXiv 2022. [[PDF](https://arxiv.org/abs/2205.12952)] <br>
+arXiv 2022. [[PDF](https://arxiv.org/abs/2205.12952)] 
 [[Project](https://tengfei-wang.github.io/PITI/index.html)] [[Github](https://github.com/PITI-Synthesis/PITI)] <br>
 
 **BBDM: Image-to-image Translation with Brownian Bridge Diffusion Models** <br>
 *Bo Li, Kaitao Xue, Bin Liu, Yu-Kun Lai.* <br>
-CVPR 2023. [[PDF](https://arxiv.org/abs/2205.07680)] <br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2205.07680)] 
 [[Github](https://github.com/xuekt98/BBDM)] <br>
 
 **The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models** <br>
@@ -628,7 +631,7 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2204.02641)] <br>
 
 **Denoising Diffusion Restoration Models** <br>
 *Bahjat Kawar, Michael Elad, Stefano Ermon, Jiaming Song.* <br>
-NeurIPS 2022. [[PDF](https://arxiv.org/abs/2201.11793)] <br>
+NeurIPS 2022. [[PDF](https://arxiv.org/abs/2201.11793)] 
 [[Github](https://github.com/bahjat-kawar/ddrm)] <br>
 
 
@@ -636,35 +639,35 @@ NeurIPS 2022. [[PDF](https://arxiv.org/abs/2201.11793)] <br>
 
 **DiffuseMorph: Unsupervised Deformable Image Registration Along Continuous Trajectory Using Diffusion Models** <br>
 *Boah Kim, Inhwa Han, Jong Chul Ye.* <br>
-arXiv 2021. [[PDF](https://arxiv.org/abs/2112.05149)] <br>
+arXiv 2021. [[PDF](https://arxiv.org/abs/2112.05149)] 
 [[Github](https://github.com/DiffuseMorph/DiffuseMorph)] <br>
 
 **Diffusion Autoencoders: Toward a Meaningful and Decodable Representation** <br>
 *Konpat Preechakul, Nattanat Chatthee, Suttisak Wizadwongsa, Supasorn Suwajanakorn* <br>
-arXiv 2021. [[PDF](https://arxiv.org/abs/2111.15640)] <br>
+arXiv 2021. [[PDF](https://arxiv.org/abs/2111.15640)] 
 [[Project](https://diff-ae.github.io/)] [[Github](https://github.com/phizaz/diffae)] <br>
 
 **Conditional Image Generation with Score-Based Diffusion Models** <br>
 *Georgios Batzolis, Jan Stanczuk, Carola-Bibiane Schönlieb, Christian Etmann.* <br>
-arXiv 2021. [[PDF](https://arxiv.org/abs/2111.13606)] <br>
+arXiv 2021. [[PDF](https://arxiv.org/abs/2111.13606)] 
 [[Github](https://github.com/GBATZOLIS/conditional_score_diffusion)] <br>
 
 **Palette: Image-to-Image Diffusion Models** <br>
 *Chitwan Saharia, William Chan, Huiwen Chang, Chris A. Lee, Jonathan Ho, Tim Salimans, David J. Fleet, Mohammad Norouzi.* <br>
-SIGRAPH 2021. [[PDF](https://arxiv.org/abs/2111.05826)] <br>
+SIGRAPH 2021. [[PDF](https://arxiv.org/abs/2111.05826)] 
 [[Github](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models)] <br>
 
 **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation** <br>
 *Gwanghyun Kim, Taesung Kwon, Jong Chul Ye.* <br>
-CVPR 2022. [[PDF](https://arxiv.org/abs/2110.02711)] <br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2110.02711)] 
 [[Github](https://github.com/gwang-kim/DiffusionCLIP)] <br>
 
 **ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models** <br>
 *Jooyoung Choi, Sungwon Kim, Yonghyun Jeong, Youngjune Gwon, Sungroh Yoon.* <br>
-ICCV 2021 (Oral). [[PDF](https://arxiv.org/abs/2108.02938)] <br>
+ICCV 2021 (Oral). [[PDF](https://arxiv.org/abs/2108.02938)] 
 [[Github](https://github.com/jychoi118/ilvr_adm)] <br>
 
 **UNIT-DDPM: UNpaired Image Translation with Denoising Diffusion Probabilistic Models** <br>
 *Hiroshi Sasaki, Chris G. Willcocks, Toby P. Breckon.* <br>
-arXiv 2021. [[PDF](https://arxiv.org/abs/2104.05358)] <br>
+arXiv 2021. [[PDF](https://arxiv.org/abs/2104.05358)] 
 [[Github](https://github.com/konkuad/UNIT-DDPM-Unofficial)] <br>
