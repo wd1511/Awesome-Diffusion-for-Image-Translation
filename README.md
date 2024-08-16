@@ -22,18 +22,25 @@ python download.py
 
 ## Dataset
 
-### Game Dataset
+### Game Datasets
 
-GTA5 : [[Download](https://download.visinf.tu-darmstadt.de/data/from_games/index.html)], Viper : [[Download](https://playing-for-benchmarks.org)] <br>
+GTA5 dataset: [[Download](https://download.visinf.tu-darmstadt.de/data/from_games/index.html)], Viper dataset: [[Download](https://playing-for-benchmarks.org)] <br>
 
-### Painter Dataset
+### Real Datasets
 
-Wiki-Art : [[Download](https://www.kaggle.com/competitions/painter-by-numbers/)] <br>
+Cityscapes dataset: [[Download](https://www.cityscapes-dataset.com/downloads/)], BDD100K dataset: [[Download](https://bdd-data.berkeley.edu)] <br>
 
-### Real Dataset
+### Painter Datasets
 
-Cityscapes : [[Download](https://www.cityscapes-dataset.com/downloads/)], BDD100K : [[Download](https://bdd-data.berkeley.edu)] <br>
+Wiki-Art dataset: [[Download](https://www.kaggle.com/competitions/painter-by-numbers/)] <br>
 
+### Medical Datasets
+
+Prostate-MRI-US-Biopsy dataset, LDCT-and-Projection-data dataset, BraTS 2018 dataset <br>
+
+### Common Datasets
+
+ImageNet dataset, MS-COCO dataset, LSUN dataset, AFHQ dataset <br>
 
 ## 2024
 
@@ -158,6 +165,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2405.15885)] <br>
 **Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** <br>
 *Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao.* <br>
 arXiv 2024, [[PDF](https://arxiv.org/abs/2405.14802)] <br>
+[[Github](https://github.com/mirthai/fast-ddpm)] <br>
 
 **Self-Consistent Recursive Diffusion Bridge for Medical Image Translation** <br>
 *Jose-Luis Poza-Lujan, Pedro Uribe-Chavert, Juan-Luis Posadas-Yagüe.* <br>
