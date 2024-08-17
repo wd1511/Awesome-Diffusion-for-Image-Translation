@@ -72,21 +72,6 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 CVPR2024. [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_Z_Zero-shot_Style_Transfer_via_Attention_Reweighting_CVPR_2024_paper.pdf)] [[PDF(old)](https://arxiv.org/abs/2311.16491)]
 [[Github](https://github.com/HolmesShuan/Zero-shot-Style-Transfer-via-Attention-Rearrangement)] <br>
 
-**Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer** <br>
-*Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.* <br>
-CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09008)]
-[[Github](https://github.com/jiwoogit/StyleID)] <br>
-
-**MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond** <br>
-*Yupei Lin, Xiaoyu Xian, Yukai Shi, Liang Lin.* <br>
-IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.03221)]
-[[Github](https://github.com/MirrorDiffusion/MirrorDiffusion)] <br>
-
-**Cross-Image Attention for Zero-Shot Appearance Transfer** <br>
-*Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.* <br>
-SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
-[[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
-
 **A Diffusion Model Translator for Efficient Image-to-Image Translation** <br>
 *Mengfei Xia, Yu Zhou, Ran Yi, Yong-Jin Liu, Wenping Wang.* <br>
 TPAMI 2024. [[PDF](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
@@ -215,6 +200,21 @@ WACV 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Ad
 **Artfusion: A Diffusion Model-Based Style Synthesis Framework for Portraits** <br>
 *Hyemin Yang, Heekyung Yang, Kyungha Min.* <br>
 Electronics 2024. [[Paper](https://www.mdpi.com/2079-9292/13/3/509)] <br>
+
+**MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond** <br>
+*Yupei Lin, Xiaoyu Xian, Yukai Shi, Liang Lin.* <br>
+IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.03221)]
+[[Github](https://github.com/MirrorDiffusion/MirrorDiffusion)] <br>
+
+**Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer** <br>
+*Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.* <br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09008)]
+[[Github](https://github.com/jiwoogit/StyleID)] <br>
+
+**Cross-Image Attention for Zero-Shot Appearance Transfer** <br>
+*Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.* <br>
+SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
+[[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
 
 ## 2023
