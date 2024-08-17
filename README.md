@@ -183,9 +183,10 @@ arXiv 2024, [[PDF](https://arxiv.org/abs/2405.06789)] <br>
 *Rahul Sajnani, Jeroen Vanbaar, Jie Min, Kapil Katyal, Srinath Sridhar.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.14403)] <br>
 
-**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt** <br>
+**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt Inversion** <br>
 *Zhanjie Zhang, Quanwei Zhang, Huaizhong Lin, Wei Xing, Juncheng Mo, Shuaicheng Huang, Jinheng Xie, Guangyuan Li, Junsheng Luan, Lei Zhao, Dalong Zhang, Lixia Chen.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11474)] <br>
+IJCAI 2024. [[PDF](https://arxiv.org/abs/2404.11474)]
+[[Github](https://github.com/jamie-cheung/lsast)]<br>
 
 **Optical Image-to-Image Translation Using Denoising Diffusion Models: Heterogeneous Change Detection as a Use Case** <br>
 *Joao Gabriel Vinholi, Marco Chini, Anis Amziane, Renato Machado, Danilo Silva, Patrick Matgen.* <br>
@@ -193,7 +194,8 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11243)] <br>
 
 **One-Shot Structure-Aware Stylized Image Synthesis**
 *Hansam Cho, Jonghyun Lee, Seunggyu Chang, Yonghyun Jeong.* <br>
-CVPR 2024. [[PDF](https://arxiv.org/abs/2402.17275v1)] <br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2402.17275v1)] 
+[[Github](https://github.com/hansam95/osasis)] <br>
 
 **Image Translation as Diffusion Visual Programmers** <br>
 *Cheng Han, James C. Liang, Qifan Wang, Majid Rabbani, Sohail Dianat, Raghuveer Rao, Ying Nian Wu, Dongfang Liu.* <br>
@@ -202,7 +204,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2401.09742)] <br>
 **Adaptive latent diffusion model for 3d medical image to image translation: Multi-modal magnetic resonance imaging study** <br>
 *Jonghun Kim, Hyunjin Park.* <br>
 WACV 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Adaptive_Latent_Diffusion_Model_for_3D_Medical_Image_to_Image_WACV_2024_paper.pdf)] 
-[[Github](https://github.com/jongdory/aldm)]<br>
+[[Github](https://github.com/jongdory/aldm)] <br>
 
 **Artfusion: A Diffusion Model-Based Style Synthesis Framework for Portraits** <br>
 *Hyemin Yang, Heekyung Yang, Kyungha Min.* <br>
