@@ -183,9 +183,10 @@ arXiv 2024, [[PDF](https://arxiv.org/abs/2405.06789)] <br>
 *Rahul Sajnani, Jeroen Vanbaar, Jie Min, Kapil Katyal, Srinath Sridhar.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.14403)] <br>
 
-**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt** <br>
+**Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt Inversion** <br>
 *Zhanjie Zhang, Quanwei Zhang, Huaizhong Lin, Wei Xing, Juncheng Mo, Shuaicheng Huang, Jinheng Xie, Guangyuan Li, Junsheng Luan, Lei Zhao, Dalong Zhang, Lixia Chen.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11474)] <br>
+IJCAI 2024. [[PDF](https://arxiv.org/abs/2404.11474)]
+[[Github](https://github.com/jamie-cheung/lsast)]<br>
 
 **Optical Image-to-Image Translation Using Denoising Diffusion Models: Heterogeneous Change Detection as a Use Case** <br>
 *Joao Gabriel Vinholi, Marco Chini, Anis Amziane, Renato Machado, Danilo Silva, Patrick Matgen.* <br>
