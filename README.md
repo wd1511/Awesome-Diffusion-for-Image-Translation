@@ -201,7 +201,8 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2401.09742)] <br>
 
 **Adaptive latent diffusion model for 3d medical image to image translation: Multi-modal magnetic resonance imaging study** <br>
 *Jonghun Kim, Hyunjin Park.* <br>
-WACV 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Adaptive_Latent_Diffusion_Model_for_3D_Medical_Image_to_Image_WACV_2024_paper.pdf)] <br>
+WACV 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Adaptive_Latent_Diffusion_Model_for_3D_Medical_Image_to_Image_WACV_2024_paper.pdf)] 
+[[Github](https://github.com/jongdory/aldm)]<br>
 
 **Artfusion: A Diffusion Model-Based Style Synthesis Framework for Portraits** <br>
 *Hyemin Yang, Heekyung Yang, Kyungha Min.* <br>
