@@ -34,13 +34,13 @@ Cityscapes dataset: [[Download](https://www.cityscapes-dataset.com/downloads/)],
 
 Wiki-Art dataset: [[Download1](https://www.kaggle.com/competitions/painter-by-numbers/)] [[Download2](https://huggingface.co/datasets/huggan/wikiart)] <br>
 
-### Medical Datasets
-
-Prostate-MRI-US-Biopsy dataset, LDCT-and-Projection-data dataset, BraTS 2018 dataset <br>
-
 ### Common Datasets
 
-ImageNet dataset: [[Download](https://image-net.org/download.php)], MS-COCO dataset [[Download1](https://cocodataset.org/#download)] [[Download2](https://huggingface.co/datasets/detection-datasets/coco)], LSUN dataset, AFHQv2 dataset [[Download1](https://www.dropbox.com/scl/fi/0aha0j1yvhjdnr1r86u0g/?rlkey=ji6v8s9tkma1vg87bwowi9v1e&e=1)] [[Download2](https://huggingface.co/datasets/huggan/AFHQv2)] <br>
+ImageNet dataset: [[Download](https://image-net.org/download.php)], MS-COCO dataset [[Download1](https://cocodataset.org/#download)] [[Download2](https://huggingface.co/datasets/detection-datasets/coco)], LSUN dataset [[Download1](http://lsun.cs.princeton.edu/2017)] [[Download2](https://hyper.ai/datasets/5675)] [[Download(church)](https://huggingface.co/datasets/tglcourse/lsun_church_train)] [[Download(bedrooms)](https://huggingface.co/datasets/pcuenq/lsun-bedrooms)], AFHQv2 dataset [[Download1](https://www.dropbox.com/scl/fi/0aha0j1yvhjdnr1r86u0g/?rlkey=ji6v8s9tkma1vg87bwowi9v1e&e=1)] [[Download2](https://huggingface.co/datasets/huggan/AFHQv2)] <br>
+
+### Medical Datasets
+
+Prostate-MRI-US-Biopsy dataset [[Download1](https://www.cancerimagingarchive.net/collection/prostate-mri-us-biopsy/)] [[Download2](https://drive.google.com/file/d/1kF0g8fMR5XPQ2FTbutfTQ-hwG_mTqerx/view)], LDCT-and-Projection-data  dataset [[Download1](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758026)] [[Download2](https://drive.google.com/file/d/1kF0g8fMR5XPQ2FTbutfTQ-hwG_mTqerx/view)], BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Download2](https://drive.google.com/file/d/1kF0g8fMR5XPQ2FTbutfTQ-hwG_mTqerx/view)] <br>
 
 
 ## 2024
