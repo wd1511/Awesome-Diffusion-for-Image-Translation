@@ -259,7 +259,7 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2310.00224)]
 **Denoising Diffusion Bridge Models** <br>
 *Linqi Zhou, Aaron Lou, Samar Khanna, Stefano Ermon.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2309.16948)] 
-[[Github1](https://github.com/alexzhou907/DDBM)] [[Github2](https://github.com/galaxygliese/Latent-DDBM)]<br>
+[[Github-1](https://github.com/alexzhou907/DDBM)] [[Github-2](https://github.com/galaxygliese/Latent-DDBM)]<br>
 
 **Multiple Noises in Diffusion Model for Semi-Supervised Multi-Domain Translation** <br>
 *Tsiry Mayet, Simon Bernard, Clement Chatelain, Romain Herault.* <br>
@@ -381,12 +381,12 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2307.02698)] <br>
 **DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models** <br> 
 *Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2307.02421)] 
-[[Project](https://mc-e.github.io/project/DragonDiffusion/)] [[Github1](https://github.com/MC-E/DragonDiffusion)] [[Github2](https://github.com/stroopwafl/dragon_diffusion)] <br>
+[[Project](https://mc-e.github.io/project/DragonDiffusion/)] [[Github-1](https://github.com/MC-E/DragonDiffusion)] [[Github-2](https://github.com/stroopwafl/dragon_diffusion)] <br>
 
 **DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing** <br>
 *Yujun Shi, Chuhui Xue, Jiachun Pan, Wenqing Zhang, Vincent Y. F. Tan, Song Bai.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2306.14435)] 
-[[Github1](https://github.com/Yujun-Shi/DragDiffusion)] [[Github2](https://github.com/JiauZhang/DragDiffusion)] <br>
+[[Github-1](https://github.com/Yujun-Shi/DragDiffusion)] [[Github-2](https://github.com/JiauZhang/DragDiffusion)] <br>
 
 **ArtFusion: Controllable Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models** <br>
 *Dar-Yen Chen.* <br>
