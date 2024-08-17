@@ -3,8 +3,8 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wd1511/Awesome-Diffusion-for-Image-Translation) 
 
 ```Latex
-**Here is the Paper Name**<br>
-*[Author 1](homepage), Author 2, and Author 3.*<br>
+**Here is the Paper Name** <br>
+*[Author 1](homepage), Author 2, and Author 3.* <br>
 Conference or Journal Year. [[PDF](link)] <br>
 [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
 ```
@@ -259,7 +259,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2309.08251)] <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2309.06933)] 
 [[Project](https://nmhkahn.github.io/dreamstyler/)] [[Github](https://github.com/nmhkahn/dreamstyler)] <br>
 
-**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**<br>
+**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud** <br>
 *Chengyu Wang, Zhongjie Duan, Bingyan Liu, Xinyi Zou, Cen Chen, Kui Jia, Jun Huang.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2309.05534)] <br>
 
@@ -280,7 +280,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2309.01770)] <br>
 *Shih-Chieh Su.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2308.16490)] <br>
 
-**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**<br>
+**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer** <br>
 *Zachary Horvitz, Ajay Patel, Chris Callison-Burch, Zhou Yu and Kathleen McKeown.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2308.15459)] 
 [[Github](https://github.com/zacharyhorvitz/ParaGuide)] <br>
@@ -312,7 +312,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2308.10079)]
 [[Project](https://medm2023.github.io/)] 
 [[Github](https://github.com/jwliao1209/diffqrcode)] <br>
 
-**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**<br>
+**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models** <br>
 *Zhizhong Wang, Lei Zhao, Wei Xing.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2308.07863)] <br>
 
@@ -372,8 +372,8 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2307.02421)]
 arXiv 2023. [[PDF](https://arxiv.org/abs/2306.14435)] 
 [[Github1](https://github.com/Yujun-Shi/DragDiffusion)] [[Github2](https://github.com/JiauZhang/DragDiffusion)] <br>
 
-**ArtFusion: Controllable Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**<br>
-*Dar-Yen Chen.*<br>
+**ArtFusion: Controllable Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models** <br>
+*Dar-Yen Chen.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2306.09330)] 
 [[Github](https://github.com/ChenDarYen/ArtFusion)] <br>
 
