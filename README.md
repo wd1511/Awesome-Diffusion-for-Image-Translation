@@ -52,16 +52,6 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2024
 
-**A Diffusion Model Translator for Efficient Image-to-Image Translation** <br>
-*Mengfei Xia, Yu Zhou, Ran Yi, Yong-Jin Liu, Wenping Wang.* <br>
-TPAMI 2024. [[PDF](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
-[[Github](https://github.com/THU-LYJ-Lab/dmt)] <br>
-
-**InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation** <br>
-*Haofan Wang, Peng Xing, Renyuan Huang, Hao Ai, Qixun Wang, Xu Bai.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.00788)] 
-[[Project](instantstyle-plus.github.io)] <br>
-
 **F2FLDM: Latent Diffusion Models with Histopathology Pre-Trained Embeddings for Unpaired Frozen Section to FFPE Translation** <br>
 *Man M. Ho, Shikha Dubey, Yosep Chong, Beatrice Knudsen, Tolga Tasdizen.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.12650)]
@@ -97,6 +87,16 @@ IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.0322
 SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
 [[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
+**A Diffusion Model Translator for Efficient Image-to-Image Translation** <br>
+*Mengfei Xia, Yu Zhou, Ran Yi, Yong-Jin Liu, Wenping Wang.* <br>
+TPAMI 2024. [[PDF](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
+[[Github](https://github.com/THU-LYJ-Lab/dmt)] <br>
+
+**InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation** <br>
+*Haofan Wang, Peng Xing, Renyuan Huang, Hao Ai, Qixun Wang, Xu Bai.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.00788)] 
+[[Project](instantstyle-plus.github.io)] <br>
+
 **D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** <br>
 *Onkar Susladkar, Gayatri Deshmukh, Sparsh Mittal, Parth Shastri.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03558)] <br>
@@ -107,7 +107,8 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03355)] <br>
 
 **Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention** <br>
 *Susung Hong.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.00760)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.00760)] 
+[[Github](https://github.com/susunghong/seg-sdxl)] <br>
 
 **TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models** <br>
 *Gilad Deutch, Rinon Gal, Daniel Garibi, Or Patashnik, Daniel Cohen-Or.* <br>
@@ -127,7 +128,8 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2407.12783)] <br>
 
 **PID: Physics-Informed Diffusion Model for Infrared Image Generation** <br>
 *Fangyuan Mao, Jilin Mei, Shun Lu, Fuyang Liu, Liang Chen, Fangzhou Zhao, Yu Hu.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.09299)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.09299)] 
+[[Github](https://github.com/fangyuanmao/pid)] <br>
 
 **AirSketch: Generative Motion to Sketch** <br>
 *Hui Xian Grace Lim, Xuanming Cui, Yogesh S Rawat, Ser-Nam Lim.* <br>
@@ -139,7 +141,8 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05209)] <br>
 
 **Slice-Consistent 3D Volumetric Brain CT-to-MRI Translation with 2D Brownian Bridge Diffusion Model** <br>
 *Kyobin Choo, Youngjun Jun, Mijin Yun, Seong Jae Hwang.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05059)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05059)] 
+[[Github](https://github.com/MICV-yonsei/CT2MRI)]<br>
 
 **Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation** <br>
 *Xiang Gao, Zhengbo Xu, Junhan Zhao, Jiaying Liu.* <br>
