@@ -143,7 +143,8 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05059)] <br>
 
 **Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation** <br>
 *Xiang Gao, Zhengbo Xu, Junhan Zhao, Jiaying Liu.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.03006)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.03006)] 
+[[Github](https://github.com/xianggao1102/fcdiffusion)] <br>
 
 **MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data** <br>
 *William Berman, Alexander Peysakhovich.* <br>
@@ -177,7 +178,9 @@ arXiv 2024, [[PDF](https://arxiv.org/abs/2405.14802)]
 
 **Self-Consistent Recursive Diffusion Bridge for Medical Image Translation** <br>
 *Jose-Luis Poza-Lujan, Pedro Uribe-Chavert, Juan-Luis Posadas-Yagüe.* <br>
-arXiv 2024, [[PDF](https://arxiv.org/abs/2405.06789)] <br>
+arXiv 2024, [[PDF](http://arxiv.org/abs/2405.06789v1)] 
+[[PDF(old)](https://arxiv.org/abs/2405.06789)] 
+[[Github](https://github.com/icon-lab/SelfRDB)] <br>
 
 **GeoDiffuser: Geometry-Based Image Editing with Diffusion Models** <br>
 *Rahul Sajnani, Jeroen Vanbaar, Jie Min, Kapil Katyal, Srinath Sridhar.* <br>
@@ -451,7 +454,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2304.11829)] <br>
 
 **Face Animation with an Attribute-Guided Diffusion Model** <br>
 *Bohan Zeng, Xuhui Liu, Sicheng Gao, Boyu Liu, Hong Li, Jianzhuang Liu, Baochang Zhang.* <br>
-arXiv 2023. [[PDF](http://arxiv.org/pdf/2304.03199v1)] [[PDF(old)](https://arxiv.org/abs/2304.03199)]
+arXiv 2023. [[PDF](http://arxiv.org/abs/2304.03199v1)] [[PDF(old)](https://arxiv.org/abs/2304.03199)]
 [[Github](https://github.com/zengbohan0217/fadm)] <br>
 
 **Reference-based Image Composition with Sketch via Structure-aware Diffusion Model** <br>
