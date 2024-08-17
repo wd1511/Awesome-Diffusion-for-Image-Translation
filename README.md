@@ -432,11 +432,13 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2304.11829)] <br>
 
 **Face Animation with an Attribute-Guided Diffusion Model** <br>
 *Bohan Zeng, Xuhui Liu, Sicheng Gao, Boyu Liu, Hong Li, Jianzhuang Liu, Baochang Zhang.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2304.03199)] <br>
+arXiv 2023. [[PDF](http://arxiv.org/pdf/2304.03199v1)] [[PDF(old)](https://arxiv.org/abs/2304.03199)]
+[[Github](https://github.com/zengbohan0217/fadm)] <br>
 
 **Reference-based Image Composition with Sketch via Structure-aware Diffusion Model** <br>
 *Kangyeol Kim, Sunghyun Park, Junsoo Lee, Jaegul Choo.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2304.09748)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2304.09748)] 
+[[Github](https://github.com/kangyeolk/paint-by-sketch)] <br>
 
 **PAIR-Diffusion: A Comprehensive Multimodal Object-Level Image Editor** <br>
 *Vidit Goel, Elia Peruzzo, Yifan Jiang, Dejia Xu, Xingqian Xu, Nicu Sebe, Trevor Darrell, Zhangyang Wang, Humphrey Shi.* <br>
@@ -488,7 +490,9 @@ ACMMM 2023. [[PDF](https://arxiv.org/abs/2311.05463)]
 
 **General Image-to-Image Translation with One-Shot Image Guidance** <br>
 *Bin Cheng, Zuhao Liu, Yunbo Peng, Yue Lin.* <br>
-ICCV 2023. [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cheng_General_Image-to-Image_Translation_with_One-Shot_Image_Guidance_ICCV_2023_paper.pdf)] <br>
+ICCV 2023. [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cheng_General_Image-to-Image_Translation_with_One-Shot_Image_Guidance_ICCV_2023_paper.pdf)] 
+[[PDF(old)](https://arxiv.org/abs/2307.14352)] 
+[[Github](https://github.com/crystalneuro/visual-concept-translator)] <br>
 
 **MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** <br>
 *Omer Bar-Tal, Lior Yariv, Yaron Lipman, Tali Dekel.* <br>
