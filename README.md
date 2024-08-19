@@ -27,7 +27,7 @@ python download.py
 GTA5 dataset: [[Download](https://download.visinf.tu-darmstadt.de/data/from_games/index.html)] <br>
 Viper dataset: [[Download](https://playing-for-benchmarks.org)] <br>
 
-### Real Datasets
+### Real-world Datasets
 
 Cityscapes dataset: [[Download](https://www.cityscapes-dataset.com/downloads/)] <br>
 BDD100K dataset: [[Download](https://bdd-data.berkeley.edu)] <br>
@@ -52,10 +52,23 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2024
 
-**F2FLDM: Latent Diffusion Models with Histopathology Pre-Trained Embeddings for Unpaired Frozen Section to FFPE Translation** <br>
-*Man M. Ho, Shikha Dubey, Yosep Chong, Beatrice Knudsen, Tolga Tasdizen.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2404.12650)]
-[[Github](https://github.com/minhmanho/f2f_ldm)] <br>
+**D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** <br>
+*Onkar Susladkar, Gayatri Deshmukh, Sparsh Mittal, Parth Shastri.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03558)] <br>
+
+**FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning** <br>
+*Zhi Chen, Zecheng Zhao, Yadan Luo, Zi Huang.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03355)] <br>
+
+**Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer** <br>
+*Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.* <br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09008)]
+[[Github](https://github.com/jiwoogit/StyleID)] <br>
+
+**Cross-Image Attention for Zero-Shot Appearance Transfer** <br>
+*Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.* <br>
+SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
+[[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
 **UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models** <br>
 *Yihua Zhang, Yimeng Zhang, Yuguang Yao, Jinghan Jia, Jiancheng Liu, Xiaoming Liu, Sijia Liu.* <br>
@@ -82,13 +95,10 @@ TPAMI 2024. [[PDF](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.00788)] 
 [[Project](instantstyle-plus.github.io)] <br>
 
-**D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** <br>
-*Onkar Susladkar, Gayatri Deshmukh, Sparsh Mittal, Parth Shastri.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03558)] <br>
-
-**FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning** <br>
-*Zhi Chen, Zecheng Zhao, Yadan Luo, Zi Huang.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03355)] <br>
+**F2FLDM: Latent Diffusion Models with Histopathology Pre-Trained Embeddings for Unpaired Frozen Section to FFPE Translation** <br>
+*Man M. Ho, Shikha Dubey, Yosep Chong, Beatrice Knudsen, Tolga Tasdizen.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.12650)]
+[[Github](https://github.com/minhmanho/f2f_ldm)] <br>
 
 **Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention** <br>
 *Susung Hong.* <br>
@@ -205,16 +215,6 @@ Electronics 2024. [[Paper](https://www.mdpi.com/2079-9292/13/3/509)] <br>
 *Yupei Lin, Xiaoyu Xian, Yukai Shi, Liang Lin.* <br>
 IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.03221)]
 [[Github](https://github.com/MirrorDiffusion/MirrorDiffusion)] <br>
-
-**Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer** <br>
-*Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.* <br>
-CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09008)]
-[[Github](https://github.com/jiwoogit/StyleID)] <br>
-
-**Cross-Image Attention for Zero-Shot Appearance Transfer** <br>
-*Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.* <br>
-SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
-[[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
 
 ## 2023
