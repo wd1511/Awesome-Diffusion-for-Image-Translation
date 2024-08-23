@@ -52,6 +52,10 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2024
 
+**FAGStyle: Feature Augmentation on Geodesic Surface for Zero-shot Text-guided Diffusion Image Style Transfer** <br>
+*Yuexing Han, Liheng Ruan, Bing Wang.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.10533)] <br>
+
 **D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** <br>
 *Onkar Susladkar, Gayatri Deshmukh, Sparsh Mittal, Parth Shastri.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03558)] <br>
@@ -79,6 +83,10 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2402.11846)]
 *Hanzhang Wang, Haoran Wang, Jinze Yang, Zhongrui Yu, Zeke Xie, Lei Tian, Xinyan Xiao, Junjun Jiang, Xianming Liu, Mingming Sun.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 [[Github](https://github.com/wd1511/HiCAST)] <br>
+
+**JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet** <br>
+*Yujia Gu, Haofeng Li, Xinyu Fang, Zihan Peng, Yinan Peng.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.11744)] <br>
 
 **Z\*: Zero-shot Style Transfer via Attention Rearrangement** <br>
 *Yingying Deng, Xiangyu He, Fan Tang, Weiming Dong.* <br>
