@@ -60,10 +60,6 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2408.10533)] <br>
 *Onkar Susladkar, Gayatri Deshmukh, Sparsh Mittal, Parth Shastri.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03558)] <br>
 
-**FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning** <br>
-*Zhi Chen, Zecheng Zhao, Yadan Luo, Zi Huang.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03355)] <br>
-
 **Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer** <br>
 *Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.* <br>
 CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09008)]
@@ -87,6 +83,10 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 **JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet** <br>
 *Yujia Gu, Haofeng Li, Xinyu Fang, Zihan Peng, Yinan Peng.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.11744)] <br>
+
+**FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning** <br>
+*Zhi Chen, Zecheng Zhao, Yadan Luo, Zi Huang.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03355)] <br>
 
 **Z\*: Zero-shot Style Transfer via Attention Rearrangement** <br>
 *Yingying Deng, Xiangyu He, Fan Tang, Weiming Dong.* <br>
