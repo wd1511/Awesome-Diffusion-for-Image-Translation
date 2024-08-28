@@ -234,10 +234,25 @@ IJCAI 2024. [[PDF](https://arxiv.org/abs/2404.11474)]
 *Joao Gabriel Vinholi, Marco Chini, Anis Amziane, Renato Machado, Danilo Silva, Patrick Matgen.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11243)] <br>
 
-**One-Shot Structure-Aware Stylized Image Synthesis**
+**MultiColor: Image Colorization by Learning from Multiple Color Spaces** <br>
+*Xiangcheng Du, Zhao Zhou, Xingjiao Wu, Yanlong Wang, Zhuoyao Wang, Yingbin Zheng, Cheng Jin.* <br>
+**Image Colorization**, Fudan University <br>
+ACMMM 2024. [[PDF](https://openreview.net/pdf?id=Zo4P2F7xLY)] <br>
+
+**Automatic Controllable Colorization via Imagination** <br>
+*Xiaoyan Cong, Yue Wu, Qifeng Chen, Chenyang Lei.* <br>
+**Image Colorization**, CAIR, HKISI-CAS et al. <br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2404.05661)] [[Project](https://xy-cong.github.io/imagine-colorization/)] [[Github](https://github.com/xy-cong/imagine-colorization)]<br>
+
+**One-Shot Structure-Aware Stylized Image Synthesis** <br>
 *Hansam Cho, Jonghyun Lee, Seunggyu Chang, Yonghyun Jeong.* <br>
 CVPR 2024. [[PDF](https://arxiv.org/abs/2402.17275v1)] 
 [[Github](https://github.com/hansam95/osasis)] <br>
+
+**Control Color: Multimodal Diffusion-based Interactive Image Colorization** <br>
+*Zhexin Liang, Zhaochen Li, Shangchen Zhou, Chongyi Li, Chen Change Loy.* <br>
+**Image Colorization**, Nanyang Technological University <br>
+Arxiv 2024, [[PDf](https://arxiv.org/abs/2402.10855)] <br>
 
 **Image Translation as Diffusion Visual Programmers** <br>
 *Cheng Han, James C. Liang, Qifan Wang, Majid Rabbani, Sohail Dianat, Raghuveer Rao, Ying Nian Wu, Dongfang Liu.* <br>
@@ -264,6 +279,11 @@ IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.0322
 *Haoming Liu, Yuanhe Guo, Shengjie Wang, Hongyi Wen.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08873)]
 [[Github](https://github.com/MAPS-research/Ditail)] <br>
+
+**Diffusing Colors: Image Colorization with Text Guided Diffusion** <br>
+*Nir Zabari, Aharon Azulay, Alexey Gorkor, Tavi Halperin, Ohad Fried.* <br>
+**Image Colorization**, Lightricks <br>
+SIGGRAPH Asia 2023. [[PDF](https://arxiv.org/abs/2312.04145)] [[Project](https://aharonazulay.github.io/project_page_colorization/)]<br>
 
 **Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention** <br>
 *Jianjin Xu, Saman Motamed, Praneetha Vaddamanu, Chen Henry Wu, Christian Haene, Jean-Charles Bazin, Fernando de la Torre.* <br>
@@ -496,15 +516,20 @@ arXiv 2023. [[PDF](http://arxiv.org/abs/2305.04651v1)]
 *Zeyu Lu, Chengyue Wu, Xinyuan Chen, Yaohui Wang, Yu Qiao, Xihui Liu.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2304.11829)] <br>
 
-**Face Animation with an Attribute-Guided Diffusion Model** <br>
-*Bohan Zeng, Xuhui Liu, Sicheng Gao, Boyu Liu, Hong Li, Jianzhuang Liu, Baochang Zhang.* <br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2304.03199v1)] [[PDF(old)](https://arxiv.org/abs/2304.03199)]
-[[Github](https://github.com/zengbohan0217/fadm)] <br>
+**Improved Diffusion-based Image Colorization via Piggybacked Models** <br>
+*Hanyuan Liu, Jinbo Xing, Minshan Xie, Chengze Li, Tien-Tsin Wong.* <br>
+**Image Colorization**, The Chinese University of Hong Kong & Caritas Institute of Higher Education <br>
+arXiv 2023. [[PDF](https://arxiv.org/pdf/2304.11105)] [[Project](https://piggyback-color.github.io)] [[Github](https://github.com/hyliu/piggyback-color)] <br>
 
 **Reference-based Image Composition with Sketch via Structure-aware Diffusion Model** <br>
 *Kangyeol Kim, Sunghyun Park, Junsoo Lee, Jaegul Choo.* <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2304.09748)] 
 [[Github](https://github.com/kangyeolk/paint-by-sketch)] <br>
+
+**Face Animation with an Attribute-Guided Diffusion Model** <br>
+*Bohan Zeng, Xuhui Liu, Sicheng Gao, Boyu Liu, Hong Li, Jianzhuang Liu, Baochang Zhang.* <br>
+arXiv 2023. [[PDF](http://arxiv.org/abs/2304.03199v1)] [[PDF(old)](https://arxiv.org/abs/2304.03199)]
+[[Github](https://github.com/zengbohan0217/fadm)] <br>
 
 **PAIR-Diffusion: A Comprehensive Multimodal Object-Level Image Editor** <br>
 *Vidit Goel, Elia Peruzzo, Yifan Jiang, Dejia Xu, Xingqian Xu, Nicu Sebe, Trevor Darrell, Zhangyang Wang, Humphrey Shi.* <br>
