@@ -52,6 +52,18 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2024
 
+**SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models** <br>
+*Danush Kumar Venkatesh, Dominik Rivoir, Micha Pfeiffer, Stefanie Speidel.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09822)] <br>
+
+**Unpaired Volumetric Harmonization of Brain MRI with Conditional Latent Diffusion** <br>
+*Mengqi Wu, Minhui Yu, Shuaiming Jing, Pew-Thian Yap, Zhengwu Zhang, Mingxia Liu.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09315)] <br>
+
+**Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation** <br>
+*Seon-Hoon Kim, Dae-won Chung.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.07947)] <br>
+
 **FAGStyle: Feature Augmentation on Geodesic Surface for Zero-shot Text-guided Diffusion Image Style Transfer** <br>
 *Yuexing Han, Liheng Ruan, Bing Wang.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.10533)] <br>
