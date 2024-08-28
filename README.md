@@ -52,43 +52,52 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2024
 
+**FAGStyle: Feature Augmentation on Geodesic Surface for Zero-shot Text-guided Diffusion Image Style Transfer** <br>
+*Yuexing Han, Liheng Ruan, Bing Wang.* <br>
+**Image Style Transfer**, Shanghai University <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.10533)] <br>
+
 **SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models** <br>
 *Danush Kumar Venkatesh, Dominik Rivoir, Micha Pfeiffer, Stefanie Speidel.* <br>
+**Medical Image Translation**, NCT/UCC Dresden et al. <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09822)] <br>
 
 **Unpaired Volumetric Harmonization of Brain MRI with Conditional Latent Diffusion** <br>
 *Mengqi Wu, Minhui Yu, Shuaiming Jing, Pew-Thian Yap, Zhengwu Zhang, Mingxia Liu.* <br>
+**Medical Image Translation**, University of North Carolina <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09315)] <br>
 
 **Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation** <br>
 *Seon-Hoon Kim, Dae-won Chung.* <br>
+**Medical Image Translation**, Korea National University of Science and Technology et al. <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.07947)] <br>
-
-**FAGStyle: Feature Augmentation on Geodesic Surface for Zero-shot Text-guided Diffusion Image Style Transfer** <br>
-*Yuexing Han, Liheng Ruan, Bing Wang.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.10533)] <br>
 
 **D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** <br>
 *Onkar Susladkar, Gayatri Deshmukh, Sparsh Mittal, Parth Shastri.* <br>
+**Image Style Transfer**, Indian Institute of Technology et al. <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03558)] <br>
 
 **Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer** <br>
 *Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.* <br>
+**Image Style Transfer**, Sungkyunkwan University <br>
 CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09008)]
 [[Github](https://github.com/jiwoogit/StyleID)] <br>
 
 **Cross-Image Attention for Zero-Shot Appearance Transfer** <br>
 *Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.* <br>
+**Image Style Transfer**, Tel Aviv University <br>
 SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
 [[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
 **UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models** <br>
 *Yihua Zhang, Yimeng Zhang, Yuguang Yao, Jinghan Jia, Jiancheng Liu, Xiaoming Liu, Sijia Liu.* <br>
+**Image Style Transfer**, Michigan State University & IBM Research & Cisco Research <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2402.11846)]
 [[Github](https://github.com/OPTML-Group/UnlearnCanvas)] <br>
 
 **HiCAST: Highly Customized Arbitrary Style Transfer with Adapter Enhanced Diffusion Models** <br>
 *Hanzhang Wang, Haoran Wang, Jinze Yang, Zhongrui Yu, Zeke Xie, Lei Tian, Xinyan Xiao, Junjun Jiang, Xianming Liu, Mingming Sun.* <br>
+**Image Style Transfer**, Harbin Institute of Technology & Baidu <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 [[Github](https://github.com/wd1511/HiCAST)] <br>
 
