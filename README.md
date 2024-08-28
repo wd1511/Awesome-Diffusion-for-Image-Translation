@@ -57,16 +57,6 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 **Image Style Transfer**, Shanghai University <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.10533)] <br>
 
-**SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models** <br>
-*Danush Kumar Venkatesh, Dominik Rivoir, Micha Pfeiffer, Stefanie Speidel.* <br>
-**Medical Image Translation**, NCT/UCC Dresden et al. <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09822)] <br>
-
-**Unpaired Volumetric Harmonization of Brain MRI with Conditional Latent Diffusion** <br>
-*Mengqi Wu, Minhui Yu, Shuaiming Jing, Pew-Thian Yap, Zhengwu Zhang, Mingxia Liu.* <br>
-**Medical Image Translation**, University of North Carolina <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09315)] <br>
-
 **Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation** <br>
 *Seon-Hoon Kim, Dae-won Chung.* <br>
 **Medical Image Translation**, Korea National University of Science and Technology et al. <br>
@@ -103,60 +93,77 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 
 **JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet** <br>
 *Yujia Gu, Haofeng Li, Xinyu Fang, Zihan Peng, Yinan Peng.* <br>
+**Image Style Transfer**, California State University et al. <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.11744)] <br>
+
+**SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models** <br>
+*Danush Kumar Venkatesh, Dominik Rivoir, Micha Pfeiffer, Stefanie Speidel.* <br>
+**Medical Image Translation**, NCT/UCC Dresden et al. <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09822)] <br>
+
+**Unpaired Volumetric Harmonization of Brain MRI with Conditional Latent Diffusion** <br>
+*Mengqi Wu, Minhui Yu, Shuaiming Jing, Pew-Thian Yap, Zhengwu Zhang, Mingxia Liu.* <br>
+**Medical Image Translation**, University of North Carolina <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09315)] <br>
 
 **FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning** <br>
 *Zhi Chen, Zecheng Zhao, Yadan Luo, Zi Huang.* <br>
+**Image Editing**, University of Queensland <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03355)] <br>
-
-**Z\*: Zero-shot Style Transfer via Attention Rearrangement** <br>
-*Yingying Deng, Xiangyu He, Fan Tang, Weiming Dong.* <br>
-CVPR2024. [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_Z_Zero-shot_Style_Transfer_via_Attention_Reweighting_CVPR_2024_paper.pdf)] [[PDF(old)](https://arxiv.org/abs/2311.16491)]
-[[Github](https://github.com/HolmesShuan/Zero-shot-Style-Transfer-via-Attention-Rearrangement)] <br>
-
-**A Diffusion Model Translator for Efficient Image-to-Image Translation** <br>
-*Mengfei Xia, Yu Zhou, Ran Yi, Yong-Jin Liu, Wenping Wang.* <br>
-TPAMI 2024. [[PDF](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
-[[Github](https://github.com/THU-LYJ-Lab/dmt)] <br>
-
-**InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation** <br>
-*Haofan Wang, Peng Xing, Renyuan Huang, Hao Ai, Qixun Wang, Xu Bai.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.00788)] 
-[[Project](instantstyle-plus.github.io)] <br>
-
-**F2FLDM: Latent Diffusion Models with Histopathology Pre-Trained Embeddings for Unpaired Frozen Section to FFPE Translation** <br>
-*Man M. Ho, Shikha Dubey, Yosep Chong, Beatrice Knudsen, Tolga Tasdizen.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2404.12650)]
-[[Github](https://github.com/minhmanho/f2f_ldm)] <br>
 
 **Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention** <br>
 *Susung Hong.* <br>
+**Else Papers**, Korea University<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.00760)] 
 [[Github](https://github.com/susunghong/seg-sdxl)] <br>
 
 **TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models** <br>
 *Gilad Deutch, Rinon Gal, Daniel Garibi, Or Patashnik, Daniel Cohen-Or.* <br>
+**Image Editing**, Tel-Aviv University & NVIDIA <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.00735)] <br>
+
+**Z\*: Zero-shot Style Transfer via Attention Rearrangement** <br>
+*Yingying Deng, Xiangyu He, Fan Tang, Weiming Dong.* <br>
+**Image Style Transfer**, Chinese Academy of Sciences <br>
+CVPR2024. [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_Z_Zero-shot_Style_Transfer_via_Attention_Reweighting_CVPR_2024_paper.pdf)] [[PDF(old)](https://arxiv.org/abs/2311.16491)]
+[[Github](https://github.com/HolmesShuan/Zero-shot-Style-Transfer-via-Attention-Rearrangement)] <br>
+
+**A Diffusion Model Translator for Efficient Image-to-Image Translation** <br>
+*Mengfei Xia, Yu Zhou, Ran Yi, Yong-Jin Liu, Wenping Wang.* <br>
+**Base I2I translation**, Tsinghua University & Shanghai Jiao Tong University & Texas A&M University <br>
+TPAMI 2024. [[PDF](https://ieeexplore.ieee.org/abstract/document/10614866)]
+[[Github](https://github.com/THU-LYJ-Lab/dmt)] <br>
+
+**InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation** <br>
+*Haofan Wang, Peng Xing, Renyuan Huang, Hao Ai, Qixun Wang, Xu Bai.* <br>
+**Image Style Transfer**, InstantX Team <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2407.00788)] 
+[[Project](instantstyle-plus.github.io)] <br>
 
 **SAR to Optical Image Translation with Color Supervised Diffusion Model** <br>
 *Xinyu Bai, Feng Xu.* <br>
+**Medical Image Translation**, Fudan University <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.16921)] <br>
 
 **A Survey of Text Style Transfer: Applications and Ethical Implications** <br>
 *Sourabrata Mukherjee, Mateusz Lango, Zdenek Kasner, Ondrej Dušek.* <br>
+**Else Papers**, Charles University <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.16737)] <br>
 
 **SMooDi: Stylized Motion Diffusion Model** <br>
 *Lei Zhong, Yiming Xie, Varun Jampani, Deqing Sun, Huaizu Jiang.* <br>
+**Motion Transfer**, Northeastern University & Stability AI & Google Research <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.12783)] <br>
 
 **PID: Physics-Informed Diffusion Model for Infrared Image Generation** <br>
 *Fangyuan Mao, Jilin Mei, Shun Lu, Fuyang Liu, Liang Chen, Fangzhou Zhao, Yu Hu.* <br>
+**Infrared Image Translation**, Chinese Academy of Sciences <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.09299)] 
 [[Github](https://github.com/fangyuanmao/pid)] <br>
 
 **AirSketch: Generative Motion to Sketch** <br>
 *Hui Xian Grace Lim, Xuanming Cui, Yogesh S Rawat, Ser-Nam Lim.* <br>
+**Else Papers**, University of Central Florida <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.08906)] <br>
 
 **VisioBlend: Sketch and Stroke-Guided Denoising Diffusion Probabilistic Model for Realistic Image Generation** <br>
@@ -212,6 +219,11 @@ arXiv 2024, [[PDF](http://arxiv.org/abs/2405.06789v1)]
 **GeoDiffuser: Geometry-Based Image Editing with Diffusion Models** <br>
 *Rahul Sajnani, Jeroen Vanbaar, Jie Min, Kapil Katyal, Srinath Sridhar.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.14403)] <br>
+
+**F2FLDM: Latent Diffusion Models with Histopathology Pre-Trained Embeddings for Unpaired Frozen Section to FFPE Translation** <br>
+*Man M. Ho, Shikha Dubey, Yosep Chong, Beatrice Knudsen, Tolga Tasdizen.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.12650)]
+[[Github](https://github.com/minhmanho/f2f_ldm)] <br>
 
 **Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt Inversion** <br>
 *Zhanjie Zhang, Quanwei Zhang, Huaizhong Lin, Wei Xing, Juncheng Mo, Shuaicheng Huang, Jinheng Xie, Guangyuan Li, Junsheng Luan, Lei Zhao, Dalong Zhang, Lixia Chen.* <br>
