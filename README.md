@@ -91,6 +91,11 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2402.11846)]
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 [[Github](https://github.com/wd1511/HiCAST)] <br>
 
+**Seed-to-Seed: Image Translation in Diffusion Seed Space** <br>
+*Or Greenberg, Eran Kishon, Dani Lischinski.* <br>
+**Base I2I translation**, The Hebrew University of Jerusalem & GM R&D <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2409.00654)] <br>
+
 **JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet** <br>
 *Yujia Gu, Haofeng Li, Xinyu Fang, Zihan Peng, Yinan Peng.* <br>
 **Image Style Transfer**, California State University et al. <br>
@@ -138,7 +143,7 @@ TPAMI 2024. [[PDF](https://ieeexplore.ieee.org/abstract/document/10614866)]
 *Haofan Wang, Peng Xing, Renyuan Huang, Hao Ai, Qixun Wang, Xu Bai.* <br>
 **Image Style Transfer**, InstantX Team <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.00788)] 
-[[Project](instantstyle-plus.github.io)] <br>
+[[Project](instantstyle-plus.github.io)] [[Github](https://github.com/instantx-research/instantstyle-plus)] <br>
 
 **SAR to Optical Image Translation with Color Supervised Diffusion Model** <br>
 *Xinyu Bai, Feng Xu.* <br>
