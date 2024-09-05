@@ -249,6 +249,12 @@ ACMMM 2024. [[PDF](https://openreview.net/pdf?id=Zo4P2F7xLY)] <br>
 **Image Colorization**, CAIR, HKISI-CAS et al. <br>
 CVPR 2024. [[PDF](https://arxiv.org/abs/2404.05661)] [[Project](https://xy-cong.github.io/imagine-colorization/)] [[Github](https://github.com/xy-cong/imagine-colorization)]<br>
 
+**InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation** <br>
+*Haofan Wang, Matteo Spinelli, Qixun Wang, Xu Bai, Zekui Qin, Anthony Chen.* <br>
+**Image Style Transfer**, InstantX Team <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2404.02733)] [[Project](https://instantstyle.github.io)] 
+[[Github](https://github.com/instantX-research/InstantStyle)]<br>
+
 **One-Shot Structure-Aware Stylized Image Synthesis** <br>
 *Hansam Cho, Jonghyun Lee, Seunggyu Chang, Yonghyun Jeong.* <br>
 CVPR 2024. [[PDF](https://arxiv.org/abs/2402.17275v1)] 
