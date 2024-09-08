@@ -91,6 +91,17 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2402.11846)]
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 [[Github](https://github.com/wd1511/HiCAST)] <br>
 
+**StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models** <br>
+*Wen Li, Muyuan Fang, Cheng Zou, Biao Gong, Ruobing Zheng, Meng Wang, Jingdong Chen, Ming Yang.* <br>
+**Image Style Transfer**, Ant Group <br>
+ECCV 2024. [[PDF](https://arxiv.org/abs/2409.02543)] 
+[[Github](https://github.com/alipay/style-tokenizer)] <br>
+
+**Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis** <br>
+*Aishwarya Agarwal, Srikrishna Karanam, Balaji Vasan Srinivasan.* <br>
+**Image Style Transfer**, Adobe <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2409.02429)] <br>
+
 **Seed-to-Seed: Image Translation in Diffusion Seed Space** <br>
 *Or Greenberg, Eran Kishon, Dani Lischinski.* <br>
 **Base I2I translation**, The Hebrew University of Jerusalem & GM R&D <br>
