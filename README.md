@@ -68,12 +68,6 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2408.07947)] <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03558)] 
 [[Github](https://github.com/onkarsus13/d2styler)] <br>
 
-**Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer** <br>
-*Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.* <br>
-**Image Style Transfer**, Sungkyunkwan University <br>
-CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09008)]
-[[Github](https://github.com/jiwoogit/StyleID)] <br>
-
 **Cross-Image Attention for Zero-Shot Appearance Transfer** <br>
 *Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.* <br>
 **Image Style Transfer**, Tel Aviv University <br>
@@ -301,6 +295,12 @@ Electronics 2024. [[Paper](https://www.mdpi.com/2079-9292/13/3/509)] <br>
 *Yupei Lin, Xiaoyu Xian, Yukai Shi, Liang Lin.* <br>
 IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.03221)]
 [[Github](https://github.com/MirrorDiffusion/MirrorDiffusion)] <br>
+
+**Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer** <br>
+*Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.* <br>
+**Image Style Transfer**, Sungkyunkwan University <br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09008)]
+[[Github](https://github.com/jiwoogit/StyleID)] <br>
 
 
 ## 2023
