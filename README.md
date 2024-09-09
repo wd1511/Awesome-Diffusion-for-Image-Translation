@@ -80,12 +80,6 @@ CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09008)]
 SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
 [[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
-**UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models** <br>
-*Yihua Zhang, Yimeng Zhang, Yuguang Yao, Jinghan Jia, Jiancheng Liu, Xiaoming Liu, Sijia Liu.* <br>
-**Image Style Transfer**, Michigan State University & IBM Research & Cisco Research <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2402.11846)]
-[[Github](https://github.com/OPTML-Group/UnlearnCanvas)] <br>
-
 **HiCAST: Highly Customized Arbitrary Style Transfer with Adapter Enhanced Diffusion Models** <br>
 *Hanzhang Wang, Haoran Wang, Jinze Yang, Zhongrui Yu, Zeke Xie, Lei Tian, Xinyan Xiao, Junjun Jiang, Xianming Liu, Mingming Sun.* <br>
 **Image Style Transfer**, Harbin Institute of Technology & Baidu <br>
@@ -107,6 +101,11 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2409.02429)] <br>
 *Or Greenberg, Eran Kishon, Dani Lischinski.* <br>
 **Base I2I translation**, The Hebrew University of Jerusalem & GM R&D <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2409.00654)] <br>
+
+**Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing** <br>
+*Yitong Yang, Yinglin Wang, Jing Wang, Tian Zhang.* <br>
+**Image Editing**, Shanghai University of Finance and Economics <br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2408.13623)] <br>
 
 **JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet** <br>
 *Yujia Gu, Haofeng Li, Xinyu Fang, Zihan Peng, Yinan Peng.* <br>
@@ -273,6 +272,12 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2404.02733)] [[Project](https://instant
 *Hansam Cho, Jonghyun Lee, Seunggyu Chang, Yonghyun Jeong.* <br>
 CVPR 2024. [[PDF](https://arxiv.org/abs/2402.17275v1)] 
 [[Github](https://github.com/hansam95/osasis)] <br>
+
+**UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models** <br>
+*Yihua Zhang, Yimeng Zhang, Yuguang Yao, Jinghan Jia, Jiancheng Liu, Xiaoming Liu, Sijia Liu.* <br>
+**Image Style Transfer**, Michigan State University & IBM Research & Cisco Research <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2402.11846)]
+[[Github](https://github.com/OPTML-Group/UnlearnCanvas)] <br>
 
 **Control Color: Multimodal Diffusion-based Interactive Image Colorization** <br>
 *Zhexin Liang, Zhaochen Li, Shangchen Zhou, Chongyi Li, Chen Change Loy.* <br>
