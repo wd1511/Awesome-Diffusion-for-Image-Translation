@@ -277,7 +277,7 @@ CVPR 2024. [[PDF](https://arxiv.org/abs/2402.17275v1)]
 **Control Color: Multimodal Diffusion-based Interactive Image Colorization** <br>
 *Zhexin Liang, Zhaochen Li, Shangchen Zhou, Chongyi Li, Chen Change Loy.* <br>
 **Image Colorization**, Nanyang Technological University <br>
-Arxiv 2024, [[PDf](https://arxiv.org/abs/2402.10855)] <br>
+Arxiv 2024, [[PDF](https://arxiv.org/abs/2402.10855)] <br>
 
 **Image Translation as Diffusion Visual Programmers** <br>
 *Cheng Han, James C. Liang, Qifan Wang, Majid Rabbani, Sohail Dianat, Raghuveer Rao, Ying Nian Wu, Dongfang Liu.* <br>
