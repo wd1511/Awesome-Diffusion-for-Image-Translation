@@ -65,7 +65,8 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2408.07947)] <br>
 **D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** <br>
 *Onkar Susladkar, Gayatri Deshmukh, Sparsh Mittal, Parth Shastri.* <br>
 **Image Style Transfer**, Indian Institute of Technology et al. <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03558)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03558)] 
+[[Github](https://github.com/onkarsus13/d2styler)] <br>
 
 **Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer** <br>
 *Jiwoo Chung, Sangeek Hyun, Jae-Pil Heo.* <br>
@@ -184,10 +185,12 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2407.08906)] <br>
 
 **VisioBlend: Sketch and Stroke-Guided Denoising Diffusion Probabilistic Model for Realistic Image Generation** <br>
 *Harshkumar Devmurari, Gautham Kuckian, Prajjwal Vishwakarma, Krunali Vartak.* <br>
+**Image Editing**, Vidyavardhini’s College of Engineering and Technology <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05209)] <br>
 
 **Slice-Consistent 3D Volumetric Brain CT-to-MRI Translation with 2D Brownian Bridge Diffusion Model** <br>
 *Kyobin Choo, Youngjun Jun, Mijin Yun, Seong Jae Hwang.* <br>
+**Medical Image Translation**, Yonsei University <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05059)] 
 [[Github](https://github.com/MICV-yonsei/CT2MRI)]<br>
 
