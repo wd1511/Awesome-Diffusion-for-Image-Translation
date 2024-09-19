@@ -80,6 +80,17 @@ SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 [[Github](https://github.com/wd1511/HiCAST)] <br>
 
+**MagicStyle: Portrait Stylization Based on Reference Image** <br>
+*Zhaoli Deng, Kaibin Zhou, Fanyi Wang, Zhenpeng Mi.* <br>
+**Image Style Transfer**, Honor & Tongji University <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2409.08156)] <br>
+
+**TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces**
+*Bernardo Biesseck, Pedro Vidal, Luiz Coelho, Roger Granada, David Menotti.* <br>
+**Face style**, Federal University of Parana <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2409.03600)]
+[[Github](https://github.com/BOVIFOCR/tcdiff)] <br>
+
 **StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models** <br>
 *Wen Li, Muyuan Fang, Cheng Zou, Biao Gong, Ruobing Zheng, Meng Wang, Jingdong Chen, Ming Yang.* <br>
 **Image Style Transfer**, Ant Group <br>
