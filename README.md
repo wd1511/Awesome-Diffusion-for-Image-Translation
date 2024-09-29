@@ -80,6 +80,16 @@ SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 [[Github](https://github.com/wd1511/HiCAST)] <br>
 
+**EBDM: Exemplar-guided Image Translation with Brownian-bridge Diffusion Models** <br>
+*Eungbean Lee, Somi Jeong, Kwanghoon Sohn.* <br>
+**Base I2I translation**, Yonsei University & NAVER LABS & KIST <br>
+ECCV 2024, [[PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02096.pdf)] <br>
+
+**A Training-Free Latent Diffusion Style Transfer Method** <br>
+*Zhengtao Xiang, Xing Wan, Libo Xu, Xin Yu, Yuhan Mao.* <br>
+**Image Style Transfer**, Hubei University of Automotive Technology <br>
+Information, [[PDF](https://www.mdpi.com/2078-2489/15/10/588/pdf?version=1727347041)] <br>
+
 **MagicStyle: Portrait Stylization Based on Reference Image** <br>
 *Zhaoli Deng, Kaibin Zhou, Fanyi Wang, Zhenpeng Mi.* <br>
 **Image Style Transfer**, Honor & Tongji University <br>
@@ -126,6 +136,11 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09822)] <br>
 *Mengqi Wu, Minhui Yu, Shuaiming Jing, Pew-Thian Yap, Zhengwu Zhang, Mingxia Liu.* <br>
 **Medical Image Translation**, University of North Carolina <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09315)] <br>
+
+**Cross-conditioned Diffusion Model for Medical Image to Image Translation** <br>
+*Zhaohu Xing, Sicheng Yang, Sixiang Chen, Tian Ye, Yijun Yang, Jing Qin, Lei Zhu.* <br>
+**Medical Image Translation**, HKUST <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2409.08500)] <br>
 
 **FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning** <br>
 *Zhi Chen, Zecheng Zhao, Yadan Luo, Zi Huang.* <br>
