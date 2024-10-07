@@ -80,6 +80,16 @@ SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 [[Github](https://github.com/wd1511/HiCAST)] <br>
 
+**Harnessing the Latent Diffusion Model for Training-Free Image Style Transfer** <br>
+*Kento Masui, Mayu Otani, Masahiro Nomura, Hideki Nakayama.* <br>
+**Image Style Transfer**, CyberAgent <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2410.01366)] <br>
+
+**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**
+*Omar Zamzam.* <br>
+**Image Style Transfer**, University of Southern California <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2410.03021)] <br>
+
 **EBDM: Exemplar-guided Image Translation with Brownian-bridge Diffusion Models** <br>
 *Eungbean Lee, Somi Jeong, Kwanghoon Sohn.* <br>
 **Base I2I translation**, Yonsei University & NAVER LABS & KIST <br>
@@ -94,6 +104,11 @@ Information, [[PDF](https://www.mdpi.com/2078-2489/15/10/588/pdf?version=1727347
 *Zhaoli Deng, Kaibin Zhou, Fanyi Wang, Zhenpeng Mi.* <br>
 **Image Style Transfer**, Honor & Tongji University <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2409.08156)] <br>
+
+**Diffusion-Based Image-to-Image Translation by Noise Correction via Prompt Interpolation** <br>
+*Junsung Lee, Minsoo Kang, Bohyung Han.* <br>
+**Base I2I translation**, ECE & Seoul National University <br>
+ECCV 2024, [[PDF](https://arxiv.org/abs/2409.08077)] <br>
 
 **TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces**
 *Bernardo Biesseck, Pedro Vidal, Luiz Coelho, Roger Granada, David Menotti.* <br>
@@ -213,13 +228,21 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05209)] <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05059)] 
 [[Github](https://github.com/MICV-yonsei/CT2MRI)]<br>
 
+**Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization** <br>
+*Ming-Yang Ho, Che-Ming Wu, Min-Sheng Wu, Yufeng Jane Tseng.* <br>
+**Base I2I translation**, National Taiwan University & Amazon Web Services & aetherAI <br>
+ECCV 2024. [[PDF](https://arxiv.org/abs/2407.04245)]
+[[Project](https://kaminyou.com/Dense-Normalization/)] [[Github](https://github.com/Kaminyou/Dense-Normalization)] <br>
+
 **Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation** <br>
 *Xiang Gao, Zhengbo Xu, Junhan Zhao, Jiaying Liu.* <br>
+**Base I2I translation**, Peking University <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.03006)] 
 [[Github](https://github.com/xianggao1102/fcdiffusion)] <br>
 
 **MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data** <br>
 *William Berman, Alexander Peysakhovich.* <br>
+**Else Papers**, Residence Sutter Hill Ventures <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2406.18790)] <br>
 
 **Regularized Distribution Matching Distillation for One-step Unpaired Image-to-Image Translation** <br>
@@ -276,6 +299,12 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11243)] <br>
 *Xiangcheng Du, Zhao Zhou, Xingjiao Wu, Yanlong Wang, Zhuoyao Wang, Yingbin Zheng, Cheng Jin.* <br>
 **Image Colorization**, Fudan University <br>
 ACMMM 2024. [[PDF](https://openreview.net/pdf?id=Zo4P2F7xLY)] <br>
+
+**Tackling Structural Hallucination in Image Translation with Local Diffusion** <br>
+*Seunghoi Kim, Chen Jin, Tom Diethe, Matteo Figini, Henry F. J. Tregidgo, Asher Mullokandov, Philip Teare, Daniel C. Alexander.* <br>
+**Base I2I translation**, University College London <br>
+ECCV 2024. [[PDF](https://arxiv.org/abs/2404.05980)] 
+[[Github](https://github.com/edshkim98/LocalDiffusion-Hallucination)] <br>
 
 **Automatic Controllable Colorization via Imagination** <br>
 *Xiaoyan Cong, Yue Wu, Qifeng Chen, Chenyang Lei.* <br>
