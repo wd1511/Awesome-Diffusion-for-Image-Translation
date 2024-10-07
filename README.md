@@ -80,6 +80,16 @@ SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 [[Github](https://github.com/wd1511/HiCAST)] <br>
 
+**Harnessing the Latent Diffusion Model for Training-Free Image Style Transfer** <br>
+*Kento Masui, Mayu Otani, Masahiro Nomura, Hideki Nakayama.* <br>
+**Image Style Transfer**, CyberAgent <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2410.01366)] <br>
+
+**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**
+*Omar Zamzam.* <br>
+**Image Style Transfer**, University of Southern California <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2410.03021)] <br>
+
 **EBDM: Exemplar-guided Image Translation with Brownian-bridge Diffusion Models** <br>
 *Eungbean Lee, Somi Jeong, Kwanghoon Sohn.* <br>
 **Base I2I translation**, Yonsei University & NAVER LABS & KIST <br>
