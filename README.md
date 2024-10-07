@@ -52,6 +52,12 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2024
 
+**TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces**
+*Bernardo Biesseck, Pedro Vidal, Luiz Coelho, Roger Granada, David Menotti.* <br>
+**Face style**, Federal University of Parana <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2409.03600)]
+[[Github](https://github.com/BOVIFOCR/tcdiff)] <br>
+
 **FAGStyle: Feature Augmentation on Geodesic Surface for Zero-shot Text-guided Diffusion Image Style Transfer** <br>
 *Yuexing Han, Liheng Ruan, Bing Wang.* <br>
 **Image Style Transfer**, Shanghai University <br>
@@ -109,12 +115,6 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2409.08156)] <br>
 *Junsung Lee, Minsoo Kang, Bohyung Han.* <br>
 **Base I2I translation**, ECE & Seoul National University <br>
 ECCV 2024, [[PDF](https://arxiv.org/abs/2409.08077)] <br>
-
-**TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces**
-*Bernardo Biesseck, Pedro Vidal, Luiz Coelho, Roger Granada, David Menotti.* <br>
-**Face style**, Federal University of Parana <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2409.03600)]
-[[Github](https://github.com/BOVIFOCR/tcdiff)] <br>
 
 **StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models** <br>
 *Wen Li, Muyuan Fang, Cheng Zou, Biao Gong, Ruobing Zheng, Meng Wang, Jingdong Chen, Ming Yang.* <br>
