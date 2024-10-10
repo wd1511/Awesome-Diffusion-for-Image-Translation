@@ -96,6 +96,11 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2410.01366)] <br>
 **Image Style Transfer**, University of Southern California <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2410.03021)] <br>
 
+**Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization** <br>
+*Zichen Miao, Zhengyuan Yang, Kevin Lin, Ze Wang, Zicheng Liu, Lijuan Wang, Qiang Qiu.* <br>
+**Image Style Transfer**, Purdue University & Microsoft & AMD <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2410.03190)] <br>
+
 **EBDM: Exemplar-guided Image Translation with Brownian-bridge Diffusion Models** <br>
 *Eungbean Lee, Somi Jeong, Kwanghoon Sohn.* <br>
 **Base I2I translation**, Yonsei University & NAVER LABS & KIST <br>
