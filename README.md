@@ -52,7 +52,7 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2024
 
-**TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces**
+**TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces** <br>
 *Bernardo Biesseck, Pedro Vidal, Luiz Coelho, Roger Granada, David Menotti.* <br>
 **Face style**, Federal University of Parana <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2409.03600)]
@@ -91,7 +91,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 **Image Style Transfer**, CyberAgent <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2410.01366)] <br>
 
-**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement**
+**PixelShuffler: A Simple Image Translation Through Pixel Rearrangement** <br>
 *Omar Zamzam.* <br>
 **Image Style Transfer**, University of Southern California <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2410.03021)] <br>
