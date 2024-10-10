@@ -268,20 +268,24 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2406.09417)]
 
 **PASTA: Pathology-Aware MRI to PET Cross-Modal Translation with Diffusion Models** <br>
 *Yitong Li, Igor Yakushev, Dennis M. Hedderich, Christian Wachinger.* <br>
+**Medical Image Translation**, Technical University of Munich & MCML <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.16942)]
 [[Github](https://github.com/ai-med/pasta)] <br>
 
 **Diffusion Bridge Implicit Models** <br>
 *Kaiwen Zheng, Guande He, Jianfei Chen, Fan Bao, Jun Zhu.* <br>
+**Base I2I translation**,  Tsinghua University & Shengshu Technology <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2405.15885)] <br>
 
 **Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** <br>
 *Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao.* <br>
+**Medical Image Translation**, University of Florida & University of California <br>
 arXiv 2024, [[PDF](https://arxiv.org/abs/2405.14802)]
 [[Github](https://github.com/mirthai/fast-ddpm)] <br>
 
 **Self-Consistent Recursive Diffusion Bridge for Medical Image Translation** <br>
 *Jose-Luis Poza-Lujan, Pedro Uribe-Chavert, Juan-Luis Posadas-Yagüe.* <br>
+**Medical Image Translation**, Bilkent University & University of Illinois Urbana-Champaign <br>
 arXiv 2024, [[PDF](http://arxiv.org/abs/2405.06789v1)] 
 [[PDF(old)](https://arxiv.org/abs/2405.06789)] 
 [[Github](https://github.com/icon-lab/SelfRDB)] <br>
