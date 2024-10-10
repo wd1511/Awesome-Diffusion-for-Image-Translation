@@ -74,17 +74,17 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2408.07947)] <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03558)] 
 [[Github](https://github.com/onkarsus13/d2styler)] <br>
 
-**Cross-Image Attention for Zero-Shot Appearance Transfer** <br>
-*Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.* <br>
-**Image Style Transfer**, Tel Aviv University <br>
-SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
-[[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
-
 **HiCAST: Highly Customized Arbitrary Style Transfer with Adapter Enhanced Diffusion Models** <br>
 *Hanzhang Wang, Haoran Wang, Jinze Yang, Zhongrui Yu, Zeke Xie, Lei Tian, Xinyan Xiao, Junjun Jiang, Xianming Liu, Mingming Sun.* <br>
 **Image Style Transfer**, Harbin Institute of Technology & Baidu <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 [[Github](https://github.com/wd1511/HiCAST)] <br>
+
+**Cross-Image Attention for Zero-Shot Appearance Transfer** <br>
+*Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.* <br>
+**Image Style Transfer**, Tel Aviv University <br>
+SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
+[[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
 **Harnessing the Latent Diffusion Model for Training-Free Image Style Transfer** <br>
 *Kento Masui, Mayu Otani, Masahiro Nomura, Hideki Nakayama.* <br>
@@ -252,15 +252,19 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2406.18790)] <br>
 
 **Regularized Distribution Matching Distillation for One-step Unpaired Image-to-Image Translation** <br>
 *Denis Rakitin, Ivan Shchekotov, Dmitry Vetrov.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2406.14762)] <br>
+**Base I2I translation**, HSE University <br>
+ICML 2024 workshop. [[PDF](https://arxiv.org/abs/2406.14762)] <br>
 
 **AnyTrans: Translate AnyText in the Image with Large Scale Models** <br>
 *Zhipeng Qian, Pei Zhang, Baosong Yang, Kai Fan, Yiwei Ma, Derek F. Wong, Xiaoshuai Sun, Rongrong Ji.* <br>
+**Else Papers**, Xiamen University & Alibaba Group Inc <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2406.11432)] <br>
 
 **Rethinking Score Distillation as a Bridge Between Image Distributions** <br>
 *David McAllister, Songwei Ge, Jia-Bin Huang, David W. Jacobs, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa.* <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2406.09417)] <br>
+**Else Papers**, UC Berkeley & University of Maryland <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2406.09417)] 
+[[Project](https://sds-bridge.github.io/)] [[Github](https://github.com/davidmcall/SDS-Bridge)]<br>
 
 **PASTA: Pathology-Aware MRI to PET Cross-Modal Translation with Diffusion Models** <br>
 *Yitong Li, Igor Yakushev, Dennis M. Hedderich, Christian Wachinger.* <br>
