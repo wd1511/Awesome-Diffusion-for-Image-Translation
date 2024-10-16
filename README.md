@@ -74,6 +74,13 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2408.07947)] <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03558)] 
 [[Github](https://github.com/onkarsus13/d2styler)] <br>
 
+**Diffusion Model Compression for Image-to-Image Translation** <br>
+(Task-Oriented Diffusion Model Compression) <br>
+*Geonung Kim, Beomsu Kim, Eunhyeok Park, Sunghyun Cho.* <br>
+**Else Papers**, POSTECH <br>
+ACCV 2024. [[PDF](https://arxiv.org/abs/2401.17547)]
+[[Github](https://github.com/KIMGEONUNG/ID-compression)] [[Project](https://kimgeonung.github.io/id-compression/)] <br>
+
 **HiCAST: Highly Customized Arbitrary Style Transfer with Adapter Enhanced Diffusion Models** <br>
 *Hanzhang Wang, Haoran Wang, Jinze Yang, Zhongrui Yu, Zeke Xie, Lei Tian, Xinyan Xiao, Junjun Jiang, Xianming Liu, Mingming Sun.* <br>
 **Image Style Transfer**, Harbin Institute of Technology & Baidu <br>
