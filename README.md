@@ -87,6 +87,12 @@ ACCV 2024. [[PDF](https://arxiv.org/abs/2401.17547)]
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 [[Github](https://github.com/wd1511/HiCAST)] <br>
 
+**ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs** <br>
+*Viraj Shah, Nataniel Ruiz, Forrester Cole, Erika Lu, Svetlana Lazebnik, Yuanzhen Li, Varun Jampani.* <br>
+**Image Style Transfer**, Google Research & UIUC <br>
+ECCV 2024. [[PDF](https://arxiv.org/abs/2311.13600)]
+[[Project](https://ziplora.github.io)] [[Github](https://github.com/mkshing/ziplora-pytorch)] <br>
+
 **Cross-Image Attention for Zero-Shot Appearance Transfer** <br>
 *Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.* <br>
 **Image Style Transfer**, Tel Aviv University <br>
