@@ -99,6 +99,16 @@ ECCV 2024. [[PDF](https://arxiv.org/abs/2311.13600)]
 SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
 [[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
+**FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models** <br>
+*Rui Hu, Qian He, Gaofeng He, Jiedong Zhuang, Huang Chen, Huafeng Liu, Huamin Wang.* <br>
+**Else Papers**, Zhejiang University & Style3D Research <br>
+NeurIPS 2024. [[PDF](https://arxiv.org/abs/2410.14429)] <br>
+
+**HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation** <br>
+*Bo Cheng, Yuhang Ma, Liebucha Wu, Shanyuan Liu, Ao Ma, Xiaoyu Wu, Dawei Leng, Yuhui Yin.* <br>
+**Layout2Image**, 360 AI Research <br>
+NeurIPS 2024. [[PDF](https://arxiv.org/abs/2410.14324)] <br>
+
 **Harnessing the Latent Diffusion Model for Training-Free Image Style Transfer** <br>
 *Kento Masui, Mayu Otani, Masahiro Nomura, Hideki Nakayama.* <br>
 **Image Style Transfer**, CyberAgent <br>
@@ -813,7 +823,7 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2207.08208)]
 
 **EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations** <br>
 *Min Zhao, Fan Bao, Chongxuan Li, Jun Zhu.* <br>
-NIPS 2022. [[PDF](https://arxiv.org/abs/2207.06635)] 
+NeurIPS 2022. [[PDF](https://arxiv.org/abs/2207.06635)] 
 [[Github](https://github.com/ML-GSAI/EGSDE)] <br>
 
 **Discrete Contrastive Diffusion for Cross-Modal and Conditional Generation** <br>
