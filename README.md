@@ -99,6 +99,11 @@ ECCV 2024. [[PDF](https://arxiv.org/abs/2311.13600)]
 SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
 [[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
+**StyleAdapter: A Unified Stylized Image Generation Model** <br>
+*Zhouxia Wang, Xintao Wang, Liangbin Xie, Zhongang Qi, Ying Shan, Wenping Wang, Ping Luo.* <br>
+**Style transfer**, The University of Hong Kong & Tencent PCG <br>
+IJCV 2024. [[PDF1](https://link.springer.com/article/10.1007/s11263-024-02253-x)] [[PDF2](https://openreview.net/pdf?id=NaxbdRi8Rv)] <br>
+
 **FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models** <br>
 *Rui Hu, Qian He, Gaofeng He, Jiedong Zhuang, Huang Chen, Huafeng Liu, Huamin Wang.* <br>
 **Else Papers**, Zhejiang University & Style3D Research <br>
