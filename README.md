@@ -99,6 +99,11 @@ ECCV 2024. [[PDF](https://arxiv.org/abs/2311.13600)]
 SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
 [[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
+**AdvI2I: Adversarial Image Attack on Image-to-Image Diffusion models** <br>
+*Yaopei Zeng, Yuanpu Cao, Bochuan Cao, Yurui Chang, Jinghui Chen, Lu Lin.* <br>
+**Base I2I translation**, Pennsylvania State University <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2410.21471)]<br>
+
 **Beyond Color and Lines: Zero-Shot Style-Specific Image Variations with Coordinated Semantics** <br>
 *Jinghao Hu, Yuhe Zhang, GuoHua Geng, Liuyuxin Yang, JiaRui Yan, Jingtao Cheng, YaDong Zhang, Kang Li.* <br>
 **Image Style Transfer**, Northwest University <br>
@@ -106,7 +111,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2410.18537)] <br>
 
 **StyleAdapter: A Unified Stylized Image Generation Model** <br>
 *Zhouxia Wang, Xintao Wang, Liangbin Xie, Zhongang Qi, Ying Shan, Wenping Wang, Ping Luo.* <br>
-**Style transfer**, The University of Hong Kong & Tencent PCG <br>
+**Image Style transfer**, The University of Hong Kong & Tencent PCG <br>
 IJCV 2024. [[PDF1](https://link.springer.com/article/10.1007/s11263-024-02253-x)] [[PDF2](https://openreview.net/pdf?id=NaxbdRi8Rv)] <br>
 
 **FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models** <br>
