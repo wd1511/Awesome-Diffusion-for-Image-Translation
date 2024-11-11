@@ -99,6 +99,11 @@ ECCV 2024. [[PDF](https://arxiv.org/abs/2311.13600)]
 SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
 [[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
+**DiT4Edit: Diffusion Transformer for Image Editing** <br>
+*Kunyu Feng, Yue Ma, Bingyuan Wang, Chenyang Qi, Haozhe Chen, Qifeng Chen, Zeyu Wang.* <br>
+**Image Editing**, PKU & HKUST <br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2411.03286)] <br>
+
 **AdvI2I: Adversarial Image Attack on Image-to-Image Diffusion models** <br>
 *Yaopei Zeng, Yuanpu Cao, Bochuan Cao, Yurui Chang, Jinghui Chen, Lu Lin.* <br>
 **Base I2I translation**, Pennsylvania State University <br>
@@ -175,7 +180,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2409.02429)] <br>
 **Base I2I translation**, The Hebrew University of Jerusalem & GM R&D <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2409.00654)] <br>
 
-**Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing** <br>
+**Prompt-Softbox-Prompt: A free-text Embedding Control for Image ** <br>
 *Yitong Yang, Yinglin Wang, Jing Wang, Tian Zhang.* <br>
 **Image Editing**, Shanghai University of Finance and Economics <br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2408.13623)] <br>
