@@ -99,6 +99,16 @@ ECCV 2024. [[PDF](https://arxiv.org/abs/2311.13600)]
 SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
 [[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
+**Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning** <br>
+*Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, Zongqi He, Hao Xie, Kin-Man Lam.* <br>
+**Image Style Transfer**, The Hong Kong Polytechnic University <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2411.10130)] <br>
+
+**Diff-TST: Diffusion model for one-shot text-image style transfer** <br>
+*Sizhe Pang, Xinyuan Chen, Yangchen Xie, Hongjian Zhan, Bing Yin, Yue Lu.* <br>
+**Image Style Transfer**, East China Normal University & Shanghai AI Lab <br>
+Expert Systems With Applications. [[PDF](https://www.sciencedirect.com/science/article/pii/S0957417424026149)] <br>
+
 **DiT4Edit: Diffusion Transformer for Image Editing** <br>
 *Kunyu Feng, Yue Ma, Bingyuan Wang, Chenyang Qi, Haozhe Chen, Qifeng Chen, Zeyu Wang.* <br>
 **Image Editing**, PKU & HKUST <br>
