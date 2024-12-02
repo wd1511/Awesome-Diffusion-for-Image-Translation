@@ -109,6 +109,11 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2411.10130)] <br>
 **Image Style Transfer**, East China Normal University & Shanghai AI Lab <br>
 Expert Systems With Applications. [[PDF](https://www.sciencedirect.com/science/article/pii/S0957417424026149)] <br>
 
+**Multi-layer Feature Fusion based Image Style Transfer with Arbitrary Text Condition** <br>
+*Yue Yua, Jingshuo Xing, Nengli Li.* <br>
+**Image Style Transfer**, Beijing Institute of Technology <br>
+Signal Processing: Image Communication. [[PDF](https://www.sciencedirect.com/science/article/pii/S0923596524001449)] <br>
+
 **DiT4Edit: Diffusion Transformer for Image Editing** <br>
 *Kunyu Feng, Yue Ma, Bingyuan Wang, Chenyang Qi, Haozhe Chen, Qifeng Chen, Zeyu Wang.* <br>
 **Image Editing**, PKU & HKUST <br>
