@@ -52,10 +52,26 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2025
 
+**Generalizable Origin Identification for Text-Guided Image-to-Image Diffusion Models** <br>
+*Wenhao Wang, Yifan Sun, Zongxin Yang, Zhentao Tan, Zhengdong Hu, Yi Yang.* <br>
+**Base I2I translation**, University of Technology Sydney & Baidu Inc & Zhejiang University <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2501.02376)] <br>
+
 **ArtCrafter: Text-Image Aligning Style Transfer via Embedding Reframing** <br>
 *Nisha Huang, Kaer Huang, Yifan Pu, Jiangshan Wang, Jie Guo, Yiqiang Yan, Xiu Li.* <br>
 **Image Style Transfer**, Tsinghua University & Peng Cheng Laboratory & Lenovo Research <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2501.02064)] <br>
+
+**Conditional Consistency Guided Image Translation and Enhancement** <br>
+*Amil Bhagat, Milind Jain, A. V. Subramanyam.* <br>
+**Base I2I translation**, Indraprastha Institute of Information Technology <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2501.01223)] 
+[[Github](https://github.com/amilbhagat/Conditional-Consistency-Models)] <br>
+
+**DyArtbank: Diverse artistic style transfer via pre-trained stable diffusion and dynamic style prompt Artbank** <br>
+*Zhanjie Zhang, Quanwei Zhang, Guangyuan Li, Junsheng Luan, Mengyuan Yang, Yun Wang, Lei Zhao.* <br>
+**Image Style Transfer**, Zhejiang University & City University of Hong Kong <br>
+Knowledge-Based Systems 2025. [[PDF](https://www.sciencedirect.com/science/article/pii/S0950705125000073)] <br>
 
 ## 2024
 
@@ -74,6 +90,54 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2412.19853)] <br>
 **Image Style Transfer**, Xiaohongshu & ShanghaiTech University<br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2412.18945)] 
 [[Project](https://single-trajectory-distillation.github.io/)]<br>
+
+**Diffusion-Based Conditional Image Editing through Optimized Inference with Guidance** <br>
+*Hyunsoo Lee, Minsoo Kang, Bohyung Han.* <br>
+**Base I2I translation**, ECE & Seoul National University <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2412.15798)] <br>
+
+**Efficient Fine-Tuning and Concept Suppression for Pruned Diffusion Models** <br>
+*Reza Shirkavand, Peiran Yu, Shangqian Gao, Gowthami Somepalli, Tom Goldstein, Heng Huang.* <br>
+**Image Style Transfer**, University of Maryland & Florida State University <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2412.15341)] <br>
+
+**LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model** <br>
+*Xi Wang, Hongzhen Li, Heng Fang, Yichen Peng, Haoran Xie, Xi Yang, Chuntao Li.* <br>
+**Image Style Transfer**, KTH Royal Institute of Technology & Tokyo Institute of Technology & Japan Advanced Institute of Science and Technology (JAIST) <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2412.11519)] <br>
+
+**SHMT: Self-supervised Hierarchical Makeup Transfer via Latent Diffusion Models** <br>
+*Zhaoyang Sun, Shengwu Xiong, Yaxiong Chen, Fei Du, Weihua Chen, Fan Wang, Yi Rong.* <br>
+**Image Style Transfer**, Wuhan University of Technology & Alibaba & Hupan Laboratory & Shanghai AI Laboratory <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2412.11058)] 
+[[Github](https://github.com/Snowfallingplum/SHMT)] <br>
+
+**Learning Artistic Signatures: Symmetry Discovery and Style Transfer** <br>
+*Emma Finn, T. Anderson Keller, Emmanouil Theodosis, Demba E. Ba.* <br>
+**Image Style Transfer**, Harvard University <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2412.04441)] <br>
+
+**Structure-Aware Stylized Image Synthesis for Robust Medical Image Segmentation** <br>
+*Jie Bao, Zhixin Zhou, Wen Jung Li, Rui Luo.* <br>
+**Medical Image Translation**, Huaiyin Institute of Technology & Alpha Benito Research & City University of Hong Kong <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2412.04296)] 
+[[Github](https://github.com/luo-lorry/Stylized-Medical-Segmentation)]<br>
+
+**Z-STAR+: A Zero-shot Style Transfer Method via Adjusting Style Distribution** <br>
+*Yingying Deng, Xiangyu He, Fan Tang, Weiming Dong.* <br>
+**Image Style Transfer**, Chinese Academy of Sciences <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2411.19231)] <br>
+
+**Latent Schrodinger Bridge: Prompting Latent Diffusion for Fast Unpaired Image-to-Image Translation** <br>
+*Jeongsol Kim, Beomsu Kim, Jong Chul Ye.* <br>
+**Base I2I translation**, KAIST <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2411.14863)] <br>
+
+**C-DiffSET: Leveraging Latent Diffusion for SAR-to-EO Image Translation with Confidence-Guided Reliable Object Generation** <br>
+*Jeonghyeok Do, Jaehyup Lee, Munchurl Kim.* <br>
+**SAR Image Translation**, KAIST & KNU <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2411.10788)] 
+[[Github](https://github.com/KAIST-VICLab/C-DiffSET)] [[Project](https://kaist-viclab.github.io/C-DiffSET_site)]<br>
 
 **Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning** <br>
 *Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, Zongqi He, Hao Xie, Kin-Man Lam.* <br>
@@ -210,7 +274,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09315)] <br>
 
 **Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation** <br>
 *Seon-Hoon Kim, Dae-won Chung.* <br>
-**Medical Image Translation**, Korea National University of Science and Technology et al. <br>
+**SAR Image Translation**, Korea National University of Science and Technology et al. <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.07947)] [[Github](https://github.com/egshkim/ConditionalBBDM-for-VHR-SAR-to-Optical)] <br>
 
 **D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** <br>
@@ -255,7 +319,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2407.00788)]
 
 **SAR to Optical Image Translation with Color Supervised Diffusion Model** <br>
 *Xinyu Bai, Feng Xu.* <br>
-**Medical Image Translation**, Fudan University <br>
+**SAR Image Translation**, Fudan University <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.16921)] <br>
 
 **A Survey of Text Style Transfer: Applications and Ethical Implications** <br>
@@ -679,6 +743,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.15086)]
 
 **SAR-to-Optical Image Translation via Thermodynamics-inspired Network** <br>
 *Mingjin Zhang, Jiamin Xu, Chengyu He, Wenteng Shang, Yunsong Li, Xinbo Gao.* <br>
+**SAR Image Translation**, Xidian University <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2305.13839)] <br>
 
 **Null-text Guidance in Diffusion Models is Secretly a Cartoon-style Creator** <br>
