@@ -14,6 +14,7 @@ Download all PDF files
 python download.py
 ```
 - [Dataset](#dataset)
+- [2025](#2025)
 - [2024](#2024)
 - [2023](#2023)
 - [2022](#2022)
@@ -49,55 +50,19 @@ Prostate-MRI-US-Biopsy dataset [[Download1](https://www.cancerimagingarchive.net
 LDCT-and-Projection-data  dataset [[Download1](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758026)] [[Download2](https://drive.google.com/file/d/1kF0g8fMR5XPQ2FTbutfTQ-hwG_mTqerx/view)] <br>
 BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Download2](https://drive.google.com/file/d/1kF0g8fMR5XPQ2FTbutfTQ-hwG_mTqerx/view)] <br>
 
+## 2025
+
+**ArtCrafter: Text-Image Aligning Style Transfer via Embedding Reframing** <br>
+*Nisha Huang, Kaer Huang, Yifan Pu, Jiangshan Wang, Jie Guo, Yiqiang Yan, Xiu Li.* <br>
+**Image Style Transfer**, Tsinghua University & Peng Cheng Laboratory & Lenovo Research <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2501.02064)] <br>
 
 ## 2024
 
-**TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces** <br>
-*Bernardo Biesseck, Pedro Vidal, Luiz Coelho, Roger Granada, David Menotti.* <br>
-**Face style**, Federal University of Parana <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2409.03600)]
-[[Github](https://github.com/BOVIFOCR/tcdiff)] <br>
-
-**FAGStyle: Feature Augmentation on Geodesic Surface for Zero-shot Text-guided Diffusion Image Style Transfer** <br>
-*Yuexing Han, Liheng Ruan, Bing Wang.* <br>
-**Image Style Transfer**, Shanghai University <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.10533)] <br>
-
-**Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation** <br>
-*Seon-Hoon Kim, Dae-won Chung.* <br>
-**Medical Image Translation**, Korea National University of Science and Technology et al. <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.07947)] <br>
-
-**D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** <br>
-*Onkar Susladkar, Gayatri Deshmukh, Sparsh Mittal, Parth Shastri.* <br>
-**Image Style Transfer**, Indian Institute of Technology et al. <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03558)] 
-[[Github](https://github.com/onkarsus13/d2styler)] <br>
-
-**Diffusion Model Compression for Image-to-Image Translation** <br>
-(Task-Oriented Diffusion Model Compression) <br>
-*Geonung Kim, Beomsu Kim, Eunhyeok Park, Sunghyun Cho.* <br>
-**Else Papers**, POSTECH <br>
-ACCV 2024. [[PDF](https://arxiv.org/abs/2401.17547)]
-[[Github](https://github.com/KIMGEONUNG/ID-compression)] [[Project](https://kimgeonung.github.io/id-compression/)] <br>
-
-**HiCAST: Highly Customized Arbitrary Style Transfer with Adapter Enhanced Diffusion Models** <br>
-*Hanzhang Wang, Haoran Wang, Jinze Yang, Zhongrui Yu, Zeke Xie, Lei Tian, Xinyan Xiao, Junjun Jiang, Xianming Liu, Mingming Sun.* <br>
-**Image Style Transfer**, Harbin Institute of Technology & Baidu <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
-[[Github](https://github.com/wd1511/HiCAST)] <br>
-
-**ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs** <br>
-*Viraj Shah, Nataniel Ruiz, Forrester Cole, Erika Lu, Svetlana Lazebnik, Yuanzhen Li, Varun Jampani.* <br>
-**Image Style Transfer**, Google Research & UIUC <br>
-ECCV 2024. [[PDF](https://arxiv.org/abs/2311.13600)]
-[[Project](https://ziplora.github.io)] [[Github](https://github.com/mkshing/ziplora-pytorch)] <br>
-
-**Cross-Image Attention for Zero-Shot Appearance Transfer** <br>
-*Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.* <br>
-**Image Style Transfer**, Tel Aviv University <br>
-SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
-[[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
+**StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture** <br>
+*Miaomiao Dai, Qianyu Zhou, Lizhuang Ma.* <br>
+**Image Style Transfer**, Shanghai Jiao Tong University <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2412.19535)] <br>
 
 **Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning** <br>
 *Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, Zongqi He, Hao Xie, Kin-Man Lam.* <br>
@@ -169,6 +134,11 @@ ECCV 2024, [[PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02096
 **Image Style Transfer**, Hubei University of Automotive Technology <br>
 Information, [[PDF](https://www.mdpi.com/2078-2489/15/10/588/pdf?version=1727347041)] <br>
 
+**Cross-conditioned Diffusion Model for Medical Image to Image Translation** <br>
+*Zhaohu Xing, Sicheng Yang, Sixiang Chen, Tian Ye, Yijun Yang, Jing Qin, Lei Zhu.* <br>
+**Medical Image Translation**, HKUST <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2409.08500)] <br>
+
 **MagicStyle: Portrait Stylization Based on Reference Image** <br>
 *Zhaoli Deng, Kaibin Zhou, Fanyi Wang, Zhenpeng Mi.* <br>
 **Image Style Transfer**, Honor & Tongji University <br>
@@ -178,6 +148,12 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2409.08156)] <br>
 *Junsung Lee, Minsoo Kang, Bohyung Han.* <br>
 **Base I2I translation**, ECE & Seoul National University <br>
 ECCV 2024, [[PDF](https://arxiv.org/abs/2409.08077)] <br>
+
+**TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces** <br>
+*Bernardo Biesseck, Pedro Vidal, Luiz Coelho, Roger Granada, David Menotti.* <br>
+**Face style**, Federal University of Parana <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2409.03600)]
+[[Github](https://github.com/BOVIFOCR/tcdiff)] <br>
 
 **StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models** <br>
 *Wen Li, Muyuan Fang, Cheng Zou, Biao Gong, Ruobing Zheng, Meng Wang, Jingdong Chen, Ming Yang.* <br>
@@ -205,6 +181,11 @@ arXiv 2024. [[PDF](https://arxiv.org/pdf/2408.13623)] <br>
 **Image Style Transfer**, California State University et al. <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.11744)] <br>
 
+**FAGStyle: Feature Augmentation on Geodesic Surface for Zero-shot Text-guided Diffusion Image Style Transfer** <br>
+*Yuexing Han, Liheng Ruan, Bing Wang.* <br>
+**Image Style Transfer**, Shanghai University <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.10533)] <br>
+
 **SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models** <br>
 *Danush Kumar Venkatesh, Dominik Rivoir, Micha Pfeiffer, Stefanie Speidel.* <br>
 **Medical Image Translation**, NCT/UCC Dresden et al. <br>
@@ -215,10 +196,16 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09822)] <br>
 **Medical Image Translation**, University of North Carolina <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09315)] <br>
 
-**Cross-conditioned Diffusion Model for Medical Image to Image Translation** <br>
-*Zhaohu Xing, Sicheng Yang, Sixiang Chen, Tian Ye, Yijun Yang, Jing Qin, Lei Zhu.* <br>
-**Medical Image Translation**, HKUST <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2409.08500)] <br>
+**Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation** <br>
+*Seon-Hoon Kim, Dae-won Chung.* <br>
+**Medical Image Translation**, Korea National University of Science and Technology et al. <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.07947)] <br>
+
+**D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** <br>
+*Onkar Susladkar, Gayatri Deshmukh, Sparsh Mittal, Parth Shastri.* <br>
+**Image Style Transfer**, Indian Institute of Technology et al. <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03558)] 
+[[Github](https://github.com/onkarsus13/d2styler)] <br>
 
 **FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning** <br>
 *Zhi Chen, Zecheng Zhao, Yadan Luo, Zi Huang.* <br>
@@ -404,9 +391,22 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2402.11846)]
 **Image Colorization**, Nanyang Technological University <br>
 Arxiv 2024, [[PDF](https://arxiv.org/abs/2402.10855)] <br>
 
+**Diffusion Model Compression for Image-to-Image Translation** <br>
+(Task-Oriented Diffusion Model Compression) <br>
+*Geonung Kim, Beomsu Kim, Eunhyeok Park, Sunghyun Cho.* <br>
+**Else Papers**, POSTECH <br>
+ACCV 2024. [[PDF](https://arxiv.org/abs/2401.17547)]
+[[Github](https://github.com/KIMGEONUNG/ID-compression)] [[Project](https://kimgeonung.github.io/id-compression/)] <br>
+
 **Image Translation as Diffusion Visual Programmers** <br>
 *Cheng Han, James C. Liang, Qifan Wang, Majid Rabbani, Sohail Dianat, Raghuveer Rao, Ying Nian Wu, Dongfang Liu.* <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.09742)] <br>
+
+**HiCAST: Highly Customized Arbitrary Style Transfer with Adapter Enhanced Diffusion Models** <br>
+*Hanzhang Wang, Haoran Wang, Jinze Yang, Zhongrui Yu, Zeke Xie, Lei Tian, Xinyan Xiao, Junjun Jiang, Xianming Liu, Mingming Sun.* <br>
+**Image Style Transfer**, Harbin Institute of Technology & Baidu <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
+[[Github](https://github.com/wd1511/HiCAST)] <br>
 
 **Adaptive latent diffusion model for 3d medical image to image translation: Multi-modal magnetic resonance imaging study** <br>
 *Jonghun Kim, Hyunjin Park.* <br>
@@ -428,6 +428,17 @@ IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.0322
 CVPR 2024. [[PDF](https://arxiv.org/abs/2312.09008)]
 [[Github](https://github.com/jiwoogit/StyleID)] <br>
 
+**ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs** <br>
+*Viraj Shah, Nataniel Ruiz, Forrester Cole, Erika Lu, Svetlana Lazebnik, Yuanzhen Li, Varun Jampani.* <br>
+**Image Style Transfer**, Google Research & UIUC <br>
+ECCV 2024. [[PDF](https://arxiv.org/abs/2311.13600)]
+[[Project](https://ziplora.github.io)] [[Github](https://github.com/mkshing/ziplora-pytorch)] <br>
+
+**Cross-Image Attention for Zero-Shot Appearance Transfer** <br>
+*Yuval Alaluf, Daniel Garibi, Or Patashnik, Hadar Averbuch-Elor, Daniel Cohen-Or.* <br>
+**Image Style Transfer**, Tel Aviv University <br>
+SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
+[[Project](https://garibida.github.io/cross-image-attention/)] [[Github](https://github.com/garibida/cross-image-attention)] <br>
 
 ## 2023
 
