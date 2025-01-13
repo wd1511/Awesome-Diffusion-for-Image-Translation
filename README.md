@@ -64,6 +64,17 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2501.02064)] <br>
 **Image Style Transfer**, Shanghai Jiao Tong University <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2412.19535)] <br>
 
+**Conditional Balance: Improving Multi-Conditioning Trade-Offs in Image Generation** <br>
+*Nadav Z. Cohen, Oron Nir, Ariel Shamir.* <br>
+**Image Style Transfer**, Reichman University & Microsoft Corporation <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2412.19853)] <br>
+
+**Single Trajectory Distillation for Accelerating Image and Video Style Transfer** <br>
+*Sijie Xu, Runqi Wang, Wei Zhu, Dejia Song, Nemo Chen, Xu Tang, Yao Hu.* <br>
+**Image Style Transfer**, Xiaohongshu & ShanghaiTech University<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2412.18945)] 
+[[Project](https://single-trajectory-distillation.github.io/)]<br>
+
 **Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning** <br>
 *Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, Zongqi He, Hao Xie, Kin-Man Lam.* <br>
 **Image Style Transfer**, The Hong Kong Polytechnic University <br>
@@ -102,7 +113,8 @@ IJCV 2024. [[PDF1](https://link.springer.com/article/10.1007/s11263-024-02253-x)
 **FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models** <br>
 *Rui Hu, Qian He, Gaofeng He, Jiedong Zhuang, Huang Chen, Huafeng Liu, Huamin Wang.* <br>
 **Else Papers**, Zhejiang University & Style3D Research <br>
-NeurIPS 2024. [[PDF](https://arxiv.org/abs/2410.14429)] [[Github](https://github.com/Style3D/FashionR2R)] [[Project](https://rickhh.github.io/FashionR2R/)]<br>
+NeurIPS 2024. [[PDF](https://arxiv.org/abs/2410.14429)] 
+[[Github](https://github.com/Style3D/FashionR2R)] [[Project](https://rickhh.github.io/FashionR2R/)]<br>
 
 **HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation** <br>
 *Bo Cheng, Yuhang Ma, Liebucha Wu, Shanyuan Liu, Ao Ma, Xiaoyu Wu, Dawei Leng, Yuhui Yin.* <br>
