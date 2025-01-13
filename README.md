@@ -82,12 +82,12 @@ Signal Processing: Image Communication. [[PDF](https://www.sciencedirect.com/sci
 **DiT4Edit: Diffusion Transformer for Image Editing** <br>
 *Kunyu Feng, Yue Ma, Bingyuan Wang, Chenyang Qi, Haozhe Chen, Qifeng Chen, Zeyu Wang.* <br>
 **Image Editing**, PKU & HKUST <br>
-arXiv 2024. [[PDF](https://arxiv.org/pdf/2411.03286)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/pdf/2411.03286)] [[Github](https://github.com/fkyyyy/DiT4Edit)]<br>
 
 **AdvI2I: Adversarial Image Attack on Image-to-Image Diffusion models** <br>
 *Yaopei Zeng, Yuanpu Cao, Bochuan Cao, Yurui Chang, Jinghui Chen, Lu Lin.* <br>
 **Base I2I translation**, Pennsylvania State University <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2410.21471)]<br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2410.21471)] [[Github](https://github.com/Spinozaaa/AdvI2I)]<br>
 
 **Beyond Color and Lines: Zero-Shot Style-Specific Image Variations with Coordinated Semantics** <br>
 *Jinghao Hu, Yuhe Zhang, GuoHua Geng, Liuyuxin Yang, JiaRui Yan, Jingtao Cheng, YaDong Zhang, Kang Li.* <br>
@@ -102,7 +102,7 @@ IJCV 2024. [[PDF1](https://link.springer.com/article/10.1007/s11263-024-02253-x)
 **FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models** <br>
 *Rui Hu, Qian He, Gaofeng He, Jiedong Zhuang, Huang Chen, Huafeng Liu, Huamin Wang.* <br>
 **Else Papers**, Zhejiang University & Style3D Research <br>
-NeurIPS 2024. [[PDF](https://arxiv.org/abs/2410.14429)] <br>
+NeurIPS 2024. [[PDF](https://arxiv.org/abs/2410.14429)] [[Github](https://github.com/Style3D/FashionR2R)] [[Project](https://rickhh.github.io/FashionR2R/)]<br>
 
 **HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation** <br>
 *Bo Cheng, Yuhang Ma, Liebucha Wu, Shanyuan Liu, Ao Ma, Xiaoyu Wu, Dawei Leng, Yuhui Yin.* <br>
@@ -117,7 +117,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2410.01366)] <br>
 **PixelShuffler: A Simple Image Translation Through Pixel Rearrangement** <br>
 *Omar Zamzam.* <br>
 **Image Style Transfer**, University of Southern California <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2410.03021)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2410.03021)] [[Github](https://github.com/OmarSZamzam/PixelShuffler)] <br>
 
 **Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization** <br>
 *Zichen Miao, Zhengyuan Yang, Kevin Lin, Ze Wang, Zicheng Liu, Lijuan Wang, Qiang Qiu.* <br>
@@ -127,7 +127,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2410.03190)] <br>
 **EBDM: Exemplar-guided Image Translation with Brownian-bridge Diffusion Models** <br>
 *Eungbean Lee, Somi Jeong, Kwanghoon Sohn.* <br>
 **Base I2I translation**, Yonsei University & NAVER LABS & KIST <br>
-ECCV 2024, [[PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02096.pdf)] <br>
+ECCV 2024, [[PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02096.pdf)] [[Github](https://github.com/eungbean/ebdm)]<br>
 
 **A Training-Free Latent Diffusion Style Transfer Method** <br>
 *Zhengtao Xiang, Xing Wan, Libo Xu, Xin Yu, Yuhan Mao.* <br>
@@ -147,7 +147,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2409.08156)] <br>
 **Diffusion-Based Image-to-Image Translation by Noise Correction via Prompt Interpolation** <br>
 *Junsung Lee, Minsoo Kang, Bohyung Han.* <br>
 **Base I2I translation**, ECE & Seoul National University <br>
-ECCV 2024, [[PDF](https://arxiv.org/abs/2409.08077)] <br>
+ECCV 2024, [[PDF](https://arxiv.org/abs/2409.08077)] [[Github](https://github.com/jslee525/PIC)]<br>
 
 **TCDiff: Triple Condition Diffusion Model with 3D Constraints for Stylizing Synthetic Faces** <br>
 *Bernardo Biesseck, Pedro Vidal, Luiz Coelho, Roger Granada, David Menotti.* <br>
@@ -171,7 +171,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2409.02429)] <br>
 **Base I2I translation**, The Hebrew University of Jerusalem & GM R&D <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2409.00654)] <br>
 
-**Prompt-Softbox-Prompt: A free-text Embedding Control for Image ** <br>
+**Prompt-Softbox-Prompt: A free-text Embedding Control for Image** <br>
 *Yitong Yang, Yinglin Wang, Jing Wang, Tian Zhang.* <br>
 **Image Editing**, Shanghai University of Finance and Economics <br>
 arXiv 2024. [[PDF](https://arxiv.org/pdf/2408.13623)] <br>
@@ -184,12 +184,12 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2408.11744)] <br>
 **FAGStyle: Feature Augmentation on Geodesic Surface for Zero-shot Text-guided Diffusion Image Style Transfer** <br>
 *Yuexing Han, Liheng Ruan, Bing Wang.* <br>
 **Image Style Transfer**, Shanghai University <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.10533)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.10533)] [[Github](https://github.com/P2i42/FAGStyle)] <br>
 
 **SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models** <br>
 *Danush Kumar Venkatesh, Dominik Rivoir, Micha Pfeiffer, Stefanie Speidel.* <br>
 **Medical Image Translation**, NCT/UCC Dresden et al. <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09822)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09822)] [[Github](https://github.com/MW1798/HCLD)] <br>
 
 **Unpaired Volumetric Harmonization of Brain MRI with Conditional Latent Diffusion** <br>
 *Mengqi Wu, Minhui Yu, Shuaiming Jing, Pew-Thian Yap, Zhengwu Zhang, Mingxia Liu.* <br>
@@ -199,7 +199,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09315)] <br>
 **Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation** <br>
 *Seon-Hoon Kim, Dae-won Chung.* <br>
 **Medical Image Translation**, Korea National University of Science and Technology et al. <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.07947)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.07947)] [[Github](https://github.com/egshkim/ConditionalBBDM-for-VHR-SAR-to-Optical)] <br>
 
 **D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** <br>
 *Onkar Susladkar, Gayatri Deshmukh, Sparsh Mittal, Parth Shastri.* <br>
@@ -221,7 +221,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2408.00760)]
 **TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models** <br>
 *Gilad Deutch, Rinon Gal, Daniel Garibi, Or Patashnik, Daniel Cohen-Or.* <br>
 **Image Editing**, Tel-Aviv University & NVIDIA <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.00735)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2408.00735)] [[Github](https://github.com/GiilDe/turbo-edit)] <br>
 
 **Z\*: Zero-shot Style Transfer via Attention Rearrangement** <br>
 *Yingying Deng, Xiangyu He, Fan Tang, Weiming Dong.* <br>
@@ -254,7 +254,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2407.16737)] <br>
 **SMooDi: Stylized Motion Diffusion Model** <br>
 *Lei Zhong, Yiming Xie, Varun Jampani, Deqing Sun, Huaizu Jiang.* <br>
 **Motion Transfer**, Northeastern University & Stability AI & Google Research <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.12783)] <br>
+ECCV 2024. [[PDF](https://arxiv.org/abs/2407.12783)] [[Github](https://github.com/neu-vi/SMooDi)]<br>
 
 **PID: Physics-Informed Diffusion Model for Infrared Image Generation** <br>
 *Fangyuan Mao, Jilin Mei, Shun Lu, Fuyang Liu, Liang Chen, Fangzhou Zhao, Yu Hu.* <br>
@@ -265,7 +265,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2407.09299)]
 **AirSketch: Generative Motion to Sketch** <br>
 *Hui Xian Grace Lim, Xuanming Cui, Yogesh S Rawat, Ser-Nam Lim.* <br>
 **Else Papers**, University of Central Florida <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.08906)] <br>
+NeurIPS 2024. [[PDF](https://arxiv.org/abs/2407.08906)] [[Github](https://github.com/hxgr4ce/AirSketch)]<br>
 
 **VisioBlend: Sketch and Stroke-Guided Denoising Diffusion Probabilistic Model for Realistic Image Generation** <br>
 *Harshkumar Devmurari, Gautham Kuckian, Prajjwal Vishwakarma, Krunali Vartak.* <br>
@@ -320,7 +320,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2405.16942)]
 **Diffusion Bridge Implicit Models** <br>
 *Kaiwen Zheng, Guande He, Jianfei Chen, Fan Bao, Jun Zhu.* <br>
 **Base I2I translation**,  Tsinghua University & Shengshu Technology <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2405.15885)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2405.15885)] [[Github](https://github.com/thu-ml/DiffusionBridge)] <br>
 
 **Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** <br>
 *Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao.* <br>
@@ -389,7 +389,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2402.11846)]
 **Control Color: Multimodal Diffusion-based Interactive Image Colorization** <br>
 *Zhexin Liang, Zhaochen Li, Shangchen Zhou, Chongyi Li, Chen Change Loy.* <br>
 **Image Colorization**, Nanyang Technological University <br>
-Arxiv 2024, [[PDF](https://arxiv.org/abs/2402.10855)] <br>
+Arxiv 2024, [[PDF](https://arxiv.org/abs/2402.10855)] [[Github](https://github.com/ZhexinLiang/Control-Color)]<br>
 
 **Diffusion Model Compression for Image-to-Image Translation** <br>
 (Task-Oriented Diffusion Model Compression) <br>
