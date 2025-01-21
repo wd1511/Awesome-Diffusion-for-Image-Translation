@@ -379,7 +379,8 @@ ICML 2024 workshop. [[PDF](https://arxiv.org/abs/2406.14762)] <br>
 **AnyTrans: Translate AnyText in the Image with Large Scale Models** <br>
 *Zhipeng Qian, Pei Zhang, Baosong Yang, Kai Fan, Yiwei Ma, Derek F. Wong, Xiaoshuai Sun, Rongrong Ji.* <br>
 **Else Papers**, Xiamen University & Alibaba Group Inc <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2406.11432)] <br>
+EMNLP 2024. [[PDF](https://arxiv.org/abs/2406.11432)] 
+[[Github](https://github.com/qzp2018/AnyTrans)]<br>
 
 **Rethinking Score Distillation as a Bridge Between Image Distributions** <br>
 *David McAllister, Songwei Ge, Jia-Bin Huang, David W. Jacobs, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa.* <br>
