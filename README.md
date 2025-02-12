@@ -52,10 +52,20 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2025
 
-**Trustworthy image-to-image translation: evaluating uncertainty calibration in unpaired training scenarios** <br>
-*Ciaran Bench, Emir Ahmed, Spencer A. Thomas.* <br>
-**Medical Image Translation**, Department of Data Science and AI National Physical Laboratory <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2501.17570)] <br>
+**UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control** <br>
+*Kaizhen Zhu, Mokai Pan, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye Shi.* <br>
+**Base I2I translation**,  ShanghaiTech University & MoE Key Laboratory of Intelligent Perception and Human-Machine Collaboration & Fudan University <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2502.05749)] [[Github](https://github.com/UniDB-SOC/UniDB/)] <br>
+
+**Style transfer as data augmentation: evaluating unpaired image-to-image translation models in mammography** <br>
+*Emir Ahmed, Spencer A. Thomas, Ciaran Bench.* <br>
+**Medical Image Translation**, National Physical Laboratory <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2502.02475)] [[PDF(old)](https://arxiv.org/abs/2501.17570)] <br>
+
+**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2** <br>
+*Ludovica Schaerf, Andrea Alfarano, Fabrizio Silvestri, Leonardo Impett.* <br>
+**Style Transfer**, Max Planck Society University of Zurich Zurich <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2501.14524)] <br>
 
 **Generalizable Origin Identification for Text-Guided Image-to-Image Diffusion Models** <br>
 *Wenhao Wang, Yifan Sun, Zongxin Yang, Zhentao Tan, Zhengdong Hu, Yi Yang.* <br>
