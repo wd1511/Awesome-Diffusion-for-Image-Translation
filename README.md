@@ -54,8 +54,13 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 **UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control** <br>
 *Kaizhen Zhu, Mokai Pan, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye Shi.* <br>
-**Base I2I translation**,  ShanghaiTech University & MoE Key Laboratory of Intelligent Perception and Human-Machine Collaboration & Fudan University <br>
+**Base I2I translation**, ShanghaiTech University & MoE Key Laboratory of Intelligent Perception and Human-Machine Collaboration & Fudan University <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2502.05749)] [[Github](https://github.com/UniDB-SOC/UniDB/)] <br>
+
+**Inverse Bridge Matching Distillation** <br>
+**Nikita Gushchin, David Li, Daniil Selikhanovych, Evgeny Burnaev, Dmitry Baranchuk, Alexander Korotin.* <br>
+**Base I2I translation**, Skolkovo Institute of Science and Technology & Yandex Research & HSE University & Artificial Intelligence Research Institute <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2502.01362)] <br>
 
 **Style transfer as data augmentation: evaluating unpaired image-to-image translation models in mammography** <br>
 *Emir Ahmed, Spencer A. Thomas, Ciaran Bench.* <br>
@@ -66,6 +71,11 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2502.02475)] [[PDF(old)](https://arxiv.
 *Ludovica Schaerf, Andrea Alfarano, Fabrizio Silvestri, Leonardo Impett.* <br>
 **Style Transfer**, Max Planck Society University of Zurich Zurich <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2501.14524)] <br>
+
+**StyleSSP: Sampling StartPoint Enhancement for Training-free Diffusion-based Method for Style Transfer** <br>
+*Ruojun Xu, Weijie Xi, Xiaodi Wang, Yongbo Mao, Zach Cheng.* <br>
+**Style Transfer**, Zhejiang University & Dcar <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2501.11319)] <br>
 
 **Generalizable Origin Identification for Text-Guided Image-to-Image Diffusion Models** <br>
 *Wenhao Wang, Yifan Sun, Zongxin Yang, Zhentao Tan, Zhengdong Hu, Yi Yang.* <br>
