@@ -62,6 +62,11 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2502.05749)] [[Github](https://github.c
 **Base I2I translation**, Skolkovo Institute of Science and Technology & Yandex Research & HSE University & Artificial Intelligence Research Institute <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2502.01362)] <br>
 
+**A Diffusion Model Translator for Efficient Image-to-Image Translation** <br>
+*Mengfei Xia, Yu Zhou, Ran Yi, Yong-Jin Liu, Wenping Wang.* <br>
+**Base I2I translation**, MOE Key Laboratory of Pervasive Computing & Shanghai Jiao Tong University & Texas A&M University <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2502.00307)] <br>
+
 **Style transfer as data augmentation: evaluating unpaired image-to-image translation models in mammography** <br>
 *Emir Ahmed, Spencer A. Thomas, Ciaran Bench.* <br>
 **Medical Image Translation**, National Physical Laboratory <br>
