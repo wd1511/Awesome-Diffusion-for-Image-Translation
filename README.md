@@ -52,6 +52,11 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2025
 
+**Trustworthy image-to-image translation: evaluating uncertainty calibration in unpaired training scenarios** <br>
+*Ciaran Bench, Emir Ahmed, Spencer A. Thomas.* <br>
+**Medical Image Translation**, Department of Data Science and AI National Physical Laboratory <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2501.17570)] <br>
+
 **Generalizable Origin Identification for Text-Guided Image-to-Image Diffusion Models** <br>
 *Wenhao Wang, Yifan Sun, Zongxin Yang, Zhentao Tan, Zhengdong Hu, Yi Yang.* <br>
 **Base I2I translation**, University of Technology Sydney & Baidu Inc & Zhejiang University <br>
