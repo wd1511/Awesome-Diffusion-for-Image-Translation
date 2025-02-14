@@ -54,7 +54,7 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 **UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control** <br>
 *Kaizhen Zhu, Mokai Pan, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye Shi.* <br>
-**Base I2I translation**, ShanghaiTech University & MoE Key Laboratory of Intelligent Perception and Human-Machine Collaboration & Fudan University <br>
+**Base I2I translation**, ShanghaiTech University & Fudan University <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2502.05749)] [[Github](https://github.com/UniDB-SOC/UniDB/)] <br>
 
 **Inverse Bridge Matching Distillation** <br>
@@ -64,7 +64,7 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2502.01362)] <br>
 
 **A Diffusion Model Translator for Efficient Image-to-Image Translation** <br>
 *Mengfei Xia, Yu Zhou, Ran Yi, Yong-Jin Liu, Wenping Wang.* <br>
-**Base I2I translation**, MOE Key Laboratory of Pervasive Computing & Shanghai Jiao Tong University & Texas A&M University <br>
+**Base I2I translation**, Shanghai Jiao Tong University & Texas A&M University <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2502.00307)] <br>
 
 **Style transfer as data augmentation: evaluating unpaired image-to-image translation models in mammography** <br>
@@ -76,6 +76,11 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2502.02475)] [[PDF(old)](https://arxiv.
 *Ludovica Schaerf, Andrea Alfarano, Fabrizio Silvestri, Leonardo Impett.* <br>
 **Style Transfer**, Max Planck Society University of Zurich Zurich <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2501.14524)] <br>
+
+**EfficientVITON: An Efficient Virtual Try-On Model using Optimized Diffusion Process** <br>
+*Mostafa Atef, Mariam Ayman, Ahmed Rashed, Ashrakat Saeed, Abdelrahman Saeed, Ahmed Fares.* <br>
+**virtual try-on**, Egypt-Japan University of Science and Technology <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2501.11776)] <br>
 
 **StyleSSP: Sampling StartPoint Enhancement for Training-free Diffusion-based Method for Style Transfer** <br>
 *Ruojun Xu, Weijie Xi, Xiaodi Wang, Yongbo Mao, Zach Cheng.* <br>
@@ -708,7 +713,8 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2308.07665)]
 
 **Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow** <br>
 *Junhong Gou, Siyu Sun, Jianfu Zhang, Jianlou Si, Chen Qian, Liqing Zhang.* <br>
-ACMMM 2023. [[PDF](https://arxiv.org/abs/2308.06101)] 
+**virtual try-on**, Shanghai Jiao Tong University & SenseTime Research<br>
+ACMMM 2023. [[PDF](https://arxiv.org/abs/2308.06101)]
 [[Github](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)] <br>
 
 **Head Rotation in Denoising Diffusion Models** <br>
