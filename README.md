@@ -77,6 +77,16 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2502.02475)] [[PDF(old)](https://arxiv.
 **Style Transfer**, Max Planck Society University of Zurich Zurich <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2501.14524)] <br>
 
+**Generating Realistic Forehead-Creases for User Verification via Conditioned Piecewise Polynomial Curves** <br>
+*Abhishek Tandon, Geetanjali Sharma, Gaurav Jaswal, Aditya Nigam, Raghavendra Ramachandra.* <br>
+**Base I2I translation**, Indian Institute of Technology Mandi <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2501.13889)] <br>
+
+**AMM-Diff: Adaptive Multi-Modality Diffusion Network for Missing Modality Imputation** <br>
+Aghiles Kebaili, Jérôme Lapuyade-Lahorgue, Pierre Vera, Su Ruan.* <br>
+**Medical Image Translation**, University of Rouen-Normandy & CLCC Henri Becquerel <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2501.12840)] <br>
+
 **EfficientVITON: An Efficient Virtual Try-On Model using Optimized Diffusion Process** <br>
 *Mostafa Atef, Mariam Ayman, Ahmed Rashed, Ashrakat Saeed, Abdelrahman Saeed, Ahmed Fares.* <br>
 **virtual try-on**, Egypt-Japan University of Science and Technology <br>
