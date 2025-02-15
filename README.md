@@ -52,6 +52,11 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2025
 
+**Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models** <br>
+*Lin Zhu, Xinbing Wang, Chenghu Zhou, Qinying Gu, Nanyang Ye.* <br>
+**Image Style Transfer**,  Shanghai Jiao Tong University & Chinese Academy of Sciences & Shanghai AI Laboratory <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2502.07466)] <br>
+
 **UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control** <br>
 *Kaizhen Zhu, Mokai Pan, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye Shi.* <br>
 **Base I2I translation**, ShanghaiTech University & Fudan University <br>
