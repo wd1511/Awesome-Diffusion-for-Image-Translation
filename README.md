@@ -60,7 +60,8 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2502.07466)] <br>
 **UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control** <br>
 *Kaizhen Zhu, Mokai Pan, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye Shi.* <br>
 **Base I2I translation**, ShanghaiTech University & Fudan University <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2502.05749)] [[Github](https://github.com/UniDB-SOC/UniDB/)] <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2502.05749)] 
+[[Github](https://github.com/UniDB-SOC/UniDB/)] <br>
 
 **Inverse Bridge Matching Distillation** <br>
 **Nikita Gushchin, David Li, Daniil Selikhanovych, Evgeny Burnaev, Dmitry Baranchuk, Alexander Korotin.* <br>
@@ -75,7 +76,8 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2502.00307)] <br>
 **Style transfer as data augmentation: evaluating unpaired image-to-image translation models in mammography** <br>
 *Emir Ahmed, Spencer A. Thomas, Ciaran Bench.* <br>
 **Medical Image Translation**, National Physical Laboratory <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2502.02475)] [[PDF(old)](https://arxiv.org/abs/2501.17570)] <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2502.02475)] 
+[[PDF(old)](https://arxiv.org/abs/2501.17570)] <br>
 
 **Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2** <br>
 *Ludovica Schaerf, Andrea Alfarano, Fabrizio Silvestri, Leonardo Impett.* <br>
