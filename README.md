@@ -690,7 +690,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2309.14394)] <br>
 
 **Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models** <br>
 *Feihong He, Gang Li, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei Dong, Fanzhang Li.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2309.08251)] <br>
+arXiv 2023. [[PDF](https://arxiv.org/abs/2309.08251)] 
 [[Project](https://cartoondiff.github.io)] 
 [[Github](https://github.com/CartoonDiff/CartoonDiff)] <br>
 
