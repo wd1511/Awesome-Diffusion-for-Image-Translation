@@ -6,7 +6,7 @@
 **Here is the Paper Name** <br>
 *Author 1, ..., Author n.* <br>
 **Classification of papers**, Author Affiliation <br>
-Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)] <br>
+Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Data](link)] <br>
 ```
 
 Download all PDF files
