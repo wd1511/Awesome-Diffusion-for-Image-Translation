@@ -4,7 +4,7 @@
 
 ```Latex
 **Here is the Paper Name** <br>
-*Author 1, Author 2, and Author 3.* <br>
+*Author 1, ..., Author n.* <br>
 **Classification of papers**, Author Affiliation <br>
 Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)] <br>
 ```
