@@ -527,6 +527,14 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2404.02733)]
 [[Project](https://instantstyle.github.io)] 
 [[Github](https://github.com/instantX-research/InstantStyle)]<br>
 
+**DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations** <br>
+*Tianhao Qi, Shancheng Fang, Yanze Wu, Hongtao Xie, Jiawei Liu, Lang Chen, Qian He, Yongdong Zhang.* <br>
+**Image Style Transfer**, University of Science and Technology of China & ByteDance <br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2403.06951)]
+[[PDF2](https://openaccess.thecvf.com/content/CVPR2024/papers/Qi_DEADiff_An_Efficient_Stylization_Diffusion_Model_with_Disentangled_Representations_CVPR_2024_paper.pdf)]
+[[Project](https://tianhao-qi.github.io/DEADiff/)] 
+[[Github](https://github.com/bytedance/DEADiff)] <br>
+
 **One-Shot Structure-Aware Stylized Image Synthesis** <br>
 *Hansam Cho, Jonghyun Lee, Seunggyu Chang, Yonghyun Jeong.* <br>
 CVPR 2024. [[PDF](https://arxiv.org/abs/2402.17275v1)] 
