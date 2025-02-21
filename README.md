@@ -486,6 +486,7 @@ arXiv 2024, [[PDF](http://arxiv.org/abs/2405.06789v1)]
 
 **GeoDiffuser: Geometry-Based Image Editing with Diffusion Models** <br>
 *Rahul Sajnani, Jeroen Vanbaar, Jie Min, Kapil Katyal, Srinath Sridhar.* <br>
+**Image Editing**, Brown University & Amazon Robotics <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.14403)] <br>
 
 **F2FLDM: Latent Diffusion Models with Histopathology Pre-Trained Embeddings for Unpaired Frozen Section to FFPE Translation** <br>
@@ -537,6 +538,7 @@ CVPR 2024. [[PDF](https://arxiv.org/abs/2403.06951)]
 
 **One-Shot Structure-Aware Stylized Image Synthesis** <br>
 *Hansam Cho, Jonghyun Lee, Seunggyu Chang, Yonghyun Jeong.* <br>
+**Image Style Transfer**, Korea University & NAVER Cloud <br>
 CVPR 2024. [[PDF](https://arxiv.org/abs/2402.17275v1)] 
 [[Github](https://github.com/hansam95/osasis)] <br>
 
@@ -562,6 +564,7 @@ ACCV 2024. [[PDF](https://arxiv.org/abs/2401.17547)]
 
 **Image Translation as Diffusion Visual Programmers** <br>
 *Cheng Han, James C. Liang, Qifan Wang, Majid Rabbani, Sohail Dianat, Raghuveer Rao, Ying Nian Wu, Dongfang Liu.* <br>
+**Base I2I translation**, Rochester Institute of Technology & Meta AI <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2401.09742)] <br>
 
 **HiCAST: Highly Customized Arbitrary Style Transfer with Adapter Enhanced Diffusion Models** <br>
