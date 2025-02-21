@@ -205,8 +205,8 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2411.14863)] <br>
 *Jeonghyeok Do, Jaehyup Lee, Munchurl Kim.* <br>
 **SAR Image Translation**, KAIST & KNU <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2411.10788)] 
-[[Github](https://github.com/KAIST-VICLab/C-DiffSET)] 
-[[Project](https://kaist-viclab.github.io/C-DiffSET_site)] <br>
+[[Project](https://kaist-viclab.github.io/C-DiffSET_site)] 
+[[Github](https://github.com/KAIST-VICLab/C-DiffSET)] <br>
 
 **Towards Multi-View Consistent Style Transfer with One-Step Diffusion via Vision Conditioning** <br>
 *Yushen Zuo, Jun Xiao, Kin-Chung Chan, Rongkang Dong, Cuixin Yang, Zongqi He, Hao Xie, Kin-Man Lam.* <br>
@@ -250,8 +250,8 @@ IJCV 2024. [[PDF1](https://link.springer.com/article/10.1007/s11263-024-02253-x)
 *Rui Hu, Qian He, Gaofeng He, Jiedong Zhuang, Huang Chen, Huafeng Liu, Huamin Wang.* <br>
 **Else Papers**, Zhejiang University & Style3D Research <br>
 NeurIPS 2024. [[PDF](https://arxiv.org/abs/2410.14429)] 
-[[Github](https://github.com/Style3D/FashionR2R)] 
-[[Project](https://rickhh.github.io/FashionR2R/)] <br>
+[[Project](https://rickhh.github.io/FashionR2R/)] 
+[[Github](https://github.com/Style3D/FashionR2R)] <br>
 
 **HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation** <br>
 *Bo Cheng, Yuhang Ma, Liebucha Wu, Shanyuan Liu, Ao Ma, Xiaoyu Wu, Dawei Leng, Yuhui Yin.* <br>
@@ -577,9 +577,9 @@ Arxiv 2024, [[PDF](https://arxiv.org/abs/2402.10855)]
 (Task-Oriented Diffusion Model Compression) <br>
 *Geonung Kim, Beomsu Kim, Eunhyeok Park, Sunghyun Cho.* <br>
 **Else Papers**, POSTECH <br>
-ACCV 2024. [[PDF](https://arxiv.org/abs/2401.17547)]
-[[Github](https://github.com/KIMGEONUNG/ID-compression)] 
-[[Project](https://kimgeonung.github.io/id-compression/)] <br>
+ACCV 2024. [[PDF](https://arxiv.org/abs/2401.17547)] 
+[[Project](https://kimgeonung.github.io/id-compression/)] 
+[[Github](https://github.com/KIMGEONUNG/ID-compression)] <br>
 
 **Image Translation as Diffusion Visual Programmers** <br>
 *Cheng Han, James C. Liang, Qifan Wang, Majid Rabbani, Sohail Dianat, Raghuveer Rao, Ying Nian Wu, Dongfang Liu.* <br>
