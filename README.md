@@ -52,6 +52,20 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2025
 
+**d-Sketch: Improving Visual Fidelity of Sketch-to-Image Translation with Pretrained Latent Diffusion Models without Retraining**
+Prasun Roy, Saumik Bhattacharya, Subhankar Ghosh, Umapada Pal, Michael Blumenstein.* <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2502.14007)] <br>
+
+**SigStyle: Signature Style Transfer via Personalized Text-to-Image Models** <br>
+*Ye Wang, Tongyuan Bai, Xuping Xie, Zili Yi, Yilin Wang, Rui Ma.* <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2502.13997)] <br>
+
+**Image Inversion: A Survey from GANs to Diffusion and Beyond** <br>
+*Yinan Chen, Jiangning Zhang, Yali Bi, Xiaobin Hu, Teng Hu, Zhucun Xue, Ran Yi, Yong Liu, Ying Tai.* <br>
+**Else Papers**, Zhejiang University & Tencent <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2502.11974)] 
+[[Github](https://github.com/RyanChenYN/ImageInversion)]<br>
+
 **Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models** <br>
 *Lin Zhu, Xinbing Wang, Chenghu Zhou, Qinying Gu, Nanyang Ye.* <br>
 **Image Style Transfer**,  Shanghai Jiao Tong University & Chinese Academy of Sciences & Shanghai AI Laboratory <br>
