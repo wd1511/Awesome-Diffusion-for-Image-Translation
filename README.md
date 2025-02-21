@@ -54,10 +54,12 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 **d-Sketch: Improving Visual Fidelity of Sketch-to-Image Translation with Pretrained Latent Diffusion Models without Retraining**
 Prasun Roy, Saumik Bhattacharya, Subhankar Ghosh, Umapada Pal, Michael Blumenstein.* <br>
+**Sketch-to-Image translation**, University of Technology Sydney <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2502.14007)] <br>
 
 **SigStyle: Signature Style Transfer via Personalized Text-to-Image Models** <br>
 *Ye Wang, Tongyuan Bai, Xuping Xie, Zili Yi, Yilin Wang, Rui Ma.* <br>
+**Image Style Transfer**, Jilin University & Nanjing University & Adobe <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2502.13997)] <br>
 
 **Image Inversion: A Survey from GANs to Diffusion and Beyond** <br>
@@ -428,7 +430,7 @@ NeurIPS 2024. [[PDF](https://arxiv.org/abs/2407.08906)]
 
 **VisioBlend: Sketch and Stroke-Guided Denoising Diffusion Probabilistic Model for Realistic Image Generation** <br>
 *Harshkumar Devmurari, Gautham Kuckian, Prajjwal Vishwakarma, Krunali Vartak.* <br>
-**Image Editing**, Vidyavardhini’s College of Engineering and Technology <br>
+**Sketch-to-Image translation**, Vidyavardhini’s College of Engineering and Technology <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05209)] <br>
 
 **Slice-Consistent 3D Volumetric Brain CT-to-MRI Translation with 2D Brownian Bridge Diffusion Model** <br>
@@ -632,7 +634,9 @@ SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
 
 **Diffusion Cocktail: Fused Generation from Diffusion Models** <br>
 *Haoming Liu, Yuanhe Guo, Shengjie Wang, Hongyi Wen.* <br>
+**Image Style Transfer**, NYU Shanghai <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.08873)]
+[[Project](https://maps-research.github.io/Ditail/)]
 [[Github](https://github.com/MAPS-research/Ditail)] <br>
 
 **Diffusing Colors: Image Colorization with Text Guided Diffusion** <br>
@@ -643,6 +647,7 @@ SIGGRAPH Asia 2023. [[PDF](https://arxiv.org/abs/2312.04145)]
 
 **Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention** <br>
 *Jianjin Xu, Saman Motamed, Praneetha Vaddamanu, Chen Henry Wu, Christian Haene, Jean-Charles Bazin, Fernando de la Torre.* <br>
+**Image Editing**, Carnegie Mellon University <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.03556)] <br>
 
 **Open-DDVM: A Reproduction and Extension of Diffusion Model for Optical Flow Estimation** <br>
@@ -751,11 +756,13 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2308.10079)]
 
 **StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models** <br>
 *Zhizhong Wang, Lei Zhao, Wei Xing.* <br>
+**Image Style Transfer**, Zhejiang University <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2308.07863)] 
 [[Github](https://github.com/rafaelheid-it/StyleDiffusion)] <br>
 
 **Inversion-by-Inversion: Exemplar-based Sketch-to-Photo Synthesis via Stochastic Differential Equations without Training** <br>
 *Ximing Xing, Chuang Wang, Haitao Zhou, Zhihao Hu, Chongxuan Li, Dong Xu, Qian Yu.* <br>
+**Sketch-to-Image translation**, Beihang University & Renmin University of China & The University of Hong Kong <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2308.07665)] 
 [[Project](https://ximinng.github.io/inversion-by-inversion-project/)] 
 [[Github](https://github.com/ximinng/inversion-by-inversion)] <br>
@@ -838,6 +845,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.19512)]
 
 **DiffSketching: Sketch Control Image Synthesis with Diffusion Models** <br>
 *Qiang Wang, Di Kong, Fengyin Lin, Yonggang Qi.* <br>
+**Sketch-to-Image translation**, Beijing University of Posts and Telecommunications <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2305.18812)] 
 [[Github](https://github.com/XDUWQ/DiffSketching)] <br>
 
@@ -898,6 +906,7 @@ arXiv 2023. [[PDF](https://arxiv.org/pdf/2304.11105)]
 
 **Reference-based Image Composition with Sketch via Structure-aware Diffusion Model** <br>
 *Kangyeol Kim, Sunghyun Park, Junsoo Lee, Jaegul Choo.* <br>
+**Sketch-to-Image translation**, KAIST & Letsur Inc. & Naver Webtoon <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2304.09748)] 
 [[Github](https://github.com/kangyeolk/paint-by-sketch)] <br>
 
