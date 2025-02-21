@@ -491,16 +491,19 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2404.14403)] <br>
 
 **F2FLDM: Latent Diffusion Models with Histopathology Pre-Trained Embeddings for Unpaired Frozen Section to FFPE Translation** <br>
 *Man M. Ho, Shikha Dubey, Yosep Chong, Beatrice Knudsen, Tolga Tasdizen.* <br>
+**Medical Image Translation**, University of Utah & The Catholic University of Korea College of Medicine <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.12650)]
 [[Github](https://github.com/minhmanho/f2f_ldm)] <br>
 
 **Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt Inversion** <br>
 *Zhanjie Zhang, Quanwei Zhang, Huaizhong Lin, Wei Xing, Juncheng Mo, Shuaicheng Huang, Jinheng Xie, Guangyuan Li, Junsheng Luan, Lei Zhao, Dalong Zhang, Lixia Chen.* <br>
+**Image Style Transfer**, Zhejiang University <br>
 IJCAI 2024. [[PDF](https://arxiv.org/abs/2404.11474)]
 [[Github](https://github.com/jamie-cheung/lsast)] <br>
 
 **Optical Image-to-Image Translation Using Denoising Diffusion Models: Heterogeneous Change Detection as a Use Case** <br>
 *Joao Gabriel Vinholi, Marco Chini, Anis Amziane, Renato Machado, Danilo Silva, Patrick Matgen.* <br>
+**Base I2I translation**, Luxembourg Institute of Science and Technology <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11243)] <br>
 
 **MultiColor: Image Colorization by Learning from Multiple Color Spaces** <br>
@@ -575,16 +578,20 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2401.05870)]
 
 **Adaptive latent diffusion model for 3d medical image to image translation: Multi-modal magnetic resonance imaging study** <br>
 *Jonghun Kim, Hyunjin Park.* <br>
+**Medical Image Translation**, Sungkyunkwan University <br>
 WACV 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Adaptive_Latent_Diffusion_Model_for_3D_Medical_Image_to_Image_WACV_2024_paper.pdf)] 
 [[Github](https://github.com/jongdory/aldm)] <br>
 
 **Artfusion: A Diffusion Model-Based Style Synthesis Framework for Portraits** <br>
 *Hyemin Yang, Heekyung Yang, Kyungha Min.* <br>
+**Image Style Transfer**, Sangmyung University <br>
 Electronics 2024. [[Paper](https://www.mdpi.com/2079-9292/13/3/509)] <br>
 
 **MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond** <br>
 *Yupei Lin, Xiaoyu Xian, Yukai Shi, Liang Lin.* <br>
+**Base I2I translation**, Guangdong University of Technology & CRRC Academy & Sun Yat-sen University <br>
 IEEE Signal Processing Letters(SPL) 2024. [[PDF](https://arxiv.org/abs/2401.03221)]
+[[Project](https://mirrordiffusion.github.io)] 
 [[Github](https://github.com/MirrorDiffusion/MirrorDiffusion)] <br>
 
 **Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer** <br>
