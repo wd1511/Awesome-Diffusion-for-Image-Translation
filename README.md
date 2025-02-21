@@ -4,9 +4,9 @@
 
 ```Latex
 **Here is the Paper Name** <br>
-*[Author 1](homepage), Author 2, and Author 3.* <br>
-Conference or Journal Year. [[PDF](link)] <br>
-[[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
+*Author 1, Author 2, and Author 3.* <br>
+**Classification of papers**, Author Affiliation <br>
+Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)] <br>
 ```
 
 Download all PDF files
