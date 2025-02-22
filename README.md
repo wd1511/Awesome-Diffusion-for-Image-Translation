@@ -652,11 +652,13 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.03556)] <br>
 
 **Open-DDVM: A Reproduction and Extension of Diffusion Model for Optical Flow Estimation** <br>
 *Qiaole Dong, Bo Zhao, Yanwei Fu.* <br>
+**Else Papers**, Fudan University <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.01746)] 
 [[Github](https://github.com/dqiaole/flowdiffusion_pytorch)] <br>
 
 **S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion** <br>
 *Or Greenberg, Eran Kishon, Dani Lischinski.* <br>
+**Base I2I translation**, GM R&D & Hebrew University <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2312.00116)] <br>
 
 **CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation** <br>
