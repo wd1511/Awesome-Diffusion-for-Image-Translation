@@ -1128,36 +1128,43 @@ NeurIPS 2022. [[PDF](https://arxiv.org/abs/2201.11793)]
 
 **DiffuseMorph: Unsupervised Deformable Image Registration Along Continuous Trajectory Using Diffusion Models** <br>
 *Boah Kim, Inhwa Han, Jong Chul Ye.* <br>
+**Medical Image Translation**, KAIST <br>
 arXiv 2021. [[PDF](https://arxiv.org/abs/2112.05149)] 
 [[Github](https://github.com/DiffuseMorph/DiffuseMorph)] <br>
 
 **Diffusion Autoencoders: Toward a Meaningful and Decodable Representation** <br>
 *Konpat Preechakul, Nattanat Chatthee, Suttisak Wizadwongsa, Supasorn Suwajanakorn* <br>
+**Base I2I translation**, VISTEC <br>
 arXiv 2021. [[PDF](https://arxiv.org/abs/2111.15640)] 
 [[Project](https://diff-ae.github.io/)] 
 [[Github](https://github.com/phizaz/diffae)] <br>
 
 **Conditional Image Generation with Score-Based Diffusion Models** <br>
 *Georgios Batzolis, Jan Stanczuk, Carola-Bibiane Schönlieb, Christian Etmann.* <br>
+**Base I2I translation**, University of Cambridge <br>
 arXiv 2021. [[PDF](https://arxiv.org/abs/2111.13606)] 
 [[Github](https://github.com/GBATZOLIS/conditional_score_diffusion)] <br>
 
 **Palette: Image-to-Image Diffusion Models** <br>
 *Chitwan Saharia, William Chan, Huiwen Chang, Chris A. Lee, Jonathan Ho, Tim Salimans, David J. Fleet, Mohammad Norouzi.* <br>
+**Base I2I translation**, Google Research <br>
 SIGRAPH 2021. [[PDF](https://arxiv.org/abs/2111.05826)] 
 [[Github](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models)] <br>
 
 **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation** <br>
 *Gwanghyun Kim, Taesung Kwon, Jong Chul Ye.* <br>
+**Else papers**, KAIST <br>
 CVPR 2022. [[PDF](https://arxiv.org/abs/2110.02711)] 
 [[Github](https://github.com/gwang-kim/DiffusionCLIP)] <br>
 
 **ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models** <br>
 *Jooyoung Choi, Sungwon Kim, Yonghyun Jeong, Youngjune Gwon, Sungroh Yoon.* <br>
+**Base I2I translation**, Seoul National University & Samsung <br>
 ICCV 2021 (Oral). [[PDF](https://arxiv.org/abs/2108.02938)] 
 [[Github](https://github.com/jychoi118/ilvr_adm)] <br>
 
 **UNIT-DDPM: UNpaired Image Translation with Denoising Diffusion Probabilistic Models** <br>
 *Hiroshi Sasaki, Chris G. Willcocks, Toby P. Breckon.* <br>
+**Base I2I translation**, Durham University <br>
 arXiv 2021. [[PDF](https://arxiv.org/abs/2104.05358)] 
 [[Github](https://github.com/konkuad/UNIT-DDPM-Unofficial)] <br>
