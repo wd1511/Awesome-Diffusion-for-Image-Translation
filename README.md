@@ -53,6 +53,17 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2025
 
+**Attention Distillation: A Unified Approach to Visual Characteristics Transfer** <br>
+*Yang Zhou, Xu Gao, Zichong Chen, Hui Huang.* <br>
+**Image Style Transfer**, Shenzhen University <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2502.20235)]
+[[Github](https://github.com/xugao97/AttentionDistillation)] <br>
+
+**PQDAST: Depth-Aware Arbitrary Style Transfer for Games via Perceptual Quality-Guided Distillation** <br>
+*Eleftherios Ioannou, Steve Maddock.* <br>
+**Image Style Transfer**, The University of Sheffield <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2502.16996)] <br>
+
 **d-Sketch: Improving Visual Fidelity of Sketch-to-Image Translation with Pretrained Latent Diffusion Models without Retraining** <br>
 *Prasun Roy, Saumik Bhattacharya, Subhankar Ghosh, Umapada Pal, Michael Blumenstein.* <br>
 **Sketch-to-Image translation**, University of Technology Sydney <br>
@@ -67,7 +78,7 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2502.13997)] <br>
 *Yinan Chen, Jiangning Zhang, Yali Bi, Xiaobin Hu, Teng Hu, Zhucun Xue, Ran Yi, Yong Liu, Ying Tai.* <br>
 **Else Papers**, Zhejiang University & Tencent <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2502.11974)] 
-[[Github](https://github.com/RyanChenYN/ImageInversion)]<br>
+[[Github](https://github.com/RyanChenYN/ImageInversion)] <br>
 
 **Less is More: Masking Elements in Image Condition Features Avoids Content Leakages in Style Transfer Diffusion Models** <br>
 *Lin Zhu, Xinbing Wang, Chenghu Zhou, Qinying Gu, Nanyang Ye.* <br>
