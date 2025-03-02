@@ -690,16 +690,19 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2312.00116)] <br>
 
 **CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation** <br>
 *Sihan Xu, Ziqiao Ma, Yidong Huang, Honglak Lee, Joyce Chai.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2310.13165)] 
+**Image Manipulation**, University of Michigan & LG AI Research <br>
+NeurIPS 2023. [[PDF](https://arxiv.org/abs/2310.13165)] 
 [[Github](https://github.com/sled-group/cyclenet)] <br>
 
 **Latent Diffusion Counterfactual Explanations** <br>
 *Karim Farid, Simon Schrodi, Max Argus, Thomas Brox.* <br>
+**Base I2I translation**, University of Freiburg <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2310.06668)] 
 [[Github](https://github.com/lmb-freiburg/ldce)] <br>
 
 **MedPrompt: Cross-Modal Prompting for Multi-Task Medical Image Translation** <br>
 *Xuhang Chen, Chi-Man Pun, Shuqiang Wang.* <br>
+**Medical Image Translation**, Shenzhen Institutes of Advanced Technology & University of Macau <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2310.02663)] <br>
 
 **Steered Diffusion: A Generalized Framework for Plug-and-Play Conditional Image Synthesis** <br>
