@@ -64,15 +64,17 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2502.20235)]
 **Image Style Transfer**, The University of Sheffield <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2502.16996)] <br>
 
-**d-Sketch: Improving Visual Fidelity of Sketch-to-Image Translation with Pretrained Latent Diffusion Models without Retraining** <br>
-*Prasun Roy, Saumik Bhattacharya, Subhankar Ghosh, Umapada Pal, Michael Blumenstein.* <br>
-**Sketch-to-Image translation**, University of Technology Sydney <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2502.14007)] <br>
+**PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data** <br>
+*Shijie Huang, Yiren Song, Yuxuan Zhang, Hailong Guo, Xueyin Wang, Mike Zheng Shou, Jiaming Liu.* <br>
+**Image Editing**, National University of Singapore & Tiamat <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2502.14397v1)] 
+[[Github](https://github.com/showlab/PhotoDoodle)] <br>
 
 **SigStyle: Signature Style Transfer via Personalized Text-to-Image Models** <br>
 *Ye Wang, Tongyuan Bai, Xuping Xie, Zili Yi, Yilin Wang, Rui Ma.* <br>
 **Image Style Transfer**, Jilin University & Nanjing University & Adobe <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2502.13997)] <br>
+ICLR 2025. [[PDF](https://arxiv.org/abs/2502.13997)] 
+[[Github](https://github.com/linllll/maskst)] <br>
 
 **Image Inversion: A Survey from GANs to Diffusion and Beyond** <br>
 *Yinan Chen, Jiangning Zhang, Yali Bi, Xiaobin Hu, Teng Hu, Zhucun Xue, Ran Yi, Yong Liu, Ying Tai.* <br>
@@ -155,6 +157,12 @@ Knowledge-Based Systems 2025. [[PDF](https://www.sciencedirect.com/science/artic
 
 ## 2024
 
+**d-Sketch: Improving Visual Fidelity of Sketch-to-Image Translation with Pretrained Latent Diffusion Models without Retraining** <br>
+*Prasun Roy, Saumik Bhattacharya, Subhankar Ghosh, Umapada Pal, Michael Blumenstein.* <br>
+**Sketch-to-Image translation**, University of Technology Sydney <br>
+ICPR 2024. [[PDF](https://arxiv.org/abs/2502.14007)] 
+[[Github](https://github.com/prasunroy/dsketch)]<br>
+
 **StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture** <br>
 *Miaomiao Dai, Qianyu Zhou, Lizhuang Ma.* <br>
 **Image Style Transfer**, Shanghai Jiao Tong University <br>
@@ -179,12 +187,19 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2412.15798)] <br>
 **Efficient Fine-Tuning and Concept Suppression for Pruned Diffusion Models** <br>
 *Reza Shirkavand, Peiran Yu, Shangqian Gao, Gowthami Somepalli, Tom Goldstein, Heng Huang.* <br>
 **Image Style Transfer**, University of Maryland & Florida State University <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2412.15341)] <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2412.15341)] 
+[[Github](https://github.com/rezashkv/diffusion_pruning)] <br>
 
 **LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model** <br>
 *Xi Wang, Hongzhen Li, Heng Fang, Yichen Peng, Haoran Xie, Xi Yang, Chuntao Li.* <br>
 **Image Style Transfer**, KTH Royal Institute of Technology & Tokyo Institute of Technology & Japan Advanced Institute of Science and Technology (JAIST) <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2412.11519)] <br>
+
+**Unpaired Multi-Domain Histopathology Virtual Staining using Dual Path Prompted Inversion** <br>
+*Bing Xiong, Yue Peng, RanRan Zhang, Fuqiang Chen, JiaYe He, Wenjian Qin.* <br>
+**Virtual Staining**, Shenzhen Institutes of Advanced Technology <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2412.11106v1)]
+[[Github](https://github.com/bairdxiong/StainPromptInversion)] <br>
 
 **SHMT: Self-supervised Hierarchical Makeup Transfer via Latent Diffusion Models** <br>
 *Zhaoyang Sun, Shengwu Xiong, Yaxiong Chen, Fei Du, Weihua Chen, Fan Wang, Yi Rong.* <br>
