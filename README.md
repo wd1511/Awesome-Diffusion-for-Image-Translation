@@ -707,11 +707,13 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2310.02663)] <br>
 
 **Steered Diffusion: A Generalized Framework for Plug-and-Play Conditional Image Synthesis** <br>
 *Nithin Gopalakrishnan Nair, Anoop Cherian, Suhas Lohit, Ye Wang, Toshiaki Koike-Akino, Vishal M. Patel, Tim K. Marks.* <br>
+**Base I2I translation**, Johns Hopkins University <br>
 ICCV 2023. [[PDF](https://arxiv.org/abs/2310.00224)] 
 [[Github](https://github.com/merlresearch/SteeredDiffusion)] <br>
 
 **Denoising Diffusion Bridge Models** <br>
 *Linqi Zhou, Aaron Lou, Samar Khanna, Stefano Ermon.* <br>
+**Base I2I translation**, Stanford University <br>
 arXiv 2023. [[PDF](https://arxiv.org/abs/2309.16948)] 
 [[Github-1](https://github.com/alexzhou907/DDBM)] 
 [[Github-2](https://github.com/galaxygliese/Latent-DDBM)] <br>
