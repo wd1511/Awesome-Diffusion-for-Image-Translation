@@ -659,6 +659,12 @@ SIGGRAPH 2024. [[PDF](https://arxiv.org/abs/2311.03335)]
 
 ## 2023
 
+**Conditional diffusion for SAR to optical image translation** <br>
+*Xinyu Bai, Xinyang Pu, Feng Xu.* <br>
+**SAR Image Translation**, Fudan University <br>
+IEEE Geoscience and Remote Sensing Letters 2023 [[PDF](https://ieeexplore.ieee.org/document/10330015)]
+[[Github](https://github.com/Coordi777/Conditional-Diffusion-for-SAR-to-Optical-Image-Translation)] <br>
+
 **Diffusion Cocktail: Fused Generation from Diffusion Models** <br>
 *Haoming Liu, Yuanhe Guo, Shengjie Wang, Hongyi Wen.* <br>
 **Image Style Transfer**, NYU Shanghai <br>
