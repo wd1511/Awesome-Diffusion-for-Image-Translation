@@ -53,6 +53,22 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2025
 
+**CAPAST: Content Affinity Preserved Arbitrary Style Transfer** <br>
+*Xinyuan Zheng, Xiaojie Li, Canghong Shi, Jia He, Zhan Ao Huang, Xian Zhang.* <br>
+**Image Style Transfer**, Chengdu University of Information Technology <br>
+ICASSP 2025. [[PDF](https://ieeexplore.ieee.org/abstract/document/10890339)] <br>
+
+**Low-Rank Transformer Adaptation for Arbitrary Style Transfer** <br>
+*Wenjie Xu, Meichen Liu, Bihan Wen.* <br>
+**Image Style Transfer**, Nanyang Technological University <br>
+ICASSP 2025. [[PDF](https://ieeexplore.ieee.org/abstract/document/10887739)] <br>
+
+**Dual-Modality Guided Artistic Style Transfer with Pre-trained Diffusion Models** <br>
+*Jiaxiong Liu, Xiaolong Xiong, Jun Zhou.* <br>
+**Image Style Transfer**, Southwest University <br>
+ICASSP 2025. [[PDF](https://ieeexplore.ieee.org/abstract/document/10888654)] 
+[[Github](https://github.com/BBABM/DMG)] <br>
+
 **SSDM: Generated image interaction method based on spatial sparsity for diffusion models** <br>
 *Zhuochao Yang, Jingjing Liu, Haozhe Zhu, Jianhua Zhang, Wanquan Liu.* <br>
 **Image editing**, Shanghai University & Fudan University <br>
