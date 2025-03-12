@@ -53,6 +53,23 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2025
 
+**DyArtbank: Diverse artistic style transfer via pre-trained stable diffusion and dynamic style prompt Artbank** <br>
+*Zhanjie Zhang, Quanwei Zhang, Guangyuan Li, Junsheng Luan, Mengyuan Yang, Yun Wang, Lei Zhao.* <br>
+**Image Style Transfer**, Zhejiang University & City University of Hong Kong <br>
+Knowledge-Based Systems 2025. [[PDF](https://arxiv.org/abs/2503.08392)] 
+[[PDF(official)](https://www.sciencedirect.com/science/article/pii/S0950705125000073)] 
+[[Github](https://github.com/Jamie-Cheung/DyArtbank)] <br>
+
+**AttenST: A Training-Free Attention-Driven Style Transfer Framework with Pre-Trained Diffusion Models** <br>
+*Bo Huang, Wenlun Xu, Qizhuo Han, Haodong Jing, Ying Li.* <br>
+**Image Style Transfer**, Northwestern Polytechnical University <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2503.07307)] <br>
+
+**SCSA: A Plug-and-Play Semantic Continuous-Sparse Attention for Arbitrary Semantic Style Transfer** <br>
+*Chunnan Shang, Zhizhong Wang, Hongwei Wang, Xiangming Meng.* <br>
+**Image Style Transfer**, Zhejiang University <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2503.04119)] <br>
+
 **CAPAST: Content Affinity Preserved Arbitrary Style Transfer** <br>
 *Xinyuan Zheng, Xiaojie Li, Canghong Shi, Jia He, Zhan Ao Huang, Xian Zhang.* <br>
 **Image Style Transfer**, Chengdu University of Information Technology <br>
@@ -68,13 +85,6 @@ ICASSP 2025. [[PDF](https://ieeexplore.ieee.org/abstract/document/10887739)] <br
 **Image Style Transfer**, Southwest University <br>
 ICASSP 2025. [[PDF](https://ieeexplore.ieee.org/abstract/document/10888654)] 
 [[Github](https://github.com/BBABM/DMG)] <br>
-
-**DyArtbank: Diverse artistic style transfer via pre-trained stable diffusion and dynamic style prompt Artbank** <br>
-*Zhanjie Zhang, Quanwei Zhang, Guangyuan Li, Junsheng Luan, Mengyuan Yang, Yun Wang, Lei Zhao.* <br>
-**Image Style Transfer**, Zhejiang University & City University of Hong Kong <br>
-Knowledge-Based Systems 2025. [[PDF](https://arxiv.org/abs/2503.08392)] 
-[[PDF(official)](https://www.sciencedirect.com/science/article/pii/S0950705125000073)] 
-[[Github](https://github.com/Jamie-Cheung/DyArtbank)] <br>
 
 **SSDM: Generated image interaction method based on spatial sparsity for diffusion models** <br>
 *Zhuochao Yang, Jingjing Liu, Haozhe Zhu, Jianhua Zhang, Wanquan Liu.* <br>
