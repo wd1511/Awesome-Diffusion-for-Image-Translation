@@ -65,6 +65,11 @@ Knowledge-Based Systems 2025. [[PDF](https://arxiv.org/abs/2503.08392)]
 **Image Style Transfer**, Northwestern Polytechnical University <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2503.07307)] <br>
 
+**SCSA: A Plug-and-Play Semantic Continuous-Sparse Attention for Arbitrary Semantic Style Transfer** <br>
+*Chunnan Shang, Zhizhong Wang, Hongwei Wang, Xiangming Meng.* <br>
+**Image Style Transfer**, Zhejiang University <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2503.04119)] <br>
+
 **CAPAST: Content Affinity Preserved Arbitrary Style Transfer** <br>
 *Xinyuan Zheng, Xiaojie Li, Canghong Shi, Jia He, Zhan Ao Huang, Xian Zhang.* <br>
 **Image Style Transfer**, Chengdu University of Information Technology <br>
