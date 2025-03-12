@@ -69,6 +69,13 @@ ICASSP 2025. [[PDF](https://ieeexplore.ieee.org/abstract/document/10887739)] <br
 ICASSP 2025. [[PDF](https://ieeexplore.ieee.org/abstract/document/10888654)] 
 [[Github](https://github.com/BBABM/DMG)] <br>
 
+**DyArtbank: Diverse artistic style transfer via pre-trained stable diffusion and dynamic style prompt Artbank** <br>
+*Zhanjie Zhang, Quanwei Zhang, Guangyuan Li, Junsheng Luan, Mengyuan Yang, Yun Wang, Lei Zhao.* <br>
+**Image Style Transfer**, Zhejiang University & City University of Hong Kong <br>
+Knowledge-Based Systems 2025. [[PDF](https://arxiv.org/abs/2503.08392)] 
+[[PDF(official)](https://www.sciencedirect.com/science/article/pii/S0950705125000073)] 
+[[Github](https://github.com/Jamie-Cheung/DyArtbank)] <br>
+
 **SSDM: Generated image interaction method based on spatial sparsity for diffusion models** <br>
 *Zhuochao Yang, Jingjing Liu, Haozhe Zhu, Jianhua Zhang, Wanquan Liu.* <br>
 **Image editing**, Shanghai University & Fudan University <br>
@@ -170,11 +177,6 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2501.02064)] <br>
 **Base I2I translation**, Indraprastha Institute of Information Technology <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2501.01223)] 
 [[Github](https://github.com/amilbhagat/Conditional-Consistency-Models)] <br>
-
-**DyArtbank: Diverse artistic style transfer via pre-trained stable diffusion and dynamic style prompt Artbank** <br>
-*Zhanjie Zhang, Quanwei Zhang, Guangyuan Li, Junsheng Luan, Mengyuan Yang, Yun Wang, Lei Zhao.* <br>
-**Image Style Transfer**, Zhejiang University & City University of Hong Kong <br>
-Knowledge-Based Systems 2025. [[PDF](https://www.sciencedirect.com/science/article/pii/S0950705125000073)] <br>
 
 ## 2024
 
