@@ -53,6 +53,11 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2025
 
+**SSDM: Generated image interaction method based on spatial sparsity for diffusion models** <br>
+*Zhuochao Yang, Jingjing Liu, Haozhe Zhu, Jianhua Zhang, Wanquan Liu.* <br>
+**Image editing**, Shanghai University & Fudan University <br>
+Neurocomputing 2025. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0925231225004771)] <br>
+
 **Attention Distillation: A Unified Approach to Visual Characteristics Transfer** <br>
 *Yang Zhou, Xu Gao, Zichong Chen, Hui Huang.* <br>
 **Image Style Transfer**, Shenzhen University <br>
