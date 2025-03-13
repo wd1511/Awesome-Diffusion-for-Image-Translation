@@ -70,6 +70,16 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2503.07307)] <br>
 **Image Style Transfer**, Zhejiang University <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2503.04119)] <br>
 
+**DiffuseFIST: A Fast Image-guided Style Transfer Method for Adapting Large-scale Diffusion Models** <br>
+*Miaomiao Da, Qianyu Zhou, Ran Yi, Lizhuang Ma.* <br>
+**Image Style Transfer**, Shanghai Jiao Tong University <br>
+ICASSP 2025. [[PDF](https://ieeexplore.ieee.org/abstract/document/10889203)] <br>
+
+**Unsupervised Image-to-Image Style Transfer via Dual-Condition Diffusion Models** <br>
+*Anfei Fan, Jun Yang, Wei Li, Chiyu Zhang.* <br>
+**Image Style Transfer**, Sichuan Normal University <br>
+ICASSP 2025. [[PDF](https://ieeexplore.ieee.org/document/10889157)] <br>
+
 **CAPAST: Content Affinity Preserved Arbitrary Style Transfer** <br>
 *Xinyuan Zheng, Xiaojie Li, Canghong Shi, Jia He, Zhan Ao Huang, Xian Zhang.* <br>
 **Image Style Transfer**, Chengdu University of Information Technology <br>
@@ -132,7 +142,7 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2502.05749)]
 [[Github](https://github.com/UniDB-SOC/UniDB/)] <br>
 
 **Inverse Bridge Matching Distillation** <br>
-**Nikita Gushchin, David Li, Daniil Selikhanovych, Evgeny Burnaev, Dmitry Baranchuk, Alexander Korotin.* <br>
+*Nikita Gushchin, David Li, Daniil Selikhanovych, Evgeny Burnaev, Dmitry Baranchuk, Alexander Korotin.* <br>
 **Base I2I translation**, Skolkovo Institute of Science and Technology & Yandex Research & HSE University & Artificial Intelligence Research Institute <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2502.01362)] <br>
 
