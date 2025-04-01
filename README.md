@@ -53,6 +53,26 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2025
 
+**Semantix: An Energy Guided Sampler for Semantic Style Transfer** <br>
+*Huiang He, Minghui Hu, Chuanxia Zheng, Chaoyue Wang, Tat-Jen Cham.* <br>
+**Image Style Transfer**, South China University of Technology <br>
+ICLR 2025. [[PDF](https://arxiv.org/abs/2503.22344)]
+[[Project](https://huiang-he.github.io/semantix/)] 
+[[Github](https://github.com/Huiang-He/Semantix-Styler)] <br>
+
+**Color Conditional Generation with Sliced Wasserstein Guidance** <br>
+*Alexander Lobashev, Maria Larchenko, Dmitry Guskov.* <br>
+**Image Style Transfer**, Skolkovo Institute of Science and Technology <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2503.19034)] 
+[[Github](https://github.com/alobashev/sw-guidance/)] <br>
+
+**ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer** <br>
+*Bolin Chen, Baoquan Zhao, Haoran Xie, Yi Cai, Qing Li, Xudong Mao.* <br>
+**Image Style Transfer**, Sun Yat-sen University & Lingnan University <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2503.10614)] 
+[[Project](https://consislora.github.io)] 
+[[Github](https://github.com/000linlin/ConsisLoRA)] <br>
+
 **DyArtbank: Diverse artistic style transfer via pre-trained stable diffusion and dynamic style prompt Artbank** <br>
 *Zhanjie Zhang, Quanwei Zhang, Guangyuan Li, Junsheng Luan, Mengyuan Yang, Yun Wang, Lei Zhao.* <br>
 **Image Style Transfer**, Zhejiang University & City University of Hong Kong <br>
