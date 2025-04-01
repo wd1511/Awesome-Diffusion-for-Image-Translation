@@ -60,11 +60,34 @@ ICLR 2025. [[PDF](https://arxiv.org/abs/2503.22344)]
 [[Project](https://huiang-he.github.io/semantix/)] 
 [[Github](https://github.com/Huiang-He/Semantix-Styler)] <br>
 
+**Contrastive Learning Guided Latent Diffusion Model for Image-to-Image Translation** <br>
+*Qi Si, Bo Wang, Zhao Zhang, Mingbo Zhao, Xiaojie Jin, Mingliang Xu, Meng Wang.* <br>
+**Image Editing**, Hefei University of Technology <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2503.20484)] <br>
+
+**Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models** <br>
+*Ruixi You, Hecheng Jia, Feng Xu.* <br>
+**SAR Image Translation**, Fudan University <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2503.19798)] <br>
+
 **Color Conditional Generation with Sliced Wasserstein Guidance** <br>
 *Alexander Lobashev, Maria Larchenko, Dmitry Guskov.* <br>
 **Image Style Transfer**, Skolkovo Institute of Science and Technology <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2503.19034)] 
 [[Github](https://github.com/alobashev/sw-guidance/)] <br>
+
+**DiffV2IR: Visible-to-Infrared Diffusion Model via Vision-Language Understanding** <br>
+*Lingyan Ran, Lidong Wang, Guangcong Wang, Peng Wang, Yanning Zhang.* <br>
+**Infrared Image Translation**, Northwestern Polytechnical University <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2503.19012)] 
+[[Project](https://diffv2ir.github.io)]
+[[Github](https://github.com/LidongWang-26/DiffV2IR)] <br>
+
+**Single-Step Bidirectional Unpaired Image Translation Using Implicit Bridge Consistency Distillation** <br>
+*Suhyeon Lee, Kwanyoung Kim, Jong Chul Ye.* <br>
+**Base I2I translation**, KAIST & Samsung Research <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2503.15056)] 
+[[Project](https://hyn2028.github.io/project_page/IBCD/index.html)] <br>
 
 **ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer** <br>
 *Bolin Chen, Baoquan Zhao, Haoran Xie, Yi Cai, Qing Li, Xudong Mao.* <br>
@@ -72,6 +95,11 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2503.19034)]
 arXiv 2025. [[PDF](https://arxiv.org/abs/2503.10614)] 
 [[Project](https://consislora.github.io)] 
 [[Github](https://github.com/000linlin/ConsisLoRA)] <br>
+
+**CM-Diff: A Single Generative Network for Bidirectional Cross-Modality Translation Diffusion Model Between Infrared and Visible Images** <br>
+*Bin Hu, Chenqiang Gao, Shurui Liu, Junjie Guo, Fang Chen, Fangcen Liu.* <br>
+**Infrared Image Translation**, Chongqing University of Posts and Telecommunications <br>
+arXiv 2025. [[PDF](https://arxiv.org/abs/2503.09514)] <br>
 
 **DyArtbank: Diverse artistic style transfer via pre-trained stable diffusion and dynamic style prompt Artbank** <br>
 *Zhanjie Zhang, Quanwei Zhang, Guangyuan Li, Junsheng Luan, Mengyuan Yang, Yun Wang, Lei Zhao.* <br>
