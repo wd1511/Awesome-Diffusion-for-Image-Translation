@@ -4,7 +4,7 @@
 
 A curated bibliography of diffusion-based image translation, editing and style transfer, including closely related diffusion bridges and flow-matching methods.
 
-**Last updated: 2026-09-22.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
+**Last updated: 2026-10-16.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
 
 ```Latex
 **Here is the Paper Name** <br>
@@ -66,12 +66,966 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 - Language-based Image Colorization benchmark / Color-Turbo (2025) [[Paper](https://arxiv.org/abs/2503.14974)] [[Github](https://github.com/lyf1212/Color-Turbo)] <br>
 - StyleID (SIGGRAPH 2026) [[Paper](https://arxiv.org/abs/2604.21689)] [[Project](https://kwanyun.github.io/StyleID_page/)] <br>
 
+- VeriEdit-Bench (2026) [[Paper](https://arxiv.org/abs/2610.04381)] [[Resource](https://github.com/flare200020/VeriEdit-Bench)] <br>
+- ASTRA-Data / ASTRA-Score (2026) [[Paper](https://arxiv.org/abs/2610.10003)] <br>
+- ScribbleEdit (2026) [[Paper](https://arxiv.org/abs/2610.09382)] <br>
+- SlideBench (2026) [[Paper](https://arxiv.org/abs/2610.14253)] <br>
+- InfoEdit (2026) [[Paper](https://arxiv.org/abs/2609.33286)] [[Resource](https://infoedit.github.io)] <br>
+- EditJudgeBias (2026) [[Paper](https://arxiv.org/abs/2610.01670)] <br>
+- CE-Bench (2026) [[Paper](https://arxiv.org/abs/2610.18819)] <br>
+- LME-Bench (2026) [[Paper](https://arxiv.org/abs/2609.35611)] <br>
+- ChartStyle-100K / ChartStyle-Bench (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/5569)] [[Resource](https://github.com/yuweiyang-anu/ChartStyle)] <br>
+- EditHF-1M (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/4044)] [[Resource](https://github.com/IntMeGroup/EditHF)] <br>
+- PhyEditBench (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/5047)] [[Resource](https://github.com/Previsior/PhyEditBench)] <br>
+- UniREditBench / UniREdit-Data-100K (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/4175)] <br>
+- RCEdit-500K (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/5946)] <br>
+- WeEdit (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/4337)] <br>
+- GRADE (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/3710)] [[Resource](https://grade-bench.github.io/)] <br>
+
 ### Virtual Try-On Benchmarks
 
-- OpenVTON-Bench (2026) [[Paper](https://arxiv.org/abs/2601.22725)] [[Github](https://github.com/RenxingIntelligence/OpenVTON-Bench)] <br>
+- OpenVTON-Bench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2601.22725)] [[Github](https://github.com/RenxingIntelligence/OpenVTON-Bench)] <br>
 - TripVVT (ECCV 2026) [[Paper](https://arxiv.org/abs/2604.27958)] <br>
+- MVShoes / MVShoes-clean (NeurIPS 2025) [[Paper](https://arxiv.org/abs/2610.18325)] [[Resource](https://colorful-liyu.github.io/ShoeFit/)] <br>
+- VTON-QBench (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/5449)] [[Resource](https://github.com/litelightlite/VTON-IQA)] <br>
+- VTEdit-Bench (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/3764)] <br>
+- Fit4Men (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/4018)] [[Resource](https://github.com/tiny-smart/FitControler)] <br>
+- LVTON (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/4142)] <br>
 
 ## 2026
+
+**ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning** <br>
+*Sara Dorfman, Nir Goren, Gal Barak, Daniel Cohen-Or, Or Patashnik.* <br>
+**Image Editing**, Tel Aviv University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.22328)]
+[[Project](https://saradorfman1.github.io/ACEdit/)] <br>
+
+**Rethinking Classifier-Free Guidance for TI2I Flow Matching** <br>
+*Andreas Floros, Elena Koritska, Teofilo de Campos, Christoph Vogel, Chu-Tak Li, Anuj Sharma, Alexandros Neophytou.* <br>
+**Image Editing** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.21550)] <br>
+
+**Intern Lumina U2: A Multi-Codebook Diffusion Large Language Model for Omni-Visual Understanding and Image Generation** <br>
+*Qian Yu, Zongyang Qiu, Juncheng Yan, Hongliang Li, Qi Qin, Keqi Wang, Siqi Luo, Junkui Ju, Yapeng Mi, Tiantian Lu, Tian Liu, Pengyu Xie, Chenhao Ji, Minghui Zhang, Yiang Zhao, Siyu Yan, Haiying Xu, Yanbo Wang, Jianghan Shen, Yuandong Pu, Jiayi Lei, Borui Zhang, Jinxin Shi, Bo Zhang, Yuhang Zang, Shenglong Ye, Lixin Gu, Hongjie Zhang, Linghan Liu, Xinyuan Chen, Yuewen Cao, Lihe Zhang, Xiaohong Liu, Junjun He, Qiangwei Liu, Qi Zhang, Yu Cheng, Tianfan Xue, Hui Xiong, Chang Xu, Yu Qiao, Yihao Liu, Bin Fu.* <br>
+**Image Editing**, Shanghai AI Laboratory & Shanghai Jiao Tong University & Huawei Technologies, Shenzhen, China & Dalian University of Technology & Tsinghua University & Shanghai Innovation Institute & The University of Sydney & HKUST(GZ) & SIAT, CAS & USTC & The Chinese University of Hong Kong <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.20818)]
+[[Project](https://internlm.github.io/InternLumina-U2)]
+[[Github](https://github.com/InternLM/InternLumina-U2)]
+[[Model](https://huggingface.co/internlm/InternLumina-U2)] <br>
+
+**BluePixel: Toward Native 4K Agentic Image Editing** <br>
+*Shanyan Guan, Shiyu Li, Xin Li, Zhizhou Chen, Yunzhe Xu, Yuehao Liu, Ruixue Shen, Shiju Zhang, Min Jin, Qiang Liu, Junbo Liu, Penggang Shi, Sheng Sun, Xiao Wang, Yong Zhang, Zhongang Qi, Wei Li, Chao Ma, Ying Tai, Yanhao Ge.* <br>
+**Image Editing**, vivo Mobile Communication Co., Ltd. & Nanjing University & Shanghai Jiao Tong University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.19882)]
+[[Project](https://tech.vivo.com/BluePixel)]
+[[Github](https://github.com/vivo/BluePixel)] <br>
+
+**DuplexBridge: Coordinating Understanding and Generation for Unified Image Editing** <br>
+*Yidi Liu, Jie Xiao, Chaojie Mao, Jingfeng Zhang, Xueyang Fu.* <br>
+**Image Editing** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.18819)] <br>
+
+**BridgeTwist: Twisting Schrödinger Bridges for Training-Free Conditional Sampling** <br>
+*Mengyu Li, Qianqian Qu, Jun S. Liu.* <br>
+**Base I2I Translation**, Department of Statistics and Data Science, Tsinghua University, Beijing, China <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2610.18658)] <br>
+
+**Efficient Scene-Text Refinement via Pixel-Space Grouped Image Generation** <br>
+*Yaoli Liu, Guo-Hua Wang, Yiyang Chen, Qing-Guo Chen, Zhao Xu, Weihua Luo, Yao-Xiang Ding.* <br>
+**Image Editing**, State Key Lab of CAD&CG, Zhejiang University & Alibaba Group & State Key Laboratory of General Artificial Intelligence, Peking University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.18284)] <br>
+
+**SliderEdit++: Improved Slider Trajectories in Instruction-Based Image Editing** <br>
+*Arman Zarei, Sayan Nag, Bryan Wang, Franck Dernoncourt, Varun Manjunatha, Nedim Lipka, Soheil Feizi, Samyadeep Basu.* <br>
+**Image Editing**, Adobe Research & University of Maryland <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.14253)] <br>
+
+**What We Talk About When We Talk About Emotion Editing** <br>
+*Xingzu Zhan, Lin Gu, Ruogu Fang.* <br>
+**Image Editing** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.13558)] <br>
+
+**ThinkDrag: Semantic Drag-Based Image Editing with Visual Reasoning** <br>
+*Armando Fortes, Tianyi Wei, Chindanai Trakantannarong, Shangchen Zhou, Xingang Pan.* <br>
+**Image Editing**, S-Lab, Nanyang Technological University, Singapore <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.13316)]
+[[Project](https://atfortes.github.io/projects/thinkdrag/)] <br>
+
+**Temporal Diffusion Bridge Model for Vessel Extraction Using Physics-informed Synthetic Data** <br>
+*Jinkui Hao, Donald R. Cantrell, Ramez Abdalla, Sameer A. Ansari, Bo Zhou.* <br>
+**Medical Image Translation** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.14105)]
+[[Github](https://github.com/Advanced-AI-in-Medicine-and-Physics-Lab/TDBM)] <br>
+
+**Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation** <br>
+*Ritesh Thawkar, Shubham Patle, Shravan Venkatraman, Rao Muhammad Anwer.* <br>
+**Image Editing**, Mohamed bin Zayed University of Artificial Intelligence & Aalto University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.12469)]
+[[Github](https://github.com/riteshthawkar/Rubric-CEPR)]
+[[Project](https://riteshthawkar.github.io/Rubric-CEPR/)] <br>
+
+**VibeEdit: Image Editing with Canvas Instructions** <br>
+*Jinjing Zhao, Fangyun Wei, Yitong Wang, Xiuyu Wu, Yunuo Chen, Yang Yue, Sirui Zhang, Wenbo Wang, Hongyang Zhang, Dong Chen, Yan Lu, Chang Xu.* <br>
+**Image Editing** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.12229)]
+[[Project](https://zhaojingjing713.github.io/VibeEdit/)] <br>
+
+**Healthy Counterfactual Generation via Diffusion Inpainting for Mammography Classification** <br>
+*Inês Cruchinho Garcia, Mariana Mourão, Francisco Maria Calisto, Carlos Santiago, Jacinto Nascimento.* <br>
+**Medical Image Translation**, Institute for Systems and Robotics, Instituto Superior Técnico, Lisbon, Portugal <br>
+MICCAI Deep-Brea3th Workshop 2026. [[PDF](https://arxiv.org/abs/2610.12147)]
+[[Github](https://github.com/ines03garcia/diffusion-based-counterfactual-generation)] <br>
+
+**VINCIE-NExT: Unlocking Video Editing from Images via In-Context Modeling** <br>
+*Leigang Qu, Feng Cheng, Ziyan Yang, Bangbang Yang, Zhaoyang Huang, Wei Chow, Yicong Li, Wenjie Wang, Tat-Seng Chua, Yan Zeng.* <br>
+**Video Editing**, National University of Singapore & ByteDance Seed & University of Science and Technology of China <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2610.12104)]
+[[Project](https://vincie-next.github.io/)]
+[[Conference](https://neurips.cc/virtual/2026/poster/152863)] <br>
+
+**Transforming Image Editors into Video Editors** <br>
+*Feng Wang, Zijie Li, Ceyuan Yang, Alan Yuille, Peng Wang.* <br>
+**Video Editing**, ByteDance Seed & Johns Hopkins University <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2610.11037)]
+[[Github](https://github.com/wangf3014/AVE)]
+[[Conference](https://neurips.cc/virtual/2026/poster/149320)] <br>
+
+**Perceptually Aligned Evaluation of Style Transfer** <br>
+*Yang Deng, Eleftherios Ioannou, David Mould, Steve Maddock, Paul L. Rosin, Yu-Kun Lai.* <br>
+**Dataset / Evaluation** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.10003)] <br>
+
+**ScribbleEdit: A Benchmark for Scribble-Only Image Editing** <br>
+*Jie Ren, Hao Kang, Kai Guo, Yiding Yang, Bo Liu, Liming Jiang, Qing Yan, Zichuan Liu, Yizhi Song, Yue Xing, Hui Liu, Xin Lu.* <br>
+**Dataset / Evaluation**, ByteDance & Michigan State University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.09382)] <br>
+
+**Zero-Shot Brain MRI Inpainting with 2.5D Unconditional Flow Priors** <br>
+*Arnela Hadzic, Franz Thaler, Simon Johannes Joham, Martin Urschler.* <br>
+**Medical Image Translation**, Institute for Medical Informatics, Statistics and Documentation, Medical University of Graz, Graz, Austria <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.08983)]
+[[Github](https://github.com/imigraz/brats2026-inpainting)] <br>
+
+**Local Content-Style Control for Diffusion-based Image Stylization** <br>
+*Amir Semmo.* <br>
+**Image Style Transfer**, Digital Masterpieces GmbH , Potsdam , Germany <br>
+SIGGRAPH Asia Technical Communications 2026. [[PDF](https://arxiv.org/abs/2610.08704)] <br>
+
+**Disentangling Dual Image References in Frequency Aware Diffusion Models for Personalized Generation** <br>
+*Haipeng Liu, Yang Wang, Meng Wang.* <br>
+**Image Style Transfer**, School of Computer Science and Information Engineering, Hefei University of Technology, China <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2610.07684)]
+[[Github](https://github.com/htyjers/Dual-FDM)] <br>
+
+**UniSlider: Perceptually Uniform Sliders for Continuous Image Editing** <br>
+*David Serrano-Lozano, Duygu Ceylan, Yannick Hold-Geoffroy, Iliyan Georgiev, Javier Vazquez-Corral, Anna Frühstück.* <br>
+**Image Editing** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.06831)]
+[[Project](https://color.cvc.uab.cat/unislider)] <br>
+
+**Scalable Minimal-Change Learning for Controllable Image Editing** <br>
+*Shuo Chen, Fengming Huang, Yu Yao, Mingming Gong, Tongliang Liu.* <br>
+**Image Editing**, Sydney AI Centre, The University of Sydney & University of Melbourne <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2610.06021)]
+[[Github](https://github.com/Showwwwwwwww/ARRO)]
+[[Conference](https://neurips.cc/virtual/2026/poster/153198)] <br>
+
+**FACET: Factorized Asymmetric Conditioning for Efficient Transport in High-Fidelity Fluorescence Microscopy Synthesis** <br>
+*Sazan Mahbub, Caleb N. Ellington, Eric P. Xing.* <br>
+**Medical Image Translation**, Carnegie Mellon University & GenBio AI & Mohamed bin Zayed University of AI <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.05353)] <br>
+
+**Salvation Lies Within: Eliciting Inherent Style Transfer in Step-Distilled Diffusion Models** <br>
+*Shengyin Sun, Yiming Li, Yingzhao Lian, Xing Li, Xingzhi Zhou, Anxin Tian, Zhili Wang, Haoyang Li, Ziqiang Cui, Chen Ma.* <br>
+**Image Style Transfer**, Huawei Technologies & Hong Kong Polytechnic University & City University of Hong Kong <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.05066)]
+[[Github](https://github.com/sunshy-1/StyleForge)] <br>
+
+**TRACE: Time-Adaptive Residual Attention Control with Content-Style Decomposition for Training-Free Diffusion Style Transfer** <br>
+*Duc Khoan Le, Kim Ngoc Tran, Minh Nhat Le, Thanh An Tran, Viet Toan Nguyen, Khanh An Lay, Tran Thai Son, Hoang Pham Minh.* <br>
+**Image Style Transfer**, Faculty of Information Technology, University of Science, Ho Chi Minh City, Vietnam & Vietnam National University, Ho Chi Minh City, Vietnam <br>
+ACCV 2026. [[PDF](https://arxiv.org/abs/2610.04922)]
+[[Github](https://github.com/pixelchemy-research/TRACE)] <br>
+
+**FASTER: Fast Adjoint Stochastic Transport for Endpoint Refinement in Reward-Guided Image Editing** <br>
+*Yimiao Zhou, Zejia Zhong, Jingya Wang, Ye Shi.* <br>
+**Image Editing**, ShanghaiTech University, Shanghai, China <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.04538)] <br>
+
+**Beyond Plausibility: Verifiable Fine-Grained Image Editing on Structured Assets** <br>
+*Muyao Wang, Chen Zhu, Shiqi Yang, DongHyun Hwan, Hideki Nakayama.* <br>
+**Dataset / Evaluation**, SB Intuitions & University of Tokyo <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.04381)]
+[[Github](https://github.com/flare200020/VeriEdit-Bench)] <br>
+
+**Uncertainty as a Proxy for Semantic Correctness in Diffusion-Based Medical Image Synthesis** <br>
+*Yuxuan Ou, Konstantinos Kamnitsas, OxAAA Study, AICT Consortium, Regent Lee, Vicente Grau.* <br>
+**Medical Image Translation** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.03224)] <br>
+
+**Distributionally Robust Schrödinger Bridge** <br>
+*Jinhwan Sul, Panagiotis Theodoropoulos, Vincent Pacelli, Jaemoo Choi, Evangelos Theodorou.* <br>
+**Base I2I Translation** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.02043)] <br>
+
+**When Text-to-Image Helps Editing: The Effects of Conditioning During Denoising** <br>
+*Lidia Troeshestova, Alexander Ustyuzhanin, Sergey Kastryulin.* <br>
+**Image Editing**, HSE University & Yandex <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.01681)] <br>
+
+**Do MLLM Judges Judge the Edit? Auditing Bias in Image Editing Evaluation with Verified Quality Preservation** <br>
+*Yuan Huang, Zirui Song, Xiuying Chen.* <br>
+**Dataset / Evaluation** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.01670)] <br>
+
+**Spatially Gated Diffusion for Localized Counterfactual Chest Radiograph Editing** <br>
+*Kamran Ullah Afaq, Basit Raza.* <br>
+**Medical Image Translation** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.00805)] <br>
+
+**CPathOGen: Spatially and Morphologically Controlled H&E Counterfactuals for Probing Pathology Models** <br>
+*Samarth Singhal, Varang Rai.* <br>
+**Medical Image Translation**, University of North Dakota & Google <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.00602)]
+[[Github](https://github.com/a12dongithub/PathOGen)]
+[[Model](https://huggingface.co/a12donhf/CPathOGen)] <br>
+
+**TexTailor: Texture-Preserving Video Virtual Try-On via Adaptive Garment Conditioning** <br>
+*Zijing Qin, Jun Zhou, Ruicheng Zhang, Jiaqi Hou, Zunnan Xu, Ronghui Li, Zhenyu Xie, Xiu Li.* <br>
+**Virtual Try-On** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.39335)] <br>
+
+**Diffusion Editing with Soft Mask: Pixel Level Redo of Image and Video with Adjustable Strength** <br>
+*Candi Zheng, Yuan Lan.* <br>
+**Image Editing** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.00359)] <br>
+
+**STEPS: Scene Text Editing with Preserved Style Using Diffusion and Contrastive Style Encoding** <br>
+*Nicolas Thiebaut, Nameer Hirschkind, Xiao Yu, Kyle Spence.* <br>
+**Image Editing**, Roblox, San Mateo, CA, USA <br>
+PAKDD 2026. [[PDF](https://arxiv.org/abs/2609.38636)] <br>
+
+**CLeaR: A Unified Framework for Resolving the Leakage-Degradation Dilemma in Style Transfer** <br>
+*Teng Zhou, Yunhao Chen.* <br>
+**Image Style Transfer**, Zhejiang University & Fudan University <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2609.38136)]
+[[Github](https://github.com/0606zt/CLeaR)]
+[[Conference](https://neurips.cc/virtual/2026/poster/151839)] <br>
+
+**The Camera Inside the Editor: Reading the Implicit Camera of Image Editors with Painted Calibration Patterns** <br>
+*Sebastian Rückerl.* <br>
+**Dataset / Evaluation**, University of Hagen, Germany <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.37732)] <br>
+
+**PCaPaint: Prostate Cancer Inpainting by Mitigating Shortcut Learning** <br>
+*Levente Lippenszky, Hongxu Yang, Marcell Dömötör, Krisztian Koos, László Ruskó.* <br>
+**Medical Image Translation**, GE HealthCare <br>
+MICCAI DGM4MICCAI Workshop 2026. [[PDF](https://arxiv.org/abs/2609.37350)] <br>
+
+**LoRA Direction Extraction for Controllable Light Toggling in FLUX.1 Kontext** <br>
+*Petr Golenderov, Dmitry Mazyar, Natalia Sovpel, Alexander Aksenov.* <br>
+**Image Editing** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.03771)] <br>
+
+**Drag as Evidence: Motion-Grounded Latent Recomposition for Drag-Based Editing** <br>
+*Xinyu Pu, Hongsong Wang, Jie Gui, Pan Zhou.* <br>
+**Image Editing**, Southeast University & Purple Mountain Laboratories & Singapore Management University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.36755)] <br>
+
+**Mind the RefGAP: Correcting Reference Attention in Diffusion-Based Visual Editing** <br>
+*Yanan Wang, Shengcai Liao, Guangyi Liu, Xiaodan Liang.* <br>
+**Image Editing**, Mohamed bin Zayed University of Artificial Intelligence, Institute of Foundation Models & United Arab Emirates University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.35708)]
+[[Project](https://yanan-wang-cs.github.io/RefGAP/)] <br>
+
+**FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching** <br>
+*Thanh-Long V. Le, Steven Walton, Seunghyun Yoon, Branislav Kveton, Trung Bui, Eunho Yang, Viet Lai.* <br>
+**Image Editing** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.35673)] <br>
+
+**On-Policy Self-Distillation for Multi-Turn Image Editing** <br>
+*Liangbing Zhao, Le Zhuo, Mohamed Elhoseiny.* <br>
+**Image Editing**, KAUST & Krea AI <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.35611)] <br>
+
+**Tilted Schrödinger Bridge Matching** <br>
+*Sergei Kholkin, Evgeny Burnaev, Alexander Korotin.* <br>
+**Base I2I Translation**, Applied AI Institute <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.34642)] <br>
+
+**Attention-Scoped Guidance: Training-Free Spatial Control for Image Editing** <br>
+*Zeyan Li, Wei Zhou, Hadi Amirpour, Minghao Zou, Panqi Yang, Jianfeng Xu.* <br>
+**Image Editing** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.37492)] <br>
+
+**DecFlowEdit: Self-Localized Flow-based Image Editing via Guidance Decoupling** <br>
+*Zheyuan Zhan, Can Wang, Jiawei Chen, Chun Chen, Siwei Lyu, Zeyu Zheng, Defang Chen.* <br>
+**Image Editing**, Zhejiang University & University at Buffalo & University of California, Berkeley <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.34237)] <br>
+
+**Constrained Edit Fields for Training-Free Flow Editing** <br>
+*Jingxuan Kang, Yinsong Wang, Che Liu, Chen Qin.* <br>
+**Image Editing** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.33735)] <br>
+
+**In-Token Learning for High-Fidelity Image Restoration via Diffusion Transformers** <br>
+*Xingfu Yi, Xiaoxue Yu.* <br>
+**Image Colorization**, Independent Researcher, Hangzhou, China & Zhejiang University, Hangzhou, China <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.33523)] <br>
+
+**InfoEdit: Probing Global Layout Reasoning in Infographic Editing** <br>
+*Cheng Yang, Chufan Shi, Huijuan Wang, Bo Shui, Yaokang Wu, Muzi Tao, Yibo Yan, Xuezhe Ma, Taylor Berg-Kirkpatrick.* <br>
+**Dataset / Evaluation**, University of California San Diego & University of Southern California & University of Illinois Urbana-Champaign & Carnegie Mellon University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.33286)] <br>
+
+**GeoSET: Generalist Foundation Model for SAR-to-EO Image Translation** <br>
+*Jeonghyeok Do, Munchurl Kim.* <br>
+**SAR Image Translation**, Korea Advanced Institute of Science and Technology (KAIST) <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.37496)]
+[[Project](https://kaist-viclab.github.io/GeoSET_site/)] <br>
+
+**RefAdapt-DiT: Adaptive Joint Attention for Reference-Conditioned Diffusion Transformers** <br>
+*Jian Tang, Jiawei Fan, Qiannan Zhou, Qingbin Liu, Jiang Bian, Zang Li.* <br>
+**Image Editing**, Platform and Content Group, Tencent <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.32415)] <br>
+
+**RefCompose: Multi-Reference Image Generation via LoRA-Conditioned Diffusion** <br>
+*Sai Sri Teja Kuppa, Parth Shinde, Priyadharsan Balaji S, Jinka Harshavardhan, Sriprabha Ramanarayanan.* <br>
+**Base I2I Translation**, Eros Innovation, India & Indian Institute of Technology Madras, India <br>
+ECCV AI for Visual Arts Workshop 2026. [[PDF](https://arxiv.org/abs/2609.32389)] <br>
+
+**PredRA: Fast Medical Image Translation by Deterministic Component Extraction and Controlled Stochastic Refinement** <br>
+*Jianhai Zhang, Pattarawut Charatpangoon, Donghao Zhang, Bijoy K. Menon, Wu Qiu, M. Ethan MacDonald, Aravind Ganesh.* <br>
+**Medical Image Translation**, Department of Clinical Neurosciences, Cumming School of Medicine, University of Calgary, Calgary, AB, Canada & Ron and Rene Ward Centre for Healthy Brain Aging Research, Hotchkiss Brain Institute, University of Calgary, Calgary, AB, Canada & Department of Biomedical Engineering, School of Life Science and Technology, Huazhong University of Science and Technology, Wuhan, Hubei, China & Department of Biomedical Engineering, Schulich School of Engineering, University of Calgary, Calgary, AB, Canada <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.31912)]
+[[Github](https://github.com/jianhai-zhang/RredRA)] <br>
+
+**ContraFM-S2O: Flow Matching-Based One-step SAR-to-Optical Image Translation Model with Contrastive Learning** <br>
+*Mingqian Yu, Wei-kuan Chiang, Qiurui Wang, Peilin Zhao.* <br>
+**SAR Image Translation** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.31378)] <br>
+
+**Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement** <br>
+*Arman Taghizadeh, Ulf Krumnack, Kai-Uwe Kühnberger.* <br>
+**Image Editing** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.28342)]
+[[Github](https://github.com/arman-taghizadeh/zero-shot-diffusion-object-removal)] <br>
+
+**KwaiMind Technical Report** <br>
+*Boheng Zhang, Fan Yang, Jia Sun, Junlong Wu, Wenwu Ou, Yuting Hu, Zijun Li, Dewen Fan, Fei Zuo, Honglie Wang, Huaiqing Wang, Pengcheng Wei, Yimin Zhou, Haixuan Gao, Lihui Peng, Tingxuan She, Yuqing Li.* <br>
+**Image Editing** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.26375)]
+[[Github](https://github.com/KwaiMmu/KwaiMind)] <br>
+
+**Delving into Asymmetric Information Dynamics for High-Fidelity Virtual Try-On** <br>
+*Zishu Qin, Zhiyu Jin, Pipei Huang, Hao Zhou.* <br>
+**Virtual Try-On** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.25881)] <br>
+
+**InstaEdit: Instant Image Editing via Optimized Noise Prediction** <br>
+*Ning Ma, Yangrui Shao.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9581.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5247)] <br>
+
+**H-Adapter: Pose-Robust Hairstyle Transfer via Attention-Derived, Source-Aligned Hair Masks** <br>
+*Seulgi Jeong, Yunseong Cho, Sanghun Park.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2606.25578)]
+[[Project](https://sanghunpark.github.io/hadapter_page/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5686)] <br>
+
+**InnoText: A Unified Model for Visual Text Generation and Editing** <br>
+*Haowei Liu, Runze He, Jian Lu, Ao Ma, Run Ling, Ke Cao, Jiasong Feng, Wei Feng, Shuo Lu, Yexing Xu, Yun Wang, Jing Wang, Zhanjie Zhang.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2607.22101)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3140)] <br>
+
+**V-HOLD: Stabilizing Flow Trajectories to Rethink the Edit–Preservation Trade-off** <br>
+*Gahyeon Kim, Dong-oh Kang.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/11268.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5540)] <br>
+
+**Text-Conditioned Background Generation for Editable Multi-Layer Documents** <br>
+*Taewon Kang, Joseph K J, Chris Tensmeyer, Jihyung Kil, Wanrong Zhu, Ming C. Lin, Vlad I. Morariu.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2512.17151)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3585)] <br>
+
+**Follow-Your-Mind: Towards Inversion-Free Brain-Driven Visual Context Synthesis and Editing** <br>
+*Haodong Jing, Panqi Yang, Rongchao Zhang, Zhipeng Liu, Yajun Liu, Xuehai Bai, Yongqiang Ma, Nanning Zheng.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2275.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3632)] <br>
+
+**Target-aware Image Editing via Cycle-consistent Constraints** <br>
+*Yanghao Wang, Zhen Wang, Long Chen.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2510.20212)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4615)] <br>
+
+**DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing** <br>
+*Kailai Feng, Yuxiang Wei, Bo Chen, Yang Pan, Hu Ye, Songwei Liu, Chenqian Yan, Yuan Gao.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2603.28713)]
+[[Project](https://carlofkl.github.io/dreamlite/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4308)] <br>
+
+**GIDE: Unlocking Diffusion LLMs for Precise Training-Free Image Editing** <br>
+*Zifeng Zhu, Jiaming Han, Jiaxiang Zhao, Minnan Luo, Xiangyu Yue.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2603.21176)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5051)] <br>
+
+**DiTailed: Ensuring Visual Object Consistency in Text-Image-to-Image Flow Matching Models** <br>
+*Francesco Taioli, Daniel Coelho, Iaroslav Melekhov, Roberto Alcover-Couso, Jose Miguel Grande Saiz, Virginia Fernandez Arguedas, Artur Bekasov.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2607.12539)]
+[[Project](https://francescotaioli.github.io/DiTailed/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3539)] <br>
+
+**SR-Edit: Region-Aware Image Editing via Self-Refinement** <br>
+*Andong Wang, Zehua Chen, Yuxuan Jiang, Jun Zhu.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2609.02504)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5892)] <br>
+
+**StereoEdit: A Diffusion-Based Framework for Stereo-Consistent Image Editing** <br>
+*Baolin Liu, Zongyuan Yang, Yingde Song, yongping xiong.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8980.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5131)] <br>
+
+**Unlocking Complex Image Editing via Natively Interleaved Visual Textual CoT with Deep Confidence Reasoning** <br>
+*Zhentao Zou, Zhengrong Yue, Kunpeng Du, Binglei Bao, Hanting Li, Haizhen Xie, Guozheng Xu, Yue Zhou, jie hu, Xue Jiang, Xinghao Chen.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9141.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5162)]
+[[Github](https://github.com/zhentao-zou/MURE)] <br>
+
+**Wavelet-Guided Semantic Signal Compensation for Inversion-Free Image Editing** <br>
+*Anqi Tang, Wenhao Sun, Zhaoqiang Liu.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2607.02421)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5053)] <br>
+
+**PhysEdit: Physically Consistent Image Editing via Causal Enforcement** <br>
+*Siqi Wan, Jingwen Chen, Yehao Li, Yingwei Pan, Ting Yao, Tao Mei.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9693.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5273)]
+[[Project](https://github.com/HiDream-ai/PhysEdit)] <br>
+
+**VLTR: Vision-Language Tool Reasoning for Instruction-Guided Image Editing** <br>
+*Yike Wang, Yitao Yu, Shaohua Sun, Ping Luo.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14573.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5950)] <br>
+
+**LayerVerse: Finding the Sweet Spot for KV-Injection in Training-Free Image Editing** <br>
+*Mikhail Zhirnov, Arsen Kuzhamuratov, Andrey Kuznetsov, Ivan Oseledets, Konstantin Sobolev.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6255.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4504)]
+[[Project](https://v-gen-ai.github.io/LayerVerse/)] <br>
+
+**VGEdit: Unlocking Video Generation Priors for Reasoning-Informed Image Editing** <br>
+*Haiquan Lu, Gongfan Fang, Xinyin Ma, Xinchao Wang.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/723.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3271)] <br>
+
+**Learn Once, Edit Anywhere: Visual Direction Transfer for Diffusion Models** <br>
+*Yusuf Dalva, Hidir Yesiltepe, Pinar Yanardag.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2403.19645)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3264)] <br>
+
+**A$^2$-Edit: Precise Reference-Guided Image Editing of Arbitrary Objects and Ambiguous Masks** <br>
+*Huayu Zheng, Guangzhao Li, Baixuan Zhao, Siqi Luo, Hantao Jiang, Guangtao Zhai, Xiaohong Liu.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2603.10685)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4028)] <br>
+
+**Editing Everything Everywhere All at Once** <br>
+*Fabio Quattrini, Carmine Zaccagnino, Enis Simsar, Marta Tintoré Gazulla, Rita Cucchiara, Alessio Tonioni, Silvia Cascianelli.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2606.31278)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5825)] <br>
+
+**CORE-V: Chain-Of-thought REasoning for Image Editing with Visual Interaction** <br>
+*Tianyang Yan, Peisen Zhao, Guanghao Zheng, Mingxing Xu, Zhibo Zhang, Wenrui Dai, Junni Zou, Hongkai Xiong, Xiaopeng Zhang, Qi Tian.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/273.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3188)] <br>
+
+**h-Flow: Flexible Flow-based Image Editing via Doob's h-Transform** <br>
+*ZeHui Guo, Zhen Wang, Junwei Shu, Changbo Wang, Long Chen, Yang Li.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10512.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5419)] <br>
+
+**GeoEdit: Geometry-Aware Object Editing via Dual-Branch Denoising** <br>
+*Yi He, Jiangming Wang, Xinyu Wang, Mark Fong, Songchun Zhang, Yuxuan Xue, Hai-Tao Zheng, Yue Ma.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2606.30003)]
+[[Github](https://github.com/Heey731/GeoEdit)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4817)] <br>
+
+**BlenderFusion: 3D-Grounded Visual Editing and Generative Compositing** <br>
+*Jiacheng Chen, Ramin Mehran, Xuhui Jia, Saining Xie, Sanghyun Woo.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2506.17450)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5075)] <br>
+
+**Recolour What Matters: Region-Aware Colour Editing via Token-Level Diffusion** <br>
+*Yuqi Yang, Dongliang Chang, Yijia Ling, Ruoyi Du, Zhanyu Ma.* <br>
+**Image Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2603.18466)]
+[[Project](https://yangyuqi317.github.io/ColourCrafter.github.io/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4439)] <br>
+
+**OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Based Video Editing** <br>
+*Haoyang He, Jie Wang, Jiangning Zhang, Zhucun Xue, Xingyuan Bu, Qiangpeng Yang, Min Zheng, Lei Xie.* <br>
+**Dataset / Evaluation** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/680.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3261)] <br>
+
+**EditHF-1M: A Million-Scale Rich Human Preference Feedback for Image Editing** <br>
+*Zitong Xu, Huiyu Duan, Zhongpeng Ji, Xinyun Zhang, Yutao Liu, Xiongkuo Min, Ke Gu, Jian Zhang, Shusong Xu, Jinwei Chen, Bo Li, Guangtao Zhai.* <br>
+**Dataset / Evaluation** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2603.14916)]
+[[Github](https://github.com/IntMeGroup/EditHF)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4044)] <br>
+
+**PhyEditBench: A Real-World Multi-Stage Benchmark for Physics-Aware Image Editing** <br>
+*Shengbin Guo, Shaokang He, Chaoyue Meng, Shengpeng Xiao, Xunzhi Xiang, Shaofeng Zhang, Qi Fan.* <br>
+**Dataset / Evaluation** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2606.26551)]
+[[Github](https://github.com/Previsior/PhyEditBench)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5047)] <br>
+
+**UniREditBench: A Unified Reasoning-based Image Editing Benchmark** <br>
+*Feng Han, Yibin Wang, Chenglin Li, Zheming Liang, Dianyi Wang, Yang Jiao, Zhipeng Wei, Chao Gong, Cheng Jin, Jiaqi Wang.* <br>
+**Dataset / Evaluation** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2511.01295)]
+[[Project](https://maplebb.github.io/UniREditBench)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4175)] <br>
+
+**Reference-Free Quality Assessment for Virtual Try-On via Human Feedback** <br>
+*Yuki Hirakawa, Takashi Wada, Ryotaro Shimizu, Takuya Furusawa, Yuki Saito, Ryosuke Araki, Tianwei Chen, Fan Mo, Yoshimitsu Aoki.* <br>
+**Dataset / Evaluation** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/10675.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5449)]
+[[Github](https://github.com/litelightlite/VTON-IQA)] <br>
+
+**VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On** <br>
+*Xiaoye Liang, Zhiyuan Qu, Mingye Zou, Jiaxin Liu, Lai Jiang, Mai Xu, Yiheng Zhu.* <br>
+**Dataset / Evaluation** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2603.11734)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3764)] <br>
+
+**FED-Bench: A Cross-Granular Benchmark for Disentangled Evaluation of Facial Expression Editing** <br>
+*Fengjian Xue, Xuecheng Wu, Heli Sun, Yunyun Shi, Shi Chen, Liangyu Fu, Jinheng Xie, Dingkang Yang, Hao Wang, Junxiao Xue, Liang He.* <br>
+**Dataset / Evaluation** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2603.29697)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5905)] <br>
+
+**CHARTSTYLE-100K: A Large-Scale Dataset for Structured Visualization Style Transfer** <br>
+*Yuwei Yang, Tianchi Xie, Jinhong Ni, Yukai Guo, Jing Zhang, Liang Zheng, Yalong Bai, YUHUI YUAN.* <br>
+**Dataset / Evaluation** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/11449.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5569)]
+[[Project](https://chartstyle-100k.github.io/)] <br>
+
+**WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing** <br>
+*Hui Zhang, Juntao Liu, Zongkai Liu, Liqiang Niu, Fandong Meng, Zuxuan Wu, Yu-Gang Jiang.* <br>
+**Dataset / Evaluation** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2603.11593)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4337)] <br>
+
+**RCEdit-500K: Reference Completion for Image-Conditioned Image Editing** <br>
+*Jingxu Zhang, Daneul Kim, Yueming Pan, DONG CHEN, Kai Qiu, Yang Liu, Yifan Yang, Qi Dai, Xiaoyan Sun, Chong Luo.* <br>
+**Dataset / Evaluation** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/14529.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5946)] <br>
+
+**Goku: A Million-Scale Universal Dataset and Benchmark for Instruction-Based Video Editing** <br>
+*Sen Liang, Cong Wang, Zhentao Yu, Fengbin Guan, Zhengguang Zhou, Teng Hu, Youliang Zhang, Yuan Zhou, Xin Li, Qinglin Lu, Zhibo Chen.* <br>
+**Dataset / Evaluation** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2606.30599)]
+[[Project](https://flying-sky999.github.io/Goku.github.io/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3375)] <br>
+
+**GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing** <br>
+*Mingxin Liu, Ziqian Fan, Zhaokai Wang, Leyao Gu, Zirun Zhu, Yiguo He, Yuchen Yang, Changyao Tian, Xiangyu Zhao, Ning Liao, Shaofeng Zhang, Qibing Ren, Zhihang Zhong, Xuanhe Zhou, Junchi Yan, Xue Yang.* <br>
+**Dataset / Evaluation** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2603.12264)]
+[[Project](https://grade-bench.github.io/)]
+[[Github](https://github.com/VisionXLab/GRADE)]
+[[Dataset](https://huggingface.co/datasets/VisionXLab/GRADE)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3710)] <br>
+
+**SpecV: Specification Verification for Robust Unified Multimodal Evaluation** <br>
+*Weihao Yu, Rongyao Fang, Yuxuan Cai, Linjiang Huang, Yuhuan Yang, Xianwei Zhuang, Junyang Lin, Yixuan Yuan, Shuai Bai.* <br>
+**Dataset / Evaluation** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6821.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4643)]
+[[Github](https://github.com/yuyouxixi/SpecV)] <br>
+
+**Unpaired Geometry-Guided Sim2Real Translation for Autonomous Driving** <br>
+*Xinzhuo Chen, Shijie Wang, Chao Gao, Jinguang Gu, Gongjin Lan.* <br>
+**Base I2I Translation** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/12756.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5751)] <br>
+
+**Improving Image-to-Image Translation via a Rectified Flow Reformulation** <br>
+*Satoshi Iizuka, Shun Okamoto, Kazuhiro Fukui.* <br>
+**Base I2I Translation** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2603.20186)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5655)] <br>
+
+**Y-diff: Structure-Texture Decoupled Diffusion Distillation for H&E-to-pCLE Translation** <br>
+*Haodong Wang, Yan Wen, Hongen Liao, Fang Chen, Tianqi Huang.* <br>
+**Medical Image Translation** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9496.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5229)]
+[[Github](https://github.com/Hdw2agon/Y_diff)] <br>
+
+**Spectral Consistent Flow for One-step 3D Medical Image Translation** <br>
+*Haoqing Li, Jun Shi, Mingchao Li, Zehua Zhu, Qiwei Jia, Jiong Shi, Hong An.* <br>
+**Medical Image Translation** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2607.10627)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4006)] <br>
+
+**UniCSG: Unified High-Fidelity Content-Constrained Style-Driven Generation via Staged Semantic and Frequency Disentanglement** <br>
+*Jingwei Yang, Ruoxi Wu, Wei Shen, Meng Li, Yulong Liu, Huimin She, Lunxi Yuan.* <br>
+**Image Style Transfer** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2604.17850)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4742)] <br>
+
+**Hierarchical Style Aggregation for Versatile Chinese Handwriting Generation** <br>
+*Jiangpeng Wang, Fei Gao, Nannan Wang.* <br>
+**Image Style Transfer** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3526.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3883)]
+[[Github](https://github.com/IIP-Lab-XDU/HiSAC)] <br>
+
+**D3F-IR: Dual-Domain Deterministic Flow Matching for Visible-to-Infrared Translation** <br>
+*Peiyi Zeng, Diedong Feng, Zhen Liu, Zhenming Peng, Bing Zeng, Shuaicheng Liu.* <br>
+**Infrared Image Translation** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6631.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4599)]
+[[Github](https://github.com/WanrenZeng/D3F-IR)] <br>
+
+**MTVDiff: Multimodal Conditional Latent Diffusion for Enhanced Thermal-to-Visible Face Translation** <br>
+*Zhiyuan Xia, Haojie Li, Jingyu Lin, Yiguo Qiao, Cunjian Chen.* <br>
+**Infrared Image Translation** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2607.19886)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4826)] <br>
+
+**Layering Virtual Try-On** <br>
+*Chun Feng, Bowei Chen, Mengyi Shan, Ira Kemelmacher-Shlizerman.* <br>
+**Virtual Try-On** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2607.22924)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4142)] <br>
+
+**FitControler: Toward Fit-Aware Virtual Try-On** <br>
+*Lu Yang, Yicheng Liu, Letian Zhou, Yanan Li, Xiang Bai, Hao Lu.* <br>
+**Virtual Try-On** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2512.24016)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4018)] <br>
+
+**TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy** <br>
+*Hao Sun, Hao Yan, Mengting Chen, Quanjian Song, Yu Li, Juan Cao, Jinsong Lan, Xiaoyong Zhu, Bo Zheng, Sheng Tang.* <br>
+**Virtual Try-On** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2606.26092)]
+[[Project](https://sunhao242.github.io/TryOnCrafter_web.github.io/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3423)] <br>
+
+**LangDriveCTRL: Natural Language Controllable Driving Scene Editing with Multi-modal Agents** <br>
+*Yun He, Francesco Pittaluga, Ziyu Jiang, Matthias Zwicker, Manmohan Chandraker, Zaid Tasneem.* <br>
+**Video Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2512.17445)]
+[[Project](https://yunhe24.github.io/langdrivectrl/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4542)] <br>
+
+**OSVE: One Step Video Editing with One Step Diffusion Models** <br>
+*Habin Lim, Gyeong-Moon Park.* <br>
+**Video Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2607.19895)]
+[[Github](https://github.com/KU-VGI/OSVE)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5170)] <br>
+
+**MSEditor: Toward Consistent Multi-Shot Video Editing** <br>
+*Kunyu Feng, Yue Ma, Bingyuan Wang, Yuefeng Wang, Zhiyuan Qin, Hao Cheng, Hao Li, Qifeng Chen, Zeyu Wang.* <br>
+**Video Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2608.17559)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5638)] <br>
+
+**Versatile Editing of Video Content, Actions, and Dynamics without Training** <br>
+*Vladimir Kulikov, Roni Paiss, Andrey Voynov, Inbar Mosseri, Tali Dekel, Tomer Michaeli.* <br>
+**Video Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2603.17989)]
+[[Project](https://dynaedit.github.io/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5505)] <br>
+
+**StreamGVE: Training-Free Video Editing via Few-Step Streaming Video Generation** <br>
+*Guanlong Jiao, Chenyangguang Zhang, Jia Xian, Zewei Zhang, Renjie Liao.* <br>
+**Video Editing** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/1050.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3345)]
+[[Project](https://dsl-lab.github.io/StreamEdit/)] <br>
+
+**LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing** <br>
+*Xinyu Wang, Chongbo Zhao, Fangneng Zhan, Yue Ma.* <br>
+**Video Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2606.26740)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4792)] <br>
+
+**In-Context Sync-LoRA for Portrait Video Editing** <br>
+*Sagi Polaczek, Or Patashnik, Ali Mahdavi-Amiri, Daniel Cohen-Or.* <br>
+**Video Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2512.03013)]
+[[Project](https://sagipolaczek.github.io/Sync-LoRA/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4473)] <br>
+
+**Consistent Video-to-Video Translation via Explicit Correspondences** <br>
+*Gaurav Parmar, Zhengqi Li, Richard Zhang, Jun-Yan Zhu, Srinivasa G. Narasimhan, Eli Shechtman, Yotam Nitzan.* <br>
+**Video Editing** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2023.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3572)] <br>
+
+**Memory-V2V: Memory-Augmented Video-to-Video Diffusion for Consistent Multi-Turn Editing** <br>
+*Dohun Lee, Chun-Hao Paul Huang, Xuelin Chen, Jong Chul Ye, Duygu Ceylan, Hyeonho Jeong.* <br>
+**Video Editing** <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2601.16296)]
+[[Project](https://dohunlee1.github.io/MemoryV2V)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4121)] <br>
+
+**Stylized Video Generation via Decoupled Data Synthesis and Gated Style Token Injection** <br>
+*Xin Wei, Yijie Fang, Yanjia Li, Liangyi Wu, Qin Yang, Mingrui Zhu, Nannan Wang, Xinbo Gao.* <br>
+**Video Style Transfer** <br>
+ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/334.pdf)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3198)]
+[[Project](https://sixi111.github.io/MoStyle/)] <br>
+
+**Accelerated Image Editing via Consistency-Aware Source Token Pruning** <br>
+*Jeongsol Kim, Jong Chul Ye, Yufei Wang, Jian Wang.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=mrTRzrrt4V)]
+[[Conference](https://neurips.cc/virtual/2026/poster/149846)] <br>
+
+**AsymPipe: Accelerating Large-scale DiTs Image Editing via Asymmetry-Aware Pipeline Parallelism** <br>
+*Huage Deng, LYU WENKAI, WU YONGJIN, Tianyang Zheng, heng Guo, Fangyun Zhou, Yu Shi, Wenxi Zhu, Minwen Deng.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=zvdQTz8byr)]
+[[Conference](https://neurips.cc/virtual/2026/poster/148143)] <br>
+
+**Barycentric Guidance: Turning Foundation Image Editors into Continuous Affective Controllers** <br>
+*Harvey Mannering, Zhiwu Huang, Adam Prugel-Bennett.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=Nx9IIc3xpv)]
+[[Conference](https://neurips.cc/virtual/2026/poster/153096)] <br>
+
+**Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision** <br>
+*Jiacheng Chen, Songze Li, Han Fu, Baoquan Zhao, Wei Liu, Yanyan Liang, Qing Li, Xudong Mao.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://delta-adapter.github.io/)]
+[[Conference](https://neurips.cc/virtual/2026/poster/153315)] <br>
+
+**Do Image Editing Models Understand Lighting?** <br>
+*Tim Küchler, Johann-Friedrich Feiden, Matthias Niessner, Carsten Rother.* <br>
+**Dataset / Evaluation** <br>
+NeurIPS 2026. [[Paper](https://tim-kuechler.github.io/3DLP)]
+[[Conference](https://neurips.cc/virtual/2026/poster/139308)] <br>
+
+**EditDistill: Is It Possible to Guide Video Editing with Image Editing** <br>
+*guojun lei, Hong Li, Hongbing Yang, Lixue Gong, Chi Wang, Zheng Dong.* <br>
+**Video Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=C8Uf36RhCB)]
+[[Conference](https://neurips.cc/virtual/2026/poster/154635)] <br>
+
+**EditJudge-Bench: Auditing VLM Image-Edit Judges with Synthetic Ground Truth** <br>
+*Jens Parslov, Marco Schouten, Dim Papadopoulos.* <br>
+**Dataset / Evaluation** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=eynW4BxY28)]
+[[Conference](https://neurips.cc/virtual/2026/poster/139200)] <br>
+
+**GPT-Image-Edit-1M: An Auditable Million-Scale Dataset for Instruction-Guided Image Editing** <br>
+*Yuhan Wang, Siwei Yang, Bingchen Zhao, Letian Zhang, Jiawei Mao, Juncheng Wu, Zeyu Zheng, Huaxiu Yao, Qing Liu, Cihang Xie, Yuyin Zhou.* <br>
+**Dataset / Evaluation** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=EL9b5Y17no)]
+[[Conference](https://neurips.cc/virtual/2026/poster/139632)] <br>
+
+**Inline Critic Steers Image Editing** <br>
+*Weitai Kang, Xiaohang Zhan, Yizhou Wang, Mang Tik Chiu, Jason Kuen, Kangning Liu, Yan Yan.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=RT1DXXQkZm)]
+[[Conference](https://neurips.cc/virtual/2026/poster/152644)] <br>
+
+**Mission Impossible: Diagnosing and Fixing Non-Operative Instruction Following in Image Editing** <br>
+*Guoyizhe Wei, Feng Wang, Alan Yuille, Rama Chellappa.* <br>
+**Dataset / Evaluation** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=iOwBRaRA9N)]
+[[Conference](https://neurips.cc/virtual/2026/poster/139144)] <br>
+
+**OTEdit: Entropic Transport Corrected Trajectory for Inversion-Free Flow-Based Image Editing** <br>
+*Rameshwar Mishra, Akshay Modi, A. Subramanyam.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=SnQJpsC6YB)]
+[[Conference](https://neurips.cc/virtual/2026/poster/152476)] <br>
+
+**SpatialFlow-GRPO: Where Spatial Credit Drives Image Editing** <br>
+*Yankai Yang, Yancheng Long, Wei Chen, Xingyu Lu, Hongyang Wei, Bin Wen, Fan Yang, Tingting Gao, Han Li, Shuo Yang.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=vOr0WAaBeN)]
+[[Conference](https://neurips.cc/virtual/2026/poster/148740)] <br>
+
+**StitchEdit: Stitching Depth Priors into Image Editors via Per-Layer Gradient Probing** <br>
+*Qin Guo, Dan Xu.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=Q7G74v5nSs)]
+[[Conference](https://neurips.cc/virtual/2026/poster/152828)] <br>
+
+**Text-Vision Co-Instructed Image Editing** <br>
+*Chenxi Xie, Yuhui Wu, Qiaosi Yi, Lei Zhang.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=yC4H5QD0ot)]
+[[Conference](https://neurips.cc/virtual/2026/poster/148391)] <br>
+
+**VTBench: Disentangled and Human-Aligned Evaluation for Image-Based Virtual Try-on** <br>
+*Donghao Luo, Yujie Liang, Caoshuo Li, Xiaobin Hu, Zuxuan Wu, Yanwei Fu.* <br>
+**Dataset / Evaluation** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=Don9L8oTcT)]
+[[Conference](https://neurips.cc/virtual/2026/poster/139643)] <br>
+
+**Anatomy-Preserving Unpaired Medical Image Translation via Shared Latent Anchoring** <br>
+*Zhilin Zou, Hieu Minh Le, Saumya Gupta, Jingyi Xu, Prateek Prasanna, Chao Chen.* <br>
+**Medical Image Translation** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=AC5Xd25rUC)]
+[[Conference](https://neurips.cc/virtual/2026/poster/154881)] <br>
+
+**AR-Edit: Training-Free Streaming Video Editing without Inversion** <br>
+*Hovhannes Margaryan, Vicky Kalogeiton, Quentin Bammey, Christian Sandor.* <br>
+**Video Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=Tq0zQSyHNl)]
+[[Conference](https://neurips.cc/virtual/2026/poster/152336)] <br>
+
+**Constrained Look-ahead Guidance for Interference-Aware Flow Editing** <br>
+*Doudou ZHANG, Qi CHEN.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=YT8RaVa0pT)]
+[[Conference](https://neurips.cc/virtual/2026/poster/151736)] <br>
+
+**FlowTrack: Controlling Edit-Signal Execution in Inversion-Free Flow Video Editing** <br>
+*Jielun Zhong, Di Wang, Jisheng Dang, Leigang Qu, Bimei Wang, Jingwen Zhao, Wencan Zhang, Hong Peng, Bin Hu.* <br>
+**Video Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=USNrqsbBWX)]
+[[Conference](https://neurips.cc/virtual/2026/poster/152250)] <br>
+
+**FreqCa: Accelerating Image generation and editing via Frequency-Aware Caching** <br>
+*Jiacheng Liu, Peiliang Cai, Qinming Zhou, Yuqi Lin, Deyang Kong, Benhao Huang, Yupei Pan, Haowen Xu, Chang Zou, Junshu Tang, Shikang Zheng, Linfeng Zhang.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=xRAhPVJ1wk)]
+[[Conference](https://neurips.cc/virtual/2026/poster/148488)] <br>
+
+**GenScale: A Benchmark for Relative Object Scale in Image Generation and Editing** <br>
+*Lingxiao Li, Max Whitton, Ledell Wu, Boqing Gong.* <br>
+**Dataset / Evaluation** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=MN4vF7NV07)]
+[[Conference](https://neurips.cc/virtual/2026/poster/139494)] <br>
+
+**GMO-E²DIT: Grounded Multi-Operation Editing for E-Commerce Images** <br>
+*Zipeng Guo, Xiaoan Liu, Lichen Ma, Cheng Wang, Yu He, Xiaolong Fu, Jingling Fu, Xinyuan Shan, Shaojie Guo, Luohang Liu, Junshi Huang, Yan Li.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=VXvQ42upd6)]
+[[Conference](https://neurips.cc/virtual/2026/poster/152097)] <br>
+
+**Identifying and Mitigating Diversity Collapse in Zero-Shot Personalization with I2I Editing Models** <br>
+*Uichan Lee, Jongeon Baek, Sangheum Hwang.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=tDe4M34lN8)]
+[[Conference](https://neurips.cc/virtual/2026/poster/149053)] <br>
+
+**Internalize External Competence for Visual Instruction Editing** <br>
+*Wenjun Huang, Rui Zhao, Suyang Hou, Jiahao Tang, Wenjia Wang, Zhuobai Dong, Alex Jinpeng Wang, Hu J Guo.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=mKfQzVpQIM)]
+[[Conference](https://neurips.cc/virtual/2026/poster/149907)] <br>
+
+**Long Video Instructional Editing in the Wild** <br>
+*Yiqi Lin, Guoqiang Liang, Ziyun Zeng, Zechen Bai, Yanzhe Chen, Mike Zheng Shou.* <br>
+**Video Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=WxwO1ainQv)]
+[[Conference](https://neurips.cc/virtual/2026/poster/151911)] <br>
+
+**NP-LoRA: Null Space Projection for Subject-Style LoRA Fusion** <br>
+*Chuheng Chen, Xiaofei Zhou, Geyuan Zhang, Yong Huang, Gang Xiong.* <br>
+**Image Style Transfer** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=7ruWsRZRGX)]
+[[Conference](https://neurips.cc/virtual/2026/poster/155156)] <br>
+
+**Paint Anything: Toward Any-Color Controllable Image Generation and Editing** <br>
+*Ji Xie, Dewei Zhou, Xinyu Huang, Xun Wang.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=pfRkR1nSI5)]
+[[Conference](https://neurips.cc/virtual/2026/poster/149500)] <br>
+
+**ProEdit: Inversion-based Editing From Prompts Done Right** <br>
+*Zhi Ouyang, Dian Zheng, Xiao-Ming Wu, Jian-Jian Jiang, Kun-Yu Lin, Jingke Meng, Wei-Shi Zheng.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=yr9AcyQrnt)]
+[[Conference](https://neurips.cc/virtual/2026/poster/148302)] <br>
+
+**Real In, Real Out: What If We Only Use Real Data for Scene Text Editing?** <br>
+*Xingsong Ye, Yongkun Du, Jiaxin Zhang, Chong Sun, Zhineng Chen.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://github.com/YesianRohn/TextRIRO)]
+[[Conference](https://neurips.cc/virtual/2026/poster/153296)] <br>
+
+**SteerVTE: Seamless Video Text Editing with Style and Glyph Control** <br>
+*Kai Zeng, Moran Li, Zhengwei Wang, Yingchen Yu, Yiheng Lin, Ruichuan An, Ming Lu, Qi She, Wentao Zhang.* <br>
+**Video Editing** <br>
+NeurIPS 2026. [[Paper](https://zengkaiya.github.io/SteerVTE/)]
+[[Conference](https://neurips.cc/virtual/2026/poster/148744)] <br>
+
+**StyleRoute: Diffusion Style Transfer via Regional Routing and Conflict-aware Projection** <br>
+*Xunhao Lin, Yu Sun, Xinpeng Ding, Fei Gao, Maoying Qiao, Lihuo He, Nannan Wang.* <br>
+**Image Style Transfer** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=4kfUQ7cPeY)]
+[[Conference](https://neurips.cc/virtual/2026/poster/155545)] <br>
+
+**UniDG: Universal Defect Generation via Defect-Context Editing** <br>
+*Yuanting Fan, Jun Liu, Bin-Bin Gao, Xiaochen Chen, Yuhuan Lin, Zhewei Dai, Jiawei Zhan, Chengjie Wang.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=A3soBL3Ciu)]
+[[Conference](https://neurips.cc/virtual/2026/poster/154905)] <br>
+
+**VicEdit: Learning to Edit Videos from Visual In-Context Examples** <br>
+*Yuji Wang, Teng Hu, Yuheng Chen, Ran Yi, Han Feng, Weijian Cao, Chengjie Wang, Lizhuang Ma, Jiangning Zhang.* <br>
+**Video Editing** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=1P8vkGpb52)]
+[[Conference](https://neurips.cc/virtual/2026/poster/155979)] <br>
+
+**ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing** <br>
+*Xinghao Chen, Xiangbo Gao, Jiongze Yu, Yuheng Wu, Zhengzhong Tu.* <br>
+**Dataset / Evaluation** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=fyPHDFABOs)]
+[[Conference](https://neurips.cc/virtual/2026/poster/139184)] <br>
+
+**WaveletLoRA: Frequency-Aware Content-Style Decomposition for Personalized Image Generation** <br>
+*Peiyao Wang, Jiahui Sun, Weining Wang, Jing Liu.* <br>
+**Image Style Transfer** <br>
+NeurIPS 2026. [[Paper](https://openreview.net/forum?id=SEc7mCUDGI)]
+[[Conference](https://neurips.cc/virtual/2026/poster/152557)] <br>
+
+**Why Do DiT Editors Drift? Plug-and-Play Low Frequency Alignment in VAE Latent Space** <br>
+*Xiaoce Wang, Sifan Zhou, Kaifei Wang, Leli Xu, Xuerui Qiu, Tao He, Ming Li.* <br>
+**Image Editing** <br>
+NeurIPS 2026. [[Paper](https://github.com/ZephinueCode/VAE-LFA)]
+[[Conference](https://neurips.cc/virtual/2026/poster/151149)] <br>
 
 **SafeStyle: Calibrated Style Residual Injection for Controllable Style-Leakage Trade-off in Diffusion Stylization** <br>
 *Zhangping Yang, Min Li, Song Yan, Rong Gao, Xinliang Bi, Guanye Xiong, Yujie He.* <br>
@@ -98,8 +1052,9 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2609.16626)] <br>
 **Semantically Aligned Gradient-Driven Context-Preserving Image Editing** <br>
 *Chiranjeev Chiranjeev, Muskan Dosi, Mayank Vatsa, Richa Singh.* <br>
 **Image Editing**, Indian Institute of Technology Jodhpur, India <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2609.12691)]
-[[Github](https://github.com/IAB-IITJ/IABEdit)] <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2609.12691)]
+[[Github](https://github.com/IAB-IITJ/IABEdit)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5901)] <br>
 
 **Overpainting: Localized Context-aware Diffusion Image Editing** <br>
 *Sam Sartor, Iliyan Georgiev, Michael Fischer, Valentin Deschaintre, Pieter Peers.* <br>
@@ -111,7 +1066,8 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2609.10811)]
 *Haiyan Wei, Yunlong Wang, Huaibo Huang, Zhenan Sun, Kunbo Zhang.* <br>
 **Image Editing**, New Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences & University of Chinese Academy of Sciences <br>
 ECCV 2026. [[PDF](https://arxiv.org/abs/2609.06602)]
-[[Project](https://whywwwzzzg.github.io/MIEdit/)] <br>
+[[Project](https://whywwwzzzg.github.io/MIEdit/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5667)] <br>
 
 **One Model, Two Worlds: Bidirectional Sonar-Optical Translation** <br>
 *Shengji Jin, Trung Tien Dong, Ahmed Lamidi, Chen Chen, Xiaomin Lin, Yi Sheng.* <br>
@@ -121,7 +1077,8 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2609.06253)] <br>
 **LensStyle: Learning the Optical Aesthetics for Controllable Stylized Lens Effect Rendering** <br>
 *Yachuan Huang, Liwen Xiao, Liao Shen, Qiwen Wang, Huiqiang Sun, Zhiyu Pan, Zhiguo Cao.* <br>
 **Image Style Transfer**, School of AIA, Huazhong University of Science and Technology, Wuhan, China <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2609.04939)] <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2609.04939)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3542)] <br>
 
 **Abstract-LoRA: Unlocking Single-Image Style Transfer through Targeted U-Net Block Training** <br>
 *Xinglin Hu.* <br>
@@ -164,7 +1121,8 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2609.00968)]
 *Xing Xie, Jiawei Liu, Shijun Zhou, Huijie Fan, Zhi Han, Yandong Tang, Liangqiong Qu.* <br>
 **Base I2I Translation**, State Key Laboratory of Robotics and Intelligent Systems, Shenyang Institute of Automation, Chinese Academy of Sciences, Shenyang, China & University of Chinese Academy of Sciences, Beijing, China & School of Computing and Data Science, The University of Hong Kong, Hong Kong <br>
 ECCV 2026. [[PDF](https://arxiv.org/abs/2608.29997)]
-[[Github](https://github.com/HKU-HealthAI/DDB)] <br>
+[[Github](https://github.com/HKU-HealthAI/DDB)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3280)] <br>
 
 **Generative Translation Priors: Bayesian Imaging with Cross-Modality Image Translation** <br>
 *Evan Bell, Jiaming Liu, Yifan Chen, Yu Sun.* <br>
@@ -211,8 +1169,9 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2608.19719)] <br>
 **EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing** <br>
 *Jiayi Song, Shijie Huang, Fangtai Wu, Yubo Huang, Zhenxiong Tan, Songhua Liu, Jiaming Liu, Ruihua Huang.* <br>
 **Image Editing**, Qwen Business Unit of Alibaba & National University of Singapore <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2608.18063)]
-[[Project](https://editbridge.github.io/)] <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2608.18063)]
+[[Project](https://editbridge.github.io/)]
+[[Conference](https://neurips.cc/virtual/2026/poster/154973)] <br>
 
 **Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision** <br>
 *Long Cui, Xiaoqian Liu, Qi Qin, Yi Xin, Tao Lin, Jianguo Li, Linfeng Zhang.* <br>
@@ -235,18 +1194,21 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2608.14790)]
 **InstructVVT: Instruction-Driven Video Virtual Try-On without Auxiliary Spatial Priors** <br>
 *Dingbao Shao, Song Wu, Xinyu Chen, Qian Wang, Jiahang Li, Kuai Jiang, Jiang Lin, Yuhang Liu, Ziyu Chen, Duo Li, Jiaxin Hu, Shengrong Gu, Ziheng Tang, Rongrong Liu, Yanlun Peng, Liang Li, Junlan Feng, Lujia Jin, Ting Zhang, Jian Yang, Zili Yi.* <br>
 **Virtual Try-On** <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2608.14070)] <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2608.14070)]
+[[Conference](https://neurips.cc/virtual/2026/poster/149716)] <br>
 
 **Source-Agnostic Image Translation Based on Latent Aware Adaptive Masking** <br>
 *Tomislav Dobrički, Byung-Woo Hong.* <br>
 **Base I2I Translation**, Chung-Ang University, Seoul, South Korea <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2608.14046)]
-[[Github](https://github.com/dtoma95/PM-Edit)] <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2608.14046)]
+[[Github](https://github.com/dtoma95/PM-Edit)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3364)] <br>
 
 **Through Van Gogh's Eyes: Global Style Transfer with Diffusion Model** <br>
 *Jeongha Lee, Yujin Kim, Ghazanfar Ali, Suhyun Kim, Jae-In Hwang.* <br>
 **Image Style Transfer**, Korea Institute of Science and Technology, & University of Science and Technology, & Korea University, & Gachon University, & Kyung Hee University <br>
-ECCV 2026. [[PDF](https://arxiv.org/abs/2608.11546)] <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2608.11546)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5399)] <br>
 
 **Diffusion Image Editing via Asynchronous Token Decoding** <br>
 *Yang Shi, Liangsi Lu, Minzhe Guo, Yifeng Xie, Yanhui Chen, Jingchao Wang, Xuhang Chen.* <br>
@@ -314,7 +1276,8 @@ Vicinagearth 2026. [[PDF](https://arxiv.org/abs/2607.25642)] <br>
 **WearWow: Native 2K Multi-Garment Virtual Try-On via Adaptive Token Packing and Preference Alignment** <br>
 *Xujie Zhang, Runyan Du, Song Chang, Jiang Li, Dongliang Shao, Liping Wu, Wei Luo, Xiaochao Qu, Luoqi Liu, Xiaodan Liang.* <br>
 **Virtual Try-On**, Shenzhen Campus of Sun Yat-sen University, China & Meitu Lab, China <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2607.19923)] <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2607.19923)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4590)] <br>
 
 **Image Editing Models are Numerical Solvers** <br>
 *Ulysse Mizrahi.* <br>
@@ -325,7 +1288,8 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2607.18787)] <br>
 *Jonghun Kim.* <br>
 **Medical Image Translation**, Department of Electrical and Computer Engineering, Sungkyunkwan University, Suwon, Korea <br>
 ECCV 2026. [[PDF](https://arxiv.org/abs/2607.18763)]
-[[Github](https://github.com/jongdory/PS-MIT)] <br>
+[[Github](https://github.com/jongdory/PS-MIT)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3287)] <br>
 
 **Reviving Ancient Paintings via Poem: A Colorization Framework for Aligning Cultural Semantics** <br>
 *Junming Gao, Biao Zhu, Xiaosong Wang, Tan Tang.* <br>
@@ -357,8 +1321,9 @@ IEEE Transactions on Neural Networks and Learning Systems 2026. [[PDF](https://a
 **AnyStyle: A Single LoRA is Sufficient for Image-Guided Style Transfer** <br>
 *Yongwen Lai, Chaoqun Wang.* <br>
 **Image Style Transfer**, School of Artificial Intelligence, South China Normal University, Guangzhou, China <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2607.04677)]
-[[Github](https://github.com/Yvan1001/AnyStyle)] <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2607.04677)]
+[[Github](https://github.com/Yvan1001/AnyStyle)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4851)] <br>
 
 **Do Not Break the Vessels: Structure-Preserving Mean Flow for Vascular Image Translation** <br>
 *Changjin Sun, Zhuo Hu, Kaini Wang, Baixuan Wu, Shuo Gao, Runan Zheng, Cheng Xue, Yudong Zhang, Guangquan Zhou.* <br>
@@ -369,18 +1334,21 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2606.31095)] <br>
 *Shen Zheng, Anurag Ghosh, Gaurav Parmar, Srinivasa Narasimhan.* <br>
 **Base I2I Translation**, Carnegie Mellon University <br>
 ECCV 2026. [[PDF](https://arxiv.org/abs/2606.31018)]
-[[Project](https://shenzheng2000.github.io/WarpI2I.github.io)] <br>
+[[Project](https://shenzheng2000.github.io/WarpI2I.github.io)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5130)] <br>
 
 **FDM-MFVT: Few-step Sampling Diffusion Model for Mask-Free Virtual Try-On** <br>
 *Jiaxin Liu, Xiaoye Liang, Lai Jiang, Mai Xu, Jun Liu.* <br>
 **Virtual Try-On**, School of Electronic Information Engineering, Beihang University, Beijing, China & Zhongguancun Academy, Beijing, China & State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, Beijing, China <br>
-ECCV 2026. [[PDF](https://arxiv.org/abs/2606.29319)] <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2606.29319)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4709)] <br>
 
 **ASTAD: Asymmetric Style Transfer for Synthetic-to-Real Adaptation in Autonomous Driving** <br>
 *Dingyi Yao, Xinqi Zhang, Lihui Peng, Jianming Hu, Danya Yao, Yi Zhang.* <br>
 **Image Style Transfer**, Department of Automation, Tsinghua University, Beijing 100084, China <br>
 ECCV 2026. [[PDF](https://arxiv.org/abs/2606.29286)]
-[[Github](https://github.com/Dingyi-Yao/ASTAD)] <br>
+[[Github](https://github.com/Dingyi-Yao/ASTAD)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4652)] <br>
 
 **ModaFlow: Modality-Aware Flow Matching for High-Fidelity Virtual Try-On** <br>
 *Xiangyu Sai, Meysam Madadi, Sergio Escalera, Yong Xu.* <br>
@@ -395,8 +1363,9 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2606.27608)] <br>
 **EchoStyle: Unlocking High-Fidelity Video Stylization with Reverse Data Synthesis** <br>
 *Huaqiu Li, Jiahao Wang, Sijia Cai, Hualian Sheng, Bing Deng, Jieping Ye, Wenhan Luo.* <br>
 **Video Style Transfer**, The Hong Kong University of Science and Technology & Alibaba Group & Xi’an Jiaotong University <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2606.25465)]
-[[Project](https://echostyle2026.github.io/)] <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2606.25465)]
+[[Project](https://echostyle2026.github.io/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4480)] <br>
 
 **Bridging the Manifold Gap: Riemannian Residual Line Search for One-Step Image Editing** <br>
 *Hongzhu Yi, Zhongtian Luo, Tong Li, Yiyan Fan, Jungang Xu.* <br>
@@ -487,7 +1456,7 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2606.12012)]
 **SheafStain: Sheaf-Theoretic Schrödinger Bridge for Spatially and Biologically Coherent Virtual Staining** <br>
 *Hyeongyeol Lim, Hongjun Yoon, Eunjin Jang, Daeky Jeong, Won June Cho, Hwamin Lee.* <br>
 **Virtual Staining**, Department of Medical Informatics, College of Medicine, Korea University & DEEPNOID Inc <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2606.11846)] <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2606.11846)] <br>
 
 **AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory** <br>
 *Hang Xu, Xiaoxiao Ma, Guohui Zhang, Yu Hu, Siming Fu, Jie Huang, Lin Song, Haoyang Huang, Nan Duan, Feng Zhao.* <br>
@@ -511,8 +1480,9 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2606.14746)]
 **Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing** <br>
 *Yuxiao Ye, Haoran He, Fangyuan Kong, Xintao Wang, Pengfei Wan, Kun Gai, Ling Pan.* <br>
 **Image Editing**, Hong Kong University of Science and Technology & Kuaishou Technology <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2606.05950)]
-[[Github](https://github.com/yuxiaooye/Edit-R2)] <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2606.05950)]
+[[Github](https://github.com/yuxiaooye/Edit-R2)]
+[[Conference](https://neurips.cc/virtual/2026/poster/150113)] <br>
 
 **MT-EditFlow: Reinforcement Learning for Multi-Turn Image Editing with Flow Matching** <br>
 *Jiahui Huang, Yasi Zhang, Tianyu Chen, Shu Wang, Jianwen Xie, Oscar Leong, Mingyuan Zhou, Nanzhu Wang, Ying Nian Wu.* <br>
@@ -631,7 +1601,8 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2605.01135)] <br>
 *Dingbao Shao, Song Wu, Shenyi Wang, Ye Wang, Ziheng Tang, Fei Liu, Jiang Lin, Xinyu Chen, Qian Wang, Ying Tai, Jian Yang, Zili Yi.* <br>
 **Virtual Try-On**, Nanjing University, China & JIUTIAN Research, CMCC, China & Jilin University, China & ByteDance Inc., China <br>
 ECCV 2026. [[PDF](https://arxiv.org/abs/2604.27958)]
-[[Project](https://shaodingbao.github.io/TripVVT/)] <br>
+[[Project](https://shaodingbao.github.io/TripVVT/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3935)] <br>
 
 **Edit Where You Mean: Region-Aware Adapter Injection for Mask-Free Local Image Editing** <br>
 *Honghao Cai, Xiangyuan Wang, Yunhao Bai, Haohua Chen, Tianze Zhou, Runqi Wang, Wei Zhu, Yibo Chen, Xu Tang, Yao Hu, Zhen Li.* <br>
@@ -641,9 +1612,10 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2604.23763)] <br>
 **Probing Visual Planning in Image Editing Models** <br>
 *Zhimu Zhou, Yanpeng Zhao, Qiuyu Liao, Bo Zhao, Xiaojian Ma.* <br>
 **Image Editing**, Shanghai Jiao Tong University & State Key Laboratory of General Artificial Intelligence, BIGAI & Renmin University of China <br>
-ICLR 2026 Workshops (ES-Reasoning). [[PDF](https://arxiv.org/abs/2604.22868)]
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2604.22868)]
 [[Github](https://github.com/spatigen/amaze)]
-[[Project](https://spatigen.github.io/amaze.io/)] <br>
+[[Project](https://spatigen.github.io/amaze.io/)]
+[[Conference](https://neurips.cc/virtual/2026/poster/154346)] <br>
 
 **StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition** <br>
 *Kwan Yun, Changmin Lee, Ayeong Jeong, Youngseo Kim, Seungmi Lee, Junyong Noh.* <br>
@@ -654,7 +1626,8 @@ SIGGRAPH 2026. [[PDF](https://arxiv.org/abs/2604.21689)]
 **Rethinking Where to Edit: Task-Aware Localization for Instruction-Based Image Editing** <br>
 *Jingxuan He, Xiyu Wang, Mengyu Zheng, Xiangyu Zeng, Yunke Wang, Chang Xu.* <br>
 **Image Editing**, The University of Sydney, Sydney, Australia <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2604.20258)] <br>
+ACMMM 2026. [[PDF](https://arxiv.org/abs/2604.20258)]
+[[Project](https://jessie459.github.io/TAL/)] <br>
 
 **HP-Edit: A Human-Preference Post-Training Framework for Image Editing** <br>
 *Fan Li, Chonghuinan Wang, Lina Lei, Yuping Qiu, Jiaqi Xu, Jiaxiu Jiang, Xinran Qin, Zhikai Chen, Fenglong Song, Zhixin Wang, Renjing Pei, Wangmeng Zuo.* <br>
@@ -665,14 +1638,16 @@ CVPR 2026. [[PDF](https://arxiv.org/abs/2604.19406)]
 **UniGeo: Unifying Geometric Guidance for Camera-Controllable Image Editing via Video Models** <br>
 *Hong Jiang, Wensong Song, Zongxin Yang, Ruijie Quan, Yi Yang.* <br>
 **Image Editing**, ReLER, CCAI, Zhejiang University & DBMI, HMS, Harvard University <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2604.17565)]
-[[Project](https://mo230761.github.io/UniGeo.github.io/)] <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2604.17565)]
+[[Project](https://mo230761.github.io/UniGeo.github.io/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3886)] <br>
 
 **Towards In-Context Tone Style Transfer with A Large-Scale Triplet Dataset** <br>
 *Yuhai Deng, Huimin She, Wei Shen, Meng Li, Ruoxi Wu, Lunxi Yuan, Xiang Li.* <br>
 **Image Style Transfer**, VCIP, School of Computer Science, Nankai University & Nankai International Advanced Research Institute (Shenzhen Futian) & OPPO AI Center, OPPO Inc & AAIS, Nankai University <br>
 ECCV 2026. [[PDF](https://arxiv.org/abs/2604.16114)]
-[[Project](https://dengyuhai.github.io/ICTone_Project/)] <br>
+[[Project](https://dengyuhai.github.io/ICTone_Project/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4607)] <br>
 
 **Is This Edit Correct? A Multi-Dimensional Benchmark for Reasoning-Aware Image Editing** <br>
 *Yixuan Ding, Wei Huang, Ruijie Quan, Xiaojuan Qi, Yi Yang.* <br>
@@ -684,7 +1659,8 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2606.05172)]
 **DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer** <br>
 *Hengye Lyu, Zisu Li, Yue Hong, Yueting Weng, Jiaxin Shi, Hanwang Zhang, Chen Liang.* <br>
 **Video Style Transfer**, The Hong Kong University of Science and Technology (Guangzhou) & The Hong Kong University of Science and Technology & XMax.AI Ltd & Nanyang Technological University <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2604.13509)] <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2604.13509)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/5415)] <br>
 
 **MAST: Mask-Guided Attention Control for Training-Free Regional-Multi Style Transfer** <br>
 *Dongkyung Kang, Jaeyeon Hwang, Junseo Park, Minji Kang, Yeryeong Lee, Beomseok Ko, Hanyoung Roh, Jeongmin Shin, Hyeryung Jang.* <br>
@@ -701,7 +1677,8 @@ ICLR 2026. [[PDF](https://arxiv.org/abs/2604.10983)]
 **FineEdit: Fine-Grained Image Edit with Bounding Box Guidance** <br>
 *Haohang Xu, Lin Liu, Zhibo Zhang, Rong Cong, Xiaopeng Zhang, Qi Tian.* <br>
 **Image Editing**, Huawei Inc <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2604.10954)] <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2604.10954)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4620)] <br>
 
 **EditCrafter: Tuning-free High-Resolution Image Editing via Pretrained Diffusion Model** <br>
 *Kunho Kim, Sumin Seo, Yongjun Cho, Hyungjin Chung.* <br>
@@ -722,8 +1699,9 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2604.08716)] <br>
 **MegaStyle: Constructing Diverse and Scalable Style Dataset via Consistent Text-to-Image Style Mapping** <br>
 *Junyao Gao, Sibo Liu, Jiaxing Li, Yanan Sun, Yuanpeng Tu, Fei Shen, Weidong Zhang, Cairong Zhao, Jun Zhang.* <br>
 **Image Style Transfer**, Tongji Univeristy & Tencent & Nanyang Technological University & Hong Kong University of Science and Technology & University of Hong Kong & National University of Singapore & Fuzhou University <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2604.08364)]
-[[Project](https://jeoyal.github.io/MegaStyle/)] <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2604.08364)]
+[[Project](https://jeoyal.github.io/MegaStyle/)]
+[[Conference](https://neurips.cc/virtual/2026/poster/139382)] <br>
 
 **HistDiT: A Structure-Aware Latent Conditional Diffusion Model for High-Fidelity Virtual Staining in Histopathology** <br>
 *Aasim Bin Saleem, Amr Ahmed, Ardhendu Behera, Hafeezullah Amin, Iman Yi Liao, Mahmoud Khattab, Pan Jia Wern, Haslina Makmur.* <br>
@@ -795,10 +1773,11 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2603.26767)] <br>
 
 **Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off** <br>
 *Davide Lobba, Fulvio Sanguigni, Bin Ren, Marcella Cornia, Rita Cucchiara, Nicu Sebe.* <br>
-**Virtual Try-On**, University of Trento, Italy & University of Pisa, Italy & University of Modena and Reggio Emilia, Italy & MBZUAI, United Arab Emirates aimagelab.github.io/Dress-ED/ <br>
+**Virtual Try-On**, University of Trento, Italy & University of Pisa, Italy & University of Modena and Reggio Emilia, Italy & MBZUAI, United Arab Emirates <br>
 ECCV 2026. [[PDF](https://arxiv.org/abs/2603.22607)]
 [[Github](https://github.com/aimagelab/Dress-ED)]
-[[Project](https://aimagelab.github.io/Dress-ED/)] <br>
+[[Project](https://aimagelab.github.io/Dress-ED/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4939)] <br>
 
 **AdaEdit: Adaptive Temporal and Channel Modulation for Flow-Based Image Editing** <br>
 *Guandong Li, Zhaobin Chu.* <br>
@@ -903,7 +1882,8 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2602.21778)]
 *Niki Foteinopoulou, Ignas Budvytis, Stephan Liwicki.* <br>
 **Image Editing**, Cambridge Research Laboratory, Toshiba Europe, Cambridge, UK & Independent Researcher, UK <br>
 ECCV 2026. [[PDF](https://arxiv.org/abs/2602.20839)]
-[[Project](https://nickyfot.github.io/cds/)] <br>
+[[Project](https://nickyfot.github.io/cds/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3799)] <br>
 
 **CleanStyle: Plug-and-Play Style Conditioning Purification for Text-to-Image Stylization** <br>
 *Xiaoman Feng, Mingkun Lei, Yang Wang, Dingwen Fu, Chi Zhang.* <br>
@@ -932,8 +1912,9 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2602.18022)] <br>
 **CORAL: Correspondence Alignment for Improved Virtual Try-On** <br>
 *Jiyoung Kim, Youngjin Shin, Siyoon Jin, Dahyun Chung, Jisu Nam, Tongmin Kim, Jongjae Park, Hyeonwoo Kang, Seungryong Kim.* <br>
 **Virtual Try-On**, KAIST AI & NC AI Co., Ltd <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2602.17636)]
-[[Project](https://cvlab-kaist.github.io/CORAL)] <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2602.17636)]
+[[Project](https://cvlab-kaist.github.io/CORAL)]
+[[Conference](https://neurips.cc/virtual/2026/poster/151032)] <br>
 
 **Unpaired Image-to-Image Translation via a Self-Supervised Semantic Bridge** <br>
 *Jiaming Liu, Felix Petersen, Yunhe Gao, Yabin Zhang, Hyojin Kim, Akshay S. Chaudhari, Yu Sun, Stefano Ermon, Sergios Gatidis.* <br>
@@ -1004,8 +1985,9 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2601.22838)] <br>
 **OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation** <br>
 *Jin Li, Tao Chen, Kai Wen, Siqi Yin, Shuai Jiang, Weijie Wang, Jingwen Luo, Chenhui Wu.* <br>
 **Virtual Try-On**, Renxing Intelligence, Hangzhou, China & Hangzhou Dianzi University, Hangzhou, China <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2601.22725)]
-[[Github](https://github.com/RenxingIntelligence/OpenVTON-Bench)] <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2601.22725)]
+[[Github](https://github.com/RenxingIntelligence/OpenVTON-Bench)]
+[[Conference](https://neurips.cc/virtual/2026/poster/139156)] <br>
 
 **Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration** <br>
 *Luwei Tu, Jiawei Wu, Xing Luo, Zhi Jin.* <br>
@@ -1190,7 +2172,8 @@ CVPR 2026. [[PDF](https://arxiv.org/abs/2512.20340)]
 *Tianyuan Qu, Lei Ke, Xiaohang Zhan, Longxiang Tang, Yuqi Liu, Bohao Peng, Bei Yu, Dong Yu, Jiaya Jia.* <br>
 **Image Editing**, Tencent AI Lab, China & The Chinese University of Hong Kong, China & The Hong Kong University of Science and Technology, China <br>
 ECCV 2026. [[PDF](https://arxiv.org/abs/2512.16864)]
-[[Project](https://replan-iv-edit.github.io)] <br>
+[[Project](https://replan-iv-edit.github.io)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3410)] <br>
 
 **Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition** <br>
 *Shengming Yin, Zekai Zhang, Zecheng Tang, Kaiyuan Gao, Xiao Xu, Kun Yan, Jiahao Li, Yilei Chen, Yuxiang Chen, Heung-Yeung Shum, Lionel M. Ni, Junyang Lin, Chenfei Wu.* <br>
@@ -1247,7 +2230,8 @@ CVPR 2026. [[PDF](https://arxiv.org/abs/2511.22625)]
 **Rethinking Garment Conditioning in Diffusion-based Virtual Try-On: Decouple, Don't Denoise** <br>
 *Kihyun Na, Jinyoung Choi, Injung Kim.* <br>
 **Virtual Try-On**, Advanced AI Talent Education and Research Group for Industrial Innovation, Handong Global University, Pohang 37554, Republic of Korea & Department of Artificial Intelligence, Computer and Electrical Engineering, Handong Global University, Pohang 37554, Republic of Korea <br>
-ECCV 2026. [[PDF](https://arxiv.org/abs/2511.18775)] <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2511.18775)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/4096)] <br>
 
 **FIA-Edit: Frequency-Interactive Attention for Efficient and High-Fidelity Inversion-Free Text-Guided Image Editing** <br>
 *Kaixiang Yang, Boyang Shen, Xin Li, Yuchen Dai, Yuxuan Luo, Yueran Ma, Wei Fang, Qiang Li, Zhiwei Wang.* <br>
@@ -1306,7 +2290,8 @@ ICLR 2026. [[PDF](https://arxiv.org/abs/2509.25845)]
 *Ye Wang, Zili Yi, Yibo Zhang, Peng Zheng, Xuping Xie, Jiang Lin, Yijun Li, Yilin Wang, Rui Ma.* <br>
 **Image Style Transfer** <br>
 ECCV 2026. [[PDF](https://arxiv.org/abs/2509.05970)]
-[[Project](https://wangyephd.github.io/projects/DeStyle/index.html)] <br>
+[[Project](https://wangyephd.github.io/projects/DeStyle/index.html)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3668)] <br>
 
 **Delta Rectified Flow Sampling for Text-to-Image Editing** <br>
 *Gaspard Beaudouin, Minghan Li, Jaeyeon Kim, Sung-Hoon Yoon, Mengyu Wang.* <br>
@@ -1376,7 +2361,33 @@ ICLR 2026. [[PDF](https://arxiv.org/abs/2506.10941)]
 ICLR 2026. [[PDF](https://arxiv.org/abs/2505.23145)]
 [[Proceedings](https://proceedings.iclr.cc/paper_files/paper/2026/hash/c613667b7f11fbf478293266a156aabe-Abstract-Conference.html)] <br>
 
+**SAEdit: Token-level control for continuous image editing via Sparse AutoEncoder** <br>
+*Ronen Kamenetsky, Sara Dorfman, Daniel Garibi, Roni Paiss, Or Patashnik, Daniel Cohen-Or.* <br>
+**Image Editing**, Tel Aviv University & Google DeepMind <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2510.05081)]
+[[Project](https://ronen94.github.io/SAEdit/)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3936)] <br>
+
+**Query-Kontext: An Unified Multimodal Model for Image Generation and Editing** <br>
+*Yuxin Song, Wenkai Dong, Shizun Wang, Qi Zhang, Song Xue, Tao Yuan, Hu Yang, Haocheng Feng, Hang Zhou, Xinyan Xiao, Jingdong Wang.* <br>
+**Image Editing**, Baidu VIS & National University of Singapore <br>
+ECCV 2026. [[PDF](https://arxiv.org/abs/2509.26641)]
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3482)] <br>
+
 ## 2025
+
+**ShoeFit: A New Dataset and Dual-image-stream DiT Framework for Virtual Footwear Try-On** <br>
+*Yuhan Li, Zhiyu Jin, Yifan Tong, Wenxiang Shang, Benlei Cui, Xuanhong Chen, Ran Lin, Bingbing Ni.* <br>
+**Virtual Try-On**, Alibaba Group & Shanghai Jiao Tong University <br>
+NeurIPS 2025. [[Paper](https://papers.neurips.cc/paper_files/paper/2025/hash/2e9f9cde1b709281a06dd14f679e4c51-Abstract-Conference.html)]
+[[arXiv](https://arxiv.org/abs/2610.18325)]
+[[Project](https://colorful-liyu.github.io/ShoeFit/)] <br>
+
+**QK-Edit: Revisiting Attention-based Injection in MM-DiT for Image and Video Editing** <br>
+*Tiancheng Shen, Zilong Huang, Xiangtai Li, Zhijie Lin, Jiyang Liu, Yitong Wang, Jiashi Feng, Ming-Hsuan Yang, Jun Hao Liew.* <br>
+**Image Editing**, UC Merced & ByteDance Seed & ByteDance Intelligent Creation & CUHK <br>
+ICCV 2025. [[PDF](https://arxiv.org/abs/2610.17829)]
+[[Proceedings](https://openaccess.thecvf.com/content/ICCV2025/html/Shen_QK-Edit_Revisiting_Attention-based_Injection_in_MM-DiT_for_Image_and_Video_ICCV_2025_paper.html)] <br>
 
 **Instruction-based Image Editing with Planning, Reasoning, and Generation** <br>
 *Liya Ji, Chenyang Qi, Qifeng Chen.* <br>
@@ -1551,12 +2562,6 @@ ICCV 2025. [[PDF](https://arxiv.org/abs/2510.06827)]
 **Image Editing**, Samsung AI Center-Cambridge <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2510.06295)] <br>
 
-**SAEdit: Token-level control for continuous image editing via Sparse AutoEncoder** <br>
-*Ronen Kamenetsky, Sara Dorfman, Daniel Garibi, Roni Paiss, Or Patashnik, Daniel Cohen-Or.* <br>
-**Image Editing**, Tel Aviv University & Google DeepMind ronen94.github.io/SAEdit/ <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2510.05081)]
-[[Project](https://ronen94.github.io/SAEdit/)] <br>
-
 **Contrastive-SDE: Guiding Stochastic Differential Equations with Contrastive Learning for Unpaired Image-to-Image Translation** <br>
 *Venkata Narendra Kotyada, Revanth Eranki, Nagesh Bhattu Sristy.* <br>
 **Base I2I Translation**, Department of Computer Science & Engineering & National Institute of Technology & Andhra Pradesh <br>
@@ -1567,11 +2572,6 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2510.03821)] <br>
 **Virtual Try-On**, Amazon & University of California, Los Angeles (UCLA) & Duke University <br>
 CVPR 2025 Workshops (AI4CC). [[PDF](https://arxiv.org/abs/2510.04797)]
 [[Project](https://dit-vton.github.io/DiT-VTON/)] <br>
-
-**Query-Kontext: An Unified Multimodal Model for Image Generation and Editing** <br>
-*Yuxin Song, Wenkai Dong, Shizun Wang, Qi Zhang, Song Xue, Tao Yuan, Hu Yang, Haocheng Feng, Hang Zhou, Xinyan Xiao, Jingdong Wang.* <br>
-**Image Editing**, Baidu VIS & National University of Singapore <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2509.26641)] <br>
 
 **Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation** <br>
 *Mingyu Kang, Yong Suk Choi.* <br>
