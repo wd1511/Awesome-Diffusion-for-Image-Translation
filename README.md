@@ -94,6 +94,13 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2026
 
+**SIA: Selective Image Analogy** <br>
+*Amir Alimohammadi, Kian Izadpanah, Bardiya Kariminia, Yiorgos Chrysanthou, Ali Mahdavi-Amiri.* <br>
+**Image Editing**, Simon Fraser University, Canada & University of Cyprus, Cyprus & Shahid Beheshti University, Iran & CYENS Centre of Excellence, Cyprus <br>
+SIGGRAPH Asia 2026. [[Paper](https://selective-image-analogy.github.io/)]
+[[Project](https://selective-image-analogy.github.io/)]
+[[Github](https://github.com/alimohammadiamirhossein/selective-image-analogy)] <br>
+
 **ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning** <br>
 *Sara Dorfman, Nir Goren, Gal Barak, Daniel Cohen-Or, Or Patashnik.* <br>
 **Image Editing**, Tel Aviv University <br>
@@ -2969,9 +2976,10 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2506.00591)] <br>
 
 **Cora: Correspondence-aware image editing using few step diffusion** <br>
 *Amirhossein Alimohammadi, Aryan Mikaeili, Sauradip Nag, Negar Hassanpour, Andrea Tagliasacchi, Ali Mahdavi-Amiri.* <br>
-**Image Editing**, Simon Fraser University, Canada & Huawei, Canada & Simon Fraser University,, University of Toronto,, Google Deepmind, Canada <br>
+**Image Editing**, Simon Fraser University, Canada & Huawei, Canada & University of Toronto, Canada & Google DeepMind, Canada <br>
 SIGGRAPH 2025. [[PDF](https://arxiv.org/abs/2505.23907)]
-[[Project](https://cora-edit.github.io/)] <br>
+[[Project](https://cora-edit.github.io/)]
+[[Github](https://github.com/alimohammadiamirhossein/cora)] <br>
 
 **Training Free Stylized Abstraction** <br>
 *Aimon Rahman, Kartik Narayan, Vishal M. Patel.* <br>
