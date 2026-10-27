@@ -4,7 +4,7 @@
 
 A curated bibliography of diffusion-based image translation, editing and style transfer, including closely related diffusion bridges and flow-matching methods.
 
-**Last updated: 2026-10-16.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
+**Last updated: 2026-10-27.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
 
 ```Latex
 **Here is the Paper Name** <br>
@@ -58,6 +58,7 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ### Style Transfer and Image Editing Benchmarks
 
+- ABACUS (arXiv 2026; accepted at WACV 2027) [[Paper](https://arxiv.org/abs/2610.28316)] [[Resource](https://github.com/CEA-LIST/ABACUS)] <br>
 - OmniStyle-1M / OmniStyle-150K (CVPR 2025) [[Paper](https://arxiv.org/abs/2505.14028)] [[Project](https://wangyephd.github.io/projects/OmniStyle/cvpr25_omnistyle.html)] [[Download (150K)](https://huggingface.co/datasets/StyleXX/OmniStyle-150k)] <br>
 - HQ-Edit (ICLR 2025) [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/b639c526a942618f1dba2b7a5fa0bac0-Abstract-Conference.html)] <br>
 - ImgEdit and ImgEdit-Bench (NeurIPS 2025) [[Paper](https://papers.neurips.cc/paper_files/paper/2025/hash/bec783f119b969772c35243b1c801090-Abstract-Datasets_and_Benchmarks_Track.html)] <br>
@@ -93,6 +94,56 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 - LVTON (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/4142)] <br>
 
 ## 2026
+
+**Domain-Adapted Latent Diffusion Models for CT-to-PET Image Translation** <br>
+*Yann Bourdé, Lea Bogensperger, Arnela Hadzic, Michael Krauthammer.* <br>
+**Medical Image Translation** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.35132)] <br>
+
+**KINESYS: Test-Time Adaptation for Reference-Based Effect Editing in Images** <br>
+*Noah Frahm, Luchao Qi, Haoze Li, Dan B Goldman, Sambit Bhattacharya, Roni Sengupta.* <br>
+**Image Editing**, University of North Carolina at Chapel Hill & Industrial Light & Magic & Fayetteville State University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.33292)]
+[[Project](https://noahfrahm.github.io/KINESYS-Project-Page)] <br>
+
+**One Evaluation Is Enough: Inversion-Free Image Editing with Trajectory Correction** <br>
+*Lifan Jiang, Taiyang Chen, Senlin Cheng, Bolei Xu, Xiaobo Li, Can Ye, Dehai Zhao, Deng Cai, Boxi Wu.* <br>
+**Image Editing**, Zhejiang University & Ant Group & Chongqing University of Posts and Telecommunications <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.30827)] <br>
+
+**ER-Chord: Spatially Consistent One-Step Image Editing via Equal-Energy Reliability Redistribution** <br>
+*Peize Li, Hanzhen Zhao, Xingguo Xu, Yilong Fan, Zhen Tao, Bo Yin, Zhifei Liu, Qingdong He, Xiaobin Hu.* <br>
+**Image Editing**, National University of Singapore & Kuaishou Technology & Dalian University of Technology & Tianjin University & Harbin Institute of Technology & Tencent <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.29248)]
+[[Github](https://github.com/Peizeli1/ER-Chord)] <br>
+
+**ABACUS: A Benchmark for Image Editing Models to Assess Object Category and Counting Under Scene Conservation** <br>
+*Aymen Lassoued, Angelique Loesch, Romaric Audigier.* <br>
+**Dataset / Evaluation**, Université Paris-Saclay, CEA, List <br>
+arXiv 2026; accepted at WACV 2027 (Evaluations & Datasets track). [[PDF](https://arxiv.org/abs/2610.28316)]
+[[Github](https://github.com/CEA-LIST/ABACUS)] <br>
+
+**Dancing Diffusion: Learning Continuous Programs for Image Generation and Editing** <br>
+*Cui Enhe, Jinyue Yang, Bojian Yin, Guoqi Li.* <br>
+**Image Editing** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.28003)]
+[[Project](https://mistakes-glitch.github.io/declabeldiff/)]
+[[Github](https://github.com/mistakes-glitch/declabeldiff)] <br>
+
+**MT Forcing: Towards Stable and Consistent Multi-Turn Image Editing with Autoregressive Diffusion** <br>
+*Houyuan Chen, Fanzhou Wang, Xiangyu Fan, Zesong Qiu, Yukun Wei, Songlin Yang, Zhitao Yang, Lvmin Zhang, Pei Yang, Hao Zhao, Dahua Lin, Lei Yang, Anyi Rao.* <br>
+**Image Editing**, SenseTime Research & HKUST MMLab & Stanford University & AIR, Tsinghua University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2610.25404)]
+[[Project](https://houyuanchen111.github.io/mt-forcing.github.io/)]
+[[Github](https://github.com/houyuanchen111/MT-Forcing)]
+[[Model](https://huggingface.co/houyuanchen/MT-Forcing)] <br>
+
+**SIA: Selective Image Analogy** <br>
+*Amir Alimohammadi, Kian Izadpanah, Bardiya Kariminia, Yiorgos Chrysanthou, Ali Mahdavi-Amiri.* <br>
+**Image Editing**, Simon Fraser University & University of Cyprus & Shahid Beheshti University & CYENS Centre of Excellence <br>
+SIGGRAPH Asia 2026.
+[[Project](https://selective-image-analogy.github.io/)]
+[[Github](https://github.com/alimohammadiamirhossein/selective-image-analogy)] <br>
 
 **ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning** <br>
 *Sara Dorfman, Nir Goren, Gal Barak, Daniel Cohen-Or, Or Patashnik.* <br>
@@ -2969,9 +3020,10 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2506.00591)] <br>
 
 **Cora: Correspondence-aware image editing using few step diffusion** <br>
 *Amirhossein Alimohammadi, Aryan Mikaeili, Sauradip Nag, Negar Hassanpour, Andrea Tagliasacchi, Ali Mahdavi-Amiri.* <br>
-**Image Editing**, Simon Fraser University, Canada & Huawei, Canada & Simon Fraser University,, University of Toronto,, Google Deepmind, Canada <br>
+**Image Editing**, Simon Fraser University, Canada & Huawei, Canada & University of Toronto, Canada & Google DeepMind, Canada <br>
 SIGGRAPH 2025. [[PDF](https://arxiv.org/abs/2505.23907)]
-[[Project](https://cora-edit.github.io/)] <br>
+[[Project](https://cora-edit.github.io/)]
+[[Github](https://github.com/alimohammadiamirhossein/cora)] <br>
 
 **Training Free Stylized Abstraction** <br>
 *Aimon Rahman, Kartik Narayan, Vishal M. Patel.* <br>
@@ -5060,7 +5112,7 @@ arXiv 2021. [[PDF](https://arxiv.org/abs/2111.13606)]
 **Palette: Image-to-Image Diffusion Models** <br>
 *Chitwan Saharia, William Chan, Huiwen Chang, Chris A. Lee, Jonathan Ho, Tim Salimans, David J. Fleet, Mohammad Norouzi.* <br>
 **Base I2I Translation**, Google Research <br>
-SIGRAPH 2021. [[PDF](https://arxiv.org/abs/2111.05826)]
+SIGGRAPH 2022. [[PDF](https://arxiv.org/abs/2111.05826)]
 [[Github](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models)]
 [[Project](https://diffusion-palette.github.io)] <br>
 
