@@ -4,7 +4,7 @@
 
 A curated bibliography of diffusion-based image translation, editing and style transfer, including closely related diffusion bridges and flow-matching methods.
 
-**Last updated: 2026-11-05.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
+**Last updated: 2026-11-11.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
 
 ```Latex
 **Here is the Paper Name** <br>
@@ -57,6 +57,10 @@ LDCT-and-Projection-data  dataset [[Download1](https://wiki.cancerimagingarchive
 BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Download2](https://drive.google.com/file/d/1kF0g8fMR5XPQ2FTbutfTQ-hwG_mTqerx/view)] <br>
 
 ### Style Transfer and Image Editing Benchmarks
+
+- Paste2Place training pairs / composition benchmark (2026) [[Paper](https://arxiv.org/abs/2611.09387)] <br>
+- StitchEditBench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2611.07922)] [[Project](https://guoqincode.github.io/StitchEdit/)] <br>
+- EditJudge-Bench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2611.12524)] [[Project](https://jenspars.github.io/EditJudge-Bench/)] <br>
 
 - YANAMI-400K / YANAMI-Bench (2026) [[Paper](https://arxiv.org/abs/2611.05280)] [[Project](https://rowletqwq.github.io/YANAMI)] <br>
 - WeGenEditBench (2026) [[Paper](https://arxiv.org/abs/2610.41210)] <br>
@@ -120,10 +124,81 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ### Virtual Staining and Medical Editing Benchmarks
 
+- BRIDGE (2026; dataset release forthcoming) [[Paper](https://arxiv.org/abs/2611.13883)] <br>
+
 - DynaCell (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2611.02324)] [[Project](https://biohub.github.io/dynacell/)] <br>
 - Med-Banana-80K (Findings of EMNLP 2026) [[Paper](https://aclanthology.org/2026.findings-emnlp.1260/)] <br>
 
 ## 2026
+
+**Stylization as Geodesic Navigation on Diffusion Manifolds** <br>
+*Yan Li, Zehao Li, Xinlong Sun, Fuchen Long, Xi Chen, Wenhan Luo, Yike Guo.* <br>
+**Image Style Transfer**, HKUST & Peking University & Tencent <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.14097)] <br>
+
+**The BRIDGE dataset: paired brightfield whole-slide images of prostate core-needle biopsies in paraffin, after deparaffinization and H&E staining** <br>
+*Julia A. Mielcarz, Justyna Durślewicz, Marek Zdrenka, Ahmad Abbadi, Martin Eklund, Mateusz Matusiak, Łukasz Szylberg, Andrea Camilloni.* <br>
+**Dataset / Evaluation**, Karolinska Institutet & Prof. Franciszek Łukaszczyk Oncology Centre & Bydgoszcz University of Science and Technology & Nicolaus Copernicus University in Toruń <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.13883)] <br>
+Dataset release through BioImage Archive is forthcoming. <br>
+
+**Inversion-Free High-Dimensional Counterfactual Inference** <br>
+*Saketh Vishnubhatla, Pingchuan Ma, Shu Wan, Alimohammad Beigi, Andre Harrison, Adrienne Raglin, Huan Liu.* <br>
+**Image Editing**, Arizona State University & DEVCOM Army Research Laboratory <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.12815)] <br>
+
+**DynOLAT: OLAT Video Prediction for Controllable Dynamic Full-Body Relighting** <br>
+*Taoming Liu, Yinji ShenTu, Guangzhao He, Yudong Jin, Yukang Ye, Siyu Zhang, Fan Jia, Wei Hua, Hujun Bao, Xiaowei Zhou.* <br>
+**Video Editing**, Zhejiang University & Cornell University & 4DV.ai & Ant Group & Zhejiang Lab <br>
+ACM TOG (SIGGRAPH Asia) 2026. [[PDF](https://arxiv.org/abs/2611.11210)]
+[[Project](https://zju3dv.github.io/DynOLAT)]
+[[DOI](https://doi.org/10.1145/3842500)] <br>
+
+**Disentangled Stylized Image Generation via IP-Cross-Attention Rearrangement** <br>
+*Beibei Dong, Yueming Lyu, Yue Jiang, Jing Dong.* <br>
+**Image Style Transfer**, Institute of Automation, Chinese Academy of Sciences <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.10717)] <br>
+
+**Split and Bridge: Multimodal Generation via Diffusion Bridging** <br>
+*Ahmad Arrabi, Xiaohan Zhang, Xingyu Li, Safwan Wshah.* <br>
+**Base I2I Translation**, University of Vermont & Center for Excellence in Brain Science and Intelligence Technology <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.10441)]
+[[Github](https://github.com/AhmadArrabi/SnB)] <br>
+
+**IdealCache: Rethinking Cache Scheduling in Diffusion Transformers via Ideal Trajectories** <br>
+*Shang Xue, Li Zhu, Ping Chen.* <br>
+**Image Editing**, University of Electronic Science and Technology of China <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2611.10340)]
+[[Conference](https://neurips.cc/virtual/2026/poster/155683)] <br>
+
+**Frequency-consistent synthesis and selective transfer for medical image analysis** <br>
+*Zhuhui Wang, Jianwei Zuo, Xin Peng, Kai Zhong, Xuliang Deng, Jiajia Luo.* <br>
+**Medical Image Translation**, Peking University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.10070)] <br>
+
+**VLM as an Editing Pilot: VLM-Steered Velocity Control for Flow-Based Image Editing** <br>
+*Kuan-Shen Chiu, Jia-Wei Liao, Yu-Chieh Chao, Li-Xuan Peng, Wei-Yun Ma, Cheng-Fu Chou.* <br>
+**Image Editing**, National Taiwan University & University of California, Davis & National Tsinghua University & Academia Sinica <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.10066)]
+[[Github](https://github.com/Kuanshen77/V2C-Edit)] <br>
+
+**Covariate-Conditioned One-Step Diffusion for Multi-Horizon 3D Brain MRI Prediction in Aging and Neurodegeneration** <br>
+*Natenaile Asmamaw Shiferaw, Ali Farki, Deepika Koundal, Jussi Tohka.* <br>
+**Medical Image Translation**, University of Eastern Finland & University of Petroleum and Energy Studies <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.10043)]
+[[Github](https://github.com/natenaile/OneStepBrainMRI)] <br>
+
+**A Bridge from Paste to Place: Physics-Guided One-Step Image Composition via Object-Scene Interaction** <br>
+*Hongzhen Li, Youwei Pan, Miao Yu, Yingfang Zhu, Sen Zhu, Fengjie Zhu, Leilei Cao.* <br>
+**Image Editing**, Transsion <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.09387)] <br>
+
+**FlashRelight: Portrait Video Relighting with Dynamic Lighting** <br>
+*Jiahui Sheng, Le Li, Limin Lin, Jiahao Li, Wansen Feng, Hong Gu, Shuhan Chen, Xiaorun Li, Rui Hu.* <br>
+**Video Editing**, Zhejiang University & vivo BlueImage Lab <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2611.06355)]
+[[Github](https://github.com/vivoCameraResearch/FlashRelight)]
+[[Conference](https://neurips.cc/virtual/2026/poster/153615)] <br>
 
 **Qwen-Image-Layered 1.5: Unified Image Generation and Editing with Native Transparency Awareness** <br>
 *Shengming Yin, Zekai Zhang, Yixian Xu, Kaiyuan Gao, Zhendong Wang, Lihan Jiang, Ningyuan Tang, Tianhe Wu, Xiaoyue Chen, Yanran Zhang, Zihao Liu, Zikai Zhou, Jiahao Li, Xiao Xu, Kun Yan, Yuxiang Chen, Yilei Chen, Yan Shu, Jie Zhang, Heung-Yeung Shum, Lionel M. Ni, Jingren Zhou, Chenfei Wu.* <br>
@@ -245,7 +320,7 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2611.06741)] <br>
 arXiv 2026. [[PDF](https://arxiv.org/abs/2611.05280)]
 [[Project](https://rowletqwq.github.io/YANAMI)] <br>
 
-**RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On** <br>
+**Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On** <br>
 *Seungyong Lee, Suhyeok Jang, Minyoung Kim, Jinwoo Shin.* <br>
 **Video Editing** <br>
 arXiv 2026. [[PDF](https://arxiv.org/abs/2611.05163)]
@@ -1313,9 +1388,11 @@ NeurIPS 2026. [[PDF](https://arxiv.org/abs/2610.34303)]
 
 **EditJudge-Bench: Auditing VLM Image-Edit Judges with Synthetic Ground Truth** <br>
 *Jens Parslov, Marco Schouten, Dim Papadopoulos.* <br>
-**Dataset / Evaluation** <br>
+**Dataset / Evaluation**, Technical University of Denmark & Pioneer Centre for AI <br>
 NeurIPS 2026. [[Paper](https://openreview.net/forum?id=eynW4BxY28)]
-[[Conference](https://neurips.cc/virtual/2026/poster/139200)] <br>
+[[Conference](https://neurips.cc/virtual/2026/poster/139200)]
+[[PDF](https://arxiv.org/abs/2611.12524)]
+[[Project](https://jenspars.github.io/EditJudge-Bench/)] <br>
 
 **GPT-Image-Edit-1M: An Auditable Million-Scale Dataset for Instruction-Guided Image Editing** <br>
 *Yuhan Wang, Siwei Yang, Bingchen Zhao, Letian Zhang, Jiawei Mao, Juncheng Wu, Zeyu Zheng, Huaxiu Yao, Qing Liu, Cihang Xie, Yuyin Zhou.* <br>
@@ -1349,9 +1426,11 @@ NeurIPS 2026. [[Paper](https://openreview.net/forum?id=vOr0WAaBeN)]
 
 **StitchEdit: Stitching Depth Priors into Image Editors via Per-Layer Gradient Probing** <br>
 *Qin Guo, Dan Xu.* <br>
-**Image Editing** <br>
+**Image Editing**, HKUST <br>
 NeurIPS 2026. [[Paper](https://openreview.net/forum?id=Q7G74v5nSs)]
-[[Conference](https://neurips.cc/virtual/2026/poster/152828)] <br>
+[[Conference](https://neurips.cc/virtual/2026/poster/152828)]
+[[PDF](https://arxiv.org/abs/2611.07922)]
+[[Project](https://guoqincode.github.io/StitchEdit/)] <br>
 
 **Text-Vision Co-Instructed Image Editing** <br>
 *Chenxi Xie, Yuhui Wu, Qiaosi Yi, Lei Zhang.* <br>
@@ -1367,21 +1446,27 @@ NeurIPS 2026. [[Paper](https://openreview.net/forum?id=Don9L8oTcT)]
 
 **Anatomy-Preserving Unpaired Medical Image Translation via Shared Latent Anchoring** <br>
 *Zhilin Zou, Hieu Minh Le, Saumya Gupta, Jingyi Xu, Prateek Prasanna, Chao Chen.* <br>
-**Medical Image Translation** <br>
+**Medical Image Translation**, Stony Brook University & University of North Carolina at Charlotte <br>
 NeurIPS 2026. [[Paper](https://openreview.net/forum?id=AC5Xd25rUC)]
-[[Conference](https://neurips.cc/virtual/2026/poster/154881)] <br>
+[[Conference](https://neurips.cc/virtual/2026/poster/154881)]
+[[PDF](https://arxiv.org/abs/2611.10236)]
+[[Github](https://github.com/RNZZL/Anatomy-Preserving-Unpaired-Medical-Image-Translation-via-Shared-Latent-Anchoring)] <br>
 
 **AR-Edit: Training-Free Streaming Video Editing without Inversion** <br>
 *Hovhannes Margaryan, Vicky Kalogeiton, Quentin Bammey, Christian Sandor.* <br>
-**Video Editing** <br>
+**Video Editing**, Université Paris-Saclay & CNRS & École Polytechnique & Télécom Paris & Institut Polytechnique de Paris <br>
 NeurIPS 2026. [[Paper](https://openreview.net/forum?id=Tq0zQSyHNl)]
-[[Conference](https://neurips.cc/virtual/2026/poster/152336)] <br>
+[[Conference](https://neurips.cc/virtual/2026/poster/152336)]
+[[PDF](https://arxiv.org/abs/2611.09795)]
+[[Project](https://marghovo.github.io/AR-Edit/)] <br>
 
 **Constrained Look-ahead Guidance for Interference-Aware Flow Editing** <br>
 *Doudou ZHANG, Qi CHEN.* <br>
-**Image Editing** <br>
+**Image Editing**, ELLIS Institute Finland & Aalto University <br>
 NeurIPS 2026. [[Paper](https://openreview.net/forum?id=YT8RaVa0pT)]
-[[Conference](https://neurips.cc/virtual/2026/poster/151736)] <br>
+[[Conference](https://neurips.cc/virtual/2026/poster/151736)]
+[[PDF](https://arxiv.org/abs/2611.10751)]
+[[Github](https://github.com/aalto-icl/ConstrainedLookaheadGuidance)] <br>
 
 **FlowTrack: Controlling Edit-Signal Execution in Inversion-Free Flow Video Editing** <br>
 *Jielun Zhong, Di Wang, Jisheng Dang, Leigang Qu, Bimei Wang, Jingwen Zhao, Wencan Zhang, Hong Peng, Bin Hu.* <br>
@@ -1578,9 +1663,10 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2609.01423)]
 **ReFlowSET: Representation-Aligned Latent Flow Matching for SAR-to-EO Image Translation** <br>
 *Jeonghyeok Do, Seungchul Lee, Munchurl Kim.* <br>
 **SAR Image Translation**, KAIST & Stellarvision Inc <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2609.00968)]
+IEEE GRSL 2026. [[PDF](https://arxiv.org/abs/2609.00968)]
 [[Github](https://github.com/KAIST-VICLab/ReFlowSET)]
-[[Project](https://kaist-viclab.github.io/ReFlowSET_site)] <br>
+[[Project](https://kaist-viclab.github.io/ReFlowSET_site)]
+[[DOI](https://doi.org/10.1109/LGRS.2026.3750856)] <br>
 
 **Discrete Diffusion Bridges for Spatiotemporally Aligned Image Translation and Generation** <br>
 *Xing Xie, Jiawei Liu, Shijun Zhou, Huijie Fan, Zhi Han, Yandong Tang, Liangqiong Qu.* <br>
@@ -1898,7 +1984,7 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2606.15323)] <br>
 arXiv 2026. [[PDF](https://arxiv.org/abs/2606.14125)]
 [[Github](https://github.com/zju-pi/SimEdit)] <br>
 
-**HiLo-Token: Input-Adaptive High-Low Frequency Token Compression for Efficient Image Editing** <br>
+**HiLo-Token: Input-Adaptive High-Low Frequency Token Compression for Efficient Image Editing Model Serving** <br>
 *Haoran You, Yotam Nitzan, Lingzhi Zhang, Yifan Gong, Mang-Tik Chiu, Connelly Barnes, Yan Kang, Yuqian Zhou, Haitian Zheng, Eli Shechtman, Sohrab Amirghodsi.* <br>
 **Image Editing**, Adobe ART AI Lab & Adobe Research <br>
 arXiv 2026. [[PDF](https://arxiv.org/abs/2606.13898)] <br>
@@ -2934,11 +3020,11 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2511.18131)] <br>
 **Base I2I Translation** <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2511.11162)] <br>
 
-**V-Shuffle: Zero-Shot Style Transfer via Value Shuffle** <br>
-*Haojun Tang, Qiwei Lin, Tongda Xu, Lida Huang, Yan Wang.* <br>
-**Image Style Transfer**, Tsinghua University & Dalian University of Technology & Beijing Institute of Radio Measurement <br>
+**Transfer the Style, Not the Semantics: Mitigating Semantic Leakage in Image-Guided Stylization** <br>
+*Haojun Tang, Qiwei Lin, Tongda Xu, Wenda Zhao, Yian Zhao, Yu Zhang, Lida Huang, Yan Wang.* <br>
+**Image Style Transfer**, Tsinghua University & Dalian University of Technology & Beijing Institute of Radio Measurement & Peking University <br>
 arXiv 2025. [[PDF](https://arxiv.org/abs/2511.06365)]
-[[Project](https://xinr-tang.github.io/V-Shuffle)] <br>
+[[Project](https://xinr-tang.github.io/SuRe-homepage/)] <br>
 
 **Personalized Image Editing in Text-to-Image Diffusion Models via Collaborative Direct Preference Optimization** <br>
 *Connor Dunlop, Matthew Zheng, Kavana Venkatesh, Pinar Yanardag.* <br>
