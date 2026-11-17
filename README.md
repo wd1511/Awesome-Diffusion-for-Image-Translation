@@ -135,6 +135,10 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2026
 
+**SIA: Selective Image Analogy** <br>
+*Amir Alimohammadi, Kian Izadpanah, Bardiya Kariminia, Yiorgos Chrysanthou, Ali Mahdavi-Amiri.* <br>
+**Image Editing**, Simon Fraser University, Canada & University of Cyprus, Cyprus & Shahid Beheshti University, Iran & CYENS Centre of Excellence, Cyprus <br>
+SIGGRAPH Asia 2026. [[Paper](https://selective-image-analogy.github.io/)]
 **Complex Schrödinger Bridges** <br>
 *Dong-Sig Han, Tolga Birdal.* <br>
 **Base I2I Translation**, Imperial College London <br>
