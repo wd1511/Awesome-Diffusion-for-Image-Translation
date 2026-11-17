@@ -4,7 +4,7 @@
 
 A curated bibliography of diffusion-based image translation, editing and style transfer, including closely related diffusion bridges and flow-matching methods.
 
-**Last updated: 2026-11-11.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
+**Last updated: 2026-11-17.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
 
 ```Latex
 **Here is the Paper Name** <br>
@@ -57,6 +57,10 @@ LDCT-and-Projection-data  dataset [[Download1](https://wiki.cancerimagingarchive
 BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Download2](https://drive.google.com/file/d/1kF0g8fMR5XPQ2FTbutfTQ-hwG_mTqerx/view)] <br>
 
 ### Style Transfer and Image Editing Benchmarks
+
+- STE25K (SIGGRAPH Asia 2026) [[Paper](https://arxiv.org/abs/2611.17733)] <br>
+- WaveBench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2611.15617)] [[Github](https://github.com/PinkYearwww/WaveletLoRA)] <br>
+- Add-and-Preserve (2026) [[Paper](https://arxiv.org/abs/2611.06741)] [[Data](https://huggingface.co/datasets/Lyricccco/Add-and-Preserve)] <br>
 
 - Paste2Place training pairs / composition benchmark (2026) [[Paper](https://arxiv.org/abs/2611.09387)] <br>
 - StitchEditBench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2611.07922)] [[Project](https://guoqincode.github.io/StitchEdit/)] <br>
@@ -124,12 +128,48 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ### Virtual Staining and Medical Editing Benchmarks
 
-- BRIDGE (2026; dataset release forthcoming) [[Paper](https://arxiv.org/abs/2611.13883)] <br>
+- BRIDGE (2026; dataset release forthcoming) [[Paper](https://arxiv.org/abs/2611.13883)] [[Documentation](https://github.com/JAMielcarz/BRIDGE-dataset)] <br>
 
 - DynaCell (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2611.02324)] [[Project](https://biohub.github.io/dynacell/)] <br>
 - Med-Banana-80K (Findings of EMNLP 2026) [[Paper](https://aclanthology.org/2026.findings-emnlp.1260/)] <br>
 
 ## 2026
+
+**Complex Schrödinger Bridges** <br>
+*Dong-Sig Han, Tolga Birdal.* <br>
+**Base I2I Translation**, Imperial College London <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2611.17746)]
+[[Project](https://circle-group.github.io/research/CSB/)]
+[[Conference](https://neurips.cc/virtual/2026/poster/153202)] <br>
+
+**HarmonyText: Harmonious Scene Text Editing via Reverse-to-Refined Pair Synthesis and Region-Decoupled Frequency Learning** <br>
+*Ziqi Yi, Huiguo He, Guitao Xu, Peirong Zhang, Cheng Da, Xinyao Yu, Zhanpeng Wang, Changqian Yu, Huan Yang, Kun Gai, Lianwen Jin.* <br>
+**Image Editing**, South China University of Technology & Kolors Team, KlingAI Research <br>
+SIGGRAPH Asia 2026 (Conference Papers). [[PDF](https://arxiv.org/abs/2611.17733)] <br>
+
+**Open-World Scene Deocclusion** <br>
+*K. M. S. J. Kumarasinghe, Neil A. Dodgson, Fang-Lue Zhang.* <br>
+**Image Editing**, Victoria University of Wellington & University of New South Wales <br>
+arXiv 2026; accepted at WACV 2027. [[PDF](https://arxiv.org/abs/2611.17695)]
+[[Project](https://sashjk.github.io/owsd/)] <br>
+
+**Real-Time Diffusion Relighting as a Neural Sensor: Closing the Low-Light Domain Gap for Robotic Perception** <br>
+*Shengjie Xu, Alexander Gao, Anshul Rai, Dae Yeol Lee, Guan-Ming Su, Ming C. Lin.* <br>
+**Image Editing**, University of Maryland, College Park & Dolby Laboratories <br>
+IROS 2026. [[PDF](https://arxiv.org/abs/2611.17438)]
+[[Project](https://shengjie-xu.com/conferences/2026_IROS_neural-sensor/)] <br>
+
+**Back to Pixels: Lifting Latent Video Diffusion into Pixel Space** <br>
+*Yanke Song, Shuo Chen, Chris Rockwell, Guande He, Nan Liu, Desai Xie, Tianpei Gu, Yong-Hyun Park, Aryan V S, Dennis Yuren Menn, Ming-Hsuan Yang, Xun Huang.* <br>
+**Video Editing**, Roblox & University of California, Merced & University of Pennsylvania & University of Texas at Austin <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.17336)]
+[[Project](https://chenshuo20.github.io/PixVid/)] <br>
+
+**UniSpark: Exploring Hybrid Attention for Multimodal Understanding and Generation** <br>
+*Jiancheng Pan, Yuzheng Liu, Hengyuan Cao, Qiyuan Zhang, Yangyan Li, Biao Gong, Zheng Zhang, Ka Leong Cheng, Xinyang Wang, Yujun Shen.* <br>
+**Image Editing** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.16517)]
+[[Project](https://lucaria-academy.github.io/UniSpark/)] <br>
 
 **Stylization as Geodesic Navigation on Diffusion Manifolds** <br>
 *Yan Li, Zehao Li, Xinlong Sun, Fuchen Long, Xi Chen, Wenhan Luo, Yike Guo.* <br>
@@ -140,7 +180,8 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2611.14097)] <br>
 *Julia A. Mielcarz, Justyna Durślewicz, Marek Zdrenka, Ahmad Abbadi, Martin Eklund, Mateusz Matusiak, Łukasz Szylberg, Andrea Camilloni.* <br>
 **Dataset / Evaluation**, Karolinska Institutet & Prof. Franciszek Łukaszczyk Oncology Centre & Bydgoszcz University of Science and Technology & Nicolaus Copernicus University in Toruń <br>
 arXiv 2026. [[PDF](https://arxiv.org/abs/2611.13883)] <br>
-Dataset release through BioImage Archive is forthcoming. <br>
+Dataset release through BioImage Archive is forthcoming.
+[[Documentation](https://github.com/JAMielcarz/BRIDGE-dataset)] <br>
 
 **Inversion-Free High-Dimensional Counterfactual Inference** <br>
 *Saketh Vishnubhatla, Pingchuan Ma, Shu Wan, Alimohammad Beigi, Andre Harrison, Adrienne Raglin, Huan Liu.* <br>
@@ -162,8 +203,9 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2611.10717)] <br>
 **Split and Bridge: Multimodal Generation via Diffusion Bridging** <br>
 *Ahmad Arrabi, Xiaohan Zhang, Xingyu Li, Safwan Wshah.* <br>
 **Base I2I Translation**, University of Vermont & Center for Excellence in Brain Science and Intelligence Technology <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2611.10441)]
-[[Github](https://github.com/AhmadArrabi/SnB)] <br>
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2611.10441)]
+[[Github](https://github.com/AhmadArrabi/SnB)]
+[[Conference](https://neurips.cc/virtual/2026/poster/151356)] <br>
 
 **IdealCache: Rethinking Cache Scheduling in Diffusion Transformers via Ideal Trajectories** <br>
 *Shang Xue, Li Zhu, Ping Chen.* <br>
@@ -312,7 +354,13 @@ Findings of EMNLP 2026. [[PDF](https://arxiv.org/abs/2503.10613)]
 **TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing** <br>
 *Ruikang Li, Zixuan Chen, Jiarui Wu, Mingde Yao, Yiyuan Zhang, Yujin Wang, Hanming Deng, Lewei Lu, Tianfan Xue.* <br>
 **Image Editing**, MMLab, CUHK & SenseTime Research & Shanghai Artificial Intelligence Laboratory <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2611.06741)] <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.06741)]
+[[Project](https://lyricccco.github.io/tailsteer/)]
+[[Github](https://github.com/Lyricccco/tailsteer)]
+[[Data](https://huggingface.co/datasets/Lyricccco/Add-and-Preserve)]
+[[Model (FLUX.2)](https://huggingface.co/Lyricccco/FLUX.2-klein-base-9B-TailSteer)]
+[[Model (SenseNova)](https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT-TailSteer)]
+[[Model (Qwen)](https://huggingface.co/Lyricccco/Qwen-Image-2.1-TailSteer)] <br>
 
 **YANAMI: A Large-Scale Multimodal Dataset and Benchmark for Multiturn Stateful Interaction** <br>
 *Shengyu Wang, Tengyue Nong, Junming Liu, Haosong Peng, Siyu Li, Ruiqi Lei, Fushuo Huo, Yuhao Pan, Yunfeng Fan, Ding Wang, Nan Cheng, Haozhao Wang, Wenchao Xu.* <br>
@@ -1330,9 +1378,11 @@ ECCV 2026. [[PDF](https://arxiv.org/abs/2512.03013)]
 
 **Consistent Video-to-Video Translation via Explicit Correspondences** <br>
 *Gaurav Parmar, Zhengqi Li, Richard Zhang, Jun-Yan Zhu, Srinivasa G. Narasimhan, Eli Shechtman, Yotam Nitzan.* <br>
-**Video Editing** <br>
+**Video Editing**, Carnegie Mellon University & Adobe Research <br>
 ECCV 2026. [[PDF](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/2023.pdf)]
-[[Conference](https://eccv.ecva.net/virtual/2026/poster/3572)] <br>
+[[Conference](https://eccv.ecva.net/virtual/2026/poster/3572)]
+[[arXiv](https://arxiv.org/abs/2611.17298)]
+[[Project](https://www.cs.cmu.edu/~vid2vid-long/)] <br>
 
 **Memory-V2V: Memory-Augmented Video-to-Video Diffusion for Consistent Multi-Turn Editing** <br>
 *Dohun Lee, Chun-Hao Paul Huang, Xuelin Chen, Jong Chul Ye, Duygu Ceylan, Hyeonho Jeong.* <br>
@@ -1569,7 +1619,9 @@ NeurIPS 2026. [[Paper](https://openreview.net/forum?id=fyPHDFABOs)]
 *Peiyao Wang, Jiahui Sun, Weining Wang, Jing Liu.* <br>
 **Image Style Transfer** <br>
 NeurIPS 2026. [[Paper](https://openreview.net/forum?id=SEc7mCUDGI)]
-[[Conference](https://neurips.cc/virtual/2026/poster/152557)] <br>
+[[Conference](https://neurips.cc/virtual/2026/poster/152557)]
+[[PDF](https://arxiv.org/abs/2611.15617)]
+[[Github](https://github.com/PinkYearwww/WaveletLoRA)] <br>
 
 **Why Do DiT Editors Drift? Plug-and-Play Low Frequency Alignment in VAE Latent Space** <br>
 *Xiaoce Wang, Sifan Zhou, Kaifei Wang, Leli Xu, Xuerui Qiu, Tao He, Ming Li.* <br>
