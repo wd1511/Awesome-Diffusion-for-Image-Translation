@@ -58,11 +58,16 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ### Style Transfer and Image Editing Benchmarks
 
+- GlyphAtlas-Data-1.5M (2026) [[Paper](https://arxiv.org/abs/2611.20192)] [[Data](https://huggingface.co/datasets/Fr0zencr4nE/GlyphAtlas-Data-1.5M)] <br>
+- CropWeed-EditBench (2026) [[Paper](https://arxiv.org/abs/2611.19076)] <br>
+- DecoDataset / DecoBench (DecoEdit) (2026) [[Paper](https://arxiv.org/abs/2611.19121)] <br>
+- StyleJudge human-rating benchmark (ICVGIP 2026) [[Paper](https://arxiv.org/abs/2611.19475)] [[Github](https://github.com/tomoeOOseven/StyleJudge)] <br>
+
 - STE25K (SIGGRAPH Asia 2026) [[Paper](https://arxiv.org/abs/2611.17733)] <br>
 - WaveBench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2611.15617)] [[Github](https://github.com/PinkYearwww/WaveletLoRA)] <br>
 - Add-and-Preserve (2026) [[Paper](https://arxiv.org/abs/2611.06741)] [[Data](https://huggingface.co/datasets/Lyricccco/Add-and-Preserve)] <br>
 
-- Paste2Place training pairs / composition benchmark (2026) [[Paper](https://arxiv.org/abs/2611.09387)] <br>
+- P2P-Data / P2P-Bench (2026) [[Paper](https://arxiv.org/abs/2611.09387)] <br>
 - StitchEditBench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2611.07922)] [[Project](https://guoqincode.github.io/StitchEdit/)] <br>
 - EditJudge-Bench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2611.12524)] [[Project](https://jenspars.github.io/EditJudge-Bench/)] <br>
 
@@ -135,10 +140,74 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ## 2026
 
-**SIA: Selective Image Analogy** <br>
-*Amir Alimohammadi, Kian Izadpanah, Bardiya Kariminia, Yiorgos Chrysanthou, Ali Mahdavi-Amiri.* <br>
-**Image Editing**, Simon Fraser University, Canada & University of Cyprus, Cyprus & Shahid Beheshti University, Iran & CYENS Centre of Excellence, Cyprus <br>
-SIGGRAPH Asia 2026. [[Paper](https://selective-image-analogy.github.io/)]
+**RAGE: Residual-Adaptive Gating for Flow-Based Image Editing** <br>
+*Ruofeng Mei, Xiangyu Xu.* <br>
+**Image Editing**, Xi’an Jiaotong University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.21177)] <br>
+
+**MedicalDPO: Multi-Objective Direct Preference Optimization for CT to PET Translation** <br>
+*Huiting Zhang, Yingxin Cai, Siyuan Wang, Xi Yang, Yuyao Yan, Rui Zhang, Kaizhu Huang.* <br>
+**Medical Image Translation**, Xi’an Jiaotong-Liverpool University & Duke Kunshan University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.21098)] <br>
+
+**QASK-Edit: Adaptive Sparse Attention Across Queries and Key Sources for Efficient Video Editing** <br>
+*Hengrui Liu, Wenbo Xu, Ziqi Sheng, Wei Lu.* <br>
+**Video Editing**, Sun Yat-sen University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.20704)] <br>
+
+**LEDGE: Separating Critic and Editor Failures in Text-to-Image Self-Correction** <br>
+*Vyom Agarwal, Mokshda Gangrade, Samet Ayhan, Giacinto Paolo Saggese.* <br>
+**Dataset / Evaluation**, University of Maryland, College Park <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.20446)] <br>
+
+**GlyphAtlas: Disentangling Stroke Detail from Layout for Scene Text Synthesis** <br>
+*Luozheng Qin, Changhai Zhou, Yiyi Zhou.* <br>
+**Image Editing**, Xiamen University & Fudan University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.20192)]
+[[Project](https://fr0zencrane.github.io/project-glyphatlas/)]
+[[Github](https://github.com/Fr0zenCrane/GlyphAtlas)]
+[[Model](https://huggingface.co/Fr0zencr4nE/GlyphAtlas)]
+[[Data](https://huggingface.co/datasets/Fr0zencr4nE/GlyphAtlas-Data-1.5M)] <br>
+
+**Equal Dose, Different Coverage: Tracing Rate and Duration in Image Editing** <br>
+*Yi Liu.* <br>
+**Dataset / Evaluation**, University of Science and Technology of China <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.19955)] <br>
+
+**StyleJudge: A Human-Validated, In-Context-Learning Vision-Language Evaluator for Artistic Style Transfer** <br>
+*Lokesh, Pramukto Mandal, Somanshu Juneja, Jashnoor Singh, Amit Kumar, Pranav Adlinge, Richa Thakur, Kunal Swami, Aditya Nigam.* <br>
+**Dataset / Evaluation**, Indian Institute of Technology Mandi & Samsung R&D Institute India-Bangalore <br>
+ICVGIP 2026. [[PDF](https://arxiv.org/abs/2611.19475)]
+[[Github](https://github.com/tomoeOOseven/StyleJudge)] <br>
+
+**SAR-TopoGuard: Training-Free, Speckle-Aware Topological Verification for Structure-Preserving SAR-to-Optical Translation** <br>
+*Satabarto Sarkar, Debojyoti Ghosh, Subhranil Biswas, Kaustav Mandal, D. Sobya.* <br>
+**SAR Image Translation** <br>
+IEEE GRSL 2026. [[PDF](https://arxiv.org/abs/2611.19316)]
+[[Github](https://github.com/researchworksofsomeone/SAR-TopoGuard_Repo)]
+[[DOI](https://doi.org/10.1109/LGRS.2026.3753492)] <br>
+
+**DecoEdit: Beyond Flat Control for 3D-Aware Unified Image Editing** <br>
+*Xiaotang Gai, Jinbo Xing, Zijie Meng, Jiayi Yi, Jimin Xiao, Yixuan Qian, Yu Liu, Chaojie Mao, Zuozhu Liu.* <br>
+**Image Editing**, Zhejiang University & Alibaba Group & University of Illinois Urbana-Champaign <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.19121)] <br>
+
+**SearchChord: Prompt Preselection and Field Recomposition for One-Step Image Editing** <br>
+*Boyang Deng, Yuzhen Lu.* <br>
+**Image Editing**, Michigan State University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.19076)] <br>
+
+**Latent Fusion: Channel Stacking for Structure-Preserving Image Editing** <br>
+*Mohit Dulani.* <br>
+**Image Editing** <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.18727)] <br>
+
+**Object-Aware Background-Controlled Editing via Weighted Velocity Guidance** <br>
+*Wuji Wang, Yue Wu, Chenhao Yi, Shuhui Wang.* <br>
+**Image Editing**, Carnegie Mellon University & Institute of Computing Technology, Chinese Academy of Sciences & University of Chinese Academy of Sciences <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.06288)]
+[[Github](https://github.com/wwj-code/OAVC)] <br>
+
 **Complex Schrödinger Bridges** <br>
 *Dong-Sig Han, Tolga Birdal.* <br>
 **Base I2I Translation**, Imperial College London <br>
@@ -235,7 +304,7 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2611.10043)]
 [[Github](https://github.com/natenaile/OneStepBrainMRI)] <br>
 
 **A Bridge from Paste to Place: Physics-Guided One-Step Image Composition via Object-Scene Interaction** <br>
-*Hongzhen Li, Youwei Pan, Miao Yu, Yingfang Zhu, Sen Zhu, Fengjie Zhu, Leilei Cao.* <br>
+*Hongzhen Li, Youwei Pan, Yingfang Zhu, Sen Zhu, Fengjie Zhu, Leilei Cao.* <br>
 **Image Editing**, Transsion <br>
 arXiv 2026. [[PDF](https://arxiv.org/abs/2611.09387)] <br>
 
@@ -928,7 +997,7 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2609.35708)]
 
 **FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching** <br>
 *Thanh-Long V. Le, Steven Walton, Seunghyun Yoon, Branislav Kveton, Trung Bui, Eunho Yang, Viet Lai.* <br>
-**Image Editing** <br>
+**Image Editing**, Adobe Research & KAIST AI <br>
 arXiv 2026. [[PDF](https://arxiv.org/abs/2609.35673)] <br>
 
 **On-Policy Self-Distillation for Multi-Turn Image Editing** <br>
