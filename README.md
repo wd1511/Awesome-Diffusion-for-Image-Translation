@@ -4,7 +4,7 @@
 
 A curated bibliography of diffusion-based image translation, editing and style transfer, including closely related diffusion bridges and flow-matching methods.
 
-**Last updated: 2026-11-17.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
+**Last updated: 2026-11-18.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
 
 ```Latex
 **Here is the Paper Name** <br>
@@ -57,6 +57,15 @@ LDCT-and-Projection-data  dataset [[Download1](https://wiki.cancerimagingarchive
 BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Download2](https://drive.google.com/file/d/1kF0g8fMR5XPQ2FTbutfTQ-hwG_mTqerx/view)] <br>
 
 ### Style Transfer and Image Editing Benchmarks
+
+- SciFormaData-700K / SciFormaBench-2K (SIGGRAPH Asia 2026, accepted) [[Paper](https://arxiv.org/abs/2607.18091)] [[Data](https://huggingface.co/datasets/microsoft/SciFormaData-700K)] [[Benchmark](https://huggingface.co/datasets/microsoft/SciFormaBench)] <br>
+- LUTBench (2026) [[Paper](https://arxiv.org/abs/2611.23113)] [[Repository](https://github.com/LouckXu/LUTBench)] Code and data are not yet released. <br>
+- LAVAT (TMLR 2026) [[Paper](https://arxiv.org/abs/2611.22645)] [[Project](https://uark-aicv.github.io/REVEAL/)] <br>
+- RSPD human-preference benchmark (arXiv 2026; accepted at WACV 2027) [[Paper](https://arxiv.org/abs/2611.21816)] [[Github](https://github.com/pubgeo/rspd)] Benchmark images are pending release. <br>
+- RigIT-Synth / RigIT-CAO (SIGGRAPH Asia 2026, accepted) [[Paper](https://rigit-project.github.io/static/pdfs/RigIt.pdf)] [[Data (Synth)](https://huggingface.co/datasets/ayankashyap/RigIT-Synth)] [[Data (CAO)](https://huggingface.co/datasets/ayankashyap/RigIT-CAO)] <br>
+- EVR multi-reference editing dataset (SIGGRAPH Asia 2026, accepted) [[Paper](https://arxiv.org/abs/2607.29025)] [[Data](https://huggingface.co/datasets/moore12138/EVR_dataset)] <br>
+- GIVE-Data / GIVE-Bench (SIGGRAPH Asia 2026, accepted) [[Paper](https://arxiv.org/abs/2606.24225)] [[Project](https://geometry-instructed-video-editing.github.io/give/)] <br>
+- ControlTile dataset (SIGGRAPH 2026) [[Paper](https://arxiv.org/abs/2606.22945)] [[Data](https://modelscope.cn/datasets/heika94/ctile-dataset)] <br>
 
 - GlyphAtlas-Data-1.5M (2026) [[Paper](https://arxiv.org/abs/2611.20192)] [[Data](https://huggingface.co/datasets/Fr0zencr4nE/GlyphAtlas-Data-1.5M)] <br>
 - CropWeed-EditBench (2026) [[Paper](https://arxiv.org/abs/2611.19076)] <br>
@@ -139,6 +148,105 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 - Med-Banana-80K (Findings of EMNLP 2026) [[Paper](https://aclanthology.org/2026.findings-emnlp.1260/)] <br>
 
 ## 2026
+
+**LUTBench: Benchmarking Text-Driven Photographic Look Transfer** <br>
+*Chuanzhi Xu, Boyu Wei, Chengkun Yue, Xuanhua Yin, Yiyang Li, Chupeng Liu, Zihan Deng, Weidong Cai.* <br>
+**Dataset / Evaluation**, University of Sydney & Indiana University & University of Hong Kong <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.23113)]
+[[Repository](https://github.com/LouckXu/LUTBench)] Repository reserved; code and data are not yet released. <br>
+
+**ConserveEdit: Source-Anchored Transactions for Drift-Bounded Iterative Image Editing** <br>
+*Shuyang Jiang, Fucheng Deng, Yuchuan Luo, Zhenyu Wu.* <br>
+**Image Editing**, University of California, Los Angeles & Aimakj & National University of Defense Technology <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.22724)] <br>
+
+**REVEAL: Reconstructing Video Amodal Content via Language and Flow Guidance** <br>
+*Minh Tran, Winston Bounsavy, Ngan Le.* <br>
+**Video Editing**, University of Arkansas <br>
+TMLR 2026. [[PDF](https://arxiv.org/abs/2611.22645)]
+[[Project](https://uark-aicv.github.io/REVEAL/)]
+[[OpenReview](https://openreview.net/forum?id=pbTFy1bNyZ)] <br>
+
+**Motion-Aware Reward Modeling for Instruction-Guided Video Editing** <br>
+*Li Li, Xiangbo Gao, Bo Ni, Samyadeep Basu, Viet Dac Lai, Jing Shi, Seunghyun Yoon, Gang Wu, Yu Wang, Thien Huu Nguyen, Tyler Derr, Franck Dernoncourt, Zhengzhong Tu, Yue Zhao.* <br>
+**Video Editing**, University of Southern California & Texas A&M University & Vanderbilt University & Adobe & University of Georgia & Amazon <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.22495)] <br>
+
+**Domain-Tuned Diffusion Super-Resolution for 4K Facial Asset Maps** <br>
+*Elly Akhoundi, Mathieu Lamarre, Thibault Goyallon, Patrick Anderson, Étienne Danvoye.* <br>
+**Image Super-Resolution**, Electronic Arts <br>
+SIGGRAPH Asia 2026 Technical Communications (accepted). [[PDF](https://arxiv.org/abs/2611.21890)] <br>
+
+**PromptPack: Training-Free Augmentation of Diffusion Editors for Intent-Aligned Spatial and Semantic Control** <br>
+*Sophia Zalewski, Mustafa Munir, Enting Liu, Anjul Patney, David Dynerman.* <br>
+**Image Editing**, NVIDIA <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.21865)] <br>
+
+**Rethinking Perceptual Similarity for Remote Sensing: Multi-Layer Attention Scoring and Human Preference Benchmarking** <br>
+*Eli Underwood, Marc Bosch, Neil Joshi, Jeffrey Wen, Myron Brown.* <br>
+**Dataset / Evaluation**, Johns Hopkins University Applied Physics Laboratory & Duke University <br>
+arXiv 2026; accepted at WACV 2027. [[PDF](https://arxiv.org/abs/2611.21816)]
+[[Github](https://github.com/pubgeo/rspd)] Benchmark images are pending release. <br>
+
+**StyleComposer: Training-Free Multi-Reference Style Composition** <br>
+*Sanghyeok Lee, Jihye Kang, Namhyuk Ahn.* <br>
+**Style Transfer**, Inha University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2608.05213)] <br>
+
+**Evaluation-Verification Reward for Consistent Multi-Reference Image Editing** <br>
+*Yingmao Miao, Pengfei Zhang, Xiaochen Lv, Meng Yu, Lei Sun, Xiangxiang Chu, Chao Shen, Chenhao Lin.* <br>
+**Image Editing**, Xi’an Jiaotong University & Amap & Shanghai Jiao Tong University <br>
+SIGGRAPH Asia 2026 (accepted). [[PDF](https://arxiv.org/abs/2607.29025)]
+[[Conference](https://sa2026.conference-schedule.org/presentation/?id=papers_2232&sess=sess149)]
+[[Github](https://github.com/AMAP-ML/EVR)]
+[[Model](https://huggingface.co/moore12138/EVR_checkpoint)]
+[[Data](https://huggingface.co/datasets/moore12138/EVR_dataset)] <br>
+
+**Geometry-Instructed Video Editing** <br>
+*Chirui Chang, Xiaoyang Lyu, Yi-Hua Huang, Haoru Tan, Shizhen Zhao, Yikang Ding, Jianmin Bao, Xin Tao, Pengfei Wan, Xiaojuan Qi.* <br>
+**Video Editing**, University of Hong Kong & Kuaishou Technology <br>
+SIGGRAPH Asia 2026 (accepted). [[PDF](https://arxiv.org/abs/2606.24225)]
+[[Conference](https://sa2026.conference-schedule.org/presentation/?id=papers_2071&sess=sess151)]
+[[Project](https://geometry-instructed-video-editing.github.io/give/)] <br>
+
+**Controllable Texture Tiling via Diffusion Transformers with Transformed Rotary Embeddings** <br>
+*Junrong Huang, Zhiyuan Zhang, Rui Tang, Hongbo Fu, Jing Liao.* <br>
+**Image Editing**, City University of Hong Kong & Manycore Tech Inc. & Hong Kong University of Science and Technology <br>
+SIGGRAPH 2026 Conference Papers. [[PDF](https://arxiv.org/abs/2606.22945)]
+[[DOI](https://doi.org/10.1145/3799902.3811172)] (arXiv title: *Controllable Texture Tiling with Transformed RoPE-Enhanced Diffusion Models*)
+[[Github](https://github.com/junrongh/ControlTile)]
+[[Model](https://modelscope.cn/models/heika94/control-tile/summary)]
+[[Data](https://modelscope.cn/datasets/heika94/ctile-dataset)] <br>
+
+**SciForma: Structure-Faithful Generation of Scientific Diagrams** <br>
+*Yuxuan Luo, Peng Zhang, Xinjie Zhang, Xun Guo, Zhouhui Lian, Yan Lu.* <br>
+**Image Editing**, Peking University & Zhejiang University & Microsoft Research Asia <br>
+SIGGRAPH Asia 2026 (accepted). [[PDF](https://arxiv.org/abs/2607.18091)]
+[[Proceedings](https://doi.org/10.1145/3829340.3842172)]
+[[Conference](https://sa2026.conference-schedule.org/presentation/?id=papers_1149&sess=sess149)]
+[[Project](https://microsoft.github.io/SciForma/)]
+[[Github](https://github.com/microsoft/SciForma)]
+[[Model (9B)](https://huggingface.co/LoYuXrqw/SciForma-9B)]
+[[Model (Base)](https://huggingface.co/LoYuXrqw/SciForma-Base)]
+[[Data](https://huggingface.co/datasets/microsoft/SciFormaData-700K)]
+[[Benchmark](https://huggingface.co/datasets/microsoft/SciFormaBench)] <br>
+
+**BridgeEdit: Scaling Bridge Models for Precise Image Editing** <br>
+*Rui Song, Guo-Hua Wang, Tongda Xu, Tianyu Cui, Qing-Guo Chen, Weihua Luo, Yan Wang, Jun Zhang.* <br>
+**Image Editing**, Hong Kong University of Science and Technology & Alibaba & Tsinghua University <br>
+SIGGRAPH Asia 2026 (accepted). [[Proceedings](https://doi.org/10.1145/3829340.3842247)]
+[[Conference](https://sa2026.conference-schedule.org/presentation/?id=papers_1649&sess=sess141)] <br>
+
+**RigIt: Precise Interactive Articulation of Objects in Images** <br>
+*Ayan Kashyap, Aishwarya Agarwal, Deepti Ghadiyaram, Vineet Gandhi.* <br>
+**Image Editing**, International Institute of Information Technology, Hyderabad & Adobe Research & Boston University <br>
+SIGGRAPH Asia 2026 (accepted). [[PDF](https://rigit-project.github.io/static/pdfs/RigIt.pdf)]
+[[Conference](https://sa2026.conference-schedule.org/presentation/?id=papers_2642&sess=sess151)]
+[[Project](https://rigit-project.github.io/)]
+[[Github](https://github.com/rigit-project/RigIT)]
+[[Model](https://huggingface.co/ayankashyap/RigIT-FLUX1-dev-LoRA)]
+[[Data (Synth)](https://huggingface.co/datasets/ayankashyap/RigIT-Synth)]
+[[Data (CAO)](https://huggingface.co/datasets/ayankashyap/RigIT-CAO)] <br>
 
 **RAGE: Residual-Adaptive Gating for Flow-Based Image Editing** <br>
 *Ruofeng Mei, Xiangyu Xu.* <br>
@@ -484,7 +592,7 @@ NeurIPS 2026. [[PDF](https://arxiv.org/abs/2611.02324)]
 **Recoverability-Aware Evaluation of Diffusion Video Inpainting and Object Removal** <br>
 *Yanliang Qi, Jiacheng Ding, Cong Guo, Peihua Mai.* <br>
 **Dataset / Evaluation**, University of Memphis & National University of Singapore <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2611.01578)] <br>
+arXiv 2026 — **withdrawn by the authors on 2026-11-17**. [[arXiv withdrawal notice](https://arxiv.org/abs/2611.01578)] <br>
 
 **FilmTogether: Cinematic Video Generation from Low-Cost Inputs** <br>
 *Shiying Zhang, Xiaobin Hu, Qianchi Zhang, Jiaqi Zhao, Xiaoda Yang, Bo Yin, Shuicheng Yan.* <br>
