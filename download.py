@@ -4,7 +4,7 @@ from pathlib import Path
 
 import requests
 
-# Use the source catalog to avoid duplicate entries from the reading views.
+# Read PDF links from the full catalog.
 markdown_file = Path(__file__).parent / "catalog" / "full.md"
 
 output_directory = "pdf_downloads"
