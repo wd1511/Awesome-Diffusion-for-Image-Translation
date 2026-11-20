@@ -507,69 +507,81 @@ ACMMM 2026. [[PDF](https://arxiv.org/abs/2607.11281)]
 **VTONQA: A Multi-Dimensional Quality Assessment Dataset for Virtual Try-on** <br>
 *Wei Xinyi, Sijing Wu, Zitong Xu, Yunhao Li, Huiyu Duan, Jia Wang, Ning Liu.* <br>
 **Dataset / Evaluation**, Shanghai Jiao Tong University <br>
-ACMMM 2026 (Datasets track). [[Conference](https://2026.acmmm.org/site/technical-programme.html)]
+ACMMM 2026 (Datasets track). [[Proceedings](https://doi.org/10.1145/3767308.3838680)]
+[[Conference](https://2026.acmmm.org/site/technical-programme.html)]
 [[Data](https://huggingface.co/datasets/weixiny0408/vtonqa)] <br>
 
 **SI-Edit: Toward Sketch-Instruction Guided Local Image Editing with Pixel-Level Precision** <br>
 *Weixin Ye, Wei Wang, Hongguang Zhu, Xuecheng Nie.* <br>
 **Image Editing**, Institute of Information Science, Beijing Jiaotong University & City University of Macau & Meitu Inc. <br>
-ACMMM 2026. [[Conference](https://2026.acmmm.org/site/technical-programme.html)]
+ACMMM 2026. [[Proceedings](https://doi.org/10.1145/3767308.3835538)]
+[[Conference](https://2026.acmmm.org/site/technical-programme.html)]
 [[Github](https://github.com/ywxsuperstar/SIEdit)] <br>
 
 **Imagine A Reference: MLLM-Augmented Versatile Image Stylization** <br>
 *Hanyu Xing, Fei Gao, Xi Yang, Ziyun Li, Pengyu Chen, Nannan Wang.* <br>
 **Image Style Transfer**, Xidian University & KTH Royal Institute of Technology <br>
-ACMMM 2026. [[Conference](https://2026.acmmm.org/site/technical-programme.html)]
+ACMMM 2026. [[Proceedings](https://doi.org/10.1145/3767308.3835024)]
+[[Conference](https://2026.acmmm.org/site/technical-programme.html)]
 [[Github](https://github.com/Vincotto/MAIST)] <br>
 
 **SREdit: A Self-Rewarding Framework with Intrinsically Aligned Critic for Image Editing** <br>
 *Yuqi Wang, Qian Bao, Yingying Ao, Ting Zhang, Haotian Yang, Jianwei Niu, Xuefeng Liu, Xudong Liu, Huaiwen Wu, Jianping Fang, Jintao Fang.* <br>
 **Image Editing**, Meituan & Beijing Normal University <br>
-ACMMM 2026. [[Conference](https://2026.acmmm.org/site/technical-programme.html)] <br>
+ACMMM 2026. [[Proceedings](https://doi.org/10.1145/3767308.3835647)]
+[[Conference](https://2026.acmmm.org/site/technical-programme.html)] <br>
 
 **StraightEdit: Efficient Low-Step Inversion-Free Text-Guided Image Editing** <br>
 *Xiyu Wang, Mengyu Zheng, Daochang Liu, Chang Xu.* <br>
 **Image Editing**, The University of Sydney & Beijing Jiaotong University & University of Western Australia <br>
-ACMMM 2026. [[Conference](https://2026.acmmm.org/site/technical-programme.html)] <br>
+ACMMM 2026. [[Proceedings](https://doi.org/10.1145/3767308.3835799)]
+[[Conference](https://2026.acmmm.org/site/technical-programme.html)] <br>
 
 **SVIE: Stitching Video Priors for Physics-Aware Image Editing** <br>
 *Runan Li, Qi Cai, Yingwei Pan, Jingjing Chen, Ting Yao, Tao Mei.* <br>
 **Image Editing**, Fudan University & HiDream.ai Inc. <br>
-ACMMM 2026. [[Conference](https://2026.acmmm.org/site/technical-programme.html)] <br>
+ACMMM 2026. [[Proceedings](https://doi.org/10.1145/3767308.3836175)]
+[[Conference](https://2026.acmmm.org/site/technical-programme.html)] <br>
 
 **BooM-VVT: Boosting Mask-Free Video Virtual Try-On with Image-Level Pseudo Data** <br>
 *Wei Zhang, Xin Li, Peishu Shi, Jialin Gao, Xuekang Peng, Zhichao Lian, Yeying Jin.* <br>
 **Virtual Try-On**, Nanjing University of Science and Technology & University of Science and Technology of China & National University of Singapore & Meituan <br>
-ACMMM 2026. [[Conference](https://2026.acmmm.org/site/technical-programme.html)]
+ACMMM 2026. [[Proceedings](https://doi.org/10.1145/3767308.3835712)]
+[[Conference](https://2026.acmmm.org/site/technical-programme.html)]
 [[Project](https://boomvvt.github.io/boomvvt)] <br>
 
 **One is Enough: Disentangled Style Transfer via One-to-One Token Distillation** <br>
 *Derui Zhang, Yiji Feng, Fei Gao, Nannan Wang.* <br>
 **Image Style Transfer**, Xidian University <br>
-ACMMM 2026. [[Conference](https://2026.acmmm.org/site/technical-programme.html)]
+ACMMM 2026. [[Proceedings](https://doi.org/10.1145/3767308.3834976)]
+[[Conference](https://2026.acmmm.org/site/technical-programme.html)]
 [[Github](https://github.com/IIP-Lab-XDU/OOTD)] <br>
 
 **PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing** <br>
 *Ruihang Xu, Dewei Zhou, Xiaolong Shen, Fan Ma, Yi Yang.* <br>
 **Image Editing**, Zhejiang University <br>
-ACMMM 2026. [[Conference](https://2026.acmmm.org/site/technical-programme.html)]
+ACMMM 2026. [[Proceedings](https://doi.org/10.1145/3767308.3835046)]
+[[Conference](https://2026.acmmm.org/site/technical-programme.html)]
 [[Github](https://github.com/nenhang/PhyEdit)] <br>
 
 **StyleCom: Taming Style Transfer and Collage Prior for Training-Based Cross-Domain Image Composition** <br>
 *Qiang Lyu, Tao Yang, Kunze Wu, Yuheng Li, Yuanjun Liao, Zeyu Qiu, Haolin Shi, Yuning Gong, Jianlou Si, Fangda Chen, Bing Zhang, Junyuan Xiao, Yanchao Zhao, Zicong Chen, Yichen Liu, Chongxiao Wang, Jun Huang, Fei Ding, Zhou Jiang, Zhihao Li, Chun Pong Lau, Weiqiang Wang.* <br>
 **Image Editing**, University of Chinese Academy of Sciences & Chongqing University & Sichuan University & Youku & Alibaba Cloud & The Hong Kong University of Science and Technology (Guangzhou) & Tsinghua University & Beihang University‌ & South China University of Technology & Harbin Institute of Technology & City University of Hong Kong <br>
-ACMMM 2026. [[Conference](https://2026.acmmm.org/site/technical-programme.html)]
+ACMMM 2026. [[Proceedings](https://doi.org/10.1145/3767308.3835612)]
+[[Conference](https://2026.acmmm.org/site/technical-programme.html)]
 [[Github](https://github.com/fikry102/StyleCom)] <br>
 
 **AmodalEdit: Advancing Instruction-Based Image Editing via Amodal Scene Layout Perception** <br>
 *Jiyun Sun, Zhichao Zeng, Xiyue Gao, Jiasheng Zhang, Jiangtao Cui, Xiaotian Qiao.* <br>
 **Image Editing**, Xidian University & Xi'an University of Posts and Telecommunications‌ <br>
-ACMMM 2026. [[Conference](https://2026.acmmm.org/site/technical-programme.html)] <br>
+ACMMM 2026. [[Proceedings](https://doi.org/10.1145/3767308.3835135)]
+[[Conference](https://2026.acmmm.org/site/technical-programme.html)] <br>
 
 **DSR-Tryon: Dual-Scale Semantic Reasoning for Versatile and Coherent Virtual Try-On** <br>
 *Puli Wang, Ruxue Wen, Xiaowei Xu, Qiushi Guo, Tiezheng Ge.* <br>
 **Virtual Try-On**, Zhejiang University & Alibaba Group <br>
-ACMMM 2026. [[Conference](https://2026.acmmm.org/site/technical-programme.html)] <br>
+ACMMM 2026. [[Proceedings](https://doi.org/10.1145/3767308.3835735)]
+[[Conference](https://2026.acmmm.org/site/technical-programme.html)] <br>
 
 **Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing** <br>
 *Hui Liu, Bin Zou, Kecheng Chen, Suiyun Zhang, Rui Liu, Yifan Bai, Haoliang Li.* <br>
@@ -906,7 +918,7 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2610.25404)]
 **SIA: Selective Image Analogy** <br>
 *Amir Alimohammadi, Kian Izadpanah, Bardiya Kariminia, Yiorgos Chrysanthou, Ali Mahdavi-Amiri.* <br>
 **Image Editing**, Simon Fraser University & University of Cyprus & Shahid Beheshti University & CYENS Centre of Excellence <br>
-SIGGRAPH Asia 2026.
+SIGGRAPH Asia 2026 (accepted). [[Proceedings](https://doi.org/10.1145/3829340.3842205)]
 [[Project](https://selective-image-analogy.github.io/)]
 [[Github](https://github.com/alimohammadiamirhossein/selective-image-analogy)] <br>
 
@@ -1652,13 +1664,15 @@ NeurIPS 2026. [[Paper](https://openreview.net/forum?id=Nx9IIc3xpv)]
 **Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision** <br>
 *Jiacheng Chen, Songze Li, Han Fu, Baoquan Zhao, Wei Liu, Yanyan Liang, Qing Li, Xudong Mao.* <br>
 **Image Editing** <br>
-NeurIPS 2026. [[Paper](https://delta-adapter.github.io/)]
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2605.07940)]
+[[Project](https://delta-adapter.github.io/)]
 [[Conference](https://neurips.cc/virtual/2026/poster/153315)] <br>
 
 **Do Image Editing Models Understand Lighting?** <br>
 *Tim Küchler, Johann-Friedrich Feiden, Matthias Niessner, Carsten Rother.* <br>
 **Dataset / Evaluation** <br>
-NeurIPS 2026. [[Paper](https://tim-kuechler.github.io/3DLP)]
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2606.26738)]
+[[Project](https://tim-kuechler.github.io/3DLP)]
 [[Conference](https://neurips.cc/virtual/2026/poster/139308)] <br>
 
 **EditDistill: Is It Possible to Guide Video Editing with Image Editing?** <br>
@@ -1821,7 +1835,8 @@ NeurIPS 2026. [[PDF](https://arxiv.org/abs/2610.27592)]
 **SteerVTE: Seamless Video Text Editing with Style and Glyph Control** <br>
 *Kai Zeng, Moran Li, Zhengwei Wang, Yingchen Yu, Yiheng Lin, Ruichuan An, Ming Lu, Qi She, Wentao Zhang.* <br>
 **Video Editing** <br>
-NeurIPS 2026. [[Paper](https://zengkaiya.github.io/SteerVTE/)]
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2606.23254)]
+[[Project](https://zengkaiya.github.io/SteerVTE/)]
 [[Conference](https://neurips.cc/virtual/2026/poster/148744)] <br>
 
 **StyleRoute: Diffusion Style Transfer via Regional Routing and Conflict-aware Projection** <br>
@@ -1859,7 +1874,8 @@ NeurIPS 2026. [[Paper](https://openreview.net/forum?id=SEc7mCUDGI)]
 **Why Do DiT Editors Drift? Plug-and-Play Low Frequency Alignment in VAE Latent Space** <br>
 *Xiaoce Wang, Sifan Zhou, Kaifei Wang, Leli Xu, Xuerui Qiu, Tao He, Ming Li.* <br>
 **Image Editing** <br>
-NeurIPS 2026. [[Paper](https://github.com/ZephinueCode/VAE-LFA)]
+NeurIPS 2026. [[PDF](https://arxiv.org/abs/2605.08250)]
+[[Github](https://github.com/ZephinueCode/VAE-LFA)]
 [[Conference](https://neurips.cc/virtual/2026/poster/151149)] <br>
 
 **SafeStyle: Calibrated Style Residual Injection for Controllable Style-Leakage Trade-off in Diffusion Stylization** <br>
@@ -4964,12 +4980,12 @@ ECCV 2024 Workshops. [[PDF](https://arxiv.org/abs/2411.10130)]
 **Diff-TST: Diffusion model for one-shot text-image style transfer** <br>
 *Sizhe Pang, Xinyuan Chen, Yangchen Xie, Hongjian Zhan, Bing Yin, Yue Lu.* <br>
 **Image Style Transfer**, East China Normal University & Shanghai AI Lab <br>
-Expert Systems With Applications. [[PDF](https://www.sciencedirect.com/science/article/pii/S0957417424026149)] <br>
+Expert Systems with Applications 2025. [[PDF](https://www.sciencedirect.com/science/article/pii/S0957417424026149)] <br>
 
 **Multi-layer Feature Fusion based Image Style Transfer with Arbitrary Text Condition** <br>
 *Yue Yua, Jingshuo Xing, Nengli Li.* <br>
 **Image Style Transfer**, Beijing Institute of Technology <br>
-Signal Processing: Image Communication. [[PDF](https://www.sciencedirect.com/science/article/pii/S0923596524001449)] <br>
+Signal Processing: Image Communication 2025. [[PDF](https://www.sciencedirect.com/science/article/pii/S0923596524001449)] <br>
 
 **DiT4Edit: Diffusion Transformer for Image Editing** <br>
 *Kunyu Feng, Yue Ma, Bingyuan Wang, Chenyang Qi, Haozhe Chen, Qifeng Chen, Zeyu Wang.* <br>
@@ -5028,7 +5044,7 @@ ECCV 2024, [[PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02096
 **A Training-Free Latent Diffusion Style Transfer Method** <br>
 *Zhengtao Xiang, Xing Wan, Libo Xu, Xin Yu, Yuhan Mao.* <br>
 **Image Style Transfer**, Hubei University of Automotive Technology <br>
-Information, [[PDF](https://www.mdpi.com/2078-2489/15/10/588/pdf?version=1727347041)] <br>
+Information 2024. [[PDF](https://www.mdpi.com/2078-2489/15/10/588/pdf?version=1727347041)] <br>
 
 **Cross-conditioned Diffusion Model for Medical Image to Image Translation** <br>
 *Zhaohu Xing, Sicheng Yang, Sixiang Chen, Tian Ye, Yijun Yang, Jing Qin, Lei Zhu.* <br>
