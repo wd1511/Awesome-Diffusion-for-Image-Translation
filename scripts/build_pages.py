@@ -36,12 +36,15 @@ def heading_link(slug):
 def render_readme(sections, updated, detailed):
     if detailed:
         versions = f"[Selected papers]({SELECTED}) | **Full bibliography**"
-        intro = "The complete bibliography of diffusion and flow models for image translation, editing, and style transfer."
+        intro = f"The complete bibliography of diffusion and flow models for image translation, editing, and style transfer. {updated}"
     else:
         versions = f"**Selected papers** | [Full bibliography]({DETAILED})"
-        intro = "Selected papers on diffusion and flow models for image translation, editing, and style transfer."
+        intro = (
+            f"Selected papers on diffusion and flow models for image translation, editing, and style transfer. {updated} "
+            f"For the complete list of papers and their authors, see the [full bibliography]({DETAILED})."
+        )
     navigation = " | ".join(f"[{label(slug)}]({heading_link(slug)})" for slug in sections)
-    parts = [versions, f"# {TITLE} {BADGE}", f"{intro} {updated}", navigation]
+    parts = [versions, f"# {TITLE} {BADGE}", intro, navigation]
     for slug, body in sections.items():
         resource = "datasets" if slug == "datasets" else "papers"
         parts.extend([f"## {label(slug)}", body, f"[Browse all {resource} →](papers/{slug}.md)"])

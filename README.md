@@ -2,7 +2,7 @@
 
 # Diffusion for Image-to-Image Translation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wd1511/Awesome-Diffusion-for-Image-Translation)
 
-Selected papers on diffusion and flow models for image translation, editing, and style transfer. **Last updated: 2026-11-20.**
+Selected papers on diffusion and flow models for image translation, editing, and style transfer. **Last updated: 2026-11-20.** For the complete list of papers and their authors, see the [full bibliography](README-detailed.md).
 
 [Datasets](#datasets) | [2026](#2026) | [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021 and earlier](#2021-and-earlier)
 
