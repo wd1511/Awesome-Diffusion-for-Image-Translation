@@ -1,10 +1,10 @@
-# Diffusion for Image-to-Image Translation · Full Bibliography
+[简要版](README.md)｜**完整版**
 
-[← Selected papers](README.md)
+# Diffusion for Image-to-Image Translation
 
-[2026](#2026) · [2025](#2025) · [2024](#2024) · [2023](#2023) · [2022](#2022) · [2021](#2021) · [Datasets and benchmarks](#dataset)
+The complete bibliography of diffusion and flow models for image translation, editing, and style transfer. **Last updated: 2026-11-20.**
 
-**Last updated: 2026-11-20.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
+[Datasets](papers/datasets.md)｜[2026](papers/2026.md)｜[2025](papers/2025.md)｜[2024](papers/2024.md)｜[2023](papers/2023.md)｜[2022](papers/2022.md)｜[before 2021](papers/before-2021.md)
 
 <details>
 <summary>Entry format and PDF downloads</summary>
@@ -20,6 +20,8 @@ Download all PDF files
 ```
 python download.py
 ```
+
+To refresh the individual dataset and year pages after editing this bibliography, run `python3 scripts/build_pages.py`.
 
 </details>
 
@@ -3962,10 +3964,11 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2505.05101)] <br>
 ICCV 2025. [[PDF](https://arxiv.org/abs/2505.04320)]
 [[Proceedings](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_Multi-turn_Consistent_Image_Editing_ICCV_2025_paper.html)] <br>
 
-**In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer** <br>
+**Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer** <br>
 *Zechuan Zhang, Ji Xie, Yu Lu, Zongxin Yang, Yi Yang.* <br>
 **Image Editing**, ReLER, CCAI, Zhejiang University & DBMI, HMS, Harvard University <br>
 NeurIPS 2025. [[PDF](https://arxiv.org/abs/2504.20690)]
+[[Conference](https://neurips.cc/virtual/2025/loc/san-diego/poster/119860)]
 [[Project](https://river-zhang.github.io/ICEdit-gh-pages/)]
 [[Github](https://github.com/River-Zhang/ICEdit)] <br>
 
@@ -5152,7 +5155,7 @@ TPAMI 2024. [[PDF](https://ieeexplore.ieee.org/abstract/document/10614866)]
 *Haofan Wang, Peng Xing, Renyuan Huang, Hao Ai, Qixun Wang, Xu Bai.* <br>
 **Image Style Transfer**, InstantX Team <br>
 arXiv 2024. [[PDF](https://arxiv.org/abs/2407.00788)]
-[[Project](instantstyle-plus.github.io)]
+[[Project](https://instantstyle-plus.github.io/)]
 [[Github](https://github.com/instantx-research/instantstyle-plus)] <br>
 
 **SAR to Optical Image Translation with Color Supervised Diffusion Model** <br>
@@ -5586,8 +5589,9 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2307.02421)]
 [[Github-2](https://github.com/stroopwafl/dragon_diffusion)] <br>
 
 **DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing** <br>
-*Yujun Shi, Chuhui Xue, Jiachun Pan, Wenqing Zhang, Vincent Y. F. Tan, Song Bai.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2306.14435)]
+*Yujun Shi, Chuhui Xue, Jun Hao Liew, Jiachun Pan, Hanshu Yan, Wenqing Zhang, Vincent Y. F. Tan, Song Bai.* <br>
+CVPR 2024. [[PDF](https://arxiv.org/abs/2306.14435)]
+[[Proceedings](https://openaccess.thecvf.com/content/CVPR2024/html/Shi_DragDiffusion_Harnessing_Diffusion_Models_for_Interactive_Point-based_Image_Editing_CVPR_2024_paper.html)]
 [[Github-1](https://github.com/Yujun-Shi/DragDiffusion)]
 [[Github-2](https://github.com/JiauZhang/DragDiffusion)] <br>
 
@@ -5706,7 +5710,8 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2302.06826)]
 
 **I$^2$SB: Image-to-Image Schrödinger Bridge** <br>
 *Guan-Horng Liu, Arash Vahdat, De-An Huang, Evangelos A. Theodorou, Weili Nie, Anima Anandkumar.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2302.05872)]
+ICML 2023. [[PDF](https://arxiv.org/abs/2302.05872)]
+[[Proceedings](https://proceedings.mlr.press/v202/liu23ai.html)]
 [[Project](https://i2sb.github.io/)]
 [[Github](https://github.com/NVlabs/I2SB)] <br>
 
@@ -5727,7 +5732,8 @@ ICCV 2023. [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cheng_Ge
 
 **MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** <br>
 *Omer Bar-Tal, Lior Yariv, Yaron Lipman, Tali Dekel.* <br>
-ICML 2023.[[PDF](https://openreview.net/pdf?id=D4ajVWmgLB)]
+ICML 2023. [[PDF](https://openreview.net/pdf?id=D4ajVWmgLB)]
+[[Proceedings](https://proceedings.mlr.press/v202/bar-tal23a.html)]
 [[Github](https://github.com/omerbt/MultiDiffusion)] <br>
 
 **InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models** <br>
@@ -5894,7 +5900,8 @@ arXiv 2021. [[PDF](https://arxiv.org/abs/2112.05149)]
 **Diffusion Autoencoders: Toward a Meaningful and Decodable Representation** <br>
 *Konpat Preechakul, Nattanat Chatthee, Suttisak Wizadwongsa, Supasorn Suwajanakorn* <br>
 **Base I2I Translation**, VISTEC <br>
-arXiv 2021. [[PDF](https://arxiv.org/abs/2111.15640)]
+CVPR 2022. [[PDF](https://arxiv.org/abs/2111.15640)]
+[[Proceedings](https://openaccess.thecvf.com/content/CVPR2022/html/Preechakul_Diffusion_Autoencoders_Toward_a_Meaningful_and_Decodable_Representation_CVPR_2022_paper.html)]
 [[Project](https://diff-ae.github.io/)]
 [[Github](https://github.com/phizaz/diffae)] <br>
 
