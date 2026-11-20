@@ -24,6 +24,7 @@ Selected papers on diffusion and flow models for image translation, editing, and
 
 ## 2026
 
+- [One-to-Many: Diverse and Bidirectional Image-to-Image Translation via Rectified Flow](https://arxiv.org/abs/2611.26058) · arXiv 2026
 - [Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition](https://openaccess.thecvf.com/content/CVPR2026/html/Yin_Qwen-Image-Layered_Towards_Inherent_Editability_via_Layer_Decomposition_CVPR_2026_paper.html) · CVPR 2026
 - [Learning an Image Editing Model without Image Editing Pairs](https://proceedings.iclr.cc/paper_files/paper/2026/hash/b4995cbd0b7f6a1a366ee65f9c4b02ac-Abstract-Conference.html) · ICLR 2026
 - [OmniGen2: Towards Instruction-Aligned Multimodal Generation](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_OmniGen2_Towards_Instruction-Aligned_Multimodal_Generation_CVPR_2026_paper.html) · CVPR 2026
@@ -74,6 +75,9 @@ Selected papers on diffusion and flow models for image translation, editing, and
 - [EditReward: A Human-Aligned Reward Model for Instruction-Guided Image Editing](https://proceedings.iclr.cc/paper_files/paper/2026/hash/4d68af3056842229f8b356d686aec914-Abstract-Conference.html) · ICLR 2026
 - [WorldEdit: Towards Open-World Image Editing with a Knowledge-Informed Benchmark](https://proceedings.iclr.cc/paper_files/paper/2026/hash/3b576711b12ab036b45130fc8eb78504-Abstract-Conference.html) · ICLR 2026
 - [HP-Edit: A Human-Preference Post-Training Framework for Image Editing](https://openaccess.thecvf.com/content/CVPR2026/html/Li_HP-Edit_A_Human-Preference_Post-Training_Framework_for_Image_Editing_CVPR_2026_paper.html) · CVPR 2026
+- [Amortized Guidance for Image Inpainting with Pretrained Diffusion Models](https://arxiv.org/abs/2605.13010) · NeurIPS 2026 (accepted)
+- [EarthBridge: A Solution for 4th Multi-modal Aerial View Image Challenge Translation Track](https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/Chen_EarthBridge_A_Solution_for_4th_Multi-modal_Aerial_View_Image_Challenge_CVPRW_2026_paper.html) · CVPR Workshops (PBVS) 2026
+- [Are Image-to-Video Models Good Zero-Shot Image Editors?](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Are_Image-to-Video_Models_Good_Zero-Shot_Image_Editors_CVPR_2026_paper.html) · CVPR 2026
 
 [Browse all papers →](papers/2026.md)
 
@@ -253,7 +257,7 @@ Selected papers on diffusion and flow models for image translation, editing, and
 - [BBDM: Image-to-image Translation with Brownian Bridge Diffusion Models](https://arxiv.org/abs/2205.07680) · 2022 preprint · CVPR 2023
 - [Pretraining is All You Need for Image-to-Image Translation](https://arxiv.org/abs/2205.12952) · arXiv 2022
 - [Unsupervised Medical Image Translation with Adversarial Diffusion Models](https://arxiv.org/abs/2207.08208) · 2022 preprint · IEEE TMI 2023
-- [Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance](https://arxiv.org/abs/2210.05559) · arXiv 2022
+- [A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image_ICCV_2023_paper.html) · 2022 preprint · ICCV 2023
 - [DiffFace: Diffusion-based Face Swapping with Facial Guidance](https://arxiv.org/abs/2212.13344) · 2022 preprint · Pattern Recognition 2025
 - [DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization](https://arxiv.org/abs/2211.10682) · 2022 preprint · IEEE TNNLS 2025
 - [MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation](https://arxiv.org/abs/2209.11047) · 2022 preprint · AAAI 2023

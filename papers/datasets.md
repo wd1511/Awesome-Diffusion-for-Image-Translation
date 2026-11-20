@@ -35,6 +35,7 @@ Prostate-MRI-US-Biopsy dataset [[Download1](https://www.cancerimagingarchive.net
 
 ### Style Transfer and Image Editing Benchmarks
 
+- EditSafetyBench (instruction-guided image editing safety, arXiv 2026) [[Paper](https://arxiv.org/abs/2611.26569)] <br>
 - ImgEdit and ImgEdit-Bench (NeurIPS 2025) [[Paper](https://papers.neurips.cc/paper_files/paper/2025/hash/bec783f119b969772c35243b1c801090-Abstract-Datasets_and_Benchmarks_Track.html)] <br>
 - HQ-Edit (ICLR 2025) [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/b639c526a942618f1dba2b7a5fa0bac0-Abstract-Conference.html)] <br>
 - KRIS-Bench (NeurIPS 2025) [[Paper](https://papers.neurips.cc/paper_files/paper/2025/hash/e619b285582fb12f4c3de3a507b8b99c-Abstract-Datasets_and_Benchmarks_Track.html)] <br>

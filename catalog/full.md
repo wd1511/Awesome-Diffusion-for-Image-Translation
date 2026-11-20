@@ -45,6 +45,7 @@ Prostate-MRI-US-Biopsy dataset [[Download1](https://www.cancerimagingarchive.net
 
 ### Style Transfer and Image Editing Benchmarks
 
+- EditSafetyBench (instruction-guided image editing safety, arXiv 2026) [[Paper](https://arxiv.org/abs/2611.26569)] <br>
 - ImgEdit and ImgEdit-Bench (NeurIPS 2025) [[Paper](https://papers.neurips.cc/paper_files/paper/2025/hash/bec783f119b969772c35243b1c801090-Abstract-Datasets_and_Benchmarks_Track.html)] <br>
 - HQ-Edit (ICLR 2025) [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/b639c526a942618f1dba2b7a5fa0bac0-Abstract-Conference.html)] <br>
 - KRIS-Bench (NeurIPS 2025) [[Paper](https://papers.neurips.cc/paper_files/paper/2025/hash/e619b285582fb12f4c3de3a507b8b99c-Abstract-Datasets_and_Benchmarks_Track.html)] <br>
@@ -129,6 +130,36 @@ Prostate-MRI-US-Biopsy dataset [[Download1](https://www.cancerimagingarchive.net
 - BRIDGE (2026; dataset release forthcoming) [[Paper](https://arxiv.org/abs/2611.13883)] [[Documentation](https://github.com/JAMielcarz/BRIDGE-dataset)] <br>
 
 ## 2026
+
+**Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs** <br>
+*Ziqing Yang, Yixin Wu, Michael Backes, Yang Zhang.* <br>
+**Image Editing Benchmark**, CISPA Helmholtz Center for Information Security & The Hong Kong University of Science and Technology (Guangzhou) & The Hong Kong University of Science and Technology <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.26569)] <br>
+
+**One-to-Many: Diverse and Bidirectional Image-to-Image Translation via Rectified Flow** <br>
+*Sho Shimotsumagari, Seiichi Uchida, Shumpei Takezaki.* <br>
+**Image-to-Image Translation**, Kyushu University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.26058)] <br>
+
+**Multi-View Transformer with Geometry-Guided Multi-Modal ControlNet for 3D Virtual Try-On** <br>
+*Sarthak Batra, Armin Mustafa, Adrian Hilton.* <br>
+**Virtual Try-On**, University of Surrey <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.25979)] <br>
+
+**Inject Where It Matters: Objective-Dependent Feature Control in Rectified-Flow Image Editing** <br>
+*Nina Goncharova, Alexandra Ivanova, Aibek Alanov.* <br>
+**Image Editing**, HSE University & FusionBrain Lab <br>
+NeurIPS 2026 PriGM Workshop (accepted poster). [[PDF](https://arxiv.org/abs/2611.25811)] <br>
+
+**TRACE: Attribute Execution for Sequential Image Editing** <br>
+*Xiyang Zhang, Yuanhe Tian, Hongzhi Wang, Yan Song.* <br>
+**Image Editing**, Harbin Institute of Technology & Zhongguancun Academy & Zhongguancun Institute of Artificial Intelligence & University of Science and Technology of China <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.25648)] <br>
+
+**TileCache: Serving Multi-Round Diffusion Image Editing with Compressed Activation Caches** <br>
+*Yuyang Tian, Desen Sun, Shuncheng Jie, Lishan Yang, Sihang Liu.* <br>
+**Image Editing**, University of Waterloo & George Mason University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.20246)] <br>
 
 **Beyond Resemblance: Image Fusion Reimagined** <br>
 *Hao Zhang, Yumin Huang, Linfeng Tang, Junjun Jiang, Jiayi Ma.* <br>
@@ -419,7 +450,7 @@ Dataset release through BioImage Archive is forthcoming.
 **Inversion-Free High-Dimensional Counterfactual Inference** <br>
 *Saketh Vishnubhatla, Pingchuan Ma, Shu Wan, Alimohammad Beigi, Andre Harrison, Adrienne Raglin, Huan Liu.* <br>
 **Image Editing**, Arizona State University & DEVCOM Army Research Laboratory <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2611.12815)] <br>
+arXiv 2026 (accepted at IEEE BigData 2026). [[PDF](https://arxiv.org/abs/2611.12815)] <br>
 
 **DynOLAT: OLAT Video Prediction for Controllable Dynamic Full-Body Relighting** <br>
 *Taoming Liu, Yinji ShenTu, Guangzhao He, Yudong Jin, Yukang Ye, Siyu Zhang, Fan Jia, Wei Hua, Hujun Bao, Xiaowei Zhou.* <br>
@@ -454,7 +485,7 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2611.10070)] <br>
 **VLM as an Editing Pilot: VLM-Steered Velocity Control for Flow-Based Image Editing** <br>
 *Kuan-Shen Chiu, Jia-Wei Liao, Yu-Chieh Chao, Li-Xuan Peng, Wei-Yun Ma, Cheng-Fu Chou.* <br>
 **Image Editing**, National Taiwan University & University of California, Davis & National Tsinghua University & Academia Sinica <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2611.10066)]
+arXiv 2026 (accepted at WACV 2027). [[PDF](https://arxiv.org/abs/2611.10066)]
 [[Github](https://github.com/Kuanshen77/V2C-Edit)] <br>
 
 **Covariate-Conditioned One-Step Diffusion for Multi-Horizon 3D Brain MRI Prediction in Aging and Neurodegeneration** <br>
@@ -1031,7 +1062,8 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2610.09382)] <br>
 **Zero-Shot Brain MRI Inpainting with 2.5D Unconditional Flow Priors** <br>
 *Arnela Hadzic, Franz Thaler, Simon Johannes Joham, Martin Urschler.* <br>
 **Medical Image Translation**, Institute for Medical Informatics, Statistics and Documentation, Medical University of Graz, Graz, Austria <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2610.08983)]
+MICCAI 2026 BraTS Inpainting Challenge. [[PDF](https://arxiv.org/abs/2610.08983)]
+[[Challenge paper](https://papers.miccai.org/miccai-2026-sat/BraTS_Inpainting_003.html)]
 [[Github](https://github.com/imigraz/brats2026-inpainting)] <br>
 
 **Local Content-Style Control for Diffusion-based Image Stylization** <br>
@@ -2086,7 +2118,8 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2608.08555)] <br>
 **Compositional Cross-Modality Translation via Whole-Volume Multitask Latent Flow Matching** <br>
 *Daniele Molino, Alessio Zoboli, Camillo Maria Caruso, Valerio Guarrasi, Paolo Soda.* <br>
 **Medical Image Translation**, Unit of Artificial Intelligence and Computer Systems, Department of Engineering, Università Campus Bio-Medico di Roma, Rome, Italy & UniCamillus – Saint Camillus International University of Health Sciences, Rome, Italy & Department of Diagnostics and Intervention, Biomedical Engineering and Radiation Physics, Umeå University, Umeå, Sweden <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2608.08135)]
+MICCAI Workshops (SASHIMI) 2026. [[PDF](https://arxiv.org/abs/2608.08135)]
+[[Workshop paper](https://papers.miccai.org/miccai-2026-sat/SASHIMI_006.html)]
 [[Github](https://github.com/arco-group/Whole-Volume-Latent-FM)] <br>
 
 **Staying True to the Origin: Continuous Image Stylization with Smooth Transitions** <br>
@@ -2282,7 +2315,8 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2606.15323)] <br>
 **Conditioning Matters: Stabilizing Inversion and Attention in Diffusion Image Editing** <br>
 *Zheyuan Zhan, Hongchen Li, Can Wang, Yinfei Ma, Mingzhen Huang, Ruoshi Bai, Jiawei Chen, Siwei Lyu, Defang Chen.* <br>
 **Image Editing**, HangZhou High-Tech Zong (Binjiang) Institute of Blockchain and Data Security & College of Computer Science, Zhejiang University & State Key Laboratory of Blockchain and Data Security, Zhejiang University & University at Buffalo, State University of New York <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2606.14125)]
+ECML PKDD 2026. [[PDF](https://arxiv.org/abs/2606.14125)]
+[[Proceedings](https://doi.org/10.1007/978-3-032-37657-2_22)]
 [[Github](https://github.com/zju-pi/SimEdit)] <br>
 
 **HiLo-Token: Input-Adaptive High-Low Frequency Token Compression for Efficient Image Editing Model Serving** <br>
@@ -2442,7 +2476,8 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2605.01480)] <br>
 **SIFT-VTON: Geometric Correspondence Supervision on Cross-Attention for Virtual Try-On** <br>
 *Kosuke Takemoto, Takafumi Koshinaka.* <br>
 **Virtual Try-On**, The Graduate School of Data Science, Yokohama City University, Kanagawa, Japan <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2605.01296)]
+ICPR 2026. [[PDF](https://arxiv.org/abs/2605.01296)]
+[[Proceedings](https://doi.org/10.1007/978-3-032-31673-8_31)]
 [[Github](https://github.com/takesukeDS/SIFT-VTON)] <br>
 
 **ScribbleEdit: Synthetic Data for Image Editing with Scribbles and Text** <br>
@@ -2559,7 +2594,8 @@ NeurIPS 2026. [[PDF](https://arxiv.org/abs/2604.08364)]
 **HistDiT: A Structure-Aware Latent Conditional Diffusion Model for High-Fidelity Virtual Staining in Histopathology** <br>
 *Aasim Bin Saleem, Amr Ahmed, Ardhendu Behera, Hafeezullah Amin, Iman Yi Liao, Mahmoud Khattab, Pan Jia Wern, Haslina Makmur.* <br>
 **Virtual Staining**, Edge Hill University, Ormskirk, L39 4QP, United Kingdom & University of Nottingham Malaysia, & Semenyih, Malaysia & University of Southampton Malaysia, & Iskandar Puteri, Malaysia & Cancer Research Malaysia,, & Subang Jaya, Malaysia <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2604.08305)]
+ICPR 2026. [[PDF](https://arxiv.org/abs/2604.08305)]
+[[Proceedings](https://doi.org/10.1007/978-3-032-31927-2_28)]
 [[Github](https://github.com/AasimBinSaleem/HistDiT)] <br>
 
 **Leveraging Image Editing Foundation Models for Data-Efficient CT Metal Artifact Reduction** <br>
@@ -2834,7 +2870,8 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2602.01805)] <br>
 **Neural Clothing Tryer: Customized Virtual Try-On via Semantic Enhancement and Controlling Diffusion Model** <br>
 *Zhijing Yang, Weiwei Zhang, Mingliang Yang, Siyuan Peng, Yukai Shi, Junpeng Tan, Tianshui Chen, Liruo Zhong.* <br>
 **Virtual Try-On** <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2601.22838)] <br>
+Expert Systems with Applications 2026. [[PDF](https://arxiv.org/abs/2601.22838)]
+[[Journal](https://doi.org/10.1016/j.eswa.2026.131390)] <br>
 
 **OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation** <br>
 *Jin Li, Tao Chen, Kai Wen, Siqi Yin, Shuai Jiang, Weijie Wang, Jingwen Luo, Chenhui Wu.* <br>
@@ -2846,7 +2883,8 @@ NeurIPS 2026. [[PDF](https://arxiv.org/abs/2601.22725)]
 **Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration** <br>
 *Luwei Tu, Jiawei Wu, Xing Luo, Zhi Jin.* <br>
 **Image Restoration**, School of Intelligent Systems Engineering, Shenzhen Campus of Sun Yat-sen University, Shenzhen, Guangdong 518107, China & Department of Frontier Research, Peng Cheng Laboratory, Shenzhen, Guangdong 518055, China & Guangdong Provincial Key Laboratory of Fire Science and Technology, Guangzhou 510006, China <br>
-arXiv 2026. [[PDF](https://arxiv.org/abs/2601.21592)]
+ICML 2026. [[PDF](https://arxiv.org/abs/2601.21592)]
+[[Proceedings](https://proceedings.mlr.press/v306/tu26d.html)]
 [[Github](https://github.com/Jabruson/UDBM)] <br>
 
 **TeleStyle: Content-Preserving Style Transfer in Images and Videos** <br>
@@ -3228,6 +3266,38 @@ ECCV 2026. [[PDF](https://arxiv.org/abs/2510.05081)]
 ECCV 2026. [[PDF](https://arxiv.org/abs/2509.26641)]
 [[Conference](https://eccv.ecva.net/virtual/2026/poster/3482)] <br>
 
+**Amortized Guidance for Image Inpainting with Pretrained Diffusion Models** <br>
+*Yilie Huang, Xun Yu Zhou.* <br>
+**Image Inpainting**, Columbia University <br>
+NeurIPS 2026 (accepted). [[PDF](https://arxiv.org/abs/2605.13010)]
+[[Conference](https://neurips.cc/virtual/2026/poster/152907)] <br>
+
+**Improving Diffusion Posterior Samplers with Lagged Temporal Corrections for Image Restoration** <br>
+*Davide Evangelista, Elena Morotti, Francesco Pivi, Maurizio Gabbrielli.* <br>
+**Image Restoration**, University of Bologna <br>
+NeurIPS 2026 (accepted). [[PDF](https://arxiv.org/abs/2605.12573)]
+[[Conference](https://neurips.cc/virtual/2026/poster/151348)] <br>
+
+**RSEdit: Text-Guided Image Editing for Remote Sensing** <br>
+*Zhenyuan Chen, Zechuan Zhang, Feng Zhang.* <br>
+**Image Editing**, Zhejiang University <br>
+IEEE Geoscience and Remote Sensing Letters 2026. [[PDF](https://arxiv.org/abs/2603.13708)]
+[[DOI](https://doi.org/10.1109/LGRS.2026.3695484)]
+[[GitHub](https://github.com/Bili-Sakura/RSEdit-Preview)] <br>
+
+**EarthBridge: A Solution for 4th Multi-modal Aerial View Image Challenge Translation Track** <br>
+*Zhenyuan Chen, Yuanshen Guan, Feng Zhang.* <br>
+**Cross-modal Image Translation**, Zhejiang University & University of Science and Technology of China <br>
+CVPR Workshops (PBVS) 2026. [[Proceedings](https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/Chen_EarthBridge_A_Solution_for_4th_Multi-modal_Aerial_View_Image_Challenge_CVPRW_2026_paper.html)]
+[[PDF](https://arxiv.org/abs/2603.06753)]
+[[GitHub](https://github.com/Bili-Sakura/EarthBridge-Preview)] <br>
+
+**Are Image-to-Video Models Good Zero-Shot Image Editors?** <br>
+*Zechuan Zhang, Zhenyuan Chen, Zongxin Yang, Yi Yang.* <br>
+**Image Editing**, Zhejiang University & Harvard University <br>
+CVPR 2026. [[Proceedings](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Are_Image-to-Video_Models_Good_Zero-Shot_Image_Editors_CVPR_2026_paper.html)]
+[[PDF](https://arxiv.org/abs/2511.19435)] <br>
+
 ## 2025
 
 **ShoeFit: A New Dataset and Dual-image-stream DiT Framework for Virtual Footwear Try-On** <br>
@@ -3264,7 +3334,8 @@ IJCB 2025. [[PDF](https://arxiv.org/abs/2512.21032)] <br>
 **Plasticine: A Traceable Diffusion Model for Medical Image Translation** <br>
 *Tianyang Zhang, Xinxing Cheng, Jun Cheng, Shaoming Zheng, He Zhao, Huazhu Fu, Alejandro F Frangi, Jiang Liu, Jinming Duan.* <br>
 **Medical Image Translation** <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2512.18455)] <br>
+IEEE Transactions on Artificial Intelligence 2026. [[PDF](https://arxiv.org/abs/2512.18455)]
+[[Journal](https://doi.org/10.1109/TAI.2025.3647595)] <br>
 
 **ContextDrag: Precise Drag-Based Image Editing via Context-Preserving Token Injection and Position-Aligned Attention** <br>
 *Huiguo He, Pengyu Yan, Ziqi Yi, Weizhi Zhong, Zheng Liu, Yejun Tang, Huan Yang, Guanbin Li, Lianwen Jin.* <br>
@@ -3274,7 +3345,8 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2512.08477)] <br>
 **DirectDrag: High-Fidelity, Mask-Free, Prompt-Free Drag-based Image Editing via Readout-Guided Feature Alignment** <br>
 *Sheng-Hao Liao, Shang-Fu Chen, Tai-Ming Huang, Wen-Huang Cheng, Kai-Lung Hua.* <br>
 **Image Editing**, National Taiwan University of Science and Technology & National Taiwan University & Microsoft Taiwan <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2512.03981)]
+WACV 2026. [[PDF](https://arxiv.org/abs/2512.03981)]
+[[Proceedings](https://openaccess.thecvf.com/content/WACV2026/html/Liao_DirectDrag_High-Fidelity_Mask-Free_Prompt-Free_Drag-based_Image_Editing_via_Readout-Guided_Feature_WACV_2026_paper.html)]
 [[Project](https://frakw.github.io/DirectDrag/)]
 [[Github](https://github.com/frakw/DirectDrag)] <br>
 
@@ -3378,16 +3450,18 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2510.16888)]
 [[Github](https://github.com/PKU-YuanGroup/Uniworld)]
 [[Model](https://huggingface.co/collections/chestnutlzj/edit-r1-68dc3ecce74f5d37314d59f4)] <br>
 
-**Diffusion Bridge Networks Simulate Clinical-grade PET from MRI for Dementia Diagnostics** <br>
-*Yitong Li, Ralph Buchert, Benita Schmitz-Koep, Timo Grimmer, Björn Ommer, Dennis M. Hedderich, Igor Yakushev, Christian Wachinger.* <br>
+**Diffusion bridge networks simulate clinical-grade PET from MRI for dementia diagnostics: a retrospective cohort study** <br>
+*Yitong Li, Ralph Buchert, Benita Schmitz-Koep, Timo Grimmer, Björn Ommer, Dennis M. Hedderich, Igor Yakushev, Christian Wachinger, Alzheimer’s Disease Neuroimaging Initiative, Japanese Alzheimer’s Disease Neuroimaging Initiative.* <br>
 **Medical Image Translation**, Lab for AI in Medical Imaging, Institute for Diagnostic and Interventional Radiology, School of Medicine and Health, Technical University of Munich (TUM), Munich, 81675, Germany & Munich Center for Machine Learning (MCML), Munich, Germany & Department of Nuclear Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, 20246, Germany & Department of Neuroradiology, TUM University Hospital, School of Medicine and Health, Munich, 81675, Germany & Department of Neurology, TUM University Hospital, School of Medicine and Health, Munich, 81675, Germany & CompVis, Ludwig-Maximilians-University Munich (LMU), Munich, 80539, Germany & Department of Nuclear Medicine, TUM University Hospital, School of Medicine and Health, Munich, 81675, Germany <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2510.15556)]
+The Lancet Medical Imaging & Theranostics 2026 (online). [[PDF](https://arxiv.org/abs/2510.15556)]
+[[Journal](https://doi.org/10.1016/j.lanmit.2026.100021)]
 [[Github](https://github.com/Yiiitong/SiM2P)] <br>
 
-**Generating healthy counterfactuals with denoising diffusion bridge models** <br>
-*Ana Lawry Aguila, Peirong Liu, Marina Crespo Aguirre, Juan Eugenio Iglesias.* <br>
+**Healthy Counterfactual Generation with Denoising Diffusion Bridge Models** <br>
+*Ana Lawry Aguila, Marina Crespo Aguirre, Peirong Liu, Juan Eugenio Iglesias.* <br>
 **Medical Image Translation**, Athinoula A. Martinos Center for Biomedical ImagingMassachusetts General Hospital and Harvard Medical School, Boston, USA & ETH Zurich, Zurich, Switzerland & Computer Science & Artificial Intelligence LabMassachusetts Institute of Technology, Boston, USA & Hawkes Institute, University College London, London, UK <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2510.13684)] <br>
+ISBI 2026. [[PDF](https://arxiv.org/abs/2510.13684)]
+[[Proceedings](https://doi.org/10.1109/ISBI61048.2026.11515608)] <br>
 
 **SceneTextStylizer: A Training-Free Scene Text Style Transfer Framework with Diffusion Model** <br>
 *Honghui Yuan, Keiji Yanai.* <br>
@@ -3558,7 +3632,8 @@ ICCV 2025 Workshops (Retail Vision). [[PDF](https://arxiv.org/abs/2508.12131)] <
 **SPG: Style-Prompting Guidance for Style-Specific Content Creation** <br>
 *Qian Liang, Zichong Chen, Yang Zhou, Hui Huang.* <br>
 **Image Style Transfer** <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2508.11476)]
+Computer Graphics Forum 2025 (Pacific Graphics). [[PDF](https://arxiv.org/abs/2508.11476)]
+[[Journal](https://doi.org/10.1111/cgf.70251)]
 [[Github](https://github.com/Rumbling281441/SPG)] <br>
 
 **MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers** <br>
@@ -3605,7 +3680,8 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2508.02807)]
 **Optimal Transport for Rectified Flow Image Editing: Unifying Inversion-Based and Direct Methods** <br>
 *Marian Lupascu, Mihai-Sorin Stupariu.* <br>
 **Image Editing**, University of Bucharest <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2508.02363)]
+WACV 2026. [[PDF](https://arxiv.org/abs/2508.02363)]
+[[Proceedings](https://openaccess.thecvf.com/content/WACV2026/html/Lupascu_Optimal_Transport_for_Rectified_Flow_Image_Editing_Unifying_Inversion-Based_and_WACV_2026_paper.html)]
 [[Github](https://github.com/marianlupascu/OT-RF)] <br>
 
 **Qwen-Image Technical Report** <br>
@@ -3651,10 +3727,11 @@ ICCV 2025. [[PDF](https://arxiv.org/abs/2507.15037)]
 [[Proceedings](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_OmniVTON_Training-Free_Universal_Virtual_Try-On_ICCV_2025_paper.html)]
 [[Github](https://github.com/Jerome-Young/OmniVTON)] <br>
 
-**Human-Guided Shade Artifact Suppression in CBCT-to-MDCT Translation via Schrödinger Bridge with Conditional Diffusion** <br>
+**Human-Guided Shading Artifact Suppression in CBCT-to-MDCT Translation via Schrödinger Bridge with Conditional Diffusion** <br>
 *Sung Ho Kang, Hyun-Cheol Park.* <br>
 **Medical Image Translation**, National Institute for Mathematical Sciences, Yuseong-gu, Daejeon 34047, Republic of Korea & Department of Computer Engineering, Korea National University of TransportationChungju-si, Chungcheongbuk-do 27469, Republic of Korea <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2507.11025)] <br>
+IEEE Transactions on Radiation and Plasma Medical Sciences 2026. [[PDF](https://arxiv.org/abs/2507.11025)]
+[[Journal](https://doi.org/10.1109/TRPMS.2026.3663178)] <br>
 
 **When Schrodinger Bridge Meets Real-World Image Dehazing with Unpaired Training** <br>
 *Yunwei Lan, Zhigao Cui, Xin Luo, Chang Liu, Nian Wang, Menglin Zhang, Yanzhao Su, Dong Liu.* <br>
@@ -3735,12 +3812,14 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2506.19103)]
 **GANs vs. Diffusion Models for virtual staining with the HER2match dataset** <br>
 *Pascal Klöckner, José Teixeira, Diana Montezuma, Jaime S. Cardoso, Hugo M. Horlings, Sara P. Oliveira.* <br>
 **Virtual Staining**, The Netherlands Cancer Institute, Amsterdam, The Netherlands & Faculty of Engineering, University of Porto, Porto, Portugal & IMP Diagnostics, Porto, Portugal <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2506.18484)] <br>
+MICCAI Workshops (DGM4MICCAI) 2025. [[PDF](https://arxiv.org/abs/2506.18484)]
+[[Proceedings](https://doi.org/10.1007/978-3-032-05472-2_12)] <br>
 
 **CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing** <br>
 *Dinh-Khoi Vo, Thanh-Toan Do, Tam V. Nguyen, Minh-Triet Tran, Trung-Nghia Le.* <br>
 **Image Editing**, University of Science, VNU-HCM & Monash University & University of Dayton <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2506.18438)]
+IEEE Transactions on Multimedia 2026. [[PDF](https://arxiv.org/abs/2506.18438)]
+[[Journal](https://doi.org/10.1109/TMM.2026.3724743)]
 [[Project](https://vdkhoi20.github.io/CPAM)] <br>
 
 **FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space** <br>
@@ -3907,7 +3986,8 @@ CVIDL 2025. [[PDF](https://arxiv.org/abs/2505.16001)] <br>
 **Leveraging the Powerful Attention of a Pre-trained Diffusion Model for Exemplar-based Image Colorization** <br>
 *Satoshi Kosugi.* <br>
 **Image Colorization**, Institute of Science Tokyo <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2505.15812)]
+IEEE Transactions on Circuits and Systems for Video Technology 2025. [[PDF](https://arxiv.org/abs/2505.15812)]
+[[Journal](https://doi.org/10.1109/TCSVT.2025.3573401)]
 [[Github](https://github.com/satoshi-kosugi/powerful-attention)] <br>
 
 **Emerging Properties in Unified Multimodal Pretraining** <br>
@@ -3935,7 +4015,8 @@ ICML 2025. [[PDF](https://arxiv.org/abs/2505.12427)]
 **Don't Forget your Inverse DDIM for Image Editing** <br>
 *Guillermo Gomez-Trenado, Pablo Mesejo, Oscar Cordón, Stéphane Lathuilière.* <br>
 **Image Editing**, University of Granada and DaSCI Research Institute, Granada 18014, Spain & Panacea Cooperative Research, Ponferrada 24402, Spain & Inria at University Grenoble Alpes, Montbonnot-Saint-Martin, 38330, France <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2505.09571)]
+IEEE Computational Intelligence Magazine 2025. [[PDF](https://arxiv.org/abs/2505.09571)]
+[[Journal](https://doi.org/10.1109/MCI.2025.3563859)]
 [[Project](https://guillermogotre.github.io/sage/)] <br>
 
 **IntrinsicEdit: Precise generative image manipulation in intrinsic space** <br>
@@ -3970,7 +4051,8 @@ NeurIPS 2025. [[PDF](https://arxiv.org/abs/2504.20690)]
 **REED-VAE: RE-Encode Decode Training for Iterative Image Editing with Diffusion Models** <br>
 *Gal Almog, Ariel Shamir, Ohad Fried.* <br>
 **Image Editing**, Reichman University <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2504.18989)]
+Computer Graphics Forum 2025 (Eurographics). [[PDF](https://arxiv.org/abs/2504.18989)]
+[[Journal](https://doi.org/10.1111/cgf.70020)]
 [[Github](https://github.com/galmog/REED-VAE)]
 [[Project](https://reed-vae.github.io/)] <br>
 
@@ -4287,7 +4369,8 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2501.19331)] <br>
 **ITVTON: Virtual Try-On Diffusion Transformer Based on Integrated Image and Text** <br>
 *Haifeng Ni, Ming Xu.* <br>
 **Virtual Try-On**, School of Software Engineering, East China Normal University, Shanghai, China <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2501.16757)] <br>
+PRCV 2025. [[PDF](https://arxiv.org/abs/2501.16757)]
+[[Proceedings](https://doi.org/10.1007/978-981-95-5679-3_32)] <br>
 
 **Fully Guided Neural Schrödinger bridge for Brain MR image synthesis** <br>
 *Hanyeol Yang, Sunggyu Kim, Mi Kyung Kim, Yongseon Yoo, Yu-Mi Kim, Min-Ho Shin, Insung Chung, Sang Baek Koh, Hyeon Chang Kim, Jong-Min Lee.* <br>
@@ -4297,7 +4380,8 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2501.14171)] <br>
 **LLM-guided Instance-level Image Manipulation with Diffusion U-Net Cross-Attention Maps** <br>
 *Andrey Palaev, Adil Khan, Syed M. Ahsan Kazmi.* <br>
 **Image Editing**, AIDecisions, SW20 ODS, London, UK & School of Computer Science, University of Hull, HU6 7RX, Hull, UK & Department of Computer Science, University of the West of England, BS16 1QY, Bristol, UK <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2501.14046)]
+BMVC 2024. [[PDF](https://arxiv.org/abs/2501.14046)]
+[[Proceedings](https://bmvc2024.org/proceedings/457/)]
 [[Github](https://github.com/Palandr123/DiffusionU-NetLLM)] <br>
 
 **CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation** <br>
@@ -4702,12 +4786,14 @@ arXiv 2025. [[PDF](https://arxiv.org/abs/2502.02475)]
 **Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion** <br>
 *Ludovica Schaerf, Andrea Alfarano, Fabrizio Silvestri, Leonardo Impett.* <br>
 **Image Style Transfer**, Max Planck Society University of Zurich Zurich <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2501.14524)] <br>
+arXiv 2025 (CVEU Workshop poster at CVPR 2025). [[PDF](https://arxiv.org/abs/2501.14524)]
+[[Presentation record](https://ludovicaschaerf.github.io/portfolio/publications/)] <br>
 
 **Generating Realistic Forehead-Creases for User Verification via Conditioned Piecewise Polynomial Curves** <br>
 *Abhishek Tandon, Geetanjali Sharma, Gaurav Jaswal, Aditya Nigam, Raghavendra Ramachandra.* <br>
 **Base I2I Translation**, Indian Institute of Technology Mandi <br>
-arXiv 2025. [[PDF](https://arxiv.org/abs/2501.13889)] <br>
+WACV Workshops 2025. [[PDF](https://arxiv.org/abs/2501.13889)]
+[[Proceedings](https://doi.org/10.1109/WACVW65960.2025.00155)] <br>
 
 **AMM-Diff: Adaptive Multi-Modality Diffusion Network for Missing Modality Imputation** <br>
 *Aghiles Kebaili, Jérôme Lapuyade-Lahorgue, Pierre Vera, Su Ruan.* <br>
@@ -4818,7 +4904,8 @@ ECCV 2024 Workshops (AI4VA). [[PDF](https://arxiv.org/abs/2506.20155)] <br>
 **EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM** <br>
 *Zhuofan Zong, Dongzhi Jiang, Bingqi Ma, Guanglu Song, Hao Shao, Dazhong Shen, Yu Liu, Hongsheng Li.* <br>
 **Image Style Transfer**, CUHK MMLab SenseTime Research Shanghai AI Laboratory <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2412.09618)]
+ICML 2025. [[PDF](https://arxiv.org/abs/2412.09618)]
+[[Proceedings](https://proceedings.mlr.press/v267/zong25a.html)]
 [[Project](https://easyref-gen.github.io/)] <br>
 
 **UniVST: A Unified Framework for Training-free Localized Video Style Transfer** <br>
@@ -4864,13 +4951,15 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2405.15287)] <br>
 **Customizing Text-to-Image Models with a Single Image Pair** <br>
 *Maxwell Jones, Sheng-Yu Wang, Nupur Kumari, David Bau, Jun-Yan Zhu.* <br>
 **Image Style Transfer**, Carnegie Mellon University & Northeastern University <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2405.01536)]
+SIGGRAPH Asia 2024. [[PDF](https://arxiv.org/abs/2405.01536)]
+[[Proceedings](https://doi.org/10.1145/3680528.3687642)]
 [[Project](https://paircustomization.github.io/)] <br>
 
 **StyleBooth: Image Style Editing with Multimodal Instruction** <br>
 *Zhen Han, Chaojie Mao, Zeyinzi Jiang, Yulin Pan, Jingfeng Zhang.* <br>
 **Image Style Transfer**, Tongyi Lab, Alibaba Group <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2404.12154)]
+ICCV Workshops (HiGen) 2025. [[PDF](https://arxiv.org/abs/2404.12154)]
+[[Proceedings](https://openaccess.thecvf.com/content/ICCV2025W/HiGen/html/Han_StyleBooth_Image_Style_Editing_with_Multimodal_Instruction_ICCVW_2025_paper.html)]
 [[Project](https://ali-vilab.github.io/stylebooth-page/)] <br>
 
 **Break-for-Make: Modular Low-Rank Adaptations for Composable Content-Style Customization** <br>
@@ -5082,12 +5171,14 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2409.02429)] <br>
 **Seed-to-Seed: Unpaired Image Translation in Diffusion Seed Space** <br>
 *Or Greenberg, Eran Kishon, Dani Lischinski.* <br>
 **Base I2I Translation**, The Hebrew University of Jerusalem & GM R&D <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2409.00654)] <br>
+BMVC 2025. [[PDF](https://arxiv.org/abs/2409.00654)]
+[[Proceedings](https://bmvc2025.bmva.org/proceedings/154/)] <br>
 
 **JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet** <br>
 *Yujia Gu, Haofeng Li, Xinyu Fang, Zihan Peng, Yinan Peng.* <br>
 **Image Style Transfer**, California State University et al. <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.11744)] <br>
+ICCSMT 2024. [[PDF](https://arxiv.org/abs/2408.11744)]
+[[Proceedings](https://doi.org/10.1145/3708036.3708097)] <br>
 
 **FAGStyle: Feature Augmentation on Geodesic Surface for Zero-shot Text-guided Diffusion Image Style Transfer** <br>
 *Yuexing Han, Liheng Ruan, Bing Wang.* <br>
@@ -5098,7 +5189,8 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2408.10533)]
 **SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models** <br>
 *Danush Kumar Venkatesh, Dominik Rivoir, Micha Pfeiffer, Stefanie Speidel.* <br>
 **Medical Image Translation**, NCT/UCC Dresden et al. <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09822)]
+ECCV 2024 Workshops (Synthetic Data for Computer Vision). [[PDF](https://arxiv.org/abs/2408.09822)]
+[[Proceedings](https://doi.org/10.1007/978-3-031-91907-7_13)]
 [[Github](https://gitlab.com/nct_tso_public/gan2diffusion)] <br>
 
 **Unpaired Volumetric Harmonization of Brain MRI with Conditional Latent Diffusion** <br>
@@ -5110,13 +5202,15 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2408.09315)]
 **Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation** <br>
 *Seon-Hoon Kim, Dae-won Chung.* <br>
 **SAR Image Translation**, Korea National University of Science and Technology et al. <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.07947)]
+IEEE Geoscience and Remote Sensing Letters 2025. [[PDF](https://arxiv.org/abs/2408.07947)]
+[[Journal](https://doi.org/10.1109/LGRS.2025.3562401)]
 [[Github](https://github.com/egshkim/ConditionalBBDM-for-VHR-SAR-to-Optical)] <br>
 
 **D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** <br>
 *Onkar Susladkar, Gayatri Deshmukh, Sparsh Mittal, Parth Shastri.* <br>
 **Image Style Transfer**, Indian Institute of Technology et al. <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.03558)]
+ICPR 2024. [[PDF](https://arxiv.org/abs/2408.03558)]
+[[Proceedings](https://doi.org/10.1007/978-3-031-78172-8_5)]
 [[Github](https://github.com/onkarsus13/d2styler)] <br>
 
 **FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning** <br>
@@ -5257,7 +5351,8 @@ Medical Image Analysis 2025. [[PDF](http://arxiv.org/abs/2405.06789v1)]
 **F2FLDM: Latent Diffusion Models with Histopathology Pre-Trained Embeddings for Unpaired Frozen Section to FFPE Translation** <br>
 *Man M. Ho, Shikha Dubey, Yosep Chong, Beatrice Knudsen, Tolga Tasdizen.* <br>
 **Medical Image Translation**, University of Utah & The Catholic University of Korea College of Medicine <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2404.12650)]
+WACV 2025. [[PDF](https://arxiv.org/abs/2404.12650)]
+[[Proceedings](https://openaccess.thecvf.com/content/WACV2025/html/Ho_F2FLDM_Latent_Diffusion_Models_with_Histopathology_Pre-Trained_Embeddings_for_Unpaired_WACV_2025_paper.html)]
 [[Github](https://github.com/minhmanho/f2f_ldm)]
 [[Project](https://minhmanho.github.io/f2f_ldm/)] <br>
 
@@ -5267,10 +5362,11 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2404.12650)]
 IJCAI 2024. [[PDF](https://arxiv.org/abs/2404.11474)]
 [[Github](https://github.com/jamie-cheung/lsast)] <br>
 
-**Multi-Sensor Diffusion-Driven Optical Image Translation for Large-Scale Applications** <br>
+**Multisensor Diffusion-Driven Optical Image Translation for Large-Scale Applications** <br>
 *Joao Gabriel Vinholi, Marco Chini, Anis Amziane, Renato Machado, Danilo Silva, Patrick Matgen.* <br>
 **Base I2I Translation**, Luxembourg Institute of Science and Technology <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2404.11243)] <br>
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2025. [[PDF](https://arxiv.org/abs/2404.11243)]
+[[Journal](https://doi.org/10.1109/JSTARS.2024.3506032)] <br>
 
 **MultiColor: Image Colorization by Learning from Multiple Color Spaces** <br>
 *Xiangcheng Du, Zhao Zhou, Xingjiao Wu, Yanlong Wang, Zhuoyao Wang, Yingbin Zheng, Cheng Jin.* <br>
@@ -5547,7 +5643,8 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2308.16490)] <br>
 
 **ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer** <br>
 *Zachary Horvitz, Ajay Patel, Chris Callison-Burch, Zhou Yu and Kathleen McKeown.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2308.15459)]
+AAAI 2024. [[PDF](https://arxiv.org/abs/2308.15459)]
+[[Proceedings](https://ojs.aaai.org/index.php/AAAI/article/view/29780)]
 [[Github](https://github.com/zacharyhorvitz/ParaGuide)] <br>
 
 **Textual and Visual Prompt Fusion for Image Editing via Step-Wise Alignment** <br>
@@ -5647,11 +5744,13 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2306.04396)]
 
 **Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge** <br>
 *Wenhao Guan, Tao Li, Yishuang Li, Hukai Huang, Qingyang Hong, Lin Li.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2306.04301)] <br>
+Interspeech 2023. [[PDF](https://arxiv.org/abs/2306.04301)]
+[[Proceedings](https://doi.org/10.21437/Interspeech.2023-1151)] <br>
 
 **Fine-grained Text Style Transfer with Diffusion-Based Language Models** <br>
 *Yiwei Lyu, Tiange Luo, Jiacheng Shi, Todd C. Hollon, Honglak Lee.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2305.19512)]
+ACL Workshops (RepL4NLP) 2023. [[PDF](https://arxiv.org/abs/2305.19512)]
+[[Proceedings](https://aclanthology.org/2023.repl4nlp-1.6/)]
 [[Github](https://github.com/lvyiwei1/diffuseq_styleptb)] <br>
 
 **DiffSketching: Sketch Control Image Synthesis with Diffusion Models** <br>
@@ -5880,9 +5979,11 @@ IEEE TNNLS 2025. [[PDF](https://arxiv.org/abs/2211.10682)]
 *Yueqin Yin, Lianghua Huang, Yu Liu, Kaiqi Huang.* <br>
 CSAI 2022. [[PDF](https://arxiv.org/abs/2210.08573)] <br>
 
-**Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance** <br>
+**A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance** <br>
 *Chen Henry Wu, Fernando De la Torre.* <br>
-arXiv 2022. [[PDF](https://arxiv.org/abs/2210.05559)]
+ICCV 2023. [[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image_ICCV_2023_paper.pdf)]
+[[Original preprint](https://arxiv.org/abs/2210.05559)] (original title: Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance)
+[[Proceedings](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image_ICCV_2023_paper.html)]
 [[Github-1](https://github.com/ChenWu98/cycle-diffusion)]
 [[Github-2](https://github.com/ChenWu98/unified-generative-zoo)] <br>
 
