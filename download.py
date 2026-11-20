@@ -1,10 +1,11 @@
 import os
 import re
-import requests
-import subprocess
+from pathlib import Path
 
-# 读取Markdown文件
-markdown_file = "README.md"
+import requests
+
+# 读取完整论文清单
+markdown_file = Path(__file__).with_name("PAPERS.md")
 
 # 创建一个目录来保存下载的PDF文件
 output_directory = "pdf_downloads"
@@ -14,9 +15,8 @@ os.makedirs(output_directory, exist_ok=True)
 with open(markdown_file, "r", encoding="utf-8") as f:
     markdown_content = f.read()
 
-# 使用正则表达式查找包含 "PDF" 文字的超链接
-pdf_links = re.findall(r"\[.*PDF.*\]\((.*?)\)", markdown_content)
-pdf_links = pdf_links[1:]
+# 匹配 PDF、PDF1、PDF(old) 等链接，跳过模板中的占位地址
+pdf_links = re.findall(r"\[PDF(?:\d+|\([^)]*\))?\]\((https?://[^\s)]+)\)", markdown_content)
 print(len(pdf_links))
 
 for pdf_url in pdf_links:
