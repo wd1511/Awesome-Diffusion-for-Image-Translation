@@ -9,34 +9,11 @@ SELECTED = "README.md"
 DETAILED = "README-detailed.md"
 
 
-def paper_row(entry):
-    heading, _, record = entry.partition("\n")
-    title = re.fullmatch(r"\*\*(.+)\*\*(?:\s*<br>)?\s*", heading)
-    # The venue is the last line before the resource links. Some older entries
-    # put the venue and their first link on separate lines.
-    metadata, marker, resources = record.partition("[[")
-    links = re.findall(r"\[\[([^\]\n]+)\]\((https?://[^\s]+?)\)\]", marker + resources)
-    if not title or not metadata.strip() or not links:
-        raise ValueError(f"Missing paper title, publication, or link in {heading!r}")
-    venue = metadata.strip().splitlines()[-1].strip().rstrip(".,")
-    primary = next(
-        (
-            url for kind, url in links
-            if kind.startswith("PDF") or kind in {"Paper", "Proceedings", "DOI", "arXiv"}
-        ),
-        links[0][1],
-    )
-    return f"- [{title.group(1)}]({primary}) · {venue}"
-
-
-def read_sections(source, *, compact_papers=False):
+def read_sections(source):
     _, *parts = re.split(r"^## (.+)\n", source, flags=re.MULTILINE)
     sections = {}
     for heading, body in zip(parts[::2], parts[1::2]):
         body = body.strip()
-        if compact_papers and heading.isdecimal():
-            entries = re.split(r"\n[ \t]*\n", body)
-            body = "\n".join(paper_row(entry) for entry in entries)
         if heading == "2021 and earlier":
             slug = "before-2021"
         elif heading.isdecimal() and int(heading) <= 2021:
@@ -98,7 +75,7 @@ def build_pages(root):
     catalog_dir = root / "catalog"
     full = (catalog_dir / "full.md").read_text(encoding="utf-8")
     selected = (catalog_dir / "selected.md").read_text(encoding="utf-8")
-    full_sections = read_sections(full, compact_papers=True)
+    full_sections = read_sections(full)
     selected_sections = read_sections(selected)
     if full_sections.keys() != selected_sections.keys():
         raise ValueError("Each catalog section needs a corresponding selected section.")
