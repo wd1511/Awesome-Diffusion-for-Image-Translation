@@ -4,7 +4,7 @@
 
 A curated bibliography of diffusion-based image translation, editing and style transfer, including closely related diffusion bridges and flow-matching methods.
 
-**Last updated: 2026-11-18.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
+**Last updated: 2026-11-20.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
 
 ```Latex
 **Here is the Paper Name** <br>
@@ -122,6 +122,8 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 
 ### Virtual Try-On Benchmarks
 
+- CURVTON-205K (arXiv 2026; accepted at WACV 2027) [[Paper](https://arxiv.org/abs/2611.24042)] [[Project](https://curvton2.github.io/curvton/)] [[Data](https://huggingface.co/datasets/curvton2/curvton2)] <br>
+
 - VTONQA (ACMMM 2026) [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[Data](https://huggingface.co/datasets/weixiny0408/vtonqa)] <br>
 - OmniView (ACMMM 2026) [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[Project](https://boomvvt.github.io/boomvvt)] <br>
 
@@ -134,6 +136,8 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 - LVTON (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/4142)] <br>
 
 ### Video Editing and Stylization Benchmarks
+
+- OmniEdit-Bench (2026) [[Paper](https://arxiv.org/abs/2608.05049)] [[Data](https://huggingface.co/datasets/OmniEdit-Bench/OmniEdit-Bench)] <br>
 
 - MoviEdit-Bench (2026) [[Paper](https://arxiv.org/abs/2611.02737)] [[Project](https://multi-shot-edit.github.io/)] <br>
 - AVE-Dataset (2026) [[Paper](https://arxiv.org/abs/2610.27947)] <br>
@@ -148,6 +152,77 @@ BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Do
 - Med-Banana-80K (Findings of EMNLP 2026) [[Paper](https://aclanthology.org/2026.findings-emnlp.1260/)] <br>
 
 ## 2026
+
+**Beyond Resemblance: Image Fusion Reimagined** <br>
+*Hao Zhang, Yumin Huang, Linfeng Tang, Junjun Jiang, Jiayi Ma.* <br>
+**Image Fusion**, Wuhan University & Harbin Institute of Technology <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.25453)] <br>
+
+**Zero to Four Views: Unified Panorama Generation and Preference RL for Unobserved Regions** <br>
+*Rui Hong, Xugang Ye, Jana Košecká, Kai Fan.* <br>
+**Image Outpainting**, George Mason University & Independent Researchers <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.25389)] <br>
+
+**H3Remover: Reinforcing Video Object Removal without Paired Data** <br>
+*Kangjie Chen, Xiangyu Li, Jinhao Deng, Dongbin Zhang, Chaoda Zheng, Shijia Chen, Yuqi Zhang, Choo Sin Wai, Boyi Sun, Puyi Wang, Yu Zhang, Xianming Liu, Boyang Wang.* <br>
+**Video Editing**, XPENG & Tsinghua University & University of Chinese Academy of Sciences & Chinese University of Hong Kong <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.24633)]
+[[Project](https://chenkangjie1123.github.io/H3Remover/)]
+[[Github](https://github.com/chenkangjie1123/H3Remover)]
+[[Model](https://huggingface.co/chenkangjie1123/H3Remover)] <br>
+
+**MLIE-CoT: Chain-of-Thought Reasoning via Multi-Level Image Editing** <br>
+*Baichuan Yang, Dongyuan Xu, Zhao Yang, Yong Liu, Bing Su.* <br>
+**Image Editing**, Renmin University of China & Zhongguancun Academy <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.24433)]
+[[Github](https://github.com/yang031119/MLIE-CoT)] <br>
+
+**GenRF: Generative Registration-free Image Fusion** <br>
+*Linfeng Tang, Zhijun Fan, Yang Chen, Zizhuo Li, Hao Zhang, Jiayi Ma.* <br>
+**Image Fusion**, Wuhan University & Raytron Technology <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.24157)] <br>
+
+**CURVTON-205K: A Mask-Free Difficulty-Stratified Synthetic Dataset for Robust and Scalable Virtual Try-On** <br>
+*Dipan Bartaula, Anuj Shrestha, Ankit Belbase, Anish Bishwakarma, Saroj Poudel, Samip Ghimire, Shashank Bhatta, Eric Arazo, Binod Bhattarai.* <br>
+**Virtual Try-On / Dataset**, Tribhuvan University & NAAMII & Fogsphere (Redev.AI Ltd) & University of Aberdeen <br>
+arXiv 2026; accepted at WACV 2027. [[PDF](https://arxiv.org/abs/2611.24042)]
+[[Project](https://curvton2.github.io/curvton/)]
+[[Github](https://github.com/curvton2/CURVTON_205K)]
+[[Data](https://huggingface.co/datasets/curvton2/curvton2)] <br>
+
+**Image-Condition-Controlled Diffusion Network with Large-Scale CT Pretraining for CT-Free Attenuation Correction in Dynamic Cardiac PET** <br>
+*Zhejia Zhang, Scott M. Leonard, Jinkui Hao, Ryan J. Avery, Richard L. Weinberg, Bo Zhou.* <br>
+**Medical Image Translation**, Northwestern University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.23672)] <br>
+
+**Isthmus: Bridging Supervision Islands Restores Uncertainty and Stability in One-Step Flows** <br>
+*Luming Yang, Siqing Li, Haoxian Liu, Zhenyu Bu, Jiazheng Zhu, Alper Yilmaz.* <br>
+**Image Inpainting**, Ohio State University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2611.23616)] <br>
+
+**Reimagine Video Dynamics: A Unified Framework for Video Editing with Editable Spatiotemporal Tokens** <br>
+*Yu Yuan, Yawen Lu, Guoxian Song, Kevin Duarte, Ratheesh Kalarot, Di Chang, Xijun Wang, Stanley H. Chan.* <br>
+**Video Editing**, Adobe & Purdue University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2609.36496)]
+[[Project](https://yuyuanspace.com/RVD/)]
+[[Github](https://github.com/pandayuanyu/RVD)] <br>
+
+**OmniEdit-Bench: A Comprehensive Benchmark for Instruction-based Video Editing** <br>
+*Chenxuan Miao, Yutong Feng, Yi Lu, Yunfeng Yan, Donglian Qi, Shiwei Zhang, Yu Liu, Xi Chen, Hengshuang Zhao.* <br>
+**Dataset / Evaluation**, University of Hong Kong & Alibaba Group & Zhejiang University & Peking University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2608.05049)]
+[[Project](https://omniedit-bench.github.io)]
+[[Data](https://huggingface.co/datasets/OmniEdit-Bench/OmniEdit-Bench)] <br>
+
+**Localize, Don't Beautify: Client-Side Control of Image-Editing APIs for Cosmetic Surgery Previews** <br>
+*Sukhrobbek Ilyosbekov.* <br>
+**Image Editing / Evaluation**, Northeastern University <br>
+arXiv 2026. [[PDF](https://arxiv.org/abs/2608.02841)] <br>
+
+**Frequency-consistent conditional diffusion residual refinement network for small-sample GPR B-scan image restoration** <br>
+*Dengfeng Chen, Yingjun Liu, Wei Liang, Liang Zhao, Tunliang Meng.* <br>
+**Image Restoration**, Xi’an University of Architecture and Technology & XAUAT Engineering Technology Co., Ltd <br>
+Measurement Science and Technology 2026. [[Paper](https://doi.org/10.1088/1361-6501/aebb56)] <br>
 
 **LUTBench: Benchmarking Text-Driven Photographic Look Transfer** <br>
 *Chuanzhi Xu, Boyu Wei, Chengkun Yue, Xuanhua Yin, Yiyang Li, Chupeng Liu, Zihan Deng, Weidong Cai.* <br>
@@ -802,8 +877,8 @@ arXiv 2026. [[PDF](https://arxiv.org/abs/2610.23751)] <br>
 arXiv 2026. [[PDF](https://arxiv.org/abs/2610.23535)] <br>
 
 **FlashReFocus: Interactive Image Refocusing in Seconds** <br>
-*Ching-Heng Cheng, Chia-Ming Lee, Ming-Ching Chang, Xin Li, Yu-Lun Liu, Chih-Chung Hsu.* <br>
-**Image Editing** <br>
+*Ching-Heng Cheng, Chia-Ming Lee, Ming-Ching Chang, Xin Li, Chih-Chung Hsu.* <br>
+**Image Editing**, National Cheng Kung University & State University of New York at Albany & National Yang Ming Chiao Tung University <br>
 arXiv 2026. [[PDF](https://arxiv.org/abs/2610.23297)]
 [[Project](https://ming053l.github.io/FlashReFocus/)]
 [[Github](https://github.com/ming053l/FlashReFocus)] <br>
