@@ -6,7 +6,7 @@ from pathlib import Path
 
 def build_pages(root):
     source = (root / "PAPERS.md").read_text(encoding="utf-8")
-    sections = re.split(r"^## (Dataset|\d{4})\n", source, flags=re.MULTILINE)
+    sections = re.split(r"^## (Datasets?|\d{4})\n", source, flags=re.MULTILINE)
     updated = re.search(r"\*\*Last updated: \d{4}-\d{2}-\d{2}\.\*\*", sections[0]).group()
     nav = next(line for line in sections[0].splitlines() if line.startswith("[Datasets](papers/"))
     papers = root / "papers"
@@ -14,8 +14,8 @@ def build_pages(root):
 
     pages = {}
     for heading, body in zip(sections[1::2], sections[2::2]):
-        if heading == "Dataset":
-            pages["datasets"] = ["Datasets and benchmarks", "dataset", body.strip()]
+        if heading in {"Dataset", "Datasets"}:
+            pages["datasets"] = ["Datasets and benchmarks", heading.lower(), body.strip()]
         elif int(heading) <= 2021:
             early = pages.setdefault("before-2021", ["Papers from 2021 and earlier", "2021"])
             early.append(f"## {heading}\n\n{body.strip()}")

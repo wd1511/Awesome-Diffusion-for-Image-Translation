@@ -11,7 +11,7 @@
 **DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model** <br>
 *Boah Kim, Inhwa Han, Jong Chul Ye.* <br>
 **Medical Image Translation**, KAIST <br>
-arXiv 2021. [[PDF](https://arxiv.org/abs/2112.05149)]
+ECCV 2022. [[PDF](https://arxiv.org/abs/2112.05149)]
 [[Github](https://github.com/DiffuseMorph/DiffuseMorph)] <br>
 
 **Diffusion Autoencoders: Toward a Meaningful and Decodable Representation** <br>

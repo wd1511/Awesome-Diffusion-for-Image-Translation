@@ -25,129 +25,121 @@ To refresh the individual dataset and year pages after editing this bibliography
 
 </details>
 
-## Dataset
+<a id="dataset"></a>
+
+## Datasets
+
+### Common Datasets
+
+- ImageNet [[ILSVRC 2012](https://huggingface.co/datasets/ILSVRC/imagenet-1k)] [[All collections](https://image-net.org/download.php)]
+- MS COCO [[Download1](https://cocodataset.org/#download)] [[Download2](https://huggingface.co/datasets/detection-datasets/coco)]
+- Cityscapes (street scenes) [[Download](https://www.cityscapes-dataset.com/downloads/)]
+- FFHQ (Flickr-Faces-HQ) [[Dataset](https://github.com/NVlabs/ffhq-dataset)]
+- LSUN [[Dataset](https://github.com/fyu/lsun)] [[Download1](http://lsun.cs.princeton.edu/2017)] [[Download2](https://hyper.ai/datasets/5675)] [[Download(church)](https://huggingface.co/datasets/tglcourse/lsun_church_train)] [[Download(bedrooms)](https://huggingface.co/datasets/pcuenq/lsun-bedrooms)]
+- <a id="painter-datasets"></a>WikiArt (paintings) [[Download1](https://www.kaggle.com/competitions/painter-by-numbers/)] [[Download2](https://huggingface.co/datasets/huggan/wikiart)]
+- Horse2Zebra (unpaired image translation) [[Project](https://github.com/junyanz/CycleGAN#datasets)] [[Download](https://efrosgans.eecs.berkeley.edu/cyclegan/datasets/horse2zebra.zip)]
+- AFHQv2 [[Dataset](https://github.com/NVlabs/stylegan3#preparing-datasets)] [[Download1](https://www.dropbox.com/scl/fi/0aha0j1yvhjdnr1r86u0g/?rlkey=ji6v8s9tkma1vg87bwowi9v1e&e=1)] [[Download2](https://huggingface.co/datasets/huggan/AFHQv2)]
+- Facades (paired image translation) [[Project](https://phillipi.github.io/pix2pix/)] [[Download](https://efrosgans.eecs.berkeley.edu/pix2pix/datasets/facades.tar.gz)]
+
+### Real-world Datasets
+
+BDD100K dataset: [[Download](https://bdd-data.berkeley.edu)] <br>
 
 ### Game Datasets
 
 GTA5 dataset: [[Download](https://download.visinf.tu-darmstadt.de/data/from_games/index.html)] <br>
 Viper dataset: [[Download](https://playing-for-benchmarks.org)] <br>
 
-### Real-world Datasets
-
-Cityscapes dataset: [[Download](https://www.cityscapes-dataset.com/downloads/)] <br>
-BDD100K dataset: [[Download](https://bdd-data.berkeley.edu)] <br>
-
-### Painter Datasets
-
-Wiki-Art dataset: [[Download1](https://www.kaggle.com/competitions/painter-by-numbers/)] [[Download2](https://huggingface.co/datasets/huggan/wikiart)] <br>
-
-### Common Datasets
-
-ImageNet dataset: [[Download](https://image-net.org/download.php)] <br>
-MS-COCO dataset [[Download1](https://cocodataset.org/#download)] [[Download2](https://huggingface.co/datasets/detection-datasets/coco)] <br>
-LSUN dataset [[Download1](http://lsun.cs.princeton.edu/2017)] [[Download2](https://hyper.ai/datasets/5675)] [[Download(church)](https://huggingface.co/datasets/tglcourse/lsun_church_train)] [[Download(bedrooms)](https://huggingface.co/datasets/pcuenq/lsun-bedrooms)] <br>
-AFHQv2 dataset [[Download1](https://www.dropbox.com/scl/fi/0aha0j1yvhjdnr1r86u0g/?rlkey=ji6v8s9tkma1vg87bwowi9v1e&e=1)] [[Download2](https://huggingface.co/datasets/huggan/AFHQv2)] <br>
-
 ### Medical Datasets
 
-Prostate-MRI-US-Biopsy dataset [[Download1](https://www.cancerimagingarchive.net/collection/prostate-mri-us-biopsy/)] [[Download2](https://drive.google.com/file/d/1kF0g8fMR5XPQ2FTbutfTQ-hwG_mTqerx/view)] <br>
-LDCT-and-Projection-data  dataset [[Download1](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758026)] [[Download2](https://drive.google.com/file/d/1kF0g8fMR5XPQ2FTbutfTQ-hwG_mTqerx/view)] <br>
 BraTS 2018 dataset [[Download1](https://www.med.upenn.edu/sbia/brats2018/)] [[Download2](https://drive.google.com/file/d/1kF0g8fMR5XPQ2FTbutfTQ-hwG_mTqerx/view)] <br>
+LDCT-and-Projection-data  dataset [[Download1](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758026)] [[Download2](https://drive.google.com/file/d/1kF0g8fMR5XPQ2FTbutfTQ-hwG_mTqerx/view)] <br>
+Prostate-MRI-US-Biopsy dataset [[Download1](https://www.cancerimagingarchive.net/collection/prostate-mri-us-biopsy/)] [[Download2](https://drive.google.com/file/d/1kF0g8fMR5XPQ2FTbutfTQ-hwG_mTqerx/view)] <br>
 
 ### Style Transfer and Image Editing Benchmarks
 
-- SciFormaData-700K / SciFormaBench-2K (SIGGRAPH Asia 2026, accepted) [[Paper](https://arxiv.org/abs/2607.18091)] [[Data](https://huggingface.co/datasets/microsoft/SciFormaData-700K)] [[Benchmark](https://huggingface.co/datasets/microsoft/SciFormaBench)] <br>
-- LUTBench (2026) [[Paper](https://arxiv.org/abs/2611.23113)] [[Repository](https://github.com/LouckXu/LUTBench)] Code and data are not yet released. <br>
-- LAVAT (TMLR 2026) [[Paper](https://arxiv.org/abs/2611.22645)] [[Project](https://uark-aicv.github.io/REVEAL/)] <br>
-- RSPD human-preference benchmark (arXiv 2026; accepted at WACV 2027) [[Paper](https://arxiv.org/abs/2611.21816)] [[Github](https://github.com/pubgeo/rspd)] Benchmark images are pending release. <br>
-- RigIT-Synth / RigIT-CAO (SIGGRAPH Asia 2026, accepted) [[Paper](https://rigit-project.github.io/static/pdfs/RigIt.pdf)] [[Data (Synth)](https://huggingface.co/datasets/ayankashyap/RigIT-Synth)] [[Data (CAO)](https://huggingface.co/datasets/ayankashyap/RigIT-CAO)] <br>
-- EVR multi-reference editing dataset (SIGGRAPH Asia 2026, accepted) [[Paper](https://arxiv.org/abs/2607.29025)] [[Data](https://huggingface.co/datasets/moore12138/EVR_dataset)] <br>
-- GIVE-Data / GIVE-Bench (SIGGRAPH Asia 2026, accepted) [[Paper](https://arxiv.org/abs/2606.24225)] [[Project](https://geometry-instructed-video-editing.github.io/give/)] <br>
-- ControlTile dataset (SIGGRAPH 2026) [[Paper](https://arxiv.org/abs/2606.22945)] [[Data](https://modelscope.cn/datasets/heika94/ctile-dataset)] <br>
-
-- GlyphAtlas-Data-1.5M (2026) [[Paper](https://arxiv.org/abs/2611.20192)] [[Data](https://huggingface.co/datasets/Fr0zencr4nE/GlyphAtlas-Data-1.5M)] <br>
-- CropWeed-EditBench (2026) [[Paper](https://arxiv.org/abs/2611.19076)] <br>
-- DecoDataset / DecoBench (DecoEdit) (2026) [[Paper](https://arxiv.org/abs/2611.19121)] <br>
-- StyleJudge human-rating benchmark (ICVGIP 2026) [[Paper](https://arxiv.org/abs/2611.19475)] [[Github](https://github.com/tomoeOOseven/StyleJudge)] <br>
-
-- STE25K (SIGGRAPH Asia 2026) [[Paper](https://arxiv.org/abs/2611.17733)] <br>
-- WaveBench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2611.15617)] [[Github](https://github.com/PinkYearwww/WaveletLoRA)] <br>
-- Add-and-Preserve (2026) [[Paper](https://arxiv.org/abs/2611.06741)] [[Data](https://huggingface.co/datasets/Lyricccco/Add-and-Preserve)] <br>
-
-- P2P-Data / P2P-Bench (2026) [[Paper](https://arxiv.org/abs/2611.09387)] <br>
-- StitchEditBench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2611.07922)] [[Project](https://guoqincode.github.io/StitchEdit/)] <br>
-- EditJudge-Bench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2611.12524)] [[Project](https://jenspars.github.io/EditJudge-Bench/)] <br>
-
-- YANAMI-400K / YANAMI-Bench (2026) [[Paper](https://arxiv.org/abs/2611.05280)] [[Project](https://rowletqwq.github.io/YANAMI)] <br>
-- WeGenEditBench (2026) [[Paper](https://arxiv.org/abs/2610.41210)] <br>
-- V-CAPE (2026) [[Paper](https://arxiv.org/abs/2610.38611)] <br>
-- MindView (2026) [[Paper](https://arxiv.org/abs/2610.28622)] [[Project](https://yanbo-23.github.io/MindView/)] <br>
-- MTEdit / MTEdit-Bench (2026) [[Paper](https://arxiv.org/abs/2610.23751)] <br>
-- LayerEditor-100K (2026) [[Paper](https://arxiv.org/abs/2610.24738)] <br>
-- Transform-360K (2026) [[Paper](https://arxiv.org/abs/2610.34333)] <br>
-- DeCo-Bench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2610.39265)] <br>
-- TransEdit-Bench (EMNLP 2026) [[Paper](https://aclanthology.org/2026.emnlp-main.2409/)] <br>
-- HandEdit (NeurIPS 2026) [[Paper](https://openreview.net/forum?id=rd5iXeQ5SH)] [[Project](https://handedit.github.io/)] <br>
-- SI-Data (ACMMM 2026) [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[Github](https://github.com/ywxsuperstar/SIEdit)] <br>
-- RealManip-40K / ManipEval (ACMMM 2026) [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[Github](https://github.com/nenhang/PhyEdit)] <br>
-- OpenImages-Style-600k (ACMMM 2026) [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[Github](https://github.com/fikry102/StyleCom)] <br>
-- 3CReal (2026) [[Paper](https://arxiv.org/abs/2610.23297)] [[Project](https://ming053l.github.io/FlashReFocus/)] <br>
-
-- ABACUS (arXiv 2026; accepted at WACV 2027) [[Paper](https://arxiv.org/abs/2610.28316)] [[Resource](https://github.com/CEA-LIST/ABACUS)] <br>
-- OmniStyle-1M / OmniStyle-150K (CVPR 2025) [[Paper](https://arxiv.org/abs/2505.14028)] [[Project](https://wangyephd.github.io/projects/OmniStyle/cvpr25_omnistyle.html)] [[Download (150K)](https://huggingface.co/datasets/StyleXX/OmniStyle-150k)] <br>
-- HQ-Edit (ICLR 2025) [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/b639c526a942618f1dba2b7a5fa0bac0-Abstract-Conference.html)] <br>
 - ImgEdit and ImgEdit-Bench (NeurIPS 2025) [[Paper](https://papers.neurips.cc/paper_files/paper/2025/hash/bec783f119b969772c35243b1c801090-Abstract-Datasets_and_Benchmarks_Track.html)] <br>
+- HQ-Edit (ICLR 2025) [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/b639c526a942618f1dba2b7a5fa0bac0-Abstract-Conference.html)] <br>
 - KRIS-Bench (NeurIPS 2025) [[Paper](https://papers.neurips.cc/paper_files/paper/2025/hash/e619b285582fb12f4c3de3a507b8b99c-Abstract-Datasets_and_Benchmarks_Track.html)] <br>
+- OmniStyle-1M / OmniStyle-150K (CVPR 2025) [[Paper](https://arxiv.org/abs/2505.14028)] [[Project](https://wangyephd.github.io/projects/OmniStyle/cvpr25_omnistyle.html)] [[Download (150K)](https://huggingface.co/datasets/StyleXX/OmniStyle-150k)] <br>
 - I2I-Bench (CVPR 2026) [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_I2I-Bench_A_Comprehensive_Benchmark_Suite_for_Image-to-Image_Editing_Models_CVPR_2026_paper.html)] <br>
+- EditHF-1M (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/4044)] [[Resource](https://github.com/IntMeGroup/EditHF)] <br>
+- GRADE (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/3710)] [[Resource](https://grade-bench.github.io/)] <br>
+- OpenImages-Style-600k (ACMMM 2026) [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[Github](https://github.com/fikry102/StyleCom)] <br>
+- VeriEdit-Bench (2026) [[Paper](https://arxiv.org/abs/2610.04381)] [[Resource](https://github.com/flare200020/VeriEdit-Bench)] <br>
+- HandEdit (NeurIPS 2026) [[Paper](https://openreview.net/forum?id=rd5iXeQ5SH)] [[Project](https://handedit.github.io/)] <br>
+- TransEdit-Bench (EMNLP 2026) [[Paper](https://aclanthology.org/2026.emnlp-main.2409/)] <br>
+- DeCo-Bench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2610.39265)] <br>
+- LME-Bench (2026) [[Paper](https://arxiv.org/abs/2609.35611)] <br>
+- UniREditBench / UniREdit-Data-100K (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/4175)] <br>
+- SciFormaData-700K / SciFormaBench-2K (SIGGRAPH Asia 2026, accepted) [[Paper](https://arxiv.org/abs/2607.18091)] [[Data](https://huggingface.co/datasets/microsoft/SciFormaData-700K)] [[Benchmark](https://huggingface.co/datasets/microsoft/SciFormaBench)] <br>
 - Language-based Image Colorization benchmark / Color-Turbo (2025) [[Paper](https://arxiv.org/abs/2503.14974)] [[Github](https://github.com/lyf1212/Color-Turbo)] <br>
 - StyleID (SIGGRAPH 2026) [[Paper](https://arxiv.org/abs/2604.21689)] [[Project](https://kwanyun.github.io/StyleID_page/)] <br>
-
-- VeriEdit-Bench (2026) [[Paper](https://arxiv.org/abs/2610.04381)] [[Resource](https://github.com/flare200020/VeriEdit-Bench)] <br>
+- ChartStyle-100K / ChartStyle-Bench (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/5569)] [[Resource](https://github.com/yuweiyang-anu/ChartStyle)] <br>
+- ABACUS (arXiv 2026; accepted at WACV 2027) [[Paper](https://arxiv.org/abs/2610.28316)] [[Resource](https://github.com/CEA-LIST/ABACUS)] <br>
+- EVR multi-reference editing dataset (SIGGRAPH Asia 2026, accepted) [[Paper](https://arxiv.org/abs/2607.29025)] [[Data](https://huggingface.co/datasets/moore12138/EVR_dataset)] <br>
+- GIVE-Data / GIVE-Bench (SIGGRAPH Asia 2026, accepted) [[Paper](https://arxiv.org/abs/2606.24225)] [[Project](https://geometry-instructed-video-editing.github.io/give/)] <br>
+- MTEdit / MTEdit-Bench (2026) [[Paper](https://arxiv.org/abs/2610.23751)] <br>
+- 3CReal (2026) [[Paper](https://arxiv.org/abs/2610.23297)] [[Project](https://ming053l.github.io/FlashReFocus/)] <br>
+- Add-and-Preserve (2026) [[Paper](https://arxiv.org/abs/2611.06741)] [[Data](https://huggingface.co/datasets/Lyricccco/Add-and-Preserve)] <br>
+- ControlTile dataset (SIGGRAPH 2026) [[Paper](https://arxiv.org/abs/2606.22945)] [[Data](https://modelscope.cn/datasets/heika94/ctile-dataset)] <br>
+- EditJudge-Bench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2611.12524)] [[Project](https://jenspars.github.io/EditJudge-Bench/)] <br>
+- GlyphAtlas-Data-1.5M (2026) [[Paper](https://arxiv.org/abs/2611.20192)] [[Data](https://huggingface.co/datasets/Fr0zencr4nE/GlyphAtlas-Data-1.5M)] <br>
+- InfoEdit (EMNLP 2026) [[Paper](https://arxiv.org/abs/2609.33286)] [[Resource](https://infoedit.github.io)] <br>
+- LAVAT (TMLR 2026) [[Paper](https://arxiv.org/abs/2611.22645)] [[Project](https://uark-aicv.github.io/REVEAL/)] <br>
+- MindView (2026) [[Paper](https://arxiv.org/abs/2610.28622)] [[Project](https://yanbo-23.github.io/MindView/)] <br>
+- PhyEditBench (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/5047)] [[Resource](https://github.com/Previsior/PhyEditBench)] <br>
+- RealManip-40K / ManipEval (ACMMM 2026) [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[Github](https://github.com/nenhang/PhyEdit)] <br>
+- SI-Data (ACMMM 2026) [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[Github](https://github.com/ywxsuperstar/SIEdit)] <br>
+- StitchEditBench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2611.07922)] [[Project](https://guoqincode.github.io/StitchEdit/)] <br>
+- StyleJudge human-rating benchmark (ICVGIP 2026) [[Paper](https://arxiv.org/abs/2611.19475)] [[Github](https://github.com/tomoeOOseven/StyleJudge)] <br>
+- WaveBench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2611.15617)] [[Github](https://github.com/PinkYearwww/WaveletLoRA)] <br>
+- YANAMI-400K / YANAMI-Bench (2026) [[Paper](https://arxiv.org/abs/2611.05280)] [[Project](https://rowletqwq.github.io/YANAMI)] <br>
 - ASTRA-Data / ASTRA-Score (2026) [[Paper](https://arxiv.org/abs/2610.10003)] <br>
+- CE-Bench (2026) [[Paper](https://arxiv.org/abs/2610.18819)] <br>
+- CropWeed-EditBench (2026) [[Paper](https://arxiv.org/abs/2611.19076)] <br>
+- DecoDataset / DecoBench (DecoEdit) (2026) [[Paper](https://arxiv.org/abs/2611.19121)] <br>
+- EditJudgeBias (2026) [[Paper](https://arxiv.org/abs/2610.01670)] <br>
+- LayerEditor-100K (2026) [[Paper](https://arxiv.org/abs/2610.24738)] <br>
+- P2P-Data / P2P-Bench (2026) [[Paper](https://arxiv.org/abs/2611.09387)] <br>
+- RCEdit-500K (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/5946)] <br>
+- RigIT-Synth / RigIT-CAO (SIGGRAPH Asia 2026, accepted) [[Paper](https://rigit-project.github.io/static/pdfs/RigIt.pdf)] [[Data (Synth)](https://huggingface.co/datasets/ayankashyap/RigIT-Synth)] [[Data (CAO)](https://huggingface.co/datasets/ayankashyap/RigIT-CAO)] <br>
 - ScribbleEdit (2026) [[Paper](https://arxiv.org/abs/2610.09382)] <br>
 - SlideBench (2026) [[Paper](https://arxiv.org/abs/2610.14253)] <br>
-- InfoEdit (EMNLP 2026) [[Paper](https://arxiv.org/abs/2609.33286)] [[Resource](https://infoedit.github.io)] <br>
-- EditJudgeBias (2026) [[Paper](https://arxiv.org/abs/2610.01670)] <br>
-- CE-Bench (2026) [[Paper](https://arxiv.org/abs/2610.18819)] <br>
-- LME-Bench (2026) [[Paper](https://arxiv.org/abs/2609.35611)] <br>
-- ChartStyle-100K / ChartStyle-Bench (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/5569)] [[Resource](https://github.com/yuweiyang-anu/ChartStyle)] <br>
-- EditHF-1M (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/4044)] [[Resource](https://github.com/IntMeGroup/EditHF)] <br>
-- PhyEditBench (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/5047)] [[Resource](https://github.com/Previsior/PhyEditBench)] <br>
-- UniREditBench / UniREdit-Data-100K (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/4175)] <br>
-- RCEdit-500K (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/5946)] <br>
+- STE25K (SIGGRAPH Asia 2026) [[Paper](https://arxiv.org/abs/2611.17733)] <br>
+- Transform-360K (2026) [[Paper](https://arxiv.org/abs/2610.34333)] <br>
+- V-CAPE (2026) [[Paper](https://arxiv.org/abs/2610.38611)] <br>
 - WeEdit (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/4337)] <br>
-- GRADE (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/3710)] [[Resource](https://grade-bench.github.io/)] <br>
-
-### Virtual Try-On Benchmarks
-
-- CURVTON-205K (arXiv 2026; accepted at WACV 2027) [[Paper](https://arxiv.org/abs/2611.24042)] [[Project](https://curvton2.github.io/curvton/)] [[Data](https://huggingface.co/datasets/curvton2/curvton2)] <br>
-
-- VTONQA (ACMMM 2026) [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[Data](https://huggingface.co/datasets/weixiny0408/vtonqa)] <br>
-- OmniView (ACMMM 2026) [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[Project](https://boomvvt.github.io/boomvvt)] <br>
-
-- OpenVTON-Bench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2601.22725)] [[Github](https://github.com/RenxingIntelligence/OpenVTON-Bench)] <br>
-- TripVVT (ECCV 2026) [[Paper](https://arxiv.org/abs/2604.27958)] <br>
-- MVShoes / MVShoes-clean (NeurIPS 2025) [[Paper](https://arxiv.org/abs/2610.18325)] [[Resource](https://colorful-liyu.github.io/ShoeFit/)] <br>
-- VTON-QBench (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/5449)] [[Resource](https://github.com/litelightlite/VTON-IQA)] <br>
-- VTEdit-Bench (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/3764)] <br>
-- Fit4Men (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/4018)] [[Resource](https://github.com/tiny-smart/FitControler)] <br>
-- LVTON (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/4142)] <br>
+- WeGenEditBench (2026) [[Paper](https://arxiv.org/abs/2610.41210)] <br>
+- RSPD human-preference benchmark (arXiv 2026; accepted at WACV 2027) [[Paper](https://arxiv.org/abs/2611.21816)] [[Github](https://github.com/pubgeo/rspd)] Benchmark images are pending release. <br>
+- LUTBench (2026) [[Paper](https://arxiv.org/abs/2611.23113)] [[Repository](https://github.com/LouckXu/LUTBench)] Code and data are not yet released. <br>
 
 ### Video Editing and Stylization Benchmarks
 
 - OmniEdit-Bench (2026) [[Paper](https://arxiv.org/abs/2608.05049)] [[Data](https://huggingface.co/datasets/OmniEdit-Bench/OmniEdit-Bench)] <br>
-
 - MoviEdit-Bench (2026) [[Paper](https://arxiv.org/abs/2611.02737)] [[Project](https://multi-shot-edit.github.io/)] <br>
-- AVE-Dataset (2026) [[Paper](https://arxiv.org/abs/2610.27947)] <br>
 - CineCraft-120K (2026) [[Paper](https://arxiv.org/abs/2611.00899)] [[Data](https://huggingface.co/datasets/Anna-SY/CineCraft-120K)] <br>
 - LociArt-100K / LociArt Benchmark (2026) [[Paper](https://arxiv.org/abs/2610.36456)] [[Project](https://higherhu.github.io/lociart/)] <br>
+- AVE-Dataset (2026) [[Paper](https://arxiv.org/abs/2610.27947)] <br>
+
+### Virtual Try-On Benchmarks
+
+- OpenVTON-Bench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2601.22725)] [[Github](https://github.com/RenxingIntelligence/OpenVTON-Bench)] <br>
+- TripVVT (ECCV 2026) [[Paper](https://arxiv.org/abs/2604.27958)] <br>
+- MVShoes / MVShoes-clean (NeurIPS 2025) [[Paper](https://arxiv.org/abs/2610.18325)] [[Resource](https://colorful-liyu.github.io/ShoeFit/)] <br>
+- VTONQA (ACMMM 2026) [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[Data](https://huggingface.co/datasets/weixiny0408/vtonqa)] <br>
+- VTON-QBench (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/5449)] [[Resource](https://github.com/litelightlite/VTON-IQA)] <br>
+- OmniView (ACMMM 2026) [[Paper](https://2026.acmmm.org/site/technical-programme.html)] [[Project](https://boomvvt.github.io/boomvvt)] <br>
+- VTEdit-Bench (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/3764)] <br>
+- CURVTON-205K (arXiv 2026; accepted at WACV 2027) [[Paper](https://arxiv.org/abs/2611.24042)] [[Project](https://curvton2.github.io/curvton/)] [[Data](https://huggingface.co/datasets/curvton2/curvton2)] <br>
+- Fit4Men (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/4018)] [[Resource](https://github.com/tiny-smart/FitControler)] <br>
+- LVTON (ECCV 2026) [[Paper](https://eccv.ecva.net/virtual/2026/poster/4142)] <br>
 
 ### Virtual Staining and Medical Editing Benchmarks
 
-- BRIDGE (2026; dataset release forthcoming) [[Paper](https://arxiv.org/abs/2611.13883)] [[Documentation](https://github.com/JAMielcarz/BRIDGE-dataset)] <br>
-
 - DynaCell (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2611.02324)] [[Project](https://biohub.github.io/dynacell/)] <br>
 - Med-Banana-80K (Findings of EMNLP 2026) [[Paper](https://aclanthology.org/2026.findings-emnlp.1260/)] <br>
+- BRIDGE (2026; dataset release forthcoming) [[Paper](https://arxiv.org/abs/2611.13883)] [[Documentation](https://github.com/JAMielcarz/BRIDGE-dataset)] <br>
 
 ## 2026
 
@@ -4810,6 +4802,11 @@ AAAI 2025. [[PDF](https://arxiv.org/abs/2303.03231)]
 
 ## 2024
 
+**One-Step Image Translation with Text-to-Image Models** <br>
+*Gaurav Parmar, Taesung Park, Srinivasa Narasimhan, Jun-Yan Zhu.* <br>
+arXiv 2024. [[PDF](https://arxiv.org/abs/2403.12036)]
+[[Github](https://github.com/GaParmar/img2img-turbo)] <br>
+
 **Towards Efficient Exemplar Based Image Editing with Multimodal VLMs** <br>
 *Avadhoot Jadhav, Ashutosh Srivastava, Abhinav Java, Silky Singh, Tarun Ram Menta, Surgan Jandial, Balaji Krishnamurthy.* <br>
 **Image Editing**, Adobe MDSR & Indian Institute of Technology, Bombay & Indian Institute of Technology, Roorkee & Microsoft Research & Stanford University & Carnegie Mellon University <br>
@@ -4824,7 +4821,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2412.09618)]
 **UniVST: A Unified Framework for Training-free Localized Video Style Transfer** <br>
 *Quanjian Song, Mingbao Lin, Wengyi Zhan, Shuicheng Yan, Liujuan Cao, Rongrong Ji.* <br>
 **Video Style Transfer** <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2410.20084)]
+TPAMI 2026. [[PDF](https://arxiv.org/abs/2410.20084)]
 [[Github](https://github.com/QuanjianSong/UniVST)]
 [[Project](https://quanjiansong.github.io/projects/UniVST)] <br>
 
@@ -4853,7 +4850,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2407.08701)]
 **StyleShot: A Snapshot on Any Style** <br>
 *Junyao Gao, Yanchen Liu, Yanan Sun, Yinhao Tang, Yanhong Zeng, Kai Chen, Cairong Zhao.* <br>
 **Image Style Transfer**, Tongji University & Shanghai AI Laboratory <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.01414)]
+TPAMI 2026. [[PDF](https://arxiv.org/abs/2407.01414)]
 [[Project](https://styleshot.github.io/)] <br>
 
 **ArtWeaver: Advanced Dynamic Style Integration via Diffusion Model** <br>
@@ -4881,13 +4878,13 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2403.19456)] <br>
 **Implicit Style-Content Separation using B-LoRA** <br>
 *Yarden Frenkel, Yael Vinker, Ariel Shamir, Daniel Cohen-Or.* <br>
 **Image Style Transfer**, Tel Aviv University & Reichman University <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2403.14572)]
+ECCV 2024. [[PDF](https://arxiv.org/abs/2403.14572)]
 [[Project](https://b-lora.github.io/B-LoRA/)] <br>
 
 **AnyV2V: A Tuning-Free Framework For Any Video-to-Video Editing Tasks** <br>
 *Max Ku, Cong Wei, Weiming Ren, Harry Yang, Wenhu Chen.* <br>
 **Video Style Transfer**, University of Waterloo & Harmony.AI <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2403.14468)]
+TMLR 2024. [[PDF](https://arxiv.org/abs/2403.14468)]
 [[Github](https://github.com/TIGER-AI-Lab/AnyV2V)] <br>
 
 **FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation** <br>
@@ -4899,7 +4896,7 @@ CVPR 2024. [[PDF](https://arxiv.org/abs/2403.12962)]
 **Diffusion Model-Based Image Editing: A Survey** <br>
 *Yi Huang, Jiancheng Huang, Yifan Liu, Mingfu Yan, Jiaxi Lv, Jianzhuang Liu, Wei Xiong, He Zhang, Liangliang Cao, Shifeng Chen.* <br>
 **Survey** <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2402.17525)]
+TPAMI 2025. [[PDF](https://arxiv.org/abs/2402.17525)]
 [[Github](https://github.com/SiatMMLab/Awesome-Diffusion-Model-Based-Image-Editing-Methods)] <br>
 
 **Visual Style Prompting with Swapping Self-Attention** <br>
@@ -4967,7 +4964,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2411.14863)] <br>
 **C-DiffSET: Leveraging Latent Diffusion for SAR-to-EO Image Translation with Confidence-Guided Reliable Object Generation** <br>
 *Jeonghyeok Do, Jaehyup Lee, Munchurl Kim.* <br>
 **SAR Image Translation**, KAIST & KNU <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2411.10788)]
+TCSVT 2026. [[PDF](https://arxiv.org/abs/2411.10788)]
 [[Project](https://kaist-viclab.github.io/C-DiffSET_site)]
 [[Github](https://github.com/KAIST-VICLab/C-DiffSET)] <br>
 
@@ -4990,7 +4987,7 @@ Signal Processing: Image Communication. [[PDF](https://www.sciencedirect.com/sci
 **DiT4Edit: Diffusion Transformer for Image Editing** <br>
 *Kunyu Feng, Yue Ma, Bingyuan Wang, Chenyang Qi, Haozhe Chen, Qifeng Chen, Zeyu Wang.* <br>
 **Image Editing**, PKU & HKUST <br>
-arXiv 2024. [[PDF](https://arxiv.org/pdf/2411.03286)]
+AAAI 2025. [[PDF](https://arxiv.org/pdf/2411.03286)]
 [[Github](https://github.com/fkyyyy/DiT4Edit)] <br>
 
 **AdvI2I: Adversarial Image Attack on Image-to-Image Diffusion models** <br>
@@ -5133,14 +5130,14 @@ NeurIPS 2024. [[PDF](https://arxiv.org/abs/2408.00760)]
 **TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models** <br>
 *Gilad Deutch, Rinon Gal, Daniel Garibi, Or Patashnik, Daniel Cohen-Or.* <br>
 **Image Editing**, Tel-Aviv University & NVIDIA <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2408.00735)]
+SIGGRAPH Asia 2024 Conference Papers. [[PDF](https://arxiv.org/abs/2408.00735)]
 [[Github](https://github.com/GiilDe/turbo-edit)]
 [[Project](https://turboedit-paper.github.io/)] <br>
 
-**$Z^*$: Zero-shot Style Transfer via Attention Rearrangement** <br>
+**Z*: Zero-shot Style Transfer via Attention Reweighting** <br>
 *Yingying Deng, Xiangyu He, Fan Tang, Weiming Dong.* <br>
 **Image Style Transfer**, Chinese Academy of Sciences <br>
-CVPR2024. [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_Z_Zero-shot_Style_Transfer_via_Attention_Reweighting_CVPR_2024_paper.pdf)]
+CVPR 2024. [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_Z_Zero-shot_Style_Transfer_via_Attention_Reweighting_CVPR_2024_paper.pdf)]
 [[PDF(old)](https://arxiv.org/abs/2311.16491)]
 [[Github](https://github.com/HolmesShuan/Zero-shot-Style-Transfer-via-Attention-Rearrangement)] <br>
 
@@ -5178,7 +5175,7 @@ ECCV 2024. [[PDF](https://arxiv.org/abs/2407.12783)]
 **PID: Physics-Informed Diffusion Model for Infrared Image Generation** <br>
 *Fangyuan Mao, Jilin Mei, Shun Lu, Fuyang Liu, Liang Chen, Fangzhou Zhao, Yu Hu.* <br>
 **Infrared Image Translation**, Chinese Academy of Sciences <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.09299)]
+Pattern Recognition 2026. [[PDF](https://arxiv.org/abs/2407.09299)]
 [[Github](https://github.com/fangyuanmao/pid)] <br>
 
 **AirSketch: Generative Motion to Sketch** <br>
@@ -5195,7 +5192,7 @@ arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05209)] <br>
 **Slice-Consistent 3D Volumetric Brain CT-to-MRI Translation with 2D Brownian Bridge Diffusion Model** <br>
 *Kyobin Choo, Youngjun Jun, Mijin Yun, Seong Jae Hwang.* <br>
 **Medical Image Translation**, Yonsei University <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2407.05059)]
+MICCAI 2024. [[PDF](https://arxiv.org/abs/2407.05059)]
 [[Github](https://github.com/MICV-yonsei/CT2MRI)] <br>
 
 **Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization** <br>
@@ -5244,13 +5241,13 @@ MICCAI 2024. [[PDF](https://arxiv.org/abs/2405.16942)]
 **Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation** <br>
 *Hongxu Jiang, Muhammad Imran, Linhai Ma, Teng Zhang, Yuyin Zhou, Muxuan Liang, Kuang Gong, Wei Shao.* <br>
 **Medical Image Translation**, University of Florida & University of California <br>
-arXiv 2024, [[PDF](https://arxiv.org/abs/2405.14802)]
+IEEE JBHI 2025. [[PDF](https://arxiv.org/abs/2405.14802)]
 [[Github](https://github.com/mirthai/fast-ddpm)] <br>
 
 **Self-Consistent Recursive Diffusion Bridge for Medical Image Translation** <br>
 *Jose-Luis Poza-Lujan, Pedro Uribe-Chavert, Juan-Luis Posadas-Yagüe.* <br>
 **Medical Image Translation**, Bilkent University & University of Illinois Urbana-Champaign <br>
-arXiv 2024, [[PDF](http://arxiv.org/abs/2405.06789v1)]
+Medical Image Analysis 2025. [[PDF](http://arxiv.org/abs/2405.06789v1)]
 [[PDF(old)](https://arxiv.org/abs/2405.06789)]
 [[Github](https://github.com/icon-lab/SelfRDB)] <br>
 
@@ -5321,7 +5318,7 @@ NeurIPS 2024. [[PDF](https://arxiv.org/abs/2402.11846)]
 **Control Color: Multimodal Diffusion-based Interactive Image Colorization** <br>
 *Zhexin Liang, Zhaochen Li, Shangchen Zhou, Chongyi Li, Chen Change Loy.* <br>
 **Image Colorization**, Nanyang Technological University <br>
-Arxiv 2024, [[PDF](https://arxiv.org/abs/2402.10855)]
+IJCV 2025. [[PDF](https://arxiv.org/abs/2402.10855)]
 [[Github](https://github.com/ZhexinLiang/Control-Color)]
 [[Project](https://zhexinliang.github.io/Control_Color/)] <br>
 
@@ -5336,7 +5333,7 @@ ACCV 2024. [[PDF](https://arxiv.org/abs/2401.17547)]
 **Image Translation as Diffusion Visual Programmers** <br>
 *Cheng Han, James C. Liang, Qifan Wang, Majid Rabbani, Sohail Dianat, Raghuveer Rao, Ying Nian Wu, Dongfang Liu.* <br>
 **Base I2I Translation**, Rochester Institute of Technology & Meta AI <br>
-arXiv 2024. [[PDF](https://arxiv.org/abs/2401.09742)] <br>
+ICLR 2024. [[PDF](https://arxiv.org/abs/2401.09742)] <br>
 
 **HiCAST: Highly Customized Arbitrary Style Transfer with Adapter Enhanced Diffusion Models** <br>
 *Hanzhang Wang, Haoran Wang, Jinze Yang, Zhongrui Yu, Zeke Xie, Lei Tian, Xinyan Xiao, Junjun Jiang, Xianming Liu, Mingming Sun.* <br>
@@ -5412,6 +5409,46 @@ CVPR 2024. [[PDF](https://arxiv.org/abs/2303.17546)]
 
 ## 2023
 
+**Zero-shot Image-to-Image Translation** <br>
+*Gaurav Parmar, Krishna Kumar Singh, Richard Zhang, Yijun Li, Jingwan Lu, Jun-Yan Zhu.* <br>
+SIGGRAPH 2023. [[PDF](https://arxiv.org/abs/2302.03027)]
+[[Project](https://pix2pixzero.github.io/)]
+[[Github](https://github.com/pix2pixzero/pix2pix-zero)] <br>
+
+**Adding Conditional Control to Text-to-Image Diffusion Models** <br>
+*Lvmin Zhang, Anyi Rao, Maneesh Agrawala.* <br>
+ICCV 2023. [[PDF](https://arxiv.org/abs/2302.05543)]
+[[Proceedings](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)] <br>
+
+**MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing** <br>
+*Mingdeng Cao, Xintao Wang, Zhongang Qi, Ying Shan, Xiaohu Qie, Yinqiang Zheng.* <br>
+ICCV 2023. [[PDF](https://arxiv.org/abs/2304.08465)]
+[[Proceedings](https://openaccess.thecvf.com/content/ICCV2023/html/Cao_MasaCtrl_Tuning-Free_Mutual_Self-Attention_Control_for_Consistent_Image_Synthesis_and_ICCV_2023_paper.html)]
+[[Github](https://github.com/TencentARC/MasaCtrl)] <br>
+
+**Prompt-to-Prompt Image Editing with Cross Attention Control** <br>
+*Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.* <br>
+ICLR 2023. [[PDF](https://arxiv.org/abs/2208.01626)] <br>
+
+**DiffEdit: Diffusion-based semantic image editing with mask guidance** <br>
+*Guillaume Couairon, Jakob Verbeek, Holger Schwenk, Matthieu Cord.* <br>
+ICLR 2023. [[PDF](https://arxiv.org/abs/2210.11427)] <br>
+
+**Null-text Inversion for Editing Real Images using Guided Diffusion Models** <br>
+*Ron Mokady, Amir Hertz, Kfir Aberman, Yael Pritch, Daniel Cohen-Or.* <br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.09794)]
+[[Proceedings](https://openaccess.thecvf.com/content/CVPR2023/html/Mokady_NULL-Text_Inversion_for_Editing_Real_Images_Using_Guided_Diffusion_Models_CVPR_2023_paper.html)] <br>
+
+**Imagic: Text-Based Real Image Editing with Diffusion Models** <br>
+*Bahjat Kawar, Shiran Zada, Oran Lang, Omer Tov, Huiwen Chang, Tali Dekel, Inbar Mosseri, Michal Irani.* <br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2210.09276)]
+[[Proceedings](https://openaccess.thecvf.com/content/CVPR2023/html/Kawar_Imagic_Text-Based_Real_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.html)] <br>
+
+**Paint by Example: Exemplar-based Image Editing with Diffusion Models** <br>
+*Binxin Yang, Shuyang Gu, Bo Zhang, Ting Zhang, Xuejin Chen, Xiaoyan Sun, Dong Chen, Fang Wen.* <br>
+CVPR 2023. [[PDF](https://arxiv.org/abs/2211.13227)]
+[[Proceedings](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Paint_by_Example_Exemplar-Based_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.html)] <br>
+
 **Conditional diffusion for SAR to optical image translation** <br>
 *Xinyu Bai, Xinyang Pu, Feng Xu.* <br>
 **SAR Image Translation**, Fudan University <br>
@@ -5474,7 +5511,7 @@ ICCV 2023. [[PDF](https://arxiv.org/abs/2310.00224)]
 **Denoising Diffusion Bridge Models** <br>
 *Linqi Zhou, Aaron Lou, Samar Khanna, Stefano Ermon.* <br>
 **Base I2I Translation**, Stanford University <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2309.16948)]
+ICLR 2024. [[PDF](https://arxiv.org/abs/2309.16948)]
 [[Github-1](https://github.com/alexzhou907/DDBM)]
 [[Github-2](https://github.com/galaxygliese/Latent-DDBM)] <br>
 
@@ -5494,7 +5531,7 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2309.05534)] <br>
 
 **Create Your World: Lifelong Text-to-Image Diffusion** <br>
 *Gan Sun, Wenqi Liang, Jiahua Dong, Jun Li, Zhengming Ding, Yang Cong.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2309.04430)] <br>
+IEEE TPAMI 2024. [[PDF](https://arxiv.org/abs/2309.04430)] <br>
 
 **Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption** <br>
 *Teng Hu, Jiangning Zhang, Liang Liu, Ran Yi, Siqi Kou, Haokun Zhu, Xu Chen, Yabiao Wang, Chengjie Wang, Lizhuang Ma.* <br>
@@ -5516,12 +5553,12 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2308.15854)] <br>
 
 **Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization** <br>
 *Tao Yang, Peiran Ren, Xuansong Xie, Lei Zhang.* <br>
-arXiv 2023.[[PDF](https://arxiv.org/abs/2308.14469)]
+ECCV 2024. [[PDF](https://arxiv.org/abs/2308.14469)]
 [[Github](https://github.com/yangxy/PASD)] <br>
 
 **DiffI2I: Efficient Diffusion Model for Image-to-Image Translation** <br>
 *Bin Xia, Yulun Zhang, Shiyin Wang, Yitong Wang, Xinglong Wu, Yapeng Tian, Wenming Yang, Radu Timotfe, Luc Van Gool.* <br>
-arXiv 2023. [[PDF](http://arxiv.org/abs/2308.13767v1)] <br>
+IEEE TPAMI 2025. [[PDF](http://arxiv.org/abs/2308.13767v1)] <br>
 
 **Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation** <br>
 *Duo Peng, Ping Hu, Qiuhong Ke, Jun Liu.* <br>
@@ -5579,11 +5616,11 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2307.05899)]
 
 **DIFF-NST: Diffusion Interleaving For deFormable Neural Style Transfer** <br>
 *Dan Ruta, Gemma Canet Tarrés, Andrew Gilbert, Eli Shechtman, Nicholas Kolkin, John Collomosse.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2307.04157)] <br>
+ECCV 2024 (VISART Workshop). [[PDF](https://arxiv.org/abs/2307.04157)] <br>
 
 **DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models** <br>
 *Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2307.02421)]
+ICLR 2024. [[PDF](https://arxiv.org/abs/2307.02421)]
 [[Project](https://mc-e.github.io/project/DragonDiffusion/)]
 [[Github-1](https://github.com/MC-E/DragonDiffusion)]
 [[Github-2](https://github.com/stroopwafl/dragon_diffusion)] <br>
@@ -5622,25 +5659,25 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2305.18812)]
 
 **Real-World Image Variation by Aligning Diffusion Inversion Chain** <br>
 *Yuechen Zhang, Jinbo Xing, Eric Lo, Jiaya Jia* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2305.18729)]
+NeurIPS 2023. [[PDF](https://arxiv.org/abs/2305.18729)]
 [[Project](https://rival-diff.github.io)]
 [[Github](https://github.com/JulianJuaner/RIVAL)]
 [[Github](https://github.com/dvlab-research/RIVAL/)] <br>
 
 **Photoswap: Personalized Subject Swapping in Images** <br>
 *Jing Gu, Yilin Wang, Nanxuan Zhao, Tsu-Jui Fu, Wei Xiong, Qing Liu, Zhifei Zhang, He Zhang, Jianming Zhang, HyunJoon Jung, Xin Eric Wang.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2305.18286)]
+NeurIPS 2023. [[PDF](https://arxiv.org/abs/2305.18286)]
 [[Project](https://photoswap.github.io/)]
 [[Github](https://github.com/eric-ai-lab/photoswap)] <br>
 
 **Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation** <br>
 *Lisa Dunlap, Alyssa Umino, Han Zhang, Jiezhi Yang, Joseph E. Gonzalez, Trevor Darrell.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2305.16289)]
+NeurIPS 2023. [[PDF](https://arxiv.org/abs/2305.16289)]
 [[Github](https://github.com/lisadunlap/ALIA)] <br>
 
 **ProSpect: Prompt Spectrum for Attribute-Aware Personalization of Diffusion Models** <br>
 *Yuxin Zhang, Weiming Dong, Fan Tang, Nisha Huang, Haibin Huang, Chongyang Ma, Tong-Yee Lee, Oliver Deussen, Changsheng Xu.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2305.16225)]
+ACM TOG 2023. [[PDF](https://arxiv.org/abs/2305.16225)]
 [[Github](https://github.com/zyxElsa/ProSpect)] <br>
 
 **SAR-to-Optical Image Translation via Thermodynamics-inspired Network** <br>
@@ -5684,7 +5721,7 @@ arXiv 2023. [[PDF](http://arxiv.org/abs/2304.03199v1)] [[PDF(old)](https://arxiv
 
 **StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** <br>
 *Senmao Li, Joost van de Weijer, Taihang Hu, Fahad Shahbaz Khan, Qibin Hou, Yaxing Wang, Jian Yang.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2303.15649)]
+Computational Visual Media 2026. [[PDF](https://arxiv.org/abs/2303.15649)]
 [[Github](https://github.com/sen-mao/StyleDiffusion)] <br>
 
 **Training-free Content Injection using h-space in Diffusion Models** <br>
@@ -5700,12 +5737,12 @@ arXiv 2023. [[PDF](https://arxiv.org/abs/2303.12724)] <br>
 
 **Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer** <br>
 *Serin Yang, Hyunmin Hwang, Jong Chul Ye.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2303.08622)]
+ICCV 2023. [[PDF](https://arxiv.org/abs/2303.08622)]
 [[Github](https://github.com/ouhenio/text-guided-diffusion-style-transfer)] <br>
 
 **DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models** <br>
 *Shidong Cao, Wenhao Chai, Shengyu Hao, Yanting Zhang, Hangyue Chen, Gaoang Wang.* <br>
-arXiv 2023. [[PDF](https://arxiv.org/abs/2302.06826)]
+IEEE TMM 2024. [[PDF](https://arxiv.org/abs/2302.06826)]
 [[Github](https://github.com/Rem105-210/DiffFashion)] <br>
 
 **I$^2$SB: Image-to-Image Schrödinger Bridge** <br>
@@ -5806,9 +5843,23 @@ ICLR 2023. [[PDF](https://arxiv.org/abs/2206.07771)]
 
 ## 2022
 
+**SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations** <br>
+*Chenlin Meng, Yutong He, Yang Song, Jiaming Song, Jiajun Wu, Jun-Yan Zhu, Stefano Ermon.* <br>
+ICLR 2022. [[PDF](https://arxiv.org/abs/2108.01073)] <br>
+
+**Blended Diffusion for Text-driven Editing of Natural Images** <br>
+*Omri Avrahami, Dani Lischinski, Ohad Fried.* <br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2111.14818)]
+[[Proceedings](https://openaccess.thecvf.com/content/CVPR2022/html/Avrahami_Blended_Diffusion_for_Text-Driven_Editing_of_Natural_Images_CVPR_2022_paper.html)] <br>
+
+**RePaint: Inpainting using Denoising Diffusion Probabilistic Models** <br>
+*Andreas Lugmayr, Martin Danelljan, Andres Romero, Fisher Yu, Radu Timofte, Luc Van Gool.* <br>
+CVPR 2022. [[PDF](https://arxiv.org/abs/2201.09865)]
+[[Proceedings](https://openaccess.thecvf.com/content/CVPR2022/html/Lugmayr_RePaint_Inpainting_Using_Denoising_Diffusion_Probabilistic_Models_CVPR_2022_paper.html)] <br>
+
 **DiffFace: Diffusion-based Face Swapping with Facial Guidance** <br>
 *Kihong Kim, Yunho Kim, Seokju Cho, Junyoung Seo, Jisu Nam, Kychul Lee, Seungryong Kim, KwangHee Lee.* <br>
-arXiv 2022. [[PDF](https://arxiv.org/abs/2212.13344)]
+Pattern Recognition 2025. [[PDF](https://arxiv.org/abs/2212.13344)]
 [[Project](https://hxngiee.github.io/DiffFace/)]
 [[Github](https://github.com/hxngiee/DiffFace)] <br>
 
@@ -5819,12 +5870,12 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2212.06458)]
 
 **DiffStyler: Controllable Dual Diffusion for Text-Driven Image Stylization** <br>
 *Nisha Huang, Yuxin Zhang, Fan Tang, Chongyang Ma, Haibin Huang, Yong Zhang Weiming Dong, Changsheng Xu.* <br>
-arXiv 2022. [[PDF](https://arxiv.org/abs/2211.10682)]
+IEEE TNNLS 2025. [[PDF](https://arxiv.org/abs/2211.10682)]
 [[Github](https://github.com/haha-lisa/Diffstyler.git)] <br>
 
 **DiffGAR: Model-Agnostic Restoration from Generative Artifacts Using Image-to-Image Diffusion Models** <br>
 *Yueqin Yin, Lianghua Huang, Yu Liu, Kaiqi Huang.* <br>
-arXiv 2022. [[PDF](https://arxiv.org/abs/2210.08573)] <br>
+CSAI 2022. [[PDF](https://arxiv.org/abs/2210.08573)] <br>
 
 **Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance** <br>
 *Chen Henry Wu, Fernando De la Torre.* <br>
@@ -5843,7 +5894,7 @@ ACMMM 2022. [[PDF](https://arxiv.org/abs/2209.13360)]
 
 **MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation** <br>
 *Junyoung Seo, Gyuseong Lee, Seokju Cho, Jiyoung Lee, Seungryong Kim.* <br>
-arXiv 2022. [[PDF](https://arxiv.org/abs/2209.11047)]
+AAAI 2023. [[PDF](https://arxiv.org/abs/2209.11047)]
 [[Project](https://ku-cvlab.github.io/MIDMs/)]
 [[Github](https://github.com/KU-CVLAB/MIDMs/)] <br>
 
@@ -5853,7 +5904,7 @@ arXiv 2022. [[PDF](https://arxiv.org/abs/2207.09786)] <br>
 
 **Unsupervised Medical Image Translation with Adversarial Diffusion Models** <br>
 *Muzaffer Özbey, Salman UH Dar, Hasan A Bedel, Onat Dalmaz, Şaban Özturk, Alper Güngör, Tolga Çukur.* <br>
-arXiv 2022. [[PDF](https://arxiv.org/abs/2207.08208)]
+IEEE TMI 2023. [[PDF](https://arxiv.org/abs/2207.08208)]
 [[Github](https://github.com/icon-lab/syndiff)] <br>
 
 **EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations** <br>
@@ -5894,7 +5945,7 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2110.02711)]
 **DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model** <br>
 *Boah Kim, Inhwa Han, Jong Chul Ye.* <br>
 **Medical Image Translation**, KAIST <br>
-arXiv 2021. [[PDF](https://arxiv.org/abs/2112.05149)]
+ECCV 2022. [[PDF](https://arxiv.org/abs/2112.05149)]
 [[Github](https://github.com/DiffuseMorph/DiffuseMorph)] <br>
 
 **Diffusion Autoencoders: Toward a Meaningful and Decodable Representation** <br>
