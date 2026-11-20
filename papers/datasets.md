@@ -1,10 +1,17 @@
-[简要版](../README.md#datasets)｜[完整版](../PAPERS.md#datasets)
+[Selected papers](#user-content-selected-view) | [Full bibliography](#user-content-full-view)
 
 # Datasets and benchmarks
 
 **Last updated: 2026-11-20.**
 
-[Datasets](datasets.md)｜[2026](2026.md)｜[2025](2025.md)｜[2024](2024.md)｜[2023](2023.md)｜[2022](2022.md)｜[before 2021](before-2021.md)
+<details name="reading-view" open>
+<summary><strong>Full bibliography</strong></summary>
+
+<a name="full-view" id="user-content-full-view"></a>
+
+[Datasets](datasets.md#user-content-full-view) | [2026](2026.md#user-content-full-view) | [2025](2025.md#user-content-full-view) | [2024](2024.md#user-content-full-view) | [2023](2023.md#user-content-full-view) | [2022](2022.md#user-content-full-view) | [2021 and earlier](before-2021.md#user-content-full-view)
+
+<a name="full-datasets" id="user-content-full-datasets"></a>
 
 ### Common Datasets
 
@@ -118,4 +125,31 @@ Prostate-MRI-US-Biopsy dataset [[Download1](https://www.cancerimagingarchive.net
 - Med-Banana-80K (Findings of EMNLP 2026) [[Paper](https://aclanthology.org/2026.findings-emnlp.1260/)] <br>
 - BRIDGE (2026; dataset release forthcoming) [[Paper](https://arxiv.org/abs/2611.13883)] [[Documentation](https://github.com/JAMielcarz/BRIDGE-dataset)] <br>
 
-[← Back to selected papers](../README.md#datasets) · [Full bibliography](../PAPERS.md#datasets)
+[Selected papers](#user-content-selected-view) | [Back to overview](../PAPERS.md#user-content-full-datasets)
+
+</details>
+
+<details name="reading-view">
+<summary><strong>Selected papers</strong></summary>
+
+<a name="selected-view" id="user-content-selected-view"></a>
+
+[Datasets](datasets.md#user-content-selected-view) | [2026](2026.md#user-content-selected-view) | [2025](2025.md#user-content-selected-view) | [2024](2024.md#user-content-selected-view) | [2023](2023.md#user-content-selected-view) | [2022](2022.md#user-content-selected-view) | [2021 and earlier](before-2021.md#user-content-selected-view)
+
+<a name="selected-datasets" id="user-content-selected-datasets"></a>
+
+### Common Datasets
+
+- [ImageNet (ILSVRC 2012)](https://huggingface.co/datasets/ILSVRC/imagenet-1k) · general images
+- [MS COCO](https://cocodataset.org/#download) · images with captions and object annotations
+- [Cityscapes](https://www.cityscapes-dataset.com/downloads/) · urban scenes with pixel-level labels
+- [FFHQ](https://github.com/NVlabs/ffhq-dataset) · high-resolution face images
+- [LSUN](https://github.com/fyu/lsun) · scene images
+- [WikiArt](https://huggingface.co/datasets/huggan/wikiart) · paintings across artists and styles
+- [Horse2Zebra](https://github.com/junyanz/CycleGAN#datasets) · unpaired horse and zebra images
+- [AFHQv2](https://github.com/NVlabs/stylegan3#preparing-datasets) · high-resolution animal faces
+- [Facades](https://phillipi.github.io/pix2pix/) · paired facade labels and photographs
+
+[Full bibliography](#user-content-full-view) | [Back to overview](../README.md#user-content-selected-datasets)
+
+</details>
