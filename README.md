@@ -2,7 +2,7 @@
 
 # Diffusion for Image-to-Image Translation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wd1511/Awesome-Diffusion-for-Image-Translation)
 
-Selected papers on diffusion and flow models for image translation, editing, and style transfer. **Last updated: 2026-11-20.** For the complete list of papers and their authors, see the [full bibliography](README-detailed.md).
+Selected papers on diffusion and flow models for image translation, editing, and style transfer. **Last updated: 2026-11-22.** For the complete list of papers and their authors, see the [full bibliography](README-detailed.md).
 
 [Datasets](#datasets) | [2026](#2026) | [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021 and earlier](#2021-and-earlier)
 
@@ -24,6 +24,8 @@ Selected papers on diffusion and flow models for image translation, editing, and
 
 ## 2026
 
+- [Fixing the Last Mile: Failure-Aware Image Restoration with Region-Specific Guidance](https://arxiv.org/abs/2611.26456) · arXiv 2026
+- [Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer](https://proceedings.iclr.cc/paper_files/paper/2026/hash/59f278de1619bdb6b53fd04e8e0976e0-Abstract-Conference.html) · ICLR 2026
 - [One-to-Many: Diverse and Bidirectional Image-to-Image Translation via Rectified Flow](https://arxiv.org/abs/2611.26058) · arXiv 2026
 - [Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition](https://openaccess.thecvf.com/content/CVPR2026/html/Yin_Qwen-Image-Layered_Towards_Inherent_Editability_via_Layer_Decomposition_CVPR_2026_paper.html) · CVPR 2026
 - [Learning an Image Editing Model without Image Editing Pairs](https://proceedings.iclr.cc/paper_files/paper/2026/hash/b4995cbd0b7f6a1a366ee65f9c4b02ac-Abstract-Conference.html) · ICLR 2026
@@ -48,6 +50,7 @@ Selected papers on diffusion and flow models for image translation, editing, and
 - [EchoStyle: Unlocking High-Fidelity Video Stylization with Reverse Data Synthesis](https://arxiv.org/abs/2606.25465) · ECCV 2026
 - [iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance](https://arxiv.org/abs/2605.21431) · ICML 2026
 - [Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](https://arxiv.org/abs/2507.01908) · ICML 2026
+- [From Statics to Dynamics: Physics-Aware Image Editing with Latent Transition Priors](https://proceedings.mlr.press/v306/zhao26cf.html) · ICML 2026
 - [MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](https://openaccess.thecvf.com/content/CVPR2026/html/Wan_MotionEdit_Benchmarking_and_Learning_Motion-Centric_Image_Editing_CVPR_2026_paper.html) · CVPR 2026
 - [The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://openaccess.thecvf.com/content/CVPR2026/html/He_The_devil_is_in_the_details_Enhancing_Video_Virtual_Try-On_CVPR_2026_paper.html) · CVPR 2026
 - [TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On](https://arxiv.org/abs/2604.27958) · ECCV 2026
@@ -193,6 +196,7 @@ Selected papers on diffusion and flow models for image translation, editing, and
 
 ## 2023
 
+- [Delta Denoising Score](https://openaccess.thecvf.com/content/ICCV2023/html/Hertz_Delta_Denoising_Score_ICCV_2023_paper.html) · ICCV 2023
 - [InstructPix2Pix: Learning to Follow Image Editing Instructions](https://openaccess.thecvf.com/content/CVPR2023/papers/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.pdf) · CVPR 2023
 - [I²SB: Image-to-Image Schrödinger Bridge](https://proceedings.mlr.press/v202/liu23ai.html) · ICML 2023
 - [Zero-shot Image-to-Image Translation](https://pix2pixzero.github.io/) · SIGGRAPH 2023

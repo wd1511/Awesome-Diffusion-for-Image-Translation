@@ -2,7 +2,7 @@
 
 # Papers from 2021 and earlier
 
-**Last updated: 2026-11-20.**
+**Last updated: 2026-11-22.**
 
 [Datasets](datasets.md) | [2026](2026.md) | [2025](2025.md) | [2024](2024.md) | [2023](2023.md) | [2022](2022.md) | [2021 and earlier](before-2021.md)
 
