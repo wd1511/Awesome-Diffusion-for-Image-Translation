@@ -16,6 +16,16 @@
 
 ## 2026
 
+- [Improving and Expanding Video Editing Capabilities Without Videos](https://arxiv.org/abs/2611.34941) · arXiv 2026
+- [LayoutRecall: Preserving Appearance in Multi-Round 3D Layout-Controlled Image Editing](https://arxiv.org/abs/2611.33885) · arXiv 2026
+- [Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion](https://neurips.cc/virtual/2026/poster/148710) · NeurIPS 2026 (accepted spotlight)
+- [Scale-Separated Conditioning for Style-Encoder-Free Diffusion Stylization](https://doi.org/10.1007/978-981-92-8156-5_27) · ICONIP 2026
+- [MotifFlow: Training-Free, Self-Contained Style Transfer from Color to Motif in Rectified Flow Transformers](https://arxiv.org/abs/2611.33371) · arXiv 2026
+- [Déjà-VAE: Training-Free Consistent Editing with Pseudo-Invertible Encoders and Latent Back-Projection](https://arxiv.org/abs/2611.32501) · arXiv 2026
+- [Diffutoon-2: Toon Shading with Video Diffusion Models](https://arxiv.org/abs/2611.30945) · arXiv 2026
+- [ToWo-VTON: Take-Off Wear-On Virtual Try-On via Topology-aware Decoupling](https://arxiv.org/abs/2611.30203) · arXiv 2026
+- [TOGO: Take One Image Editor, Get One Video Editor for Free](https://arxiv.org/abs/2611.28397) · arXiv 2026
+- [Solar-Conditioned Flow Matching for Multitemporal Aerial Visible-to-Infrared Image Translation](https://arxiv.org/abs/2611.27501) · arXiv 2026
 - [Fixing the Last Mile: Failure-Aware Image Restoration with Region-Specific Guidance](https://arxiv.org/abs/2611.26456) · arXiv 2026
 - [Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer](https://proceedings.iclr.cc/paper_files/paper/2026/hash/59f278de1619bdb6b53fd04e8e0976e0-Abstract-Conference.html) · ICLR 2026
 - [One-to-Many: Diverse and Bidirectional Image-to-Image Translation via Rectified Flow](https://arxiv.org/abs/2611.26058) · arXiv 2026
@@ -42,6 +52,7 @@
 - [EchoStyle: Unlocking High-Fidelity Video Stylization with Reverse Data Synthesis](https://arxiv.org/abs/2606.25465) · ECCV 2026
 - [iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance](https://arxiv.org/abs/2605.21431) · ICML 2026
 - [Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](https://arxiv.org/abs/2507.01908) · ICML 2026
+- [RefineFlow: Estimating the Editing Velocity with Geometric, Trajectory, and Locality Priors for Inversion Free Flow Editing](https://bmvc2026.bmva.org/proceedings/papers/paper_00786/) · BMVC 2026
 - [From Statics to Dynamics: Physics-Aware Image Editing with Latent Transition Priors](https://proceedings.mlr.press/v306/zhao26cf.html) · ICML 2026
 - [MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](https://openaccess.thecvf.com/content/CVPR2026/html/Wan_MotionEdit_Benchmarking_and_Learning_Motion-Centric_Image_Editing_CVPR_2026_paper.html) · CVPR 2026
 - [The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://openaccess.thecvf.com/content/CVPR2026/html/He_The_devil_is_in_the_details_Enhancing_Video_Virtual_Try-On_CVPR_2026_paper.html) · CVPR 2026
@@ -73,6 +84,8 @@
 - [Amortized Guidance for Image Inpainting with Pretrained Diffusion Models](https://arxiv.org/abs/2605.13010) · NeurIPS 2026 (accepted)
 - [EarthBridge: A Solution for 4th Multi-modal Aerial View Image Challenge Translation Track](https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/Chen_EarthBridge_A_Solution_for_4th_Multi-modal_Aerial_View_Image_Challenge_CVPRW_2026_paper.html) · CVPR Workshops (PBVS) 2026
 - [Are Image-to-Video Models Good Zero-Shot Image Editors?](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Are_Image-to-Video_Models_Good_Zero-Shot_Image_Editors_CVPR_2026_paper.html) · CVPR 2026
+- [Noise-Free One-Step LoRA for Task-Driven Image Restoration with Diffusion Priors](https://arxiv.org/abs/2607.25390) · ACCV 2026 (accepted)
+- [Dynamics-Inspired Diffusion for Foreground-Preserving Document Background Editing](https://arxiv.org/abs/2601.21857) · ACCV 2026 (accepted)
 
 ## 2025
 

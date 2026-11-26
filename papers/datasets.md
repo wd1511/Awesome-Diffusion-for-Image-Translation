@@ -2,7 +2,7 @@
 
 # Datasets and benchmarks
 
-**Last updated: 2026-11-22.**
+**Last updated: 2026-11-26.**
 
 [Datasets](datasets.md) | [2026](2026.md) | [2025](2025.md) | [2024](2024.md) | [2023](2023.md) | [2022](2022.md) | [2021 and earlier](before-2021.md)
 
@@ -35,6 +35,8 @@ Prostate-MRI-US-Biopsy dataset [[Download1](https://www.cancerimagingarchive.net
 
 ### Style Transfer and Image Editing Benchmarks
 
+- LayoutLoop (multi-round 3D layout-controlled editing with appearance revisits, 2026) [[Paper](https://arxiv.org/abs/2611.33885)] [[Project](https://ykchizs.github.io/layoutrecall.github.io/)] <br>
+- LayerFolio (100,377 human-reviewed layered scenes for generation and editing, 2026) [[Paper](https://arxiv.org/abs/2611.30067)] [[Data](https://huggingface.co/datasets/FolioWeaver/LayerFolio)] <br>
 - EditSafetyBench (instruction-guided image editing safety, arXiv 2026) [[Paper](https://arxiv.org/abs/2611.26569)] <br>
 - ImgEdit and ImgEdit-Bench (NeurIPS 2025) [[Paper](https://papers.neurips.cc/paper_files/paper/2025/hash/bec783f119b969772c35243b1c801090-Abstract-Datasets_and_Benchmarks_Track.html)] <br>
 - HQ-Edit (ICLR 2025) [[Paper](https://proceedings.iclr.cc/paper_files/paper/2025/hash/b639c526a942618f1dba2b7a5fa0bac0-Abstract-Conference.html)] <br>
@@ -94,6 +96,7 @@ Prostate-MRI-US-Biopsy dataset [[Download1](https://www.cancerimagingarchive.net
 
 ### Video Editing and Stylization Benchmarks
 
+- PhyCoVE (physical counterfactual edits with paired target videos, 2026) [[Paper](https://arxiv.org/abs/2611.29184)] [[Data](https://huggingface.co/datasets/ccmoony/PhyCoVE)] <br>
 - OmniEdit-Bench (2026) [[Paper](https://arxiv.org/abs/2608.05049)] [[Data](https://huggingface.co/datasets/OmniEdit-Bench/OmniEdit-Bench)] <br>
 - MoviEdit-Bench (2026) [[Paper](https://arxiv.org/abs/2611.02737)] [[Project](https://multi-shot-edit.github.io/)] <br>
 - CineCraft-120K (2026) [[Paper](https://arxiv.org/abs/2611.00899)] [[Data](https://huggingface.co/datasets/Anna-SY/CineCraft-120K)] <br>
@@ -102,6 +105,7 @@ Prostate-MRI-US-Biopsy dataset [[Download1](https://www.cancerimagingarchive.net
 
 ### Virtual Try-On Benchmarks
 
+- Body-Fitting DressCode (body-proxy supervision for upper-, lower-, and full-body try-on, 2026) [[Paper](https://arxiv.org/abs/2611.30203)] <br>
 - OpenVTON-Bench (NeurIPS 2026) [[Paper](https://arxiv.org/abs/2601.22725)] [[Github](https://github.com/RenxingIntelligence/OpenVTON-Bench)] <br>
 - TripVVT (ECCV 2026) [[Paper](https://arxiv.org/abs/2604.27958)] <br>
 - MVShoes / MVShoes-clean (NeurIPS 2025) [[Paper](https://arxiv.org/abs/2610.18325)] [[Resource](https://colorful-liyu.github.io/ShoeFit/)] <br>
