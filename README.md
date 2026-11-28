@@ -24,6 +24,7 @@ Selected papers on diffusion and flow models for image translation, editing, and
 
 ## 2026
 
+- [Hint-AUC: Deterministic Region-based Hint Generation for Line Art Colorization Evaluation](https://doi.org/10.1109/TVCG.2026.3738401) · TVCG 2026
 - [Improving and Expanding Video Editing Capabilities Without Videos](https://arxiv.org/abs/2611.34941) · arXiv 2026
 - [LayoutRecall: Preserving Appearance in Multi-Round 3D Layout-Controlled Image Editing](https://arxiv.org/abs/2611.33885) · arXiv 2026
 - [Hybrid Reinforcement Learning for One-step Degraded Infrared and Visible Image Fusion](https://neurips.cc/virtual/2026/poster/148710) · NeurIPS 2026 (accepted spotlight)
